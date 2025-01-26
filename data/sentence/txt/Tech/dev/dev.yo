@@ -1,0 +1,970 @@
+Ọmọ Nàìjíríà kan, Olúṣèyí Akíndèìndé, gba ohun tí kò ní mú ẹlòmíràn lo ohun ìfaṣẹsí Blockchain láì ṣe pé wọ́n gba àṣẹ.
+Ilé-Iṣẹ́ Ajẹmọ́-ìmọ̀-ẹ̀rọ Hyperspace ti gba àṣẹ láti máa jẹ́ kí ẹni tí kò gbà àṣẹ lo ohun èlò ayélujára àti ohun ìfaṣẹsí àká-dátà-àkósódù lọ́pọ̀lọpọ̀.
+Tí a ṣẹ̀dá rẹ̀ láàárín ẹ̀ka ìwádìí àti ìdàgbàsókè ti Ilé-Iṣẹ́ Ìmọ̀-ẹ̀rọ Hyperspace, CipherKEY tap2sign™ MFA tí ó jẹ́ ohun ìdábòbò fún ìran tó ń bọ̀ tí a ṣe fún ìlò ni àgbò pípín agbára tí ó jẹ́ àdámọ́ Blockchain, ẹ̀ka ìjọba àti ti aládàníi tí ó dára fún kíkọ́-kóòdù àti ìrọ̀rùn ti NFC (Near Field Communication ) ìmọ̀ ẹ̀rọ láti pèsè ìdáàbò tí a kò gbọ́rí tí ó lòdì sí ohùn tí a dámọ̀ bí i olè jíjà, àti ìkọlù ìmọ̀ ẹ̀rọ titi àwùjọ.
+Wọ́n ti gbóríyìn fún Dókítà Oluseyi Akindeinde gẹ́gẹ́ bí ẹni tó dá MFA tó gbogun tì, láti rú ọ̀nà ìdábòbò tó nílò jú ọgbọ́n kan ṣoṣo lọ láti dára nínú ipile òmìnira láti fi ontẹ̀ lé ìdánimọ̀ ẹni tó n lò ó.
+Àṣẹ náà láti máa jẹ́ kí ẹnikẹ́ni lo iṣẹ́ ẹni láì jẹ́ wí pé ó gba àṣẹ jẹ́ èyí tí ó dímímọ̀ ní 22 Oṣù Kẹfà, ọdún 2023, ìwé ẹ̀rí àṣẹ náà jẹ́ èyí tí aṣẹ̀ròyìn wa fojú gánní, èyí túmọ̀ sí wí pé wọ́n gbà á ní 28 Oṣù Kẹjọ, ọdún 2023.
+Ní ayé tí gbogbo nnkan n yí padà yìí, ìdábòbò pọn dandan.
+Ní ẹnikọ̀ọ̀kan, okòwò àti orílẹ̀-èdè ń gbèrú látàrí gbígbé ara lé àwọn ìkànnì ayélujára fún gbogbo nǹkan láti ọ̀rọ̀ tí ó jẹmọ́ ilé ìfowópamọ́ sí ṣíṣe ohun tí ó jẹmọ́ orí ẹ̀rọ ayélujára, ìlò fún ètò àbò tí ó dára kò tí ì tó èyí tí ó yẹ kí ó le jù báyìí lọ.
+ìlànà ìdábòbò tó nílò ju ọgbọ́n kan lọ láti dára ni ọ̀nà tí ó máa gbà dá wà nípa àwọn nnkan láti fi òntẹ̀ lé ìdánimọ̀ ẹni tó n lò ó.
+Lónìí, Hyperspace Limited tí jẹ́ kí CipherKEYtap2sign™ di mímọ̀, ìmọ̀ ẹ̀rọ MFA tí ó ń lo anfààní ìdábòbò ti ìjọba àti ti aládàníi, blockchain, Web3 technology, káàdì tí kò ṣe é súnmọ́ ti Near Field Communication (NFC).
+Ó ń lo ohun tí a mọ̀ sí "ṣíṣe àfihàn ohun ìní rẹ " àti ohun kẹrin tí ó wà fún ìfaṣẹsí -"ohun tí ẹ̀ ń ṣe ".
+Nípa cipherkEY tap2sign, nnkan to ní ni káàdì cipherKEY NFC àti nnkan tó ṣe ni ìgbésẹ̀ títẹ káàdì cipherKEY NFC lòdì sí ẹ̀rọ ìbánisọ̀rọ̀ rẹ̀.
+Àkọ́pọ̀ àwọn ohun tí ó dára tí ó ṣe ètò tap2sign™ mú u kí ó ní àbò, ó sì fa àwọn tí ń lò ó mọ́ra.
+Kí a tó gba àṣẹ tí kì í mú ẹlòmíràn lo iṣẹ́ ẹni láì jẹ́ wí pé ó gba àṣẹ, ìmọ̀ ẹ̀rọ Blockchain MFA jẹ́ èyí tí ó wà lábẹ́ àyẹ̀wò àti ìdáranwò tí ó le.
+Ìmísí Dókítà Akíndèìndé fún ṣíṣẹ̀dá MFA wá láti ọ̀dọ̀ àwọn álàgbáwi rẹ̀ fún blockchain tí ìmọ̀ ẹ̀rọ ń wá àwọn ìlànà ìfaṣẹsí rẹ̀.
+"Ayé tí ìdánimọ̀ wa lori ayélujára ti wà lábẹ́ ìdúkokò mọ́, tí ìṣiṣẹ̀ gbé kan yóò mú.
+Òye yé wa lórí àwọn ọjọ́ àìsùn.
+Ìdí dẹ̀ nìyẹn tí a fi lo ọ̀pọ̀lọpọ̀ ọdún láti ṣe cipherKEYtap2sign™ MFA - irin ojútùú rẹ fún ìdúkokò mọ́ ààbò.
+Ẹ wòye odi.
+Odi èyí tí ó ga, ohunkóhun tí a kò fún láṣẹ kó lè kọjá rẹ̀, gba abẹ́ rẹ̀, tàbí inú rẹ̀.
+Odi náà ni cipherKEY tap2sign™ MFA, tí a ti ṣètò láti dáàbò bo ohun tí ó bá ṣe pàtàkì si ìwọ jùlọ-ìdánimọ̀ rẹ, dátà rẹ, ìfòkànbalẹ̀ rẹ ", ló sọ.
+Àwọn ọlọ́ṣà lo ojú-òpó X ti olùdásílẹ̀ Ethereum láti jí $691k
+Ẹ kú déédé ìwòyí ẹ̀yin ènìyàn, àlàyé Techpoint tòní yóò máa wáyé láti ọwọ́ mi, Bólú, olùdarí-ètò yín tí ẹ ti mọ̀ bí ẹni mowó ojú ọjọ́ ń ṣe ìdíwọ́ fún Victoria.
+Ìsubú FTX, tí ó jẹ́ pàsípààrọ̀ owó kíríbò(crypto) bílíọ̀nù lọ́gbọ̀n ọgbọ̀n owó dọ́là ilẹ̀-okèèrè, jẹ́ ọ̀kan nínú ohun tí ó burú jù lọ tií ó láti ṣẹlẹ̀ sí ìsòwò owó-ayélujára(Crypto).
+Ọkùnrin tí ó ṣe okùnfà ìsubú FTX— Sam Bankman-Fried — fẹ́ jáde kúrò lẹ́wọ̀n nítorí pé ó ṣọ pé ìtàkùn ayélujára ní olú-ìlú ni kò dára tó.
+Àwọn agbẹjọ́rò rẹ̀ ṣàlàyé pé ó nílò ìtúsílẹ̀ sáájú ìwádìí nítorí pé wọ́n nílò ìtàkùn ayélujárá tí ó jáfáfá láti ṣètò ààbò tí ó dárá fún-un.
+Yípadà pwé ó ti ṣe ìlérí láti ní àǹfààní sí ẹ̀rọ-ayárabíàsá ní gbogbo ọjọ́ láti aago mẹ́jọ òwúrọ̀ sí méje alẹ́, ọkùnrin kan tí ó ṣe okòòwò àti ṣíṣe okùnfa bí owó àwọn oníbàárà ṣe pàdánù èyí tí ó tó ọ̀kẹ́-àìmọye bílíọ̀nú dọ́là.
+Kò burú, lónìí a ó máa jíròrò:
+Bí àwọn ọlọ́sà ṣe jí $691k pẹ̀lú ojú-òpó X ti olùdásílẹ̀ Ethereum.
+Ẹ̀rọ Interswitch báyìí ti ń bá ẹ̀rọ Google Pay ṣiṣẹ́.
+Flutterwave fẹ lati yanju awọn iṣoro FX ti Nigeria.
+Àwọn ọlọ́sà jí $691k pẹ̀lú ojú òpó X ti olùdásílẹ̀ Ethereum
+Vitalik Buterin, olùdásílẹ̀ blockchain Network, Ethereum jẹ́ olùfaragbá ìjàm̀bá ayélujára èyí tí ó sokùnfa jíjí owó dọ́là $ 691, 000.
+Àwọn ọlọ́sà tí ní àǹfààní sí ojú-òpó X rẹ̀ (Twitter tẹ́lẹ̀) ní Sátidé, oṣù kẹsàn-án ọdún 2023, tí wọ́n sì fi ojú-òpó aṣebi ránṣẹ́ èyí àwọn olólùfẹ́ mílíọ̀nù mẹ́sàn-án àti ìdá mẹ́sàn-án rí.
+Ó ṣeni láànú pé ọ̀pọ̀ ènìyàn ni ó tọwọ́ bọ ìkànì tí ó dẹmọ bí ẹ̀rọ aṣèdámọ̀-owó.
+Nigba ti wọn ba so awọn apamọwọ wọn pọ si mint NFT, iwọntunwọnsi crypto wọn ti bajẹ.
+Eyi kii ṣe igba akọkọ ti awọn olosa nlo awọn ojú-òpó X olokiki lati ji crypto.
+Ni ọdún 2020, ọmọ ọdún 18 ní àǹfàaní láti dorí ojú-òpó X àwọn olókìíkí èèyàn bí i Alákòóso Amẹ́ríkà tẹ́lẹ̀, Barrack Obama, aláṣẹ àti olùdarí (CEO) Tesla, Elon Musk àti, Olùdásílẹ̀ Microsoft, Bill Gates rú.
+Ọlọ́sà náà bèèrè owó láti ọ̀dọ̀ gbogbo ènìyàn, ó ṣe ìlérí láti ṣe ìlọ́po méjì ohunkóhun tí wọ́n fi ránṣẹ́.
+Àmọ́, wọ́n mú un, wọ́n sì rán an lọ sẹ́wọ̀n ọdún mẹ́ta.
+Interswitch báyìí ń ṣe àtìlẹyìn Google Pay
+Google Pay jẹ̀ àṣàyàn ìsanwó ni báyìí lórí Ọ̀nà Ìsanwó Interswitch (IPG).
+Interswitch ṣe ìkéde náà lónìí, 11 Oṣù Kẹsàn-án, Ọdún 2023, pé àwọn ìṣòwò àti àwọn ènìyàn kọ̀ọ̀kan ní Nàìjíríà yóò ní àǹfààní láti “ní ìrọ̀rùn àti ààbò tí àwọn ìsanwó tí kò ní olùbásọ̀rọ̀ àti ibi ìpamọ́ oní-nọ́ńbà.”
+Kí ni eléyìí túmọ̀ sí?
+Èyí túmọ̀ sí pé o kò ní láti lọ nípasẹ̀ wàhálà ti títẹ àwọn àlàyé káàdì ATM rẹ nígbàkúùgbà tí o bá fẹ́ sanwó orí ayélujára nípasẹ̀ IPG.
+Báwo ni o ṣe ń ṣiṣẹ́?
+Google Pay pilẹ̀ máa ń ṣàfipamọ́ àwọn àlàyé káàdì rẹ láti pèsè ọ̀nà tí ó rọrùn fún ọ láti jẹ́rìí àwọn ìṣòwò orí ayélujára.
+Fún àpẹẹrẹ, mo tin í àlàyé káàdì mi tẹ́lẹ̀ lórí Google Pay, nítorí náà nígbàkúùgbà tí mo nílò láti sanwó fún ìbọn tuntun kan látàrí ìpè sí ojúṣe, mo kàn máa jẹ́rìí sí ìsanwó pẹ̀lú ìtẹ̀ka mi ni.
+Ó máa ń gbèrú sí i.
+Ní àwọn orílẹ̀-èdè kan, o lè tẹ fóònù rẹ nírọ̀rùn (èyí tí ó ní àwọn Wọ́lẹ̀tì Google) tàbí ohun-èlò tó ṣe é wọ̀ yàtọ̀ sí ìbáraẹnisọ̀rọ̀ asúnmọ́-ibùdó (NFC) PoS láti sanwó fún àwọn nǹkan.
+Interswitch kì í ṣe ilé-iṣẹ́ àkọ́kọ́ láti ṣe èyí.
+Paystack tún ṣàfihàn ìsanwó pẹ̀lú Apple Pay padà ní 2021, èyí tí ń gba àwọn olùmúlò láàyè láti sanwó ní ìrọ̀rùn pẹ̀lú Ìdánimọ̀ Aláwò-ojú.
+Ojútùú Flutterwave sí àwọn ìṣòro FX ti Nàìjíríà.
+Flutterwave ti ṣe ìfilọ́lẹ̀ Swap, ìdáhùn rẹ̀ sí àwọn ìṣòro FX ti Nàìjíríà.
+A ṣe ìfilọ́lẹ̀ swap ni 4 Oṣù Kẹsàn-án, ọdún 2023.
+Báńkì àpapọ̀ orílẹ̀-èdè Nàìjíríà ń ṣe àtìlẹyìn fún gẹ́gẹ́ bí ìkànì àgbáté níbi tí àwọn ọmọ orílẹ̀-èdè Nàìjíríà yóò ti máa ní àǹfàaní sí ọwọ́ ilẹ̀ òkèèrè ní òsùwọ̀n tí ó gbẹ́nulérawọn.
+Flutterwave ṣe ìfilọ́lẹ̀ ọjà náà ní àjọṣepọ̀ pẹ̀lú ilé-ìfowópamọ́ Wema àti Àjọ abániṣẹ́wó tí à ń pè ní Kadavra.
+Àwọn alábàáṣiṣẹ́pọ̀ wọ̀nyí yóò pèsè ilé-iṣẹ́ ìmọ̀-ẹ̀rọ tí ó ní agbára ìṣeé-sọ-dowó.
+Àjọ Swap yóò tún bẹ̀rẹ̀ sí fi káàdì léde èyí tí àwọn ọmọ orílẹ̀-èdè Nàìjíríà lè lọ láti ṣáré ní àǹfààní kíákíá sí ààyè rírìnrìn àjò àti ìyọ̀ǹda ìrìn àjọ ajẹmọ́ okòòwò.
+Ó sọ pé ó ń gbèrò láti pín àwọn káàdì tó tó mílíọ́nù 10 káàkiri fún àwọn ọmọ Nàìjíríà tí ó bẹ̀rẹ̀ ní oṣù Kẹwàá ọdún yìí.
+Platnova kéde ìbáṣepọ̀ olófin pẹ̀lú àwọn agbẹjọ́rò ìgbàlódé-gbogbo láti mú òfin lágbára si.
+Platnova, ilé-iṣẹ́ fintech aṣáájú-ọnà tí ń ṣe ìrọ̀rùn òkèèrè àti àwọn ìfi-owó-ránṣẹ́, fi ìdùnnú kéde ìfọwọ́sowọ́pọ̀ pàtàkì pẹ̀lú àwọn agbẹjọ́rò orí-afẹ́fẹ́, ilé-iṣẹ́ òfin tí ó yàtọ̀ nínú ọ̀rọ̀ ogún àti ìmọ̀ ẹ̀rọ èyí tí a gbé kalẹ̀ fún ìmọ̀ ọrọ̀-ajé àti ohun tí ó ń lọ ní àgbáyé.
+Àjọṣepọ̀ ìlànà yìí ti múra láti fi agbára mú àwọn ìpìlẹ̀ òfin Platnova àti ìmúdára ìyàsọ́tọ̀ rẹ̀ sí ìbámu ìlànà, ààbò ohun-ìní, àti àṣírí dátà tó lágbára.
+Àwọn agbẹjọ́rọ̀ orí-afẹ́fẹ́ tí a mọ̀ gẹ́gẹ́ bí aṣojú tí ó gbàṣẹgbọ̀ǹtẹ̀ fún ilé-iṣẹ́ àjọ asọhundítẹni(Trademark) àjọ aṣàyẹ̀wò ìtọ́sí, àti ẹ̀ka ìforúkọsílẹ̀ àwọn àṣà, Ẹka òfin ìsòwò, ẹ̀ka tí ó ń mójú tó ilé-iṣẹ́, ìsòwò, àti ìdókòwò ní Àbújá, tí ó jẹ́ olú-ìlú, orílẹ̀-èdè Nàìjíríà, àti ìgbìmọ̀ abániforúkọ iléeṣẹ́ sílẹ̀ (CAC), tẹ́ pẹpẹ ọrọ̀ òfin síwájú.
+Àwọn iṣẹ́ wọn yóò jẹ́ ohun-èlò ìdarí Platnova nípasẹ̀ àwọn ìnira tí ìlànà àti àwọn ọ̀ràn ìbámu, pàtàkì sí àlà-ilẹ̀ agbára ilé-iṣẹ́ fintech.
+ìdí pàtàkì tí ìfọwọ́sowọ́pọ̀ yìí fi wáyé ni fún ààbò àti ṣíṣàmúlò ìlànà ẹ̀rọ̀ àti ọgbọ́n inú ẹni.
+Àwọn adájọ́ orí-afẹ́fẹ́ máa pèsè àtilẹyìn tí kò níye lórí fún Platnova nípa fífi orúkọ sílẹ̀ àti ṣíṣe ìrónilágbára fún onírúurú ìgbàṣẹ-gbòhùntẹ̀ ogbọ́n inú-ẹni pẹ̀lú aṣẹ èmi ni mo ní(copyright) àgbékalẹ̀ ilééṣẹ́ ofin ìṣàyẹ̀wò, iṣẹ́ fífún ní ní òǹtẹ̀, àti àṣẹ ìgbàṣẹgbòhùntẹ̀.
+Ìgbéṣẹ̀ ìpinu yìí ń ṣe ìdánilójú pé àwọn ojútùú sí àwọn ọgbọ́n-inú àti àrà-ọ̀tun ti Platnova wà ní ìdáàbòbò lọ́wọ́ àjílò àti pé ó ṣetán fún ìdàgbàsókè nínú ìgbọ́ni ìlànà ìmọ̀-ajẹmọ́rọ̀ ajé.
+Nígbà tí ó ń sọ̀rọ̀ nípa àjọṣepọ̀, alákoso Platnova, Benjamin Oyemolan ṣe àpéjúwe àjọṣepọ̀ náà gẹ́gẹ́ bí "dídá àṣà dúró".
+“Ní àkókò tí ó ní ìjúwe nípasẹ̀ àwọn ìfiyèsí tí ó pọ̀ sí agbègbè ààbò dátà àti àṣírí, àjọṣepọ̀ pẹ̀lú àwọn agbẹjọ́rò orí-afẹ́fẹ́ tẹnumọ́ ìfaramọ́ àìlágbára Platnova sí ààbò àwọn ohun-ìní dátà.
+Ó kádìí ọ̀rọ̀ nílẹ̀ báyìí pé "Ìfọwọ́sowọ́pọ̀ yìí fi ìdí Platnova múlẹ̀ gẹ́gẹ́ bí olùsáàjú ní títọ́jú ààbò dátà líle àti àwọn iṣẹ́ àṣírí, ìmúdára ìgbẹ́kẹ̀lé síwájú pẹ̀lú àwọn olùmúlò tí ó ní iye lórí’’.
+Platnova àti agbẹjọ́rò afẹ́fẹ́ múra sí ọ̀rọ̀ níní àjọṣepọ̀ nípa pípa agbára wọn pọ̀ láti fí ṣẹ̀dà ohun ọ̀tun ní ìbámu pẹ̀lú ẹ̀ka àti ìgbọ́ni ìmọ̀-ẹ̀rọ ajẹ́mọ́rọ̀-ajé.
+Fún àwọn ìbéèrè díẹ̀ sí àti ṣe àlàyé síwájú sí I nipa Platnova, jọ̀wọ́ kàn sí wa ní Support@platnova.com
+Nípa Platnova:
+A pèsè ọ̀pọ̀lọpọ̀ àwọn ọ̀nà-àbáyọ ìsanwó sí àwọn ẹnì-kọ̀ọ̀kan àti àwọn ìṣòwò ní káríayé.
+Lára àwọn iṣẹ́ wa ni: fífi owó ránṣẹ́ àti gbígbowó káàkiri àgbáyé, ṣíṣẹ̀dá káàdì ayélujára àti fífi owó sínú rẹ̀, bíbánisánwó níná, káàdì-ajẹmẹ́bùn, owó-ìpè, bíbáni ra dátà.
+Mọ Olúmìdé Olúsànyà, dókítà onímọ̀ ìṣègùn tẹ́lẹ rí tí ó fi iṣẹ́ tí ó ń ṣe ṣílẹ̀ látí lè ta oúnjẹ lórí ayélujára.
+Olumide Olusanya ni Olu-ọba 'Glootian' ni Gloo.ng, Olùdásílẹ̀ ọjà oúnjẹ ayélujára tí ó kalẹ̀ sí ìlú Èkó tàbí Sparta, ó wà lọ́wọ́ bí ó bí ó bá ṣe wù ọ́ láti ri.
+Ó sòro kí o tó lè pàdánù àwọn ìlànà ìtọ́kasí Sparta tí a gbé yípo ọ́fíìsì Sparta tí ó wà ní Lẹ́kki ní ìlú Èkó.
+Àkọsílẹ̀ kan sọ pé:
+Yín wá sílẹ̀; fojú fo ariwo.
+Máa pòhùgbẹ; kí ó sì ní ìgbájúmọ́.
+Túbọ̀ máá gbé ọjà wọlé jáde.
+Èyí ni SPARTA!!!
+Wíwòye sí jẹ́ ẹ̀rí ọ̀nà tí Olúsàǹyà gbà máa tukọ̀ ilé-iṣẹ́ rẹ̀--Gloo.ng jẹ́ èèkàn kùùgbù nínú okòòwò orí àtẹ ayélujára tí ó ṣe é ṣe kí o má à tí ì gbọ́ rí.
+Olúsànyà sọ fún wa pé àwọn kìí pariwo, àti pé ohun tí àwọn máa ń gbájúmọ́ jù lọ ni ọjà àti àwọn oníbàárà.
+Ohun tí ó tẹ̀le ní ìtàn ìyàlẹ́nú bí Olúsànyà ṣe fí àlá rẹ̀ nínú ìmọ̀ ìṣègùn sílẹ̀ tí láti di ẹni àkọ́kọ́ tàbí bóyá ẹni àkọ́kọ́ tí ó kọ́kọ́ di olùdásílẹ̀ okòwò orí-àtẹ ayélujára.
+Múyìwá Mátùlúkò ti Techpoint Adúláwọ̀ (MM): Báwo ni dókítà oníṣègùn akọ́ṣẹ́mọṣẹ́ ṣe padà bá ara rẹ̀ ní ìdí ìmọ̀-ẹ̀rọ?
+Olumide "D.O" Olusanya ti ìtàkùn Gloo.ng(DO): Mo jáde ní ẹ̀ka tí wọ́n ti ń kọ́ni ní ìmọ̀ ìṣègùn òyìnbó ní ilé-ẹ̀kọ́ gíga fásitì Èkó ní ọdún 1993.
+N ò fẹ́ kẹ́kọ̀ọ́ nípa ìmọ̀ ìṣègùn òyìnbó - baba mi ni ó fi agídí mú mi.
+Nítorí náà ni mo ṣé fẹ́ máa ń ṣe ohun tíó ní ṣe pẹ̀lú ohun tí mo fẹ́ràn jù èyí tí ó jẹ́ ìmọ̀ ẹ̀rọ.
+Mo ti ṣiṣẹ́ gẹ́gẹ́ bí dọ́kítà alárùn ọpọlọ ní ilé-ìwòsàn ìtọ́jú pàjáwìrì ní ìpínlẹ̀ Èkó.
+Nígbà kan rí Ọ̀kan nínú àwọn ọmọ tí olùdásílẹ̀ Glendora Bookshop, wá sí ìlé ìwòsàn lati bí ọmọ rẹ̀.
+Mo ri pé ó nímọ̀ nípa ìmọ̀ ẹ̀rọ, nítorí náà mo bí léèrè bóyá mo lè wá sí ọ̀dọ̀ rẹ̀ láti wá kó iṣẹ́ nígbà tí mí ò bá ṣe nǹkankan.
+Níbẹ̀ ni mo ti ní ìfaramọlé pẹ̀lú àwọn èròǹgbà ìpìlẹ̀ àtòjọ iṣẹ́ tí ó farakọ́ra.
+Microsoft Access ti sí suílẹ̀ fún mi nígbà náà ṣùgbọ́n mo mọ̀ pé Oracle ni ó dárá jù lọ, mo pinu pé mó fẹ́ láti jẹ́ alákoso ọpọlọ ibi tí Oracle fi ń ṣe ọgbọ́n.
+Mo ra ìwé tí mo sì kàá fúnra mi.
+Mo yege pátápátá nínú ìdánwò oní ìwé-ẹ̀rí mi.
+Ìyẹn jẹ́ ọ̀kan lára ẹ̀bùn tí mo ní- Kò sí ohun tí mi ò lè kà, i9`mọ̀ kí ìmọ̀ tí wọ́n bá kọ sínú ìwé pẹ̀lú ìwọ̀nba àgbọ́yé tí mo bá rí nínú rẹ̀ yóò dára ju tí ẹni tí ó kọ ìwé lọ.
+Lẹ́yìn ìgbà tí mo gba ìwé ẹ̀rí mi tán, mo ní ọ̀rẹ́ kan tí orúkọ rẹ̀ ń jẹ́ Dr. Ojo tí ó wà ní ẹ̀ka ìmọ̀ ṣáyẹ́ǹsì kọ̀m̀pútà ní ilé-ẹ̀kọ́ gíga fásitì Èkó láti ṣe alátọ̀nà mi sí ìfojúṣíṣẹ́ aláìlówó nínú ọ̀kan lárá ilé-iṣẹ́ tí ó jẹ́ ọ̀gá jù lọ nínú ìmọ̀ Oracle ní orílẹ̀-èdè nígbà náà.
+Báyìí ni mo ṣe di dókítà lọ́wọ́ alẹ́ ti mo sì di alákoso ọpọlọ Oracle lóju-ọjọ́.
+Èyí wáyé ní nǹkan bí ọdún 2001.
+À ń ṣiṣẹ́ àkànṣe pẹ̀lú ilé-ìfowópamọ́ First Bank nígbà náà èyí sì fún mi ní àǹfààní láti tọwọ́ bọ àt`ojọ ìpìlẹ̀ ojú ayé ní ti sàn-án sàn-án.
+Báyìí ni mo ṣe wọnú iṣẹ́ ìmọ̀-ẹ̀rọ.
+MM: Ní dèédé ipò wo gan-an ni o ti pinu ó lè fi iṣẹ́ dókítà sílẹ̀ látí lé àlá rẹ̀ fún iṣẹ́ ìmọ̀-ẹ̀rọ?
+DO: Mo pàdé abẹnugan ilé ìgbìmọ̀ asòfin Ayọ̀ Aríṣe — ọmọ ilé-ìgbìmọ̀ asòfin ni ó jẹ́ nígbà yẹn — ó wá láti ìlú Amẹ́ríkà láti ṣe àwárí ilé-iṣẹ́ Cards Technology Limited (CTL).
+Kò sí àwọn káàdì ní Nàìjíríà ni ìgbà yẹ̀n àyàfi ValuCard.
+Àwọn nǹkan bí 10, 000 wọn ni ó wà nígbà náà.
+Morántí pé ẹ̀rọ-ìgbówó (ATM) 2 ni ó wà tí ó jẹ́ ti Societe Genrale Bank Nigeria, ní òpópónà fífẹ̀ gbánlasa.
+Ọmọ ilé-ìgbìmọ̀ asòfin Aríṣe ṣàgbékalẹ̀ àfojúsùn rẹ̀ nípa ṣísàn owó pẹ̀lú ìmọ̀-ẹ̀rọ fún mi tí mo sì ń ṣiṣẹ́ tọ̀ ọ́.
+Mo rò ó lọ́kàn pé ohun tí mo lè fara jìn sí ni nítorí pé mo mọ̀ pé màá padà fi iṣẹ́ ìmọ̀-ìṣègún òyínbó sílẹ̀.
+Ìgbéṣẹ̀ náà wáyé lẹ́yìn ìgbà tí mo yanjú ìṣòro tí ó ti ń kojú fún ọdún kan.
+Abẹnugan ilé-ìgbìmọ̀ asòfin Aríṣe tí mu dámi lójú pé máà rí iṣẹ́ tí mo bá ti bá òun yanjú ìṣòro náà.
+Ẹ má gbàgbé pé mo sì ń ṣe dókítà lálẹ́ tí mo sì ń ṣiṣẹ́ mí gẹ́gẹ́ bí alákoso ìpìlẹ̀ dátà lójú ọjọ́.
+Àkókò tí mo ní ṣílẹ̀ ni òru.
+Âkókò tí mi ò bá ṣiṣẹ́ lálẹ́ ni mo máa ń lò.
+Nígbà tí yóò fi dé padà ní òwúrọ̀ àti ètò náà ti gbéra ṣọ.
+Báyìí ni mo ṣe darapọ̀ mọ́ CTL.
+A jẹ́ ìgbìmọ̀ ẹlẹ́ni 5 ṣùgbọ́n pé èmi nìkan ni mo mọ̀ nípa ìmọ̀-ẹ̀rọ nígbà náà, ni mo bá kúkú jẹ́ CTO.
+Ohun àkọ́kọ́ tí a kọ́kọ́ ṣe ni pé a gba ìwé ẹ̀rí Mastercard wa, láti ìpaṣẹ̀ kíka àwọn ìwé àlàkalẹ̀.
+Nígbà náà ni mo tó ó mọ̀ pé ìsanwó wọlé ń bọ̀ wá di ohun ńlá ní orílẹ̀-èdè Nàìjíríà.
+Láàrin ọdún kan, a ti wá ojútùú sí ìsòro ẹ̀rọ-ìgbowósanwó (POS) ní orílẹ̀-èdè Nàìjíríà Pẹ̀lú iléèfowópamọ́ First Bank.
+Láàrin ọdún mìíràn a tún ṣàgbéjáde kàádì ìsanwó àgbáyé àkọ́kọ́ ní ìwọ̀-oòrùn adúláwọ̀ - Káàdì ìsanwó ilé-ìfowópamọ́ Ecobank.
+Interswitch ṣẹ̀ṣẹ̀ ń bẹ̀rẹ̀ ní àkókò yìí ni, ṣùgbọ́n pẹ̀lú àfojú lórí iṣẹ́ abẹ́lé.
+CTL ni ibi tí mo tí gbẹ́ ara mi ní eyín.
+Láàrin ọdún 4 sí 5, mo di alákoso ní CTL.
+Mo wà níbẹ̀ fún ọdún 7.
+Ṣùgbọ́n èmi àti olùdásílẹ̀ ní aáwọ̀ díbẹ̀, fún ìdí èyí mo fi iṣẹ́ sílẹ̀ gẹ́gẹ́ bí alákoso tí mo sì lọ darapọ̀ mọ́ Tony Elumelu ní ilé-ìfowópamọ́ UBA, ní ibi tí mo ti rànwọ́n lọ́wọ́ láti mú àyípadà bá àwọn káàdì okòòwò wọn.
+MM: àti pé mo lérò pé ibi tí èròǹgbà fún Gloo.ng ti wá nìyẹn?
+DO: Lẹ́yìn ọdún 6 kí ó tó kan ilé-ìfowópamọ́ UBA, mo ti kà ìtàn nípa Warren Buffett, "Ìpìlẹ̀ àwọn olókoòwò ọmọ ilẹ̀ Amẹ́ríkàti".
+Ìwé náà fún mi ní ìwúrí tó bẹ́ẹ̀ gẹ́ tí mo fi pinu láti tán sínú ìgbọ́ni ìdókòwò.
+Fun ìdí èyí gbogbo ìgbà tí mo bá ti ní àkókò tí mi ò ṣe nǹkankan nílé mo máa ń kàwé tí mo sì tún máa ń ṣe V-Squared Capital, okòòwò ìkọ̀kọ̀ mi lẹ́gbẹ̀ẹ́ kejì.
+Nígbà tí máà fi pinu láti fi ilé-ìfowópamọ́ UBA sílẹ̀, V-Squared Capital ti ń fún mi ní ìlọpo méjì owó tí mò ń gbà ní UBA.
+Èyí fún mi ní ìbàlẹ̀ ọkàn tó tó láti fi ilé-ìfowópamọ́ UBA sílẹ̀.
+Mo ti wà ní ọmọ ọdún 39 nígbà tí mo pinu láti fẹ̀yìntì.
+Mo lérò pé mi ò ní ṣiṣẹ́ kankan mọ́ láyé mi.
+Mo kàn máa ń fi ọ̀kàn sí àbọ̀ ọdọ̀ọ̀dún tí nínú ilé è mi tí mo sìmáa ń kópa nínú ètò ọrọ̀ ajé.
+Láti ìbẹ̀rẹ̀ ọdún 2012 èyí ni nǹkan tí mò ń ṣe títí di òní.
+Èyí fún mi ní àǹfààní fún ìgbà àkọ́kọ́ láti gbọ́ àgbọ́yé bí ìyàwó mi ṣe gbé ìgbé ayé rẹ̀ ní pàtó.
+Ní àkókò ìgbà náà tí mo jẹ́ abẹnugan fún ilé-iṣẹ́, màá jáde kúrọ̀ nílé ní òwúrọ̀ kùtù tí màá sì wọlé lálẹ́.
+Ìyàwó mi jẹ́ olùbádámọ̀ràn SAP nítorí náà ni ó ṣe máa n´ lọ sí ọ̀pọ̀lọpọ̀ ìrìn àjò.
+Mi ò ní iṣẹ́ kankan tí mò ń ṣe nínú títọ́jú ilé, fún ìdí èyí, nígbàkugbà tí ó bá ti wà nílé ti wa ni o ni iṣẹ ti o le ṣe ni ilé, dípò kí ó jókòó sílé kí ó máa jẹ ìgbádùn pẹ̀lú àwọn ẹbí, a máa lo àkókò ìsìnmi rẹ̀ láti tún inú ilé ṣe.
+Pàápàá jù lọ kíkó àwọn oúnjẹ́ ayélujára jọ láti ilé ìtajà ìgbàlódé, dídáná oúnjẹ, àti àwọn oúnjẹ oníyìnyín lára.
+Mi ò lérò pé ó yẹ kí àwọn ènìyàn máa gbé ìgbé ayé wọn báyìí.
+Ọ̀nà kan gbọ́dọ̀ wà tí ìmọ̀-ẹ̀rọ yóò fi mú èyí rọrùn.
+Mo kó gbogbo àwọn àga ìjókòó tí ó wà nínú yààrá jáde tí mo sì pe gbẹ́nàgbẹ́nà láti wá bá mi kan pẹpẹ tí mo sì lọ sí ọjà Oke Arin láti ra àwọn ohun èlò tí màá kó sínú pẹpẹ náà.
+Lẹ́yìn náà ni mo ṣe ìtàkùn ayélujára kékeré kan.
+Ìtàkùn ayélujára wa gbéra sọ ní 30th, oṣù kẹfà, ọdún 2012.
+Ọjọ́ kejì tí ó jẹ́ 1 Oṣù kẹfà ni wọ́n gbé Konga.com jáde.
+Sabunta ati Kasuwa (tí wọ́n ti parapọ̀ di Jumia.com.ng) ni wọ́n gbé jáde ní nǹkan bí àkókò yẹn.
+Àgbègbè Magodo níbi tí a wà nìkan ni a máa ń ṣe oúnjẹ fún nígbà náà.
+Èmi ni mo máa ń lọ gbé, tò ó pamọ́ fi jíṣẹ́ fúnra ara mi.
+Ìyàwó mi máa ń ṣèrànwọ́ nígbà tí kò bá ṣe nǹkankan, bákan náà ni mo ní ẹnìkan tí ó darapọ̀ mọ́ wa nígbà tí ó yá ṣùgbọ́n ó padà lọ lẹ́yìn oṣù méjì.
+Síbẹ̀síbẹ̀, àbọ̀ tí à ń gbà jẹ́ èyí tí ó wúni lórí.
+Kíkẹ́kọ̀ọ́ àti kíkàwé túbọ̀ máa ń jẹ́ kí a mọ̀ ohun tí ó ń lọwọ́ nípa okòòwò orí ayélujára, mo mọ̀ pé ó yẹ kí ìgbà kan wà tí ó dára jù látibẹ̀rẹ̀ okòòwò ayélujára ju ti ìgbà náà lọ.
+Mo ta ọ̀pọ̀lọpọ̀ ogún àti ohun-ìní fún V-Squared Capital.
+Ń ṣe ni ó dàbí irúgbìn tí ó ń bomi rins Gloo.ng.
+Bí nǹkan ṣe bẹ̀rẹ̀ sí ní gbìnàyá sí bẹ́ẹ̀ ni a kó lọ sí ọ́fíìsì wa ní Lekki.
+A gbàgbọ́ pé ibẹ̀ yẹn jẹ́ ààrin gùngùn ọrọ̀ ajé.
+Èyí ṣẹlẹ̀ ní oṣù kẹsàn-án ọdún 2012.
+A ní awakọ̀ 2 tí ó darapọ̀ mọ́ wa.
+Lẹ́yìn náà ni mo sọ fún ìyàwó mi kí ó fi iṣẹ́ sílẹ̀ kí ó darapọ̀ mọ́ mi tí ó sì gbà sí mi lẹ́nu.
+Èmi àti ìyàwó mi ni a jọ́ ń gbe tí à ń gbà á nígbà tí awakọ̀ máa ń lọ fi jíṣẹ́.
+MM: Àti pé báwo ní ó ṣé ronú kan orúkọ Gloo?
+DO: Sí ìyàlẹ́nu, a bẹ̀rẹ̀ gẹ́gẹ́ bí i buycommonthings.com.
+A fẹ́ orúkọ tí àwọn ènìyàn yóò rí tí wọn yóò lè tètè dábàá ohun tí a lè máa tà.
+Nígbà tí ó yá, láìpẹ́ ó bẹ̀rẹ̀ sí ní hàn kedere, a yí orúkọ wa padà.
+Pàápàa jù lọ lẹ́yìn tí a fojú kan VC tó fẹ́ ṣẹrù kalẹ̀ sóríléèdè Nàìjíríà.
+Ó bẹ̀rẹ̀ síní tẹnu mọ́ yíyí orúkọ náà padà.
+Ni owurọ ọjọ kan, lẹ́yìn ìgbà tí a pàdé VC, Mo n wẹ̀ lọ́wọ́ nígbà tí wọ́n fi hàn mí pé Glue ni ó yẹ kí orúkọ yẹ kí ó máa jẹ́.
+Ọ̀kan nínú àwọn nǹkan tí a ti rí dáadáa nínú okòòwò yìí láti ìgbà tí a ti bẹ̀rẹ̀ fún bí oṣù mẹ́sàn-án nígbà náà ni péa ní ọ̀pọ̀lọpọ̀ àwọn oníbàárà tí ó ń padà wá nítorí pé bóyá a ní ipa ajọṣepọ̀ tí ó gbópọn lórí wọn.
+Ṣùgbọ́n kò ní dára tó bí a bá sọ ojú-òpó ìtàkùn ayélujára tí àwọn ènìyàn ti ń ra nǹkan tí wọ́n ń lò ní "Glue" kò tilẹ̀ dára tó.
+Nítorí náà a rò pé kí a lo orúkọ tí dídún wọn rí bákan náà — Gloo.
+80% owó tí ó ń wọlé fún wa wá láti inú àṣetúnṣe òwò.
+MM: Báwo ní Gloo ṣe dàgbà bí ọdún ṣe ń gorí ọdún, bẹ̀rẹ̀ láti ibi tí ẹ tí ń ta oúnjẹ́ fún àwọn ènìyàn ní?
+DO: Ìpinu wa láti kúrò ní agbègbè kéréje tí ó wà ní àyíká Magodo lọ sí Lekki ni ó ní ṣe pẹ̀lú ìwòye pé Lekki agbègbè tí ó lókìkí tí ó tóbi jùlọ ní orílẹ̀-èdè.
+Ó tún ọ̀kan lára ibi tí owó ń gbà wọlé jù lọ.
+Èyí tí ó jẹ́ ibi tí ó dára jù lọ fún ibi ìtajà wa.
+Lẹ́yìn náà ni a tàn láti agbègbè olówó tí ó dára jù ní Lekki káàkiri yíká tìbú-tòòró agbègbè Lekki.
+Lẹ́yìn náà ni a tún kó lọ sí V/I, Ikoyi, gbogbo Lagos Island àti báyìí gbogbo Èkó, àyàfi Badagry àti Ẹ̀pẹ́, fún àwọn ìdí tí ó fojú hàn kedere.
+Ọfíìsì àkọ́kọ́ wa ní Lekki jẹ́ iwọn ẹṣẹ̀-bàtà lọ́nà 5000 ní tìbú-tòòró.
+Ààyè ibi tí a wà lọ́wọ́lọ́wọ́ jẹ́ ìlọpo 4 tí ìyẹ̀n.
+Ṣùgbọ́n a tí ní àfojúsùn láti kó lọ sí ibi tí ó tóbí sí kí ọdún yìí tó parí.
+A kò gbìyànjú láti jẹ́ gbogbolòwò níwájú àwọn ènìyàn bí i ti Jumia àti Konga.
+Ilé-ìtajà ìgbàlódé ni a jẹ́ tí a sì nímọ̀ nípa irúfẹ́ àwọn ọjà tí àwọn ènìyàn yóò máa retí láti bá pàdé nínú ilé ìtajà ìgbàlódé.
+Nítorí náà, dípò kí a fẹ yíyàn wa lójú nípa àwọn oríṣìíríṣìí nǹkan, ohun tí a fẹ́ ṣe ni ṣíṣe àwàjinlẹ̀.
+Ṣùgbọ́n kìí ṣe láti ṣaájò fún gbogbo ìtọ́wò àti adùn.
+Èròǹgbà fún Gloo ni láti ta àwọn nǹkan tí ó nílò láti fi tọ́jú ẹbí, ilé àti ara rẹ̀.
+Nítorí náà wà á rí oúnjẹ́ àti ohun mímu, ohun-èlò-ilé, ohun èlò ilé-ìdáná àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+MM: Kín ní o lè sọ pé ó jẹ́ ìpinú pàtàkì ìdàgbàsókè Gloo.ng?
+DO: Nígbà tí a bẹ̀rẹ̀ a kò fi bẹ́ẹ̀ lówó lọ́wọ́.
+Níkẹyìn, ó padà jásí ọ̀pọ̀lọpọ̀ ìbùkún fún wa ju ìrora lọ.
+Nígbà tí o kò bá lówó púpọ̀ lọ́wọ́ láti ná lórí ìpolówó ọjà, wà á fẹ́ gbájú mọ́ ọjà àti àwọn oníbàárà.
+Èyí ni ìpìlẹ̀ Gloo.ng.
+Nígbà tí ó yá a ṣàkíysèsí pé kò tún sí ohun tí ó lè mú wa yege ju ohun tí à ń ṣe yìí lọ.
+Kò sí ẹni tí ó gbọ́ àgbọ́yé àwọn oníbàárà tó bí a ṣe gbọ́ wọn èyí sì ni àǹfàaní ìfigagbága kan tí a ní.
+Fún àpẹẹrẹ, ọ̀kan nínú ohun tí a kìí ṣe nígbà tí kọ́kọ́ bẹ̀rẹ̀ ni pé a kì í gbà kí gba ẹnikẹ́ni láàyè láti fi orúkọ sílẹ̀ bẹ́yẹn.
+O gbọ́dọ̀ ṣetán láti ṣanwó bẹ̀rẹ̀ láti ọjọ́ 1, bí bẹ́ẹ̀ kọ́ o kò ní lè forúkọ sílẹ̀ tàbí ṣe ohunkóhun ní orí ìkànì ayélujára náà.
+Ohun tí eléyìí fún wa í àǹfàaní láti ṣe ni pé ó jẹ́ kí a mọ̀ bó a ní tàbí a kò ní ohun tí àwọn ènìyàn yóò lè ṣetán láti sanwó rẹ̀.
+Bákan náà ni a kò náwó kankan lórí ìpolówó ọjà.
+A gbẹ́kẹ̀lé ọrọ-ẹnu 100%.
+Àwọn ohun tó dára náà tí à ń pè ní Konga ati Jumia dé sí àsìkò kan náà.
+Níwọ̀n ìgbà tí ó ti jẹ́ pé wọ́n ń náwó lórí ìpolówó ọjà láti sí àwọn ènìyàn níyè nípa okòòwò orí ayélujára lápapọ̀ láì fi tí ilé-iṣẹ́ wọn ṣe jẹ́ èyí tí ó ń lànà fún wa.
+lẹ́hìn tí a rò pé a ní òye tí ó dára jù lọ nípa irúfẹ́ ẹni tí àwọn oníbàárà wa jẹ́ ni a ṣẹ̀ẹ̀ wá bẹ̀rẹ̀ ìpolówó ọjà.
+A ní ọjà tó ó ń ṣiṣẹ́ gan-an.
+MM: Púpọ̀ nínú àwọn olùtajà lórí ayélujára ni ó ti yàbàrà bọ́ sí ìlànà àwoṣe ọjà títà èyí tí ó lòdì sí kí wọn máa to 100% ọjà tí wọ́n bá gbé wá fúnra wọn.
+Ó ṣe é ṣe kí ó jẹ́ pé à ń wo ọjọ́ iwájú okòòwò orí-ayélujára orílẹ̀-èdè Nàìjíríà tí ó jẹ́ pé ìlànà ọjà títà lójúkojú ni yóò máa darí rẹ̀ 100%?
+Kí ni èrò rẹ lórí èyí?
+Nígbà tí a ko pariwo ariwo nipa rẹ, Gloo tun lo awoṣe ọja títà.
+Iye ààyè ọjà tí a ní ni ó fẹ́rẹ̀ pọ̀ ju ti àwọn mìíràn lọ.
+Nígbà tí a bẹ̀rẹ̀ ní ìbẹ̀rẹ̀ ọdún, 33% owó tí ó ń wọlé fún wa ń wá látara àwọn ọjà títà wa.
+A ti wà ní 40%, ó yẹ kí á wọ 50% ṣáájú òpin ọdún yii.
+Nígbà tí ó bá yá, a fẹ́ kí ó dé 80%.
+Síbẹ̀síbẹ̀, èmi kò gbàgbọ́ pé ẹnikẹ́ni lè ṣàgbékalẹ̀ ibi-ọjà 100% ní orílẹ̀-èdè Nàìjíríà látàrí kùdìẹkudiẹ̀ tí ó wà nínú pípèsè àti ìlànà ìpèsè ọjà.
+Nàìjíríà kìí ṣe ìpìlẹ̀ tí ó máa ń méso jáde, níwọ̀n bí ó ti wù kí iṣẹ́ ọnà ṣe.
+Ó dára láti fẹ́ mú àdínkù bá ewu tí dídá ohun tuntun sílẹ̀ ní nínú, ṣùgbọ́ níwọ̀n ìgbà tí ó ti jẹ́ Nàìjíríà, àdàlú ni ó máa ń jẹ́ nígbà gbogbo.
+Àǹfààní àpilẹ̀lṣe tún wà fún wa ní nínífẹ̀ẹ́ láti tọ́jú 20% àkọsílẹ̀ ọjà.
+Abala pàtàkì ìṣòwò wà ní abala jù ú sími kí n jù ú sí ọ (B2B) (b2b.gloo.ng).
+A kì í pariwo nípa ìyẹn ṣùgbọ́n ó wà.
+Ṣùgbọ́n inú wa dùn gidi nípa àbùdá ṣebíọba tí a ṣẹ̀ṣẹ̀ ṣe ìfilọ́lẹ̀ rẹ̀.
+MM: O ṣe ìléri láti fi ọ̀jà jíṣẹ́ fún àwọn oníbàárà rẹ ní ọjọ́ kan náà.
+Pẹ̀lú wíwo bí owó àwọn agbọ́jà-rìnrìn-àjọ̀ ṣe wọ́n sí ní Èkó, báwo ni ẹ ṣe ń ṣe é tí ẹ fí ń mú ìlérí náà ṣẹ?
+DO: Pẹ̀lú bí ó ṣe ní nnkan ṣe pẹ̀lú èròǹgbà ọjà tàbí ìpinnú ọjà, nǹkan kan wà tí à ń pè ní ìṣòro olókoòwò tàbí ìmúdúró ìṣòro.
+Tí ohunkóhun bá wà tí ó hàn sí mi kedere, á jẹ́ pé gbogbo ohun tí mò ń fi ọjọ ayé mi ṣe gẹ́gẹ́ bí ìgbáradì fún èyí ni ó jẹ́.
+Bákan náà ni ó rí pẹ̀lú àwọn ìgbìmọ̀ tí ó wà pẹ̀lú mi.
+Èmi kò lè ṣe àlàyé púpọ̀ ṣùgbọ́n mo lè sọ fún ọ pé a ti kọ Ètò Ìjẹ́rìí Àdírẹ́sì tí ara ẹni tí ó fún wa láàyè láti ṣe ìgbèrò ipa-ọ̀nà ìdíyelé tó kéré jù.
+Nítorí náà ṣáájú kí àwọn ọmọ ẹgbẹ́ ìmúṣẹ wa tó kúrò, wọ́n ti ní òye tí ó dára nípa gbogbo ibi tí wọ́n yóò fi ọjà ránṣẹ́ sí ati irú àwọn ipa-ọ̀nà láti gbà.
+MM: Báwo wá ni ìpènijà ti sísanwó?
+Kí ni èrò rẹ lórí gbígbowó lẹ́yìn ìfijíṣẹ́?
+Èmi tìkalára lérò pé ó nílò láti kú.
+DO: Níwọ̀n bí sísanwó ti jẹ́ ìpènijà, ìdá tí ó kéré sí 43% ìṣòwò wa ni ó máa ń jẹ́ pé a máa ń gbowó nígbà tí a bá ṣe ìfijíṣẹ́ tán àti pé ó rọrùn láti rí ìdí.
+Mo sọ fún ọ pé 80% okòòwò ni ó wá látara àràtúrà.
+Àwọn ọjà tí à ń tà ni ó jẹ́ ohun tí àwọn ènìyàn ń lò ní ojòòjúmọ́.
+Gẹ́gẹ́ bí ó ṣe jẹ́ ìdà kejì ohun tí àwọn yòókù ń tà tí ó jẹ́ àwọn nǹkan tí àwọn èèyàn kìí lò ní ojòòjúmọ́ bí i ẹ̀rọ-ìbánisọ̀rọ̀ àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+Nítorí náà, lákòókò tí àwọn oníbàárà wa bá lè sanwó pẹ̀lú owó ni ìbẹ̀wò àkọ́kọ́ wọn, wọ́n rí I pé ó rọrùn díẹ̀ sí I láti sanwó síwájú síi nígbà tí ó bá yá.
+Ṣíbẹ̀ṣíbẹ̀ mi ò lérò pé a lè yọ gbígba owó lẹ́yìn ìfijíṣẹ́ kúrò lórílé-èdè Nàìjíríà àfi ìgbà tí a di àwùjọ tí kò ná owó.
+Kì í ṣe ìṣòro okòòwò orí ayélujára.
+Ìṣòro ibi tí a ti ń ṣiṣẹ́ ni.
+MM: Kín ni àwọn ìṣòro tí ó tóbi jù lọ fún ṣíṣe okòòwò ayélujára ní orílẹ̀-èdè Nàìjíríà?
+DO: Okòòwò ayélujára bí wọ́n ṣe sọ́ jẹ́ ìsọ̀ro.
+Ní orílẹ̀-èdè Nàìjíríà, ó jẹ́ iṣòro gidi gan-an.
+Okòòwò ayélujára jẹ́ okòòwò tí ó ní ìpènijà láì wo ibikíbi tí o bá wà.
+Ìdí nipé ó jẹ́ okòòwò tí ó nílò gbígbéwọ̀n bí o bá fẹ́ ṣe àṣeyọrí.
+O kò lè jẹ́ olùdásílẹ̀ ayélujára tí ó yege bí o bá kéré.
+Kò níṣe pẹ̀lú iye àwọn ènìyàn tí ó ó wà nínú ọrọ̀ ajé náà, a sáábà máa ń rí aláṣeyọrí tí ó máa ń gborí.
+Nítorí náà, fún àpẹẹrẹ, wo ààyè ibi tí IROKOtv ti ń ṣiṣẹ́, irú àwọn nǹkan mìíràn wo ni ó ń fá ààyè yẹn gán-an?
+A ní Konga àti Jumia tí wọ́n ń ta ọjà gbogbogbò; lẹ́yìn àwọn méjéèjì, àwọn wo ni wọ́n tún ń ṣe irúfẹ́ nǹkan bẹ́ẹ̀?
+Bákan náà ni ó rí pẹ̀lú ilé ìtajà ìgbàlódé ayélujára ti Gloo.
+Ìpènijà pàtàkì mìíràn ni ìfọ́síwẹ́wẹ́ agbègbè Nàìjíríà.
+O nílò ẹ̀rọ amúnáwá fún ìpèsè iná nítorí náà owó ti wàá fi máa tukọ̀ okòòwò náà yóò pọ̀ gan-an ni.
+Níkẹyìn, ṣíṣe okòòwò ilé-ìtajà ìgbàlódé lákòótán jẹ́ èyí tí ó le.
+Èmi kò rò pé ẹnikẹ́ni tí ó ń wọlé sí ààyè yìí ni a lè rí ní èyíkéyìí fọ́ọ̀mù láti ní òye.
+Nítorí pé wọn yóò máa kojú oríṣìí nǹkan mẹ́ta: ṣíṣíṣẹ́ okòòwò ayélujára láìdúró, ṣíṣe ní orílẹ̀-èdè Nàìjíríà, àti yíyan ṣíṣe é ní ìgbọ́ni ilé ìtajà ìgbàlódé orí ayélujára.
+Ohun tí ó ti ṣe àǹfààní fún wa ni àkókò tí a fi jáde.
+Ẹnikẹ́ni tí ó bá gbìyànjú láti dé ibi tí a wà ní báyìí yóò parí ní lílo bí ìlọ́po ogún owó tí a ti ná, àti pé ó ṣe é ṣe pé ó lè má tíì rí ẹṣẹ̀ múlẹ̀ dáadáa nínú rẹ̀.
+Ìdí nìyí tí a fi ń rí ẹgbẹ̀rún-ó-lé-kan àwọn ènìyàn tí wọ́n ń wọ inú okòòwò yìí ṣùgbọ́n tí wọ́n ń takú sọ́nà bí èéfín.
+Ẹnikẹ́ni tí ó ní àníyàn láti bẹ̀rẹ̀ okoòwò ayélujára ní báyìí gbọ́dọ̀ ní àwọn àǹfàaní tí ó ṣe kókó àti ọ̀pọ̀lọpọ̀ ẹrù owó pàápàá jù lọ irúfẹ́ àwọn ìsọ̀rí Konga àti Jumia.
+Nítorí pé ó gba àkókò pípẹ́ fún àwọn ènìyàn láti yí ọkàn wọn padà nipa nǹkan tí wọ́n ti mọ̀ tẹ́lẹ̀.
+O nílò láti pèsè iṣẹ́ tí ó dára ní ìlọ́po 10 ju ti àwọn tí ó ń bá ọ ṣe orogún bí ó bá fẹ́ jù wọ́n lọ.
+Gẹ́gẹ́ bí ìjábọ̀ EuroMonitor, lọ́wọ́lọ́wọ́ báyìí a ní 80% ààyè ìtajà ìgbàlódé orí ayélujára àti pé a pinnu láti ní i títí láéláe.
+Inú wa dùn láti fààyè gba ìdíje nítorí wọ́n jẹ́ kí á túbọ̀ túbọ̀ túnra mú.
+Ṣùgbọ́n a mọ̀ pé ìrora ń kọ lù wọ́n ní ìlọ́po 10 bí ó ti kọ lù wá.
+Àti pé, nínú ọ̀rọ̀ wa ni a tí ní ọ̀pọ̀lọpọ̀ àwọn nǹkan tí a pèsè kalẹ̀ láti bu òróró ìtura sí ibi tí ìrora bá wà.
+Èmi tìkalárami kì í yóò gba ẹnikẹ́ni níyànjú láti dáwọ́ lé okòòwò ayélujára báyìí.
+Dípò bẹ́ẹ̀, fún ní nǹkan bí i ọdún 4 nígbà tí àwọn olùtajà ayélujára tí ó tóbi yóò ti gbéwọ̀n dáadáa bí wọn ṣe ń dágbàsókè sí yóò ti farahàn àti pé kùdìẹ̀kudiẹ̀ wọn yóò ti yé ọ dáadáa.
+Máṣe sì mí gbọ́, mi ò sọ pé ẹnikẹ́ni kò gbọdọ̀ dẹ́ṣẹ̀ wọ okòòwò ayélujára.
+Orílẹ̀-èdè Nàìjíríà kì í ṣe bẹ́yẹn.
+O ti pàdánù àwọn ìlànà yẹn ṣùgbọ́n ìlànà mìíràn ń bọ̀.
+Ọ̀nà tí ó dára jù láti tẹ́rí wọ iṣẹ́ yẹn ni kí o ṣiṣẹ́ fún àjọ ilé-iṣẹ́ olókoòwò ayélujára tí ó ti wà tẹ́lẹ̀ ṣùgbọ́n kí ṣe èyí tí ó dàbí ti Konga àti Jumia torí pé o lè má rí òkodoro àti àdojúkọ wọn níbẹ̀.
+Èròǹgbà ibẹ̀ ni láti rí bí ìlànà náà ṣe ń ṣiṣẹ́ àti ọ̀rọ̀-ajé rẹ̀ ṣe máa ń lọ.
+MM: Àmọ̀ràn wo ni wà á fún àwọn olókoòwò tí ó ṣẹ̀ṣẹ̀ ń dìde gòkè bọ̀?
+DO: O níláti gbáradì.
+Ní àwọn àkókò kan ṣẹ́yìn kí Gloo tó dé, mo ti ṣe ọ̀pọ̀lọpọ̀ iṣẹ́ tí ó tíó ní ìjákulẹ̀.
+Ṣugbọ́n a máa kẹ́kọ̀ọ́ látara ìríri náà ni.
+Ṣíṣe iṣẹ́ ní níbi àwọn okòòwò tí ó ti wà tẹ́lẹ̀, pàápàá jù lọ níbi tí kò ti ṣí ètò ọrọ ajé tí ó fìdí múlẹ̀ dáadáa bí ti èyí tí ó wà ní Silicon Valley jẹ́ èyí tí ó dára jù láti ní ìmọ̀ ohun tí ìdókòwò gan-an jẹ́ ní pàtó.
+Kì bá dára tí ó bá lè jẹ́ ọ̀kan nínú àwọn ìgbìmọ̀ àjọ náà láti lè máa rí ìṣẹ̀lẹ̀ tí ó lábùlà níbẹ̀.
+Ìyẹn ni àmọ̀ràn tí ó dára jù lọ tí mo lè fún ọ.
+Ṣe iṣẹ́ gẹ́gẹ́ bí ọ̀kan lára ìgbìmọ̀ àjọ ibi ìdókòwò kan tí ó ti wà tẹ́lẹ̀.
+Gbàgbé gbogbo àṣọdùn jíjẹ́ ẹni àgbéga àti ìsáré gòkè wọn.
+orílẹ̀-èdè Nàìjíríà kì í ṣe é bẹ́yẹn.
+MM: Kín ni àfójúsùn ọlọ́jọ́ pípẹ́ yín fún Gloo?
+DO: Wo orílẹ̀-èdè Nàìjíríà báyìí nípa ìdàgbàsókè tí ó dé bá ìtàjà alábọ́dé, pàápàá jù lọ ní ìgbọ́ni ilé-ìtàjà ìgbàlódé tí a bá fi wé ti orílẹ̀-èdè US.
+Ní orílẹ̀-èdè US, wọ́n ní ẹ̀tọ́ tí ó jẹ́ 80% fún ìtajà alábọ́dé onílànà tótọ́ ti ìgbàlódé.
+Ìyẹn náà pẹ̀lú àwọn iléìtàjà alábọ́dé tí ó dàbí ti ayélujára bí i Walmart, Target àti okòòwò ayélujára.
+Okòòwò ayélujára ní nǹkan bí ìdá márùn-ún péré nínú gbogbo ọrọ̀ ajé náà.
+Ní orílẹ̀-èdè United Kingdom, bákàn náà ni.
+60% ni ó jẹ́ ni ìlàrà-oòrùn Adúláwọ̀.
+Ní orílẹ̀-èdè Kenya, ó jẹ́ 30% fún àwọn ìtajà alábọ́dé ìgbàlódé onílànà tótó.
+Ṣùgbọ́n nígbà tí o bá wá sí orílẹ̀-èdè Nàìjíríà, 2% péré ni.
+Ìyẹn wà láàrin àwọn ilé-iṣẹ́ ìtajà méjì — Park 'n' Shop àti Shoprite.
+Ohun tí èyí ń sọ fún ẹ ni pé àwọn ènìyàn fẹ́ràn láti lọ ra ọjà nílé ìtaja kékeré alájọgbé wọn.
+Mo rántí ní nǹkan bí oṣù 2 tí mo lọ fún ìlànà ìyànàná ìbáfigagbága ní ilé ìtajà akábọ́dé kan tí ó tóbi.
+Mo ra ọjà tí ó tó bí ₦‎8000 ṣùgbọ́n ó gbà mí tó bí wákàtí 2 àti ìṣẹ́jú 30 kí n tó lè yanjú ara mi láti jádé lọ́sàn-án ọjọ́ ìsìnmi.
+Nǹkan bí wákàtí 1 àti ìṣẹ́jú 45 ni mo lò níbi tí mo ti tò.
+Ṣùgbọ́n kí ló dé tí àwọn ènìyàn fí ń lọ síbẹ̀?
+Nítorí àṣàyàn tí wọ́n ní.
+Arákùnrin yìí kò kan mọ̀-ọ́n mọ̀ fẹ́ dá àwọn ènìyàn dúró pẹ́ jù bẹ́ẹ̀ lọ ni.
+Ìṣòro kan tí wọ́n ní ni pé wọ́n dúró lórí ilé-ìtàja alábọ́dé aláfojúrí.
+wọ́n nílò láti ṣí àwọn ilé ìtajà díẹ̀ si, ṣùgbọ́n ní orílẹ̀-èdè Nàìjíríà, ilẹ̀ àti ilé wọ́n.
+Nítorí pé orílẹ̀-èdè Nàìjíríà kò dàgbàsókè láti pẹ̀lú ìpinu láti ní ilé-ìtajà ìgbàlódé tí ó tóbi bí ti ilẹ̀ òkèèrè kó dà kí ó má jẹ̀ ẹ́ pé owó gan-an ni ìṣòro, rírí àwọn ààyè tí ó dára ni yóò kọ́kọ́ jẹ́ ìṣòro ńlá.
+Ṣíṣe ìdàgbàsókè jẹ́ àdojúkọ mìíràn.
+Fún àpẹẹrẹ ilé-ìtajà Shoprite ti wà ní orílẹ̀-èdè Nàìjíríà fún bí ọdún 11 ṣùgbọ́n wọn kò ní ju ilé-ìtajà mẹ́sàn-án lọ káàkiri orílẹ̀-èdè.
+Ilé-ìtajà yà kí o rajà ti wà láti fún ọdún 25.
+Ó gba àwọn méjéèjì ní àpapọ̀ ọdún 25 láti ní ọrọ̀ ajé 2%.
+A ti wà nílẹ̀ láti ọdún méjì àti ààbọ̀ péré ṣíbẹ̀ a ti yíká gbogbo Èkó.
+A sì ń lọ sí apá ibìkan ní Àbújá - àwọn ènìyàn ń bèèrè wà níbẹ̀.
+Ìyàtọ̀ tí ó fojú hàn dáadáa ni ó wà láàrin ohun tí ilé ìtajà alábọ́dé lè wọ̀n àti bí wọ́n ṣe lè dá àwọn ènìyàn lóhùn sí àti èyí tí okòòwò orí ayélujára lè ṣe.
+Ohun tí ó ṣẹlẹ̀ nìyẹn.
+Àfojúsùn wa farahàn gedegbe - láti di ilé-ìtajà ìgbàlódé tí ó tóbi jù lọ ní orílẹ̀-èdè Nàìjíríà.
+Máṣe dàárú.
+A ti di ilé-ìtajà ìgbàlódé ayélujára tí ó tóbi jù lọ ní orílẹ̀-èdè Nàìjíríà.
+Eré ohun tí à ń ṣá ni láti tóbi bí ilé-ìtajà Shoprite àti ilé-ìtajà yà kó o rajà.
+ilé-ìtajà Shoprite ní mílíọ̀nù $400 ní orílẹ̀-èdè Nàìjíríà gẹ́gẹ́ bí owó tí ó wọlé bí ìsúná ní ọdún tí ó kọjá.
+Ìyẹn jẹ́ 4% nínú bílíọ̀nù $10 tí ó ń wọlé lápapọ̀.
+Láti jẹ́ ilé ìtajà tí ó tóbi jù lọ ní orílẹ̀-èdè Nàìjíríà ohun tí ó gbà ni láti jẹ́ okòòwò orílẹ̀-èdè Nàìjíríà.
+A kò sọ pé a fẹ́ tóbi ju ilé-ìtaja Shoprite lọ.
+Ṣùgbọ́n a fẹ́ jẹ́ iléìtajà ìgbàlódé tí ó tóbi jù lọ gẹ́gẹ́ bí ilé-iṣẹ́ ojú-òpó ìbánisọ̀rọ̀ Globacom ṣe jẹ́ ilé-iṣẹ́ ojú òpó-ìbánisọ̀rọ̀ tí ó tóbi jù lọ.
+Ó jẹ́ okòòwò orílẹ̀-èdè Nàìjíríà tí ọmọ orílẹ̀-èdè Nàìjíríà bẹ̀rẹ̀ rẹ̀.
+Ohun tí Gloo.ng jẹ́ nìyẹn.
+Ohun tí ó jẹ́ àfojúṣùn wa nìyẹn.
+Ilé-Iṣẹ́ Ètò-Owó Swwipe Ṣe Ìfilọ́lẹ̀ “Swwipe” ní orílẹ̀-èdè Nàìjíríà.
+Ṣíṣé àtúnrọ ọ̀nà ìsanwówọlé fún àwọn onísòwò - tẹ̀ ẹ́ kí o sanwó, fífowó ránṣẹ́ ní ilé-ìfowópamọ́, fífi nọ́ḿbà ṣe ìdókòwò (USSD), PinPad ìlànà ìsanwó Gateway
+Owó sísanwọlé ni ó wà lọ́kàn àwọn olùdókòòwò, àwọn okòòwò ọ̀nà àbáyọ ìsanwó tí ó káàtò tí ó sì rọrùn láti tẹ́ ọ̀gọ̀ọ̀rọ̀ àwọn oníbàárà lọ́rùn.
+Ètò-Owó Swwipe, jẹ́ ìgbéṣẹ̀ tí ó lágbára tí ó kún fún ọ̀nà àbáyọ tí a pè ní Swwipe tí ó ń gbèsè ìkànì tí ó ń ṣe ìkúnlọ́wọ́ fún àwọn onírúurú okòòwò bí ó ti lè wù kí ó kéré tàbí kí ó tóbi mọ láti gba owó pẹ̀lú ìrọ̀rùn yálà nípa gbígbà lókorojú tàbí lórí ayélujára.
+Ṣíṣe àfikún rẹ̀ láti mú àyípadà bá ìlànà ìsanwó fún okòòwò, ọ̀kan lára àbùdá Swwipe pàtàkì ni nínú ìfarajìn nínú ṣíṣe oríṣìíríṣìí nǹkan.
+Àwọn onísòwò lè fún àwọn oníbàárà wọn ní oríṣìíríṣìí ìlànà ìsanwó pẹ̀lú ìkànì kan ṣoṣo.
+Láti ibi ìrọ̀rùn fọwọ́-kàn-án-kí-o-sanwó títí dé ibi ìfaramọ́lé ìfi nọ́ḿbà dókòòwò (USSD), ìfowóránṣẹ́ ní ilé-ìfowópamọ́, àti fífi káàdì sanwó, Swwipe ri dájú pé gbogbo ohun tí àwọn oníbàárà ń fẹ́ ni àwọn ṣe fún wọn.
+Àbùdá fọwọ́-kàn-án-kí-o-sanwó rọrùn gẹ́gẹ́ bí ó ṣe dún, láti jẹ ìgbádùn àbùdá yìí ẹ̀rọ-ìbánisọ̀rọ̀ olùtajà àti káàdì oníbàárà ni ó gbọ́dọ̀ ṣiṣẹ́ pẹ̀lú NFC.
+E`yí mú ìkànì ìbánisọ̀rọ̀ tí ó láàbọ̀ tí ó sì yá wá.
+Ní kété tí o bá ti yan ìlànà ìsanwó, oníbàárà yóò tẹ káàdì wọn tí ó wà lẹ́yìn ẹ̀rọ-`ibánisọ̀rọ̀ olùtajà tí ó ń ṣiṣẹ́ pẹ̀lú NFC, ààyè títẹ nọ́ḿbà àsírí yóò hàn jádé fún oníbàárà láti tẹ̀, ìdókòòwò bá parí.
+Swwipe jẹ́ olùyípadà ìṣẹ̀lẹ̀, sísanwó ní kíákíá pẹ̀lú ìrọ̀rùn ju ti tẹ́lẹ̀ lọ.
+Àkókò ṣe pàtàkì, ósì yé Swwipe dáadáa.
+Pẹ̀lú ìlànà ìforúkọsílẹ̀ ìṣẹ́jú mẹ́ta, oríṣìíríṣìí okòòwò lè darapọ̀ mọ́ ìlànà ọrọ̀ ajé Swwipe tí wọn yóò sì máa jẹ̀ ìgbádùn aláìlẹ́gbẹ̀ rẹ̀.
+Henry Mba, Alákoso àti olùdarí Swwipe, ṣàlàyé pé àfojúsùn àwọn ni láti mú ìlànà ìsanwó rọrùn fún gbogbo onírúurú okòòwò, o lè sanwó rẹ lójú kan pẹ̀lú Swwipe.
+Ṣíṣàkóso ètò ìnáwó lè jẹ́ ìsòro, ṣùgbọ́n Swwipe jẹ́ kí ìlànà náà rọrùn.
+Pẹ̀lú níní ojútùú kíákíá, àwọn okòòwò lè jẹ̀gbádún àkóyawọ́ ojúkorojú àti ìlànà ìnáwó tí ó mọ́ gaara lówó tí ó ga ju ara lọ yàtọ̀ sí ti àwọn mìíràn.
+Kò sí dídúró ọjọ́ kan fún okòòwò láti jíṣẹ́ tàbí ṣiṣẹ́ mọ́; Swwipe pèsè oríṣìíríṣìí ohun-èlò tí àwọn okòòwò nílò láti mú ìpinu wọn ṣẹ àti ìbàlẹ̀ ọkàn.
+Ìkànì náà pèsè ohun-èlò ìdáàbòbò ìlùsanwó-gbowó, èyí tí ó fi ààyè sílẹ̀ fún àwọn okòòwò láti tọpaṣẹ̀ ìdókòòwò kí wọ́n sì ri dájú pé gbogbo ìṣanwó ni wọ́n fọwọ́ gidi mú.
+Àwọn olókòòwò lè ṣàfikún olùsanwó gbowó lọ́pọ̀ yanturu tí wọn yóò sì máa sọ wọn pẹ̀lú ìrọ̀rùn pẹ̀lú kíkákòóyawó àti mímú àdíkù bá ìwà àgàbàgebè.
+Ètò ààbò ṣe pàtàkì nínú ìlànà owó sísan Swwipe kò sì fi ṣeré rárá.
+Ìkànnì náà gbàsẹ-gbòǹtẹ̀ PCI DSS tí ó sì ní òǹtẹ̀ láti ọ̀dọ̀ ilé-ìfowópamọ́ àpapọ̀ orílẹ̀-èdè Nàìjíríà, fún pípèsè ìpele ààbò tí ó tóbi fún oríṣìíríṣìí okòòwò àti oníbàárà.
+Aápù Swwipe wà lórí ìkànnì Google playstore àti ìkànnì Apple appstore.
+Àwọn olókoòwò tún lè fi ìlànà ojú òpó gateway ti ara-ẹni sórí ìtàkùn ayélujára okòòwò wọn tàbí ẹ̀rọ(app) wọn láti gba owó pẹ̀lú ìrọ̀rùn lọ́wọ́oníbàárà wọn pẹ̀lú ohun-èlò aṣàmójú tí ó dára láti wo àlàyé ìdókòòwò wọn.
+Bákan náà, Bóyá o jẹ́ olùdásílẹ̀ ilé-ìtajà ìgbàlódé, olùtajà oríayélujára, olùdásílẹ̀ ilé-ìgbafẹ́ tàbí ò ń ṣiṣẹ́ ní ilé-iṣẹ́ tí ó wàyà mì, Swwipe ní ojútùú sí ìsòro ìsanwó rẹ.
+Roqqu yan alákoso iṣẹ́ fún ilẹ̀ Yúróòpù
+Inú wa dùn láti kéde àfikún pàtàkì sí ẹgbẹ́ adarí wa ní Roqqu Yúróòpù.
+Elias Ahonen, ọ̀jìnmì akọ́ṣẹ́mọṣẹ́ àgbáyé tí ó ní àtimáaṣebọ̀ tí ó dára ti darapọ̀ mọ́ wa gẹ́gẹ́ bí olórí-ẹ̀ka iṣẹ́.
+Òǹkọ̀wé íwé ilé-iṣẹ́ Blockland (2021), Ahonen, ni ó lé ní ìrírí ọdún mẹ́wàá kàákiri àgbáyé nínú ile-iṣẹ́ pẹ̀lú ìdásílẹ̀ ilé-iṣẹ́ ìjùmọ̀sọ̀rọ̀ Token Valley ní ọduń 2017.
+Ìyànsípò Ahonen yóò túbọ̀ mú àlékún bá agbára wa àti ìlànà àfojúsùn wa láti máa túbọ̀ ṣe àṣeyọrí káàkiri ọrọ̀ ajé ilẹ̀ Yúróòpù.
+“Inú wa dùn láti kí Elias káàbọ̀ sí Roqqu.
+Benjamin Onomor, alákoso Roqqu ṣàlàyé pé ìmọ̀ọ́ṣe àti ìjásiwájú rẹ̀ yóò wúlò bí ó ṣe jẹ́ pé a ti nàyẹ́ ibùdó wa káàkiri ilẹ̀ Yúróòpù àti láti pèsè ọ̀nà àbáyọ tí ò lẹ́gbẹ́ fún àwọn oníbàárà wa.
+A dá sílẹ̀ ní ọdún 2019, Roqqu ń pilẹ̀ ọjọ́ ọ̀la ẹ̀náwó orílẹ̀-èdè Adúláwọ̀ pẹ̀lú ìmọ̀-ẹ̀rọ blockchain.
+Èyí sáábà máa ń fún wa ní ìwúrí láti mú àgbéga bá àwọn iṣẹ́ wa bí ó ṣe jẹ́ pé à ń gbìyàjú láti pèsè ọ̀pọ̀lọpọ̀ àbùdá ìrọ̀rùn lórí ìkànnì wa.
+"orílẹ̀-èdè ilẹ̀ Yúróòpù ṣaṣojú ètò ọrọ̀ ajé aláfọwọ́sowọ́pọ̀ àgbáyé tí ó gbókàn pẹ̀lú ìjánu èyí tí ó ní àfojúsún àti àǹfààní"- Elias Ahonen.
+Ahonen gboyè ẹ̀kọ́ gíga kèjì nínú òfin àgbáyé, tí ó sì ń kọ̀wé ìgboyèdọ̀mọ̀wé lórí ipò ofin àgbáyé lórí owó Crypto (cryptocurrency).
+Ohun ìyanu ni ó jẹ́ bí Roqqu ṣe ń gbé wa hàn sí àgbáyé; dara pọ̀ mọ́ wa lónìí bí ó bá fẹ́ nípa ṣíṣe àgbàsílẹ̀ ẹ̀rọ Roqqu tí ó wà ní gbogbo orí ìkànì ìgbẹ̀rọsílẹ̀ kí o sì máa jẹ ìgbádùn àǹfààní tí ó dára jù lọ.
+Ṣe ohun tí ó pọ̀ pẹ̀lú crypto….
+Tèlé wa lórí ìkànnì ìbánidọ́rẹ̀ẹ́:
+Rack Centre, The Workplace Centre (TWPC) àti United Way Greater Nigeria (UWGN) ní àjọṣepọ̀ láti kọ́ àwọn SMEs àti àwọn ọ̀dọ́ lórí ìmọ̀ ìgbàlódé.
+Rack Centre, Alárinà iṣẹ́ tí ó dára jù lọ àti àjọ tó ń rí sí àkọsílẹ̀ ìwọ̀ntunwọ̀sí ojú ọjọ́ ti kéde ìfilọ́lẹ̀ àgbékalẹ̀ CSR wọn pẹ̀lú àjọṣepọ̀ The Workplace Centre (TWPC) àti United Way Greater Nigeria (UWGN) – The S.T.E.P. (ìmọ̀ fún ìrónilágbára) àti ibi-iṣẹ́ ìfúniláǹfààní ọ̀nà ìgbàlódé lérò láti ṣe ìrónilágbára fún `awọn àádọ́jọ ọ̀dọ́ pẹ̀lú ìmọ̀ ìgbàlódé tí ó ṣe pàtàkì àti ìkúwọ́ fún àwọn àádọ́ta SME alábẹ́lé láàrin àwọn àdúgbò tí a yàn ní ìlú ìpínlẹ̀ Èkó.
+Àwọn abala tí a gbájúmọ́ wà nílẹ̀ ṣẹpẹ́ ní àkókò ìdánilẹ́kọ̀ọ́ lára wọn ni ṣíṣẹ̀dá-àwòrán(Graphic design), ìpolówó ọjà àgbáyé(Digital marketing), ìṣẹ̀dá-ìkànnì ayélujára alábala- òpin-iwájú(Front-end Web Development), ìkànsíra-ẹni(Networking) àti ààbò pẹ̀lú ìmọ ajẹmọ́gbọ́-orí(Soft skills).
+Àwọn ìkẹ́kọ̀ọ́ wọ̀nyí, èyí tí ó wà ní ìbámu pẹ̀lú ètò ìmúdúró Rack Centre, jẹ́ èyí ti a kò gbé kalẹ̀ láti sàfikún agbwára àwọn ènìyàn wọ̀nyí nìkan ṣùgbọ́n láti ṣẹ̀dá ipa ìyípadà ìlọsíwájú rere láwùjọ.
+Nígbà tó ń sọ̀rọ̀ lórí àjọṣepọ̀ CSR, Olóyè òṣìṣẹ́ ilé-iṣẹ́ Rack Centre, Ezekiel Egboye, sọ pé ìfọwọ́sowọ́pọ̀ náà yóò fún àwọn ọ̀dọ́ ní agbára láti di ìran akọ́ṣẹmọṣẹ́ ìmọ̀-ẹ̀rọ tó ń bọ̀ láti figagbága gidi ní ìgbọ́ni ìgbọ̀ni ìmọ̀-ẹ̀rọ ìgbàlódé ayáragòkè.
+Ìlànà náà ni láti ri dájú pé àwọn tí ó kópa nínú ìdánilẹ́kọ̀ọ́ náà rí àǹfààní láti ṣàmúlò àwọn ọgbọ́n tí wọ́n kọ́ ní agbègbè tí ó kún fún ìfigagbága.
+Àwọn ọ̀dọ́ 150 tí yóò kópa nínú S.T.E.P (Ètò Ìmọ̀ọ́ṣe sí Ìníṣẹ́lọ́wọ́)ni wọ́n ó ní ìmọ̀ tí ó ṣe pàtàkì nínú ìdàgbàsókè ayé òde-òní.
+Ìdánilẹ́kọ̀ọ́ náà ni a lò láti tọ́jú àwọn ìran akọ́ṣẹ́mọṣẹ́ onímọ̀-ẹ̀rọ tó ń bọ̀ èyí tí yóò bẹ̀rẹ̀ ní 9 Oṣù Kẹwàá, ọdún 2023 tí yóò sì wáyé fún ọ̀ṣẹ̀ 8.
+Àwọn olùkópa nínú Ìkọ́ni-mọ̀ọ́ṣe ajẹmọ́ Ìlò Díjítà fún àwọn SME yóò ní ìmọ̀ pẹ̀lú àwọn ohun-èlò tíó ṣe pàtàkì àti ìdánrawò tí yóò mú kí wọ́n lè ṣiṣẹ́ tí ó múnádóko, yóò jẹ́ kí ọrọ̀ ajé wọn gbòòrò àti dídásí ìmúdúró ìdàgbàsókè onírúurú okòòwò.
+Ìdánilẹ́kọ̀ọ́ náà ní èròǹgbà láti mú àgbéga bá ìmọ̀-ẹ̀rọ láti ìbẹ̀rẹ̀ pẹ̀pẹ̀ tí yóò bẹ̀rẹ̀ ní 6 Oṣù Kọkànlá ọdún 2023 tí yóò wáyé fún ọ̀ṣẹ̀ 4.
+Nípaṣẹ̀ ìdánilẹ́kọ̀ọ́ yìí, a ti fojú wo àpéjúwe àyípadà okòòwò tí yóò lapa rere nínú ètò-ọrọ̀ ajé.
+“Inú wa dùn láti ṣe alábàáṣepọ̀ pẹ̀lú TWPC àti UWGN láti ṣe ìfilọ́lẹ̀ ìpilẹ̀ṣẹ̀ pàtàkì yìí.
+A ní ìgbàgbọ́ pé eléyìí yóò ṣe àǹfààní púpọ̀ láti di àlàfo àìní ìmọ̀-ọ́nṣe tí ó wọ́pọ̀ láàárín àwọn ọ̀dọ́ àti àwọn Okòwò alábọ́dé.
+Pàtàkì àwọn ìmọ̀-ọ́nṣe ajẹmọ́lò-ẹ̀rọ-ayélujára ń pọ̀ sí i lójoojúmọ́, káàkiri àgbáyé, bẹ́ẹ̀ sì ni kò yọ Nigeria sílẹ̀.
+Ó ní, "A ní ìgbàgbọ́ pé nípasẹ̀ akitiyan yìí, a lè mú ìdàgbàsókè bá àwọn àwùjọ, a lè yí àwọn ìgbésí ayé padà, kí a sì nípa nínú ọjọ́ iwájú tí ó dára ní gbogbo ọ̀nà".
+Ọ̀mọ̀wé Moji Olateru-Olagbegi, Ọ̀gá Àgbà pátápátá fún TWPC sọ pé "Inú wá dùn láti ṣe àtìlẹ́yìn fún àgbékalẹ̀ yìí, èyí tí yóò ṣe ìrànlọ́wọ́ láti ṣẹ̀dá ọjọ́ iwájú tí ó dára fún Nigeria".
+Ó ní, "Ètò ọrọ̀-ajé ajẹmẹ́rọ-ayélujára ń ṣẹ̀dá àwọn àǹfààní tuntun fún gbogbo ènìyàn, a sì ní ìgbàgbọ́ pé èyí jẹ́ ìgbésẹ̀ tí ó tọ́".
+Nínú àkíyèsí rẹ̀, Olùdarí Àgbà fún UWGN, Deola Durodola, fìdí rẹ̀ múlẹ̀ pé pàtàkì àwọn ìmọ̀-ọ́nṣe ajẹmẹ̀rọ-ayélujára kò ṣe é fojú kéré nítorí pé púpọ̀ àwọn okòwò àti iṣẹ́ ti kúrò ní àsìkò gbígbé ara lé okòwò nínú orígun mẹ́rin ilé lọ sí orí ẹ̀rọ-ayélujára.
+"A ní ìpinnu láti láti ṣe ìrànlọ́wọ́ fún àwọn ọ̀dọ́ láti mú ìdàgbàsókè bá àwọn ìmọ̀-ọ́nṣe tí wọ́n nílò láti ṣe àṣeyọrí ní àsìkò ẹ̀rọ-ayélujára yìí.
+Ó ní, "Ìdánilẹ́kọ̀ọ́ yìí jẹ́ àǹfààní tí ó ṣe pàtàkì fún àwọn ọ̀dọ́ láti kọ́ àwọn ìmọ̀-ọ́nṣe tuntun kí wọ́n sì ní ìrírí ìmọ̀-ọ́nṣe".
+Àwọn alámọ̀já tí wọ́n ní ìrírí nípa iṣẹ́ ajẹmẹ̀rọ-ayélujára ni wọ́n yóò ṣe àgbékalẹ̀ ìdánilẹ́kọ̀ọ́ náà.
+Àwọn akópa yóò gba ìwé ẹ̀rí lẹ́yìn tí wọ́n bá parí ìdánilẹ́kọ̀ọ́ náà bẹ́ẹ̀ ni wọn yóò ní àwọn àǹfààní sí ẹ̀kọ́ṣẹ́ ní àwọn onírúurú ilé iṣẹ́.
+Nípa Rack Centre
+Rack Centre jẹ́ Ọkọ̀ ẹ̀rọ-ayélujára tí àsopọ̀ rẹ̀ dára jùlọ ni Ìwọ oòrùn ilẹ̀ Áfíríkà àti pé ó jẹ́ ibùdó àkójọfáyẹ̀wò tí kò ní àsopọ̀ pẹ̀lú àjọ kankan tí ó ń pèsè ìtàkùn-ayélujára.
+Wọ́n dá a sílẹ̀ ní ọdún 2012, ilé iṣẹ́ náà pèsè àwọn ibùdó àkójọfáyẹ̀wò tí ó dára jùlọ fún àwọn ilé-iṣẹ́ mìíràn àti àsopọ̀ ọ̀fẹ́ láàrin àwọn ilé-iṣẹ́ olùpèsè ẹ̀rọ-ayélujára àti àwọn oníbàárà.
+Mímọ eléyìí fún àwọn oníbàárà ní agbègbè tí ìpele rẹ̀ ga jùlọ, tí ó ní ààbò ojúkojú síi, àti olówó pọ́ọ́kú fún àwọn àgbékalẹ̀ ẹ̀rọ-ayélujára wọn.
+Ọkọ̀ ẹ̀rọ-ayélujára àti Àìní àsopọ̀ mọ́ ilé iṣẹ́ olùpèsè ẹ̀rọ-ayélujára fún àwọn oníbàárà ní àǹfààní láti ṣe àkóso àwọn ìkọlùkọgbà láti rí ìwúlò tí ó dára, ìlọ́ra díẹ̀, àti ìfaradà púpọ̀ kí wọ́n sì ṣẹ̀dá ọjà tí ó gbòòrò fún àjọṣepọ̀ láàrin àwọn oníbàárà, ìtakùn, ẹ̀rọ-ayélujára, olùpèsè àkóónú, Internet Exchange Point of Nigeria, African Interconnection Exchange kí wọ́n sì ṣàkóso àwọn ilé iṣẹ́ olùpèsè ẹ̀rọ-ayélujára.
+Fún àlàyé síi, ṣàbẹ̀wò sí https://rack-centre.com/
+Itana gba Mílíọ̀nù $2 owó ìrànwọ́ Ìbẹ̀rẹ̀ láti pilẹ̀ Èbúté Ọ̀fẹ́ orí ẹ̀rọ-ayélujára àkọ́kọ́ ní Áfíríkà.
+Itana (Talent City nígbà kan) ti kó mílíọ̀nù $2 jọ fún ìpele ìbẹ̀rẹ̀ èyí tí àwọn olùdókòwò ilé iṣẹ́ ní àgbáyé LovalGlobe, Amplo, Pronomos Capital, àti Future Africa síwájú rẹ̀.
+Àdéhùn òwò yìí ṣe àkójọpọ̀ agbára àwọn ọgbọ́n ìjìnlẹ̀ ilé-iṣẹ́ àti ìmọ̀-ọ́nṣe láti ọwọ́ àwọn alábàáṣiṣẹ́pọ̀ tí wọ́n ti ṣe àtìlẹ́yìn fún àwọn ìlànà àwùjọ orí ẹ̀rọ-ayélujára gẹ́gẹ́ bí e-Estonia, tí wọ́n sì ṣe àgbékalẹ̀ àwọn ọjà tí ó tà.
+Ìrètí wà pé yóò jẹ́ Èbúté Ọ̀fẹ́ orí ẹ̀rọ-ayélujára àkọ́kọ́ ní Áfíríkà, àgbékalẹ̀ owó ìrànwọ́ yìí yóò ṣe àtìlẹ́yìn fún akitiyan Itana láti mú ìdàgbàsókè bá àtòjọ ìrọ̀rùn okòwò ṣíṣe, mú ìgbéga bá ìdókòwò ilẹ̀ òkèèrè tààrà, kí ó sì pèsè iṣẹ́ ní Nigeria.
+Àwọn oníṣòwò Nigeria ni wọ́n ṣe ìdásílẹ̀ Itana, Luqman Edu (Ọ̀gá Àgbà Pátápátá) àti Iyinoluwa Aboyeji (Olùdókòwò Ìpìlẹ̀), àti Coco Liu (Igbákejì Ọ̀gá Àgbà Pátápátá).
+Luqman ní iṣẹ́ tí ó fẹjú, ó ń pèsè àwọn iṣẹ́ ó sì ń ṣẹ̀dá àwọn ọ̀nà àbáyọ ìmọ̀-ẹ̀rọ fún àwọn ìlú àti ìjọba UK àti Nigeria, nígbà tí Iyinoluwa jẹ́ Alábàáṣiṣẹ́pọ̀ Olùdásílẹ̀ Future Africa àti Àjùmọ̀pọ̀-ṣe ìdásílẹ̀ Andela àti Flutterwave.
+Coco mú iṣẹ́ tí ó tayọ wá nínú ìrírí iṣẹ́ rẹ̀ pelut àwọn ilé-iṣẹ́ ìmọ̀-ẹ̀rọ àgbáyé ó sì ń ṣe ètò ìbẹ̀rẹ̀pẹ̀pẹ̀ àwọn okòwò.
+Wọn yóò ṣe àgbékalẹ̀ Èbúté Ọ̀fẹ́ Itana ní àrà ọ̀tọ̀ fún àwọn okòwò àdìdeelẹ̀ lábẹ́lé àti lágbàáyé, àwọn okòwò ìmọ̀-ẹ̀rọ àti ilé iṣẹ́ tí wọ́n fẹ́ mú ìlọsíwájú bá àwọn iṣẹ́ wọn káàkiri Áfíríkà láì ní ìdojúkọ àwọn àwọn òfin tí kò fẹsẹ̀ rinlẹ̀, ohun amáyédẹrùn tí kò pé àti àwọn ìdojúkọ okòwò mìíràn.
+Nípa ṣíṣe àmúlò 'Itana Edge', gbọ̀ngàn ilé ìtajà orí ẹ̀rọ-ayélujára wa fún àwọn okòwò àti iṣẹ́ ìjọba, àwọn ilé-iṣẹ́ pẹ̀lú yóò jẹ àǹfààní àwọn ìlànà okòwò àti kóríyá tí ó dára lágbàáyé (gẹ́gẹ́ bí ilé iṣẹ́ Èbúté ọ̀fẹ́ lórí ẹ̀rọ-ayélujára).
+Lára àwọn kóríyá wọ̀nyí ni owó orí, ìwé ìgbélùú okòwò, ètò ilé ìfowópamọ́, ìṣẹ́wó ọjà àti àtìlẹ́yìn ilé aṣòfin fún àwọn okòwò, nígbà tí ó ń pèsè àǹfààní fún àǹfààní sí àwùjọ okòwò lábẹ́lé àti lágbàáyé.
+Pẹ̀lú èyí, Itana ní àfojúsùn láti pèsè àyíká tí yóò fi ààyè gba àwọn ilé-iṣẹ́ láti ṣàmúlo okòwò àgbáyé ní Nigeria níbikíbi lágbàáyé, kí wọ́n sì ní àǹfààní sí ọjà tí ó tóbi jùlọ ní Áfríkà.
+"Inú wa dùn láti kéde ìpele owó ìrànwọ́ yìí.
+Ó jẹ́rìí sí àwọn akitiyan wa, ó sì ṣe àtúnwí àfojúsùn wa pẹ̀lú àwọn olùdókòwò wa àti alábàáṣiṣẹ́pọ̀ láti mú kí ó rọrùn láti dókòwò kí wọ́n sì ṣiṣẹ́ nínú ètò ọrọ̀ ajé ajẹmẹ́rọ-ayélujára Áfríkà," Luqman Edu, Ọ̀gá Àgbà Pátápátá ti Itana ni ó sọ èyí.
+"Ọjà Áfíríkà sì jẹ́ èyí tí wọ́n kò tíì ná púpọ̀ bẹ́ẹ̀ ni Itana yóò pèsè àyíká okòwò èyí tí yóò jẹ́ lórí ẹ̀rọ-ayélujára pátápátá, fún àwọn ilé iṣẹ́ àti ìmọ̀-ẹ̀rọ ní àgbáyé àti fún ìsọ̀kan Ilẹ̀ Áfíríkà láti ṣàmúlo Nigeria gẹ́gẹ́ bí ọ̀pákùtẹ̀lẹ̀ láti ṣiṣẹ́ pẹ̀lú ìrọ̀rùn káàkiri ilẹ̀ náà.
+Itana ń wá ọ̀nà láti pèsè àyíká orí ẹ̀rọ-ayélujára (àwùjọ orí ẹ̀rọ-ayélujára) - tí ó jọ Delaware (U. S.), E- Estonia (Europe) tàbí Dubai (Asia) - èyí tí yóò fi ààyè gba àwọn ilé iṣẹ́ láti ṣàmúlo kí wọ́n sì ṣiṣẹ́ láti ilé ní Èbúté ọ̀fẹ́ Nigeria láì jẹ́ pé wọ́n wà níbi ọ̀kan lójúkojú.
+Àwọn ilé iṣẹ́ àti ẹ̀ka ìmọ̀-ẹ̀rọ tó fẹ́ ṣe ìfilọ́lẹ̀ orí ẹ̀rọ-ayélujára ní Nigeria lè wọlé sí www.itana.africa láti darapọ̀ mọ́ àwọn àtòjọ tí ó wà nílẹ̀ láti gbat ìwé ẹ̀rí Okòwò Èbúté ọ̀fẹ́ orí ẹ̀rọ-ayélujára, èyí tí yóò fún jẹ́ kí àwọn oklwt gbádùn ètò okòwò àti iṣẹ́ aláìjójúkokú.
+"Itana yóò fún àwọn oníṣòwò ní àǹfààní láti ṣẹ̀dá okòwò tí ó ní àpọ́nlé lágbàáyé ní Èbúté ọ̀fẹ́ Nigeria àkọ́kọ́ nípa ṣíṣe àmúlò àwọn àǹfààní tí ó jẹ́ pé àwọn ilé iṣẹ́ olùpèsè abẹ́lé tàbí ẹ̀ka epo rọ̀bì àti gáàsì nìkan tí wọ́n wà ní àwọn Èbúté ọ̀fẹ́ Nigeria wọ̀nyí ní ń jẹ àǹfààní rẹ̀," Iyinoluwa Aboyeji, Olùdókòwò Ìpìlẹ̀ ní Itana ni ó sọ èyí.
+"Nínú àwọn àdìdeelẹ̀ Èbúté ọ̀fẹ́ orí ẹ̀rọ-ayélujára Itana ni àwọn àǹfààní àyíká tí ó ṣe déédéé, owó orí àti ṣíṣẹ́ owó ọjà àti òmìnira láti ṣiṣẹ́ lórí ẹ̀rọ-ayélujára láì sí àmúlò ìfojúkojú tààrà kankan nínú èbúté ọ̀fẹ́ náà.
+Mo ń fojú sọ́nà fún àwọn okòwò àgbáyé láti orílẹ̀ èdè Nigeria tí yóò dìde láti ara èyí."
+Àwùjọ Itana yóò tún ní àǹfààní sí ọgbà ilégbèé-mọ́-ilé-iṣẹ́ tí gígùn àti fífẹ̀ rẹ̀ jẹ́ mítà 72, 000 èyí tí ó ń bọ̀ lọ́nà, 'Ẹkùn Itana, èyí tí a ṣe àgbékalẹ̀ fún pípẹ́ kánrinkése ní Alaro City (ní Èbúté Ọ̀fẹ́ Lekki, ní ìta Ìpínlẹ̀ Èkó, Nigeria), níbi tí wọn ó ti gbàlejò àwọn olùgbé títí láì àti àlejò láti àwùjọ orí ẹ̀rọ-ayélujára fún àwọn àṣeyẹ ìbáṣepọ̀, ìbáṣiṣẹ́pọ̀, ìbágbépọ̀, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+Pẹ̀lú ìpele àkọ́kọ́ ìtẹ̀síwájú rẹ̀ tí yóò parí ní 2027, Ẹkùn Itana yóò jẹ́ ìpìlẹ̀ fún àwòṣe ìlú àti amáyédẹrùn fún ìmọ̀-ẹ̀rọ láti Áfíríkà.
+"Àǹfààní ọjà láti pèsè àwọn iṣẹ́ okòwò ẹ̀rọ-ayélujára àti ìmọ̀-ẹ̀rọ ní Áfíríkà jẹ́ pàtàkì - àwùjọ yìí ń dàgbà gidi bí ó tilẹ̀ jẹ́ pé àwọn ilé-iṣẹ́ àdìdeelẹ̀ ń kojú ìdojúkọ amáyédẹrùn káàkiri ilẹ̀ náà, ni ọ̀rọ̀ Yvonne Bajela, Alábàádòwòpọ̀ ní LovalGlobe.
+"A ti rí àṣeyọrí àwọn àwùjọ ẹ̀rọ-ayélujára, bí e-Estonia, láti mú ìdàgbàsókè bá àwọn okòwò.
+Inú wa dùn nípa agbára Itana láti wá ọ̀nà àbáyọ sí àwọn ìṣòro wọ̀nyí nígbà tí yóò ṣe àtìlẹ́yìn fún àwọn oníṣòwò àsìkò yìí ní Nigeria àti jù bẹ́ẹ̀ lọ.
+Ayọ̀ wa kún láti ṣe àtìlẹ́yìn fún ikọ̀ aláfojúsùn bí èyí a sì ń fojú sọ́nà lati ṣiṣẹ́ pẹ̀lú wọn bí wọ́n ṣe ń kọ́ ibùdó ìmọ̀-ẹ̀rọ Áfíríkà.
+Ní 2022, Itana ṣe ìfilọ́lẹ̀ ètò ìmọ̀-ẹ̀rọ àtiléṣe èyí tí ó fi ààyè sílẹ̀ fún àwọn akópa - pàápàá jùlọ àwọn àwọn ọ̀gá okòwò àti olùgbé ọjọ́ iwájú - láti gbìyànjú ètò ìjọba orí ẹ̀rọ-ayélujára, ìsopọ̀ àgbáyé, àti àdéhùn ètò ọrọ̀-ajé ajẹmẹ́rọ-ayélujára tí ó lágbára ní Áfíríkà.
+Àwọn Aṣàmúlò àwùjọ orí ẹ̀rọ-ayélujára Itana yìí ti dàgbàsókè di ikọ̀ aláṣepọ̀ tí ó tó 3,000 àwọn aṣẹ̀dá ìmọ̀-ẹ̀rọ àti oníṣòwò tí wọ́n ń ṣiṣẹ́ fún Ilẹ̀ Áfíríkà.
+"Lẹ́yìn ìbáṣepọ̀ pẹ̀lú ọ̀pọ̀ àwọn ilé-iṣẹ́ àgbáyé tí wọ́n ń ṣiṣẹ́ ní Nigeria, mo ní èrò rere nípa ipa tí Itana yóò mú wá sí ètò ọrọ̀-ajé Áfríkà.
+A ń kọ́ ohun amáyédẹrùn àti àwọn ìhun láti ṣe àtìlẹ́yìn fún àwọn okòwò, nítorí kí àwọn nǹkan bí ṣíṣí àṣùnwọ̀n ilé ìfowópamọ́ tàbí gbígba àwọn ìwé ẹ̀rí okòwò kò ní nílò ìfokúrinjú" ni ọ̀rọ̀ Coco, Igbákejì Ọ̀gá Àgbà Pátápátá ní Itana.
+"Mo nírètí pé nípasẹ̀ ohun tí a kọ́, a ó lè pèsè ìkànnì tí ó ní àkóyawọ́ tí ó sì dára fún àwọn aṣàmúlò láti ṣe òwò."
+Pẹ̀lú iye àwọn ènìyàn àwùjọ tí ó jẹ́ ọ̀dọ́ àti bí wọ́n ṣe ń pọ̀ sí i, Áfíríkà jẹ́ ilẹ̀ tí ó kún fún àǹfààní fún àwọn aṣẹ̀dá ohun èlò ẹ̀rọ-ayárabí-àsá àti àwọn olùdókòwò ilẹ̀ òkèèrè - Stripe Atlas (Delaware, U. S.) ti jẹ́rìí èyí pẹ̀lú àkójọfáyẹ̀wò tí ó ṣàfihàn ìdàgbàsókè 400% ní ọdún sí ọdún fún àwọn okòwò àkópọ̀ láti Nigeria.
+Itana ní àfojúsùn láti ṣẹ̀dá àṣà tí yóò máa tọ́jú 'àwọn olórí ọjọ́ iwájú' - àwùjọ àwọn olùdásílẹ̀, oníṣòwò, alátinúdá, àti aṣẹ̀dá.
+Darapọ̀ mọ́ àtòjọsílẹ̀ Itana kí o sì forúkọ okòwò rẹ sílẹ̀ ní èbúté ọ̀fẹ́ orí ẹ̀rọ-ayélujára, ṣe àbẹ̀wò sí www.itana.africa láti bẹ̀rẹ̀.
+Nípa Itana
+Itana - wá láti inú 'Ìtanná', ọ̀rọ̀ Yorùbá fún 'títan iná' tàbí 'ìgbèrú' - jẹ́ èbúté ọ̀fẹ́ orí ẹ̀rọ-ayélujára àkọ́kọ́ ní Áfíríkà.
+Yóò wà ní agbègbè ẹ̀rọ-ayélujára ní kíkún fún ọrọ̀-ajé ajẹmẹ́rọ-ayélujára pẹ̀lú àwọn òfin, iṣẹ́ okòwò àti ìmọ̀ ẹ̀rọ tí ó dára fún ìmọ̀-ẹ̀rọ àgbáyé àti àwọn iṣẹ́ okòwò láti ṣiṣẹ́ wọn láì fojúkojú kí wọ́n sì máa dàgbàsókè pẹ̀lú ìrọ̀rùn káàkiri Áfíríkà.
+Ìdásílẹ̀ láti ọwọ́ Luqman Edu, Ọ̀gá Àgbà Pátápátá, àti Iyinoluwa Aboyeji, Olùdókòwò Ìpìlẹ̀, pẹ̀lú Coco Liu, Igbákejì Ọ̀gá Àgbà Pátápátá, Itana yóò fi ààyè gba ìmọ̀ ẹ̀rọ àgbáyé àti àwọn ilé iṣẹ́ aṣèrànwọ́ láti ṣe àgbékalẹ̀ àwọn iṣẹ́ Áfíríkà wọn láti Nigeria, kí wọ́n sì lo àǹfààní àwọn òfin okòwò tí ó dára lágbàáyé pẹ̀lú àwọn kóríyá (gẹ́gẹ́ bí okòwò èbúté ọ̀fẹ́ orí ẹ̀rọ-ayélujára) nínú èyí tí owó orí, ìwé ìgbélùú fún okòwò, ilé ìfowópamọ́, ìṣẹ́wó ọjà, àti àtìlẹ́yìn ilé aṣòfin fún àwọn okòwò wà.
+Ní 2027, Itana yóò tún di àsopọ̀ pẹ̀lú ẹkùn ilé iṣẹ́ àdìdeelẹ̀ abáwùjọrẹ́ ní èbúté ọ̀fẹ́ Alaro (Epe, Ìpínlẹ̀ Èkó).
+Itana ní àtìlẹ́yìn láti ọwọ́ àwọn oníṣòwò àgbáyé LocalGlobe, Amplo, Pronomos Capital, àti Future Africa, agbára ńlá àwọn ìjìnlẹ̀ alámọ̀já àti onímọ̀-ọ́nṣe láti ọwọ́ àwọn alábàádòwòpọ̀ èyí tí ó ti ṣe àtìlẹ́yìn fún àwọn àwòṣe àwùjọ orí ẹ̀rọ-ayélujára bí e-Estonia, tí wọ́n sì ṣẹ̀dá àwọn ọjà tí ó tayọ.
+Itana ń wá ọ̀nà láti ṣe àmúlò agbára ìmọ̀ ẹ̀rọ ilẹ̀ náà kí ó sì mú àwọn ìdókòwò ilẹ̀ òkèèrè tààrà àti ìrọ̀rùn ìṣòwò wà ní Áfíríkà.
+Glovo àti Shoprite ṣe àdéhùn ìbánidòwòpọ̀ láti pèsè Ìfọjàsọwọ́sílé ní Nigeria.
+Ìbádòwòpọ̀ yìí yóò fi ààyè gba àwọn oníbàárà ìgboro láti jẹ àǹfààní àwọn Ìfọjàsọwọ́sílé àwọn èlò oúnjẹ tí ó yára tí ó sì rọrùn nípasẹ̀ Glovo.
+Ìbádòwòpọ̀ náà jẹ́ ìgbésẹ̀ tuntun nínú èròǹgbà Shoprite láti ṣètò ìlànà onígba-ọ̀nà-ìtajà àrà ọ̀tọ̀ tí yóò sì fi ààyè gba Glovo láti túbọ̀ tẹ ẹ̀ka ọjà oúnjẹ rẹ̀ síwájú.
+Ní ìbámu pẹ̀lú èròǹgbà láti pèsè níní àǹfààní sí ohùn gbogbo pelu ìrọ̀rùn fún àwọn ènìyàn ní ìlú wọn, asíwájú ohun èlò ẹ̀rọ onígba ìpele, Glovo ti ṣe àdéhùn ìbánidòwòpọ̀ pẹ̀lú ilé ìtajà ńlá tí ó tóbi jùlọ ní Nigeria, Shoprite.
+Nípasẹ̀ àjọṣepọ̀ tí wọ́n gbé kalẹ̀ yìí láti ṣe àgbékalẹ̀ ìrírí, tí ó rọrùn tí ó sì yá tí kò sì náni ní wàhálà fún àwọn oníbàárà láti ra àwọn ọjà oúnjẹ lórí ẹ̀rọ ayélujára, ní báyìí àwọn oníbàárà lè ra àwọn ọjà tí wọn nílò lójoojúmọ́ tí ó fi mọ́ àwọn oúnjẹ tí wọ́n ṣẹ̀ṣẹ̀ se, èso tútù, àti ewébẹ̀ láti Shoprite lórí Glovo.
+Ọpẹ fún àwọn àgbájọ akọ́jàráńṣẹ́ Glovo, àwọn ọjà ń dé ọ̀dọ̀ àwọn oníbàárà láàárín wákàtí kan lẹ́yìn tí wọ́n ti rà á lórí ẹ̀rọ.
+Ìbádòwòpọ̀ náà èyí tí wọ́n buwọ́lù ní oṣù Karùn-ún wà fún gbogbo ilé ìtajà Shoprite níbi tí. Glovo ti ń ṣiṣẹ́ - Lagos, Abuja àti Ibadan, pẹ̀lú ètò láti tàn wọ àwọn ìlú mìíràn ní àwọn oṣù tí ó ń bọ̀.
+Ìgbésẹ̀ náà ti yára ṣe àyípadà kánkán sí àgbékalẹ̀ ilé-iṣẹ́ ìṣòwò ìbílẹ̀, ó túbọ̀ ṣe àgbéga ipò Glovo ní ọjà Nigeria, lẹ́yìn ọdún méjì péré tí ó dé.
+Tosin Olukoya, Alákòóso Ìlànà àti àfojúsùn, Retail Supermarket Nigeria, sọ pé ìṣòwò orí ayélujára tí mú àyípadà bá ọjà títà ní ilé ìtajà àti pé àwọn ilé ìtajà fẹ́ rí í dájú pé àwọn pèsè fún àìní àwọn oníbàárà nípa mímú ọjà rírà orí ẹ̀rọ ayélujára rọrùn sí i pẹ̀lú Glovo.
+"Shoprite ń wá àwọn ọ̀nà láti má ṣe ọ̀tun ìfọjàráńṣẹ́ tí yóò àwọn ìrírí ìrajà ojoojúmọ́ àwọn oníbàárà rọrùn.
+Ṣíṣe àmúlò ìmọ̀-ọ́nṣe Glovo lábẹ́lé àti káàkiri àgbáyé nínú ilé-iṣẹ́ ìṣòwò ayákánkán, a ní ìgbàgbọ́ pé ìbánidòwòpọ̀ yìí yóò pèsè iṣẹ́ ìfọjàráńṣẹ́ sílé tí ó yára tí ó sì rọrùn tí yóò gbà wá láyé láti bá àìní àwọn oníbàárà wa pàdé lásìkò ìmọ̀ ẹ̀rọ yìí," Olúkọ̀yà ló sọ èyí.
+Alákòóso Àgbà fún ìlànà àti àfojúsùn Retail Supermarket Nigeria, Bunmi Adeleye, sọ síwájú sí í pé ìbáṣepọ̀ okòwò pẹ̀lú Glovo wà ní ìbámu pẹ̀lú èròǹgbà Retail Supermarket Nigeria láti pèsè ìrọ̀rùn, àmúyẹ àti ọjà tí ó yááyì fún àwọn oníbàárà àti àwọn àwùjọ tí wọ́n ti ń ṣiṣẹ́.
+Nígbà tí ó ń sọ̀rọ̀ nípa àdéhùn náà, Kolawole Adeniyi, Olórí Ìṣòwò Ayákánkán fún Glovo Nigeria sọ pé ìbánidòwòpọ̀ náà wà ní ìbámu pẹ̀lú àfojúsùn Glovo láti pèsè àǹfààní ìrọ̀rùn sí ohunkóhun fún gbogbo ènìyàn ní ìlú wọn.
+Ó sọ pé, "Láti mú àfojúsùn wa sẹ, a béèrè fún àwọn Ìbádòwòpọ̀ pẹ̀lú àwọn ibi ìtajà ńlá pẹ̀lú ilé ìtajà káàkiri àwọn àwọn ibùdó tí a ti ń ṣiṣẹ́.
+Glovo ń gbádùn ìdàgbàsókè ńlá ó sì ní àwọn èròǹgbà tí ó tóbi.
+Àfojúsùn wa ni láti mú ọjà oúnjẹ rírà yá kánkán, kí ó lọ ní ìrọwọ́rọsẹ̀ kí ó sì rọrùn sí i ju tẹ́lẹ̀ lọ fún àwọn oníbàárà.
+Ìbádòwòpọ̀ wa pẹ̀lú Shoprite yóò fún wa ní ààyè láti ṣe èyí, nípa gígùn lé ọjà tuntun yìí bẹ́ẹ̀ ni yóò sì ràn wá lọ́wọ́ láti ṣe àgbéga ìdàgbàsókè káàkiri Afíríkà.
+Nígbà tí òun náà ń sọ̀rọ̀, Lamide Akinola, Olùdarí Àgbà, Glovo Nigeria sọ pé, "Ohun tí ó wù wá ni láti jẹ́ ohun èlò ẹ̀rọ onígba ìpele tí yóò wá lọ́kàn àwọn ènìyàn bẹ́ẹ̀ sì ni à ń fojú sọ́nà fún àwọn oníbàárà wa láti ní àǹfààní sí àwọn ọjà Shoprite láti ibikíbi tí wọ́n bá wà.
+A ní ìgbàgbọ́ pé ìbánidòwòpọ̀ yìí yóò ṣe ìrànlọ́wọ́ fún wa láti dé ibi ìlànà wa gbòòrò kí a jẹ́ ilé ìtajà onígba iṣẹ́ fún gbogbo ọjà akóránṣẹ́ àwọn oníbàárà wa.
+Nípa Glovo
+Glovo ń síwájú ṣíṣe àgbékalẹ̀ ohun èlò ẹ̀rọ onígba ìpele tí yóò so àwọn oníbàárà mọ́ okòwò, àti àwọn akọ́jàráńṣẹ́, tí yóò máa pèsè àwọn iṣẹ́ tí àwọn èèyàn bá béèrè fún láti ilé oúnjẹ abẹ́lé, ilé ìtajà oògùn, ilé ìtajà oúnjẹ, ilé ìtajà ẹwà ara àti àwọn ilé ìtajà ńlá, àti àgbájọ àwọn ilé ìtajà.
+Àfojúsùn Glovo ní láti fún gbogbo ènìyàn ní àǹfààní tí ó rọrùn sí gbogbo nǹkan nínú ìlú, kí àwọn aṣàmúlò wa lè ba à gbádùn ohun tí wọ́n fẹ́, nígbà tí wọ́n fẹ́ àti níbi tí wọ́n ti fẹ́.
+Ìlú Barcelona ni wọn ti dá a sílẹ̀ ní 2015, ó nt ṣiṣẹ́ káàkiri àwọn orílẹ̀-èdè 25 ní ilẹ̀ Yúróòpù, Àárín gbùngbùn Asia àti Afíríkà.
+Nípa Retail Supermarkets Nigeria Limited.
+Retail Supermarket Nigeria Limited (RSNL) tí ó ń ṣiṣẹ́ gẹ́gẹ́ bí Shoprite, jẹ́ asíwájú ẹ̀wọ́n ilé ìtajà ńlá tí Shoprite Holdings Limited ("SHL. ") nìkan ni tẹ́lẹ̀, ilé-iṣẹ́ tí wọ́n dá sílẹ̀ ní South Africa.
+Ní Oṣù Karùn-ún 2021, pẹ̀lú àṣẹ Federal Competition and Consumer Protection Commission (FCCPC), Persian investment Limited àti àwọn olùdókòwò pàtàkì mìíràn nípasẹ̀ SPV, Ketron Investment Limited kan, ra Retail Supermarket Nigeria Limited lọ́wọ́ SHL láti di olówó àti olùdarí àwọn ilé Ìtajà Shoprite ní Nigeria pẹ̀lú èrò láti sí àwọn àfikún ilé ìtajà láti mú kí ilé ìtajà náà wà káàkiri fún àwọn onírúurú ọjà tí wọn ṣe ní Nigeria àti àwọn ọjà ilẹ̀ òkèèrè.
+RSNL ṣe ìfilọ́lẹ̀ ilé ìtajà Nigeria rẹ̀ àkọ́kọ́ ní Èkó ní Oṣù Kejìlá 2005, ó sì ti tàn di ilé ìtajà 26 káàkiri àwọn Ìpínlẹ̀ 14 ní orílẹ̀ èdè náà.
+Ilé-iṣẹ́ náà ní ibùdó ìkọ́jàpamọ́ mítà 4, 732 ní Èkó, èyí tí ó ń ṣe àkóso gbígba ọjà láti ọwọ́ àwọn àgbẹ̀ abẹ́lé fún Freshmark, ẹ̀ka Shoprite tí ó ń rí sí ríra àti pínpín àwọn èso àti ewébẹ̀.
+GOMYVODE - MÍMÚ ìlọsíwájú bá Ìmọ̀ ẹ̀rọ nínú Ẹ̀kọ́ ní Àríwá.
+GoMyCode, asíwájú ilé-iṣẹ́ ìmọ̀ ẹ̀rọ nínú ètò ẹ̀kọ́, fi tayọ̀tayọ̀ kéde ilé-iṣẹ́ wọn tí wọ́n sí ní Abuja lónìí.
+Ìṣẹ̀lẹ̀ ńlá yìí ṣàmì ìlọsíwájú pàtàkì nínú ìmúgbòòrò GoMyCode sí apá àríwá Nigeria àti ìfarajìn láti pèsè ètò ẹ̀kọ́ ìṣèsirò ẹ̀rọ àti ẹ̀kọ́ ìṣẹ̀dá tí ó bágbàmu jùlọ nígbà tí yóò fi ààyè gba àtinúdá ní ẹ̀kùn náà.
+Ìkójáde ńlá ilé-iṣẹ́ GoMyCode ní Abuja jẹ́ àpẹẹrẹ ìlọsíwájú ńlá fún ilé-iṣẹ́ náà.
+Pẹ̀lú ìgbòòrò rẹ̀ sí Àríwá, GoMyCode farajìn fún ìrónilágbára àwọn ènìyàn pẹ̀lú ìmọ̀-ọ́nṣe àti ìmòye tí wọ́n nílò láti ṣiṣẹ́ lásìkò ìmọ̀ ẹ̀rọ yìí.
+Pẹ̀lú ilé-iṣẹ́ wọn tuntun tí ó wà ní àárín ìgboro Abuja, GoMyCode wà ní ipò ńlá láti mú ìdàgbàsókè bá ìwàláàyè àti èròǹgbà wọn ní Nigeria àti gbogbo Ìwọ Oòrùn Afíríkà.
+Lásìkò ayẹyẹ yìí, Olùdarí GoMyCode ní orílẹ̀-èdè yìí Babatunde Olaifa fi ìdùnnú rẹ̀ hàn, ó sọ pé, "Inú wa dùn láti sí ilé-iṣẹ́ wa tí ó wà ní Abuja lónìí.
+Ìmúgbòòrò yìí jẹ́ ẹ̀rí ìfarajìn wa láti ró àwọn ènìyàn lágbára pẹ̀lú àwọn ìmọ̀-ọ́nṣe ẹ̀rọ tí ó ṣe pàtàkì láti ṣe àṣeyọrí ní àsìkò ẹ̀rọ yìí.
+Abuja jẹ́ ìlú tí ó kún fún ẹ̀bùn àti ìmọ̀-ọ́nṣe, inú wa sì dùn láti jẹ́ apá kan nínú ètò àwùjọ ìmọ̀ ẹ̀rọ rẹ̀.
+Bí àìníṣẹ́lọ́wọ́ ṣe jẹ́ ìdojúkọ ńlá síbẹ̀, pàápàá jùlọ ní àwọn orílẹ̀-èdè tí ó ṣẹ̀ṣẹ̀ ń gòkè àgbà bí Nigeria; ibùdó ìmọ̀-ẹ̀rọ GoMyCode kojú ìdojúkọ yìí lójúkojú nípa pípèsè àǹfààní sí ètò ẹ̀kọ́ ìmọ̀ ẹ̀rọ àti ìdanilẹ́kọ̀ọ́.
+Nípa ìpèsè àwọn ètò tí kò ga jara lọ tí ó sì rọrùn, níbi tí àwọn ènìyàn ti lè kọ́ àwọn ìmọ̀-ọ́nṣe tí wọ́n ń béèrè gẹ́gẹ́ bí ìṣẹ̀dá ìtakùn ayélujára, ìmọ̀ sáyẹ́ńsì àlàyé-ìwífún, ọgbọ́n àtọọ́dá, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+Síwájú sí í, àgbékalẹ̀ ìtẹ̀síwájú GoMyCode kojú ìṣòro àìníṣẹ́lọ́wọ́ nípa pípèsè àwọn àǹfààní iṣẹ́ àtiléṣe nípasẹ̀ àfojúsùn rẹ̀ lórí àsopọ̀ orí ẹ̀rọ àti ìdanilẹ́kọ̀ọ́ orí ẹ̀rọ pẹ̀lú.
+Ibùdó ìmọ̀-ẹ̀rọ GoMyCode tẹnumọ́ ìrónilágbára àwọn obìnrin àti ọmọdé púpọ̀ àti dídí àlàfo ìjákọ̀jábo tí ó wà nínú ilé-iṣẹ́ ìmọ̀ ẹ̀rọ.
+Nípa mímú kí àǹfààní wà fún ẹ̀kọ́ ìmọ̀-ẹ̀rọ àti ṣíṣẹ̀dá àyíká tí ó ṣe àtìlẹ́yìn, ní àfikún, ibùdó ìmọ̀ ẹ̀rọ náà ṣètò àwọn ètò pàtàkì àti irinṣẹ́ fún àwọn ọmọdé, ó ń fún wọn ní ìmọ̀-ọ́nṣe pàtàkì láti kékeré.
+"Nípa ṣíṣe ìdanilẹ́kọ̀ọ́ àti ìrónilágbára fún àwọn ọ̀dọ́ Nigeria, a ó máa fún wọn ní àǹfààní láti sọ ẹ̀bùn wọn di òtítọ́, nígbà tí a ń túbọ̀ mú ìlọsíwájú bá ìdàgbàsókè ọrọ̀ ajé, tí a sì ń mú ìlọsíwájú bá àṣà ṣíṣe àtinúdá."
+èyí jẹ́ ọ̀rọ̀ ìtẹnumọ́ nínú ọ̀rọ̀ Olùbánisọ̀rọ̀ pàtàkì Ọ̀gbẹ́ni Iyene Ibanga Adarí, Corporate and Communications officer ti ilé-iṣẹ́ fún National Digital Innovation (NDI) ẹni tí ó ṣojú Olùdarí Àgbà fún National Information Technology Development Agency (NITDA) Ọ̀gbẹ́ni Kashifu Inuwa Abdullahi ; ẹni tí ó tẹnumọ́ pàtàkì àpéjọ àwọn onímọ̀-ẹ̀rọ láti mú ìdàgbàsókè bá ọrọ̀-ajé Nigeria.
+Pẹ̀lú bí àwọn iṣẹ́ àtiléṣe ṣe ń gbilẹ̀ káàkiri àgbáyé, ibùdó GoMyCode ń pèsè ìmọ̀-ọ́nṣe tí ó ṣe pàtàkì fún àwọn ènìyàn láti ní àǹfààní sí àwọn iṣẹ́ àtiléṣe wọ̀nyí, nítorí náà ó ń ṣe ìmúgbòòrò àwọn iṣẹ́ tí àwọn ènìyàn lè ṣe pàápàá jùlọ ní àsìkò Ọgbọ́n Àtọọ́dá.
+Ó jẹ́ ohun ìwúrí láti mẹ́nubà pé ilé-iṣẹ́ náà ní àkọsílẹ̀ dáradára nípa ṣíṣe ìrónilágbára fún àwọn akẹ́kọ̀ọ́ 20, 000 káàkiri àwọn onírúurú ẹ̀ka ìmọ̀, wọ́n kọ́ wọn ní àwọn ìmọ̀-ọ́nṣe tí ó ṣe pàtàkì láti ṣe àṣeyọrí ní ẹ̀ka ìmọ̀-ẹ̀rọ ní àwọn orílẹ̀-èdè mẹ́sàn-án; Tunisia, Nigeria, Morocco, Senegal, Algeria, Kenya, Jordan, Cote d'Iboire àti Egypt.
+Ilé-iṣẹ́ náà ní èròǹgbà àyípadà láti sọ ètò ẹ̀kọ́ di tolorí tẹlẹ́mù nioat ṣíṣe ìrónilágbára fún àwọn ènìyàn pẹ̀lú ìmọ̀-ọ́nṣe tí ó ṣe pàtàkì láti ṣe àṣeyọrí ní àsìkò ìmọ̀-ẹ̀rọ yìí.
+Pẹ̀lú ìbáṣepọ̀ àwùjọ àwọn onímọ̀-ẹ̀rọ tí ó gbòòrò; GoMyCode ní àwọn ibùdó ojúkojú márùn-ún ní Nigeria báyìí; Yaba, Ikeja, Festac, Lekki; ní Èkó oelut Abuja tí ó jẹ́ àṣeyọrí rẹ̀ tuntun.
+Fún àlàyé sí nípa àwọn ètò GoMyCode àti ilé-iṣẹ́ tí wọ́n ṣẹ̀ṣẹ̀ sí ní Abuja, ẹ jọ̀wọ́ ẹ kàn sí www.gomycode.com.
+Ilé-iṣẹ́ àdìdelẹ̀ ìmọ̀ ẹ̀rọ nínú ìlera, Afrihealth ṣe ìfilọ́lẹ̀ Ètò Ọkọ̀ pàjáwìrì tí ó yára jùlọ ní Nigeria.
+Pípé kabúkabú ti di ìrọ̀rùn ọpẹ́ fún àwọn gbajúmọ̀ ilé-iṣẹ́ ìwákabúkabú lórí ẹ̀rọ ayélujára.
+Ní báyìí, pípé ọkọ̀ pàjáwìrì ti di ìrọ̀rùn síi bí ilé-iṣẹ́ ìmọ̀-ẹ̀rọ nínú ìlera Nigeria - Afrihealth, ti ṣe ìfilọ́lẹ̀ ilé-iṣẹ́ tí ó ń pèsè ọkọ̀ pàjáwìrì lórí ohun èlò ẹ̀rọ - Rigourplus, tí ó ṣe ìlérí ìṣẹ́jú 8 láti fèsì, èyí tí ó yàtọ̀ sí ìṣẹ́jú 45 - wákàtí 1 tí ó máa ń gbà tẹ́lẹ̀ kí ènìyàn tó rí ọkọ̀ pàjáwìrì ní Nigeria.
+Ìgbésẹ̀ ìgboyà yìí ní àfojúsùn láti se àyípadà sí ìfèsì ètò ìlera pàjáwìrì ní Ìpínlẹ̀ Èkó àti Nigeria, tí ó túbọ̀ ń mú ìlọsíwájú bá àwọn àtòjọ iṣẹ́ tí yááyì tí ó wà lórí Rigourplus.
+Ohun èlò ẹ̀rọ yìí ń mú àyípadà bá níní àǹfààní sí àwọn oníṣègùn òyìnbó tí wọ́n kájúẹ̀ nípasẹ̀ ìforúkọsílẹ̀ fún ìpàdé tí owó rẹ̀ kò ga jara lọ tí ó sì rọrùn, àti bákan náà ó ń pèsè àṣàyàn láti ra òògùn kí wọ́n sì gbé e wá sí ibikíbi.
+Kíkọ́ lé orí èròǹgbà rẹ̀ láti pèsè àwọn ọ̀nà àbáyọ sí ìtọ́jú ìlera tí ó wà káàkiri tí ó sì rọrùn, àbùdá ìforúkọsílẹ̀ ọkọ̀ pàjáwìrì tuntun náà ṣe ìlérí láti yí bí àwọn ọmọ Nigeria ṣe ń lo àwọn ìrànlọ́wọ́ ìlera pàjáwìrì.
+Àbùdá ìforúkọsílẹ̀ ọkọ̀ pàjáwìrì náà yóò fi ààyè gba àwọn aṣàmúlò láti pe ọkọ̀ pàjáwìrì láti àwọn ilé ìwòsàn tí ó sún mọ́ jùlọ, gbogbo rẹ̀ nípasẹ̀ títẹ àtẹ̀ṣẹ kan.
+Èyí túmọ̀ sí pé nígbà tí ìṣẹ̀lẹ̀ pàjáwìrì bá ṣẹlẹ̀, ìrànlọ́wọ́ kò jìnnà nípasẹ̀ ṣíṣe àmúlò ẹ̀rọ ayélujára.
+Linda Obi, Ọ̀gá Afrihealth, sọ pé, "Àfojúsùn wa láti ìbẹ̀rẹ̀ ni láti jẹ́ kí gbogbo ènìyàn ní àǹfààní sí ìtọ́jú ìlera.
+Àwòmọ́ ìforúkọsílẹ̀ ọkọ̀ pàjáwìrì náà jẹ́ ẹ̀rí sí ìfarajìn wa láti mú kí ìtọ́jú ìlera wà fún gbogbo ọmọ Nigeria, ní ibikíbi tí wọ́n bá wà.
+"Pẹ̀lú àwòmọ́ ìforúkọsílẹ̀ ọkọ̀ pàjáwìrì yìí, a ń gbé ìgbésẹ̀ ìdàgbàsókè ńlá láti mú èròǹgbà wa sẹ.
+Ìṣẹ́jú àáyá kọ̀ọ̀kan lè ṣe ìyàtọ̀ ní àsìkò pàjáwìrì, a sì fẹ́ rí i dájú pé àwọn ọmọ Nigeria ní àǹfààní tí ó yára jùlọ sí ìrànlọ́wọ́ nígbà tí wọ́n bá nílò rẹ̀ jùlọ." - Linda Obi.
+Afriheath ti jẹ́ àtìlẹ́yìn ńlá ní agbọn ìmọ̀-ẹ̀rọ nínú ìlera, ó ń ṣe àmúlò àtinúdá láti mú ìtọ́jú ìlera wá sí ẹnu ọ̀nà yín nípasẹ̀ Rigourplus.
+Láti orí ìforúkọsílẹ̀ fún ìpàdé pẹ̀lú àwọn oníṣègùn òyìnbó dórí ríra òògùn, ohun èlò ẹ̀rọ Rigourplus jẹ́ ìtẹ̀síwájú ńlá.
+Ní báyìí, pẹ̀lú àwòmọ́ pípe ọkọ̀ pàjáwìrì, ó ti ṣetán láti ṣe àyípadà bí àwọn ọmọ Nigeria ṣe ń ní ìrírí ìtọ́jú ìlera ní àwọn àsìkò làásìgbò.
+Fojú sọ́nà lójú àtẹ agbáwòrán rẹ bí Rigourplus ṣe ń ṣe ìfilọ́lẹ̀ àwòmọ́ yìí bẹ́ẹ̀ ni mo rọ̀ ẹ láti ṣe ìgbàsórí-ẹ̀rọ ohun èlò ẹ̀rọ yìí fún àǹfààní ìlò tí kò ní wàhálà.
+Fún àlàyé sí àti láti mọ àwọn ohun tuntun, ṣàbẹ̀wò sí - https://www.afri-health.com/rigourplus/ kí o sì tẹ̀lé Rigourplus - @rigourplus
+Owó àkósódù mẹ́ta tí ó lékè láti rà ní Oṣù Kẹ̀sán-án 2023: Shiba Inu, BNB, VC Spectra
+Ní Ọjọ́ 29, alákòóso ọrọ̀ kírípútò Grayscale borí àjọ SEC.
+Ìdájọ́ náà borí ìpinnu SEC láti kọ ìforúkọsílẹ̀ owó àkósódù ETF.
+Ní báyìí, VC Spectra (SPTC) ṣe ìlérí ère gọbọi nígbẹ̀yìn àdéhùn ìtajà fún àwùjọ.
+Ẹ jẹ́ kí a wo bí eléyìí ti ṣe é ṣe àti bí ó ṣe sọ SPCT di kírípútò tí ó lékè nínú àwọn tí ó yẹ láti rà ní 2023.
+Báwo ni ìdájọ́ náà ṣe nípa lórí ojúsàájú ìjẹgàba Shiba Inu (SHIB) àti BNB (BNB)?
+Ẹ jẹ́ kí a wádìí.
+>>RA ÀWỌN OWÓ. ÀKÓSÓDÙ SPCT NÍSINSÌNYÍ<<
+Shiba Inu (SHIB): Shibarium Bridge ti wà lórí ẹ̀rọ ayélujára Báyìí.
+Ní Ọjọ́ 28 Oṣù Kẹjọ, 2023, àwọn aṣẹ̀dá Shiba Inu (SHIB) kéde pé gbígba owó àkósódù jáde láti Shibarium Bridge ti ń ṣẹlẹ̀ ó sì ti wà fún àwọn aṣàmúlò báyìí.
+Eléyìí ń jáde láìpẹ́ lẹ́yìn ìfilọ́lẹ̀ tí àwọn ènìyàn ti ń fojú sọ́nà fún tí ó kùnà pátápátá nítorí àwọn onírúurú ìṣòro ohun èlò ẹ̀rọ èyí tí ó mú kí ẹgbẹ̀lẹ́gbẹ̀ dọ́là àwọn owó àjọ nínú Shiba Inu di gbígbẹ́sẹ̀lé.
+Gbígba owó àkósódù Shiba Inu (SHIB) , Leash (LEASH), àti Wrapped Ether (wETH) jáde nínú ètò àwùjọ Shibarium yóò gbà tó láti ìṣẹ́jú 45 sí wákàtí 3 láti délẹ̀, nígbà tí gbígba owó jáde lórí Bone (BONE) lè gbà tó ọjọ́ 7.
+Ìròyìn náà ti ní ipa tí kò dára lórí ìdíyelé Shiba Inu (SHIB) yóò sì nípa tí kò dára lórí ìdíyelé ọjọ́ iwájú SHIB ní àwọn ọjọ́ tí ó ń bọ̀.
+Láti ìgbà tí ìròyìn náà ti jáde, ìdíyelé Shiba Inu (SHIB) ti pọ̀ si pẹ̀lú 1.8% láti $0.00000823 lọ sí $0.00000838.
+Ìdíyelé ọjọ́ iwájú Shint fún 2023 ni $0.00001083.
+Ìfọwọ́sí àwọn owó àkósódù láti ọwọ́ àwọn ìjọba bí ìjọba Hong Kong àti ìdáwọ́dúró lórí ìwọ̀n ìlọsíwájú ère láti ilé ìfowópamọ́ ìjọba Àpapọ̀ US jẹ́ èyí tí a ní ìrètí pé yóò kópa nínú ìlọsíwájú yìí.
+Eléyìí fi hàn pé Shiba Inu (SHIB) lè jẹ́ owó àkósódù tí ó dára jùlọ báyìí láti fi dókòwò.
+Pẹ̀lú bí ó ti ṣe é ṣe kí Sharibium dàgbà di gbajúgbajà àkànṣe Layer 2, àsọtẹ́lẹ̀ iye Shiba Inu fún 2030 wà láàárín $0.00004785 àti 0.00006056.
+Binance Labs ni Olùdókòwò Top Web3 ní Oṣù Mẹ́fà: Ṣé yóò mú iye owó BNB (BNB) lọ sókè?
+Gẹ́gẹ́ bí ọ̀rọ̀ Messari ní Ọjọ́ 27 Oṣù Kẹjọ, Binance Labs jẹ́ asíwájú olùdókòwò nínú ó lé ní àwọn àdéhùn okòwò 80% tí wọ́n ṣe ní àwọn oṣù mẹ́fà sẹ́yìn.
+Binance Labs gba ipò asíwájú olùdókòwò nínú àdéhùn okòwò 14 nínú 17, ó fẹ́rẹ̀ẹ́ tó ìlọ́po méjì DWF Labs tí ó wà nípò kejì.
+Messari sọ pé èyí jẹ́ ara ìlànà tuntun láti ṣe ìrànlọ́wọ́ fún àwọn àgbékalẹ̀ iṣẹ́ àkànṣe láti gbòòrò di Binance Coin (BNB) Chain.
+Lẹ́yìn tí ìròyìn náà jáde, iye owó àkósódù BNB gòkè pẹ̀lú 7.1% láti $216.37 ní Ọjọ́ 27 Oṣù Kẹjọ di $228.57 ní Ọjọ́ 29 Oṣù Kẹ̀sán-án.
+Bí ó tilẹ̀ jẹ́ pé, púpọ̀ ọ̀wọ́n náà jẹ́ àbájáde ìṣẹ́gun Grayscale.
+Gẹ́gẹ́ bí àsọtẹ́lẹ̀ àwọn lámèétọ́ nípa iye BNB fún ọ̀sẹ̀ tí ó ń bọ̀, iye ẹyọó BNB lè dé $319.99 ní Ọjọ́ 11 Oṣù Kẹsàn-án, ìgbéga nítorí àbájáde ipá ọjà lórí ìdájọ́ Grayscale.
+VC Spectra (SPCT) Fún àwọn Olùdókòwò ní Ìdánilójú fún Èrè.
+VC Spectra (SPCT) jẹ́ ìlànà ìṣàkóso ọrọ̀ ẹlẹ́kajẹ̀ka àti ìkànnì ìṣòwò tí ó fojúsun sísọ àǹfààní sí àká ìṣàkóso ìdúnàádúrà owó àkósódù àti ilé-iṣẹ́ ìmọ̀-ẹ̀rọ di àwaarawa kí wọ́n sì pèsè àbájáde kánrinkése tí ó ní èrè fún àwọn olùdókòwò.
+Àwọn olùdókòwò yóò jèrè lórí ìkànnì VC Spectra (SPCT) ní ọ̀nà méjì:.
+Èkíní ni nípa ìdókòwò nínú àwọn okòwò àká ìṣàkóso ìdúnàádúrà owó àkósódù tí ọjọ́ ọ̀la wọ́n dára, nígbà tí ọ̀nà kejì jẹ́ èrè láti àwọn iye owó VC Spectra tí wọ́n ń gòkè.
+VC Spectra (SPCT) farajìn nínú pípèsè àǹfààní sí àwọn iṣẹ́ tí ọjọ́ ọ̀la wọ́n dára, àwọn ìṣe ìdókòwò tí ó tọ́, àti àkóyawọ́ àti ìjíyìn.
+VC Spectra (SPTC) ṣe àkójọ mílíọ̀nù $2.4 gẹ́gẹ́ bí owó ìrànwọ́ àdáni ní ìpele ìtajà.
+Èyí jẹ́ àwòjíìjí ìgbàgbọ́ àtẹ̀yìnwá nínú ọjọ́ ọ̀la ìlànà náà.
+Àwọn olùdókòwò ìpele 1 nínú àkójọ owó ìrànwọ́ náà ti jèrè 212.15% Ère Ìdókòwò.
+Bákan náà, àwọn olùdókòwò ìpele 2 ti jèrè 127.27% Ère Ìdókòwò.
+Ìtajà ìsáájú náà wà ní Ìpele 3, pẹ̀lú àwọn owó àkósódù SPCT tí ó ń tà ní $0.025.
+Àwọn akópa nínú ìpele 3 yóò jèrè 32% ní ìpele 4 àti ère 220% ní ìgbẹ̀yìn ìsáájú ìtajà.
+Ère tí ó hànde yìí fún àwọn olùdókòwò ni ìdí tí VC Spectra (SPCT) fi jẹ́ kírípútò tí ó dára jùlọ láti dókòwò pẹ̀lú báyìí.
+Mímú ìlọsíwájú bá ìgbésáfẹ́fẹ́ àwòránhùn - Infinix ṣe àgbéjáde ZERO 30 5G pẹ̀lú Kámẹ́rà Iwájú tí ó Bágbàmu.
+Ìgbésáfẹ́fẹ́ àwòránhùn tí ó yàtọ̀ sí ti tẹ́lẹ̀: Infinix ZERO 30 5G Ṣètò Òṣùwọ̀n Tuntun pẹ̀lú Kámẹ́rà Iwájú alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde (4K/60FPS), Ìlọsíwájú bá Yíya àwọn Ìgbésáfẹ́fẹ́ àwòránhùn.
+Infinix kéde ìfilọ́lẹ̀ Infinix ZERO 30 5G lónìí, ẹ̀rọ ìbánisọ̀rọ̀ ajáfáfá kìíní ní ọ̀wọ́ rẹ láti ní ipá akáhùnkáwòrán Kámẹ́rà iwájú pẹ̀lú àbùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde (4K/60FPS).
+Ó ní onírúurú àwọn àbùdá àrà ọ̀tọ̀ aṣẹ̀dá àwòránhùn, Infinix ZERO 30 5G ṣe ìrónilágbára fún àwọn ọ̀dọ́ káàkiri àgbáyé láti lọ síwájú tayọ yíya àwọn àwòrán ara ẹni nìkan kí wọ́n wọ inú ayé ìṣẹ̀dá ìgbésáfẹ́fẹ́ àwòránhùn àtinúdá ọgbọ́n inú, tí ó tayọ ni àwòmọ́.
+Wọ́n ṣẹ̀dá Infinix ZERO 30 5G láti fún àwọn ọ̀dọ́ ní ọ̀nà láti ṣẹ̀dá àkóónú àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde tí ó tayọ àwọn yòókù pẹ̀lú Kámẹ́rà iwájú 50MP èyí tí ó fi ààyè gba àkásílẹ̀ àwòránhùn 4K (3840×160) ní 60FPS tí ó dán mọ́rán, àbùdá tí ó wà lórí àwọn àwòṣe ẹ̀rọ-ìbánisọ̀rọ̀ ajáfáfá tí owó wọn wọ́n nìkan.
+Infinix ZERO 30 5G pe àṣà lẹ́jọ́ nípa mímú ìrírí Kámẹ́rà iwájú tí ó dára gan-an wá fún ọ̀pọ̀lọpọ̀ ènìyàn tí ó fi mọ́ àwọn ọ̀dọ́ tí wọn kò ní owó púpọ̀.
+Kámẹ́rà iwájú náà ni wọ́n ṣe pẹ̀lú àwọn ètò ìpèsè àwòránhùn àrà ọ̀tọ̀ tí ó fi ààyè gba àwọn ọ̀dọ́ láti ṣẹ̀dá àwọn ìgbésáfẹ́fẹ́ gidi, tí ó sì bá ìlànà ìyàwòránhùn mu.
+Àwọn àbùdá tí ó lágbára mìíràn ni ìfihàn 144Hz AMOLED títẹ̀ tí ó dùn ún wò, àká agbaṣẹ́ṣe onídì mẹ́jọ tí wọ́n ń ṣiṣẹ́ dáadáa, àti Àká Ìwífun-àlàyé Òde ẹgbẹẹ̀gbẹ̀rún lọ́nà ẹgbẹẹgbẹ̀rún ègé Ìwífun 21.
+"Infinix ZERO 30 5G ṣe ìrónilágbára fún àwọn ọ̀dọ́ pẹ̀lú àwọn ọ̀nà láti 'Ṣé àkójọ àwọn ìtàn ìwọ fúnra rẹ', èyí gbé odidi ilé ìṣẹ̀dá àwòránhùn lé wọn lọ́wọ́ ó sì mú kí ṣíṣe ìgbésáfẹ́fẹ́ àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde ṣe é ṣe ju tẹ́lẹ̀ lọ.
+Ó ṣe àfihàn ìfarajìn wa láti ṣẹ̀dá àwọn ẹ̀rọ-ìbánisọ̀rọ̀ ajáfáfá ìṣẹ̀dá àrà ọ̀tọ̀ tí ó ní àwọn àwòmọ́ àti ìṣe tí ó bágbàmu tí wọ́n ṣe pàtàkì sí àwọn ọ̀dọ́ níbi gbogbo," ni ọ̀rọ̀ Leo Chang, Igbá-kejì Alákòóso Àgbà ní Infinix.
+4K 60FPS: Yàwòrán bí akọ́ṣẹ́mọṣẹ́.
+Infinix ZERO 30 5G gbé ọ sí ipò asíwájú pẹ̀lú kámẹ́rà iwájú 50MP tí ó lágbára láti ya àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde pẹ̀lú férémù 60 ní ìṣẹ́jú àáyá kan tí ó yanilẹ́nu.
+Àti kí ó lè fún àwọn aṣàmúlò ní agbára láti ya gbogbo àsìkò ayé pẹ̀lú àlàyé àti ìmọ́gaara, àwọn olùdarí ìyàwòrán náà lè lo àǹfààní àwọn onírúurú ìlànà ìkáhùnkáwòrán àrà ọ̀tọ̀ èyí tí ó fi wọ́n sí ipò olùdarí.
+Iná àtẹ̀tàn fíntínrín oníbejì yóò fún yín láyè láti ya àwòrán náà ní gbogbo àsìkò tí ìmọ́lẹ̀ wà.
+Irinṣẹ́ ẹ̀rọ aṣàtúpalẹ̀ ìmọ́lẹ̀ (PDAF) máa ń rí dájú pé àwọn àkóónú mú yányán, àwòmọ́ wọn sì dára ní gbogbo ìgbà yálà ó ń yàwòrán ara ẹni tàbí ṣe àkásílẹ̀ àwòránhùn.
+Ṣe àmúlò ìlànà Ayànnàná Àwòránhùn láti ṣẹ̀dá àkóónú àwòránhùn onípìn-ín 2.35:1 fún àgbékalẹ̀ àwòránhùn tí ó dùn ún wò dáadáa, tàbí ṣàmúlò Ìwò Oníbejì láti yàwòrán ìṣe náà láti ẹ̀gbẹ́ méjèèjì Kámẹ́rà náà pẹ̀lú ìkáhùnkáwòrán ní Kámẹ́rà iwájú àti ti ẹ̀yìn lẹ́ẹ̀kan náà.
+Infinix ZERO 30 5G ní Kámẹ́rà ẹ̀yìn 108MP tí ó ń ṣe àgbékalẹ̀ àwọn àwòrán tí wọ́n mú yányán dáadáa, tí ó mọ́lẹ̀ pẹ̀lú ìmọ́lẹ̀ díẹ̀ ọpẹ́ fún irinṣẹ́ aṣèdámọ̀ àwòrán 1/1.67" àti àwọn àwo onígíláàsì tí ó ń ya àwòrán ìmọ́lẹ̀ 10%[1] ju àwọn àwo alábọ́dé.
+Ó ń ṣe àmúlò ìmọ̀-ẹ̀rọ OIS àti EIS láti rí i dájú pé o yàwòrán tí ó dúró dáadáa fún àwòrán àti àwòránhùn.
+Ìsúnwòrán ẹlẹ́ta òkò fi ààyè gba àwọn aṣàmúlò láti gbádùn àwòmọ́ láti ọ̀nà jíjìn, nígbà tí awò fífẹ̀ 120° ń ṣe ìrànlọ́wọ́ fún àwọn aṣàmúlò láti yàwòrán ayé bí wọn ṣe rí i.
+Ìṣẹ̀dá àti Ìṣàfihàn: Di Iyebíye mú.
+Gbogbo ipá ni wọ́n ti sà láti rí i pé Infinix ZERO 30 5G ṣe àfihàn ìlànà àrà ọ̀tọ̀ ni gbogbo ọ̀nà.
+Férémù 2.88mm kan ní ìṣàfihàn tí ó dùn ún wò èyí tí ó ní àbùdá Ìtẹ̀kọdọrọ Wúrà 60° tí ó pèsè ìrọ̀rùn àti ìdánilójú abọ́ọ́dé, nígbà tí wọ́n dáàbò bo ìṣàfihàn rẹ̀ pẹ̀lú Gíláàsì Corning® Gorilla®.
+Wọ́n ṣẹ̀dá rẹ̀ kí àwọn akẹgbẹ́ yín lè jowú rẹ̀, Infinix ZERO 30 5G wà ní àwọn àṣàyàn àwọ̀ Wúrà Tanmóóko, Àwọ̀ ewéko Róòmù, àti Èse Àlùkò.
+Ìyára ìwọ̀n ìsọjí 144Hz mú kí àtẹ-agbáwòrán àti atọ́ka OS ní ìmọ̀lára ìrọ̀rùn, nígbà tí DPI-P3 tí ó ṣe déédéé níwọ̀n àwọ̀-elégèé-ìpìlẹ̀-10, ìpín ìfiwéra gíga àti àwọn ègé ìpìlẹ̀ ìmọ́lẹ̀ 950 túmọ̀ sí pé ìwọ àti àgbékalẹ̀ rẹ yóò dára ju ti tẹ́lẹ̀ lọ.
+Infinix ZERO 30 5G tún ní ìhun amóhùnbúgbẹ̀mù oníbejì pẹ̀lú àtìlẹ́yìn DTS tí yóò ràn yín lọ́wọ́ láti gbádùn àwọn àsìkò pàtàkì pẹ̀lú àlàyé àti ìmọ́gaara àfiyèmọ̀ tí ó pé.
+Infinix ZERO 30 5G tún ní ìṣe ìtọ́jú ojú pẹ̀lú Ìwé ẹ̀rí TUV Rhineland láti dáàbò bo ojú àwọn aṣàmúlò nígbà tí wọ́n bá ń síjú sí àtẹ-agbáwòrán ní àìmọye ìgbà.
+Iṣẹ́ tí ó lágbára, Àkáàrántí àti Ìpamọ́
+Àkásílẹ̀ àti ṣíṣètò àwọn àkóónú àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde tí ó ní ìwọ̀n férémù ńlá pè fún ọ̀pọ̀lọpọ̀ agbára ìṣètò, àkáàrántí ẹ̀rọ, àti ìpamọ́ - agbọn mẹ́ta tí Infinix ZERO 30 5G ti sey dáadáa.
+Agbaṣẹ́ṣe onípele mẹ́jọ ti MediaTek Dimensity ń ṣe ìtọ́jú iṣẹ́ alágbára pẹ̀lú àwọn ibùdó Cortex-A78 tí ń ṣiṣẹ́ ìlọ́po 4.
+Àfikún àwọn ibùdó Cortex-A55 tí ń ṣiṣẹ́ ìlọ́po 4 kan mú kí gbogbo nǹkan máa lọ ní ìrọwọ́rọsẹ̀, ó ń rí i dájú pé ìtàtapò láti orí ohun èlò ẹ̀rọ kan sí òmíràn àti àrìnkán lórí UI rọrùn.
+Ṣíṣe iṣẹ́ tí àkásílẹ̀ àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde pé fún láìsí ìdíwọ́ kankan, àwọn ìhun D8020 ń ṣètò fún ìrírí ìyàwòránhùn ìran tí ń bọ̀.
+Infinix ZERO 30 5G lọ síwájú ju ẹ̀rọ-ìbánisọ̀rọ̀ ajáfáfá èyíkéyìí tí wọ́n wà lọ́wọ̀ọ́ rẹ̀ lọ bí ó bá di ti àkáàrántí ẹ̀rọ, ó ní Àfikún Àkáàrántí ẹgbẹ̀lẹ́gbẹ̀ lọ́nà ẹgbẹ̀lẹ́gbẹ̀ ègé ìpìlẹ̀ 21 (Ẹgbẹ̀lẹ́gbẹ̀ lọ́nà ẹgbẹ̀lẹ́gbẹ̀ ègé ìpìlẹ̀ 12 pẹ̀lú ẹgbẹ̀lẹ́gbẹ̀ lọ́nà ẹgbẹ̀lẹ́gbẹ̀ 9 nípa ìṣàmúlò ìmọ̀-ẹ̀rọ ìyọ́pọ́) .
+Níní ipasẹ̀ àkáàrántí ńlá jẹ́ ohun pàtàkì fún dídojúkọ àwọn ohun tí àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde pè fún, àti àwọn ìwọ́n nlat fáìlì tí èyí ń ṣẹ̀dá biy a bá fi wé àwọn àwòránhùn ìpele HD, àti àwọn àwòránhùn Alábùdá Ẹgbàá Ìdá ìpìlẹ̀.
+Láti ṣe ìpamọ́ àwọn àwòránhùn tí ìwọ̀n wọn tóbi wọ̀nyí, Infinix ZERO 30 5G ní Àkáàrántí Àìyídá ẹgbẹ̀lẹ́gbẹ̀ lọ́nà ẹgbẹ̀lẹ́gbẹ̀ ègé ìpìlẹ̀ 256 èyí tí ó fi ààyè gba àwọn aṣàmúlò láti ṣe àkọsílẹ̀ àfikún àwọn wákàtí, àkóónú àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde láìsí wàhálà.
+Àwọn Àfikún Àwòmọ́
+Infinix ZERO 30 5G lo bátìrì 5000 mAh ńlá tí ó máa ń pẹ́ dáadáa.
+Ìgbagbára Kankan 68W túmọ̀ sí pé iye àkókò tí ó bá lò láti ya àwòránhùn Alábùdá Ẹgbàajì Ìdá ìpìlẹ̀ Agbáwòranjáde, àwọn aṣàmúlò yóò padà sí agbára kíkún láàrin ìṣẹ́jú díẹ̀, kí wọ́n sì nírètí láti gba agbára láti 1% lọ sí 80% ní ìṣẹ́jú 30 [3].
+Infinix ZERO 30 5G ṣe àmúlò XOS 13, àmọ̀ọ́mọ̀ ṣẹ̀dá Android 13 tí ó ní àwọn onírúurú àbùdá bágbàmu, tí ó fi mọ́ àmúdójú-ìwọ̀n olùrànlọ́wọ́ ohùn Folax tí ó ṣàmúlò ChatGPT.
+Sọ fún Folax láti ṣe àwọn ìpè, ya àwọn àwòrán, gbọ́ orin, ṣètò àwọn ìtanijí, tàbí ṣètò àwọn ìrìn-àjò.
+Àwọn aṣàmúlò tún lè ṣẹ̀dá àwòrán ojú àtẹ-agbáwòrán àrà ọ̀tọ̀ ti ara wọn nípa ṣíṣe àmúlò ohjnt èlò ẹ̀rọ Aṣẹ̀dá Àwòrán Ojú àtẹ-agbáwòrán, nígbà tí Ìwádìí Ìjáfáfá fi ààyè gba àwọn aṣàmúlò láti tètè mọ ipò àwòrán kan láti inú ọ̀pọ̀lọpọ̀ àwòrán, ó tilẹ̀ lè dábàá àwọn àwòrán tí ó jọ ọ́ lórí ẹ̀rọ-ayélujára.
+Àwọn ìṣe Ọgbọ́n Àtọọ́dá Aṣẹ̀dá Àwòrán Ojú àtẹ-agbáwòrán àti Ìwádìí Ajáfáfá yóò wà fún lílò nípasẹ̀ ìmúdójú-ìwọ̀n OTA tí ó ń bọ̀ lọ́nà.
+Infinix ZERO 30 5G pèsè ìsírọ aṣàmúlò ìhun ìkawọ́ 234ms kí àwọn aṣàmúlò lè gbádùn ààbò tí ó péye pẹ̀lú ìgboyà, àti ìrọ̀rùn.
+Infinix ZERO 30 5G ní ìsàsopọ̀ NFC ọlọ́pọ̀ ìṣe tí ó ń fi ààyè gba aṣàmúlò láti gbé ìgbé ayé aláìlowó-kìsì pẹ̀lú ìrọ̀rùn àti ètò ìrajà tí ó yá ní àwọn ilé-ìtajà, búkà àti ilé oúnjẹ àti ọkọ̀ ìgboro.
+Atami-òun-eruku-dànù IP53 ń dáàbò bo ZERO 30 5G nínú òjò, nígbà tí amẹrọtutù olómi káà ń dáàbò bò ó lọ́wọ́ ooru tí ó ń kórapọ̀ lásìkò àwọn àkásílẹ̀ àwòránhùn gígùn.
+Infinix ZERO 30 5G: Wíwà
+Wọ́n ṣẹ̀dá rẹ̀ kí àwọn akẹgbẹ́ yín lè jowú rẹ̀, Infinix ZERO 30 5G wà ní àwọn àṣàyàn àwọ̀ Wúrà Tanmóóko, Àwọ̀ ewéko Róòmù, àti Èse Àlùkò.
+Fún àlàyé sí, ẹ jọ̀wọ́ ẹ ṣàbẹ̀wò sí: http://www.infinixmobility.com/
+Mínísítà Nigeria fún Ọrọ̀- ajé Iṣẹ́-ọ̀nà, Àṣà àti Àtinúdá, Hannatu Musawa, ṣe àlàkalẹ̀ ètò oníkókó-ọ̀rọ̀-8 nínú fún ètò ọrọ̀ ajé nínú àtinúdá iṣẹ́-ọnà & ìmọ̀ ẹ̀rọ ní ẹkùn Abuja, Nigeria.
+Mínísítà fún Ọrọ̀- ajé Iṣẹ́-ọ̀nà, Àṣà àti Àtinúdá ní Nigeria Hannatu Musawa ṣe àlàkalẹ̀ ètò oníkókó-ọ̀rọ̀-8 nínú àwòránhùn ọ̀rọ̀ rẹ̀ sí àwọn ilé-iṣẹ́ alátinúdá & àwọn ènìyàn mìíràn tí ọ̀rọ́ kàn.
+Ẹ̀kúnrẹ́rẹ́ àkọsílẹ̀ ìròyìn rẹ̀ nísàlẹ̀
+Ẹ pẹ̀lẹ́ o & àlàáfíà ni (BarkanMu, Mokiyin, Ndewo, Salut, Buenos Dias, Marhaba, Ni hao), Èmi ni Hannatu Musawa, Mínísítà Ìjọba Àpapọ̀ tuntun fún iṣẹ́ Ìjọba lórí Ọrọ̀ ajé Iṣẹ́ ọ̀nà, Àṣà, àti Àtinúdá tí wọ́n ṣẹ̀ṣẹ̀ dá sílẹ̀.
+Mo ní àfojúsùn tí ó yè kooro láti sọ Nigeria di orírun àtinúdá, àṣà, àti ìdárayá lágbàáyé.
+Ó jẹ́ ojúṣe láti ọọ́fíìsì ààrẹ àti àwọn ènìyàn láti mú ìdàgbàsókè bá ẹkùn yìí, ṣíṣe ẹ̀dá àwọn iṣẹ́ tuntun, àwọn èrè tuntun, ìhun ìlànà tí ó lágbára, àti ṣíṣe àtìlẹ́yìn fún àwọn àtinúdá tuntun & àgbékalẹ̀ orísun wa ti ó dára jùlọ nínú iṣẹ́ ọ̀nà, àwọn Ènìyàn orílẹ̀-èdè Nigeria.
+Ọrọ̀ ajé àtinúdá àti àṣà tí ó lágbára jẹ́ ọ̀nà ìdàgbàsókè gbòógì & ó ṣe àgbékalẹ̀ àǹfààní láti mú ìyákánkán bá ìdàgbàsókè Nigeria ní àgbékalẹ̀ abẹ́lé àti káàkiri àgbáyé.
+Ọrọ̀ ajé àtinúdá jẹ́ ọrọ̀ ajé tí ó kún fún èrò, ọrọ̀ ajé àtinúdá, àti ọrọ̀ ajé ìṣẹ̀dá ní àsìkò ìmọ̀ ẹ̀rọ yìí.
+Àgbègbè ẹ̀ka yìí fẹ̀ ó sì ní ìpèsè àti ìpínká àwọn èrò, ọjà àti iṣẹ́ tí ó jé àbájáde àtinúdá, ìmọ̀-ọ́nṣe, àti ẹ̀bùn ọmọnìyàn káàkiri gbogbo agbọn àṣà Nigeria.
+Mo ní ìgbàgbọ́ púpọ̀ pé owó tí ó níye lórí ni àṣà wa.
+Àtinúdá ni epo rọ̀bì tuntun, àti pé àtinúdá ni ọjọ́ iwájú wa.
+Fún ìdí èyí, a ti ṣẹ̀dá ètò ńlá oníkókó-ọ̀rọ̀ mẹ́jọ ti yóò se mú àpapọ̀ àfojúsùn wa wá sí ìmúṣẹ fún agbọn yìí.
+(1) Àkọ́kọ́, Àfojúsùn Nigeria 2030 jẹ́ àgbékalẹ̀ orílẹ̀-èdè tí na ṣẹ̀dá láti ìdàgbàsókè bá ọrọ̀ ajé iṣẹ́ ọ̀nà, àṣà àti àtinúdá lábẹ́ àfojúsùn tí ó sọ̀kan.
+Àfojúsùn Nigeria 2030 jẹ́ àlàkalẹ̀ ètò ìṣèlú, iṣẹ́ àti àfojúsùn láti di orírun àtinúdá Áfíríkà.
+Ní pàtàkì jùlọ, ó jẹ́ ìlérí láti ṣẹ̀dá àwọn iṣẹ́ sí i, àwọn àlejò tí yóò ṣàbẹ̀wò, àti àwọn àǹfààní abẹ́lé sí i tí yóò mú ìgbèrú bá ìdàgbàsókè gbogbo agbọn àtinúdá. Nítorí náà,
+(3) Ìdàgbàsókè àwọn ìmọ̀-ọ́nṣe yóò jẹ́ pàtàkì nípasẹ̀ àwọn ètò ìdanilẹ́kọ̀ọ́ tí ó gbòòrò láti rí i dájú pé gbogbo àwọn akọ́ṣẹ́mọṣẹ́ nínú ọrọ̀ ajé gbáradì tán láti ṣe àṣeyọrí ní ẹ̀ka oníkálukú wọn.
+Ìyákánkán ìdàgbàsókè ọrọ̀ ajé àtinúdá túmọ̀ sí pé a gbọ́dọ̀ jí gìrì àti pé
+Kí a mú ìyákánkán bá ìlọsíwájú, ìṣẹ̀dá àti àwọn ìhun ìlànà àgbékalẹ̀ tí yóò mú ìdàgbàsókè tí ó dára bá ìṣẹ̀dá owó tí ó ń wọlé, ìṣẹ̀dá iṣẹ́, àti ìdàgbàsókè kánrinkése káàkiri gbogbo agbọn.
+Kókó pàtàkì kan lára ọgbọ́n yìí ni Ìdáàbòbò Dúkìá Àtinúdá láti dáàbò bo àwọn àtinúdá oníṣẹ́ ọnà àti àwọn alátinúdá àkóónú, láti ṣe àtìlẹ́yìn fún ìṣẹ̀dá ọ̀tun àti àtinúdá.
+(4) Àgbájọ Àṣeyọrí wa pè fún Ọgbọ́n Àfojúsùn, Ìṣèjọba, àti Àjọṣepọ̀.
+Ikọ̀ wa ń ṣẹ̀dá ọgbọ́n tí ó gbòòrò tí ó sì péye fún ọrọ̀ ajé iṣẹ́ ọnà, àṣà, àti àtinúdá.
+Pẹ̀lú ọgbọ́n yìí, a óò ṣe àlàkalẹ̀ àwọn èròǹgbà wa, àfojúsùn, àti ìṣe fún ìdàgbàsókè àti ìlọsíwájú agbọn.
+Ìmúṣiṣẹ́ rẹ̀ gba àtìlẹ́yìn láti ọwọ́ ètò ìjọba aṣàmúlò ipá èyí tí yóò fi ààyè gba àjọṣepọ̀ láàrin àwọn àjọ ìjọba, àwọn àjọ aládàáni, àjọ ètò ẹ̀kọ́, àti àwọn oníṣẹ́ ọnà láti mú ìlọsíwájú bá àwùjọ abẹ̀mí FMACC.
+Aboo túbọ̀ máa ṣe àtìlẹ́yìn fún ìhun àjọṣepọ̀ yìí nípa ṣíṣe ìdásílẹ̀ Àjọ Ìmọ̀ràn lórí Àtinúdá Ọrọ̀ ajé tí yóò pèsè àtìlẹ́yìn ọgbọ́n tí ó dára fún àjọ ìjọba yìí.
+Mo ń fojú sọ́nà láti ṣiṣẹ́ pẹ̀lú àwọn Ẹ̀ka ìjọba, ẹ̀ka, àjọ, àti gbogbo àwọn tí ọ̀rọ̀ kan láti ṣe àtìlẹ́yìn fún àfojúsùn wa.
+(5) A nílò láti ṣe ìmúṣẹ àwọn àfojúsùn wa ní kánkán, èyí sì pè fún ọgbọ́n ìbánidòwòpọ̀ tí ó já fáfá.
+Nítorí náà, kókó ọ̀rọ̀ wa karùn-ún ni a gbé kalẹ̀ láti ṣe àmójútó ìṣẹ̀dá ìbádòwòpọ̀ ni àwọn àjọ Ìjọba àti Aládàáni èyí tí yóò mú ìdàgbàsókè bá ìdókòwò nínú ọrọ̀ ajé àtinúdá tí yóò sì mú ìlọsíwájú bá ìdàgbàsókè àwọn ibùdó amáyédẹrùn, ìmọ̀ ẹ̀rọ, àti àtinúdá ohun ọ̀tun tí wọ́n ṣe pàtàkì.
+Ní àfikún, ó fojú sun Ìbánidòwòpọ̀ àjọ Ìjọba àti Aládàáni láti mú ìlọsíwájú kánkán bá ilé-iṣẹ́ ìdókòwò aládàáni nínú FMACC, ó ń mú ìgbèrú bá onírúurú ọ̀nà ọrọ̀ ajé àti ṣíṣẹ̀dá àyíká okòwò tí ó rọjú.
+(6) Ètò wá ní àwọn àfojúsùn ìdàgbàsókè tí ó yè kooro.
+Lára àwọn àfojúsùn wọ̀nyẹn ni ìpòǹgbẹ wa láti mú ìdàgbàsókè bá àwọn ilé-iṣẹ́ Nigeria tí a ti rí àwọn ilé-iṣẹ́ Ọnà, Àṣà & Àtinúdá láti wà nínú àwọn 20 tí ó lékè jùlọ káàkiri àgbáyé ní ti Owó tí ó ń mú wọlé, ìṣẹ̀dá ọrọ̀, iṣẹ́, àti àdínkù òsì ní ìbámu pẹ̀lú àlàkalẹ̀ 2050.
+Nípasẹ̀ àwọn ọgbọ́n ìṣẹ̀dá ohun ọ̀tun, àmúwọlé ìmọ̀ ẹ̀rọ, àti mímú ìgbèrú bá àǹfààní sí ọjà, àfojúsùn wa ni láti mú ìdàgbàsókè bá iye àwọn àbájáde ẹgbẹ́ pẹ̀lú 50%.
+ní ìbámu pẹ̀lú ètò ìdàgbàsókè orílẹ̀-èdè 2022 sí 2025.
+(7) Láti ṣẹ̀dá Àyíká Afààyègbokòwò, a ó pàtàkì ìdàgbàsókè amáyédẹrùn pẹ̀lú ìrànlọ́wọ́ àyípadà Ìmọ̀ ẹ̀rọ.
+A óò pèsè àwọn ohun amáyédẹrùn ìgbàlódé, ìgbòkègbodò ọkọ̀, àti ìmọ̀ ẹ̀rọ amáyédẹrùn.
+A ó pàtàkì àmúwọlé iṣẹ́ ọnà, àṣà, àti iṣẹ́ àtinúdá sórí àwọn ìkànnì ayélujára, ṣíṣe àmúlò ìmọ̀ ẹ̀rọ láti ṣẹ̀dá àwọn onírúurú èrè tuntun.
+Gbogbo ipá ni a óò sà láti mú ìdàgbàsókè bá àwọn okòwò tí ó ti ń gbèrú kí a sì ṣe àtìlẹ́yìn àwọn ilé-iṣẹ́ àdìdelẹ̀ àti àwọn oníṣòwò nípa ṣíṣe ìfilọ́lẹ̀ àwọn ibùdó ìṣẹ̀dá ohun ọ̀tun àti àjùbà ààbò.
+Nípa ṣíṣẹ̀dá àti ṣíṣe àtìlẹ́yìn àwọn ibùdó àṣà tí ó dára, a óò máa ṣe ìṣelọ́jọ̀ àti ìgbéga àṣà, ìgbéga àtinúdá àti ìṣẹ̀dá ohun ọ̀tun, àti ìtúbọ̀ ṣe àtìlẹ́yìn fún àwọn ènìyàn tí wọ́n ní ẹ̀bùn láti kópa nínú ìdàgbàsókè ẹ̀ka náà.
+(8) Ìṣelọ́jọ̀ àti kánrinkése ohun àṣà ìṣẹ̀ǹbáyé ni pàtàkì àlàkalẹ̀ wa.
+A gbọ́dọ̀ mú sa gbogbo ipá láti dáàbò bo àṣà ìṣẹ̀ǹbáyé Nigeria tí ó dára nígbà tí a ó máa mú ìdàgbàsókè bá ìgbafẹ́ àti ọrọ̀ ajé.
+Èyí ní i ṣe pẹ̀lú ṣíṣe àmúlò àwọn ìlànà láti tọ́jú àti láti ṣe ayẹyẹ àṣà ìṣẹ̀ǹbáyé wa nígbà tí a ó máa rí i dájú pé ó wà kánrinkése fún àwọn ìran ọjọ́ iwájú.
+Nínú àwọn ìwòye wọ̀nyí, a ó set àgbékalẹ̀ àwọn òṣùwọ̀n Ìdánilójú Dídára àti àwọn ọgbọ́n àmójútó láti mú ìlọsíwájú bá iyì àwọn àgbéjáde nínú ọrọ̀ ajé iṣẹ́ ọ̀nà, àṣà, àti àtinúdá Nigeria, tí yóò sì mú ìgbèrú bá ìwòye iyì gbogbo àwọn ọjà àti iṣẹ́ ìṣẹ̀dá wa.
+Ní ìkádìí, lábẹ́ àgbékalẹ̀ ìrètí ọ̀tun ààrẹ, a ó pèsè àwọn irinṣẹ́ tí wọ́n nílò láti mú ìyákánkán bá ìdàgbàsókè káàkiri gbogbo agbọn ọrọ̀ ajé àtinúdá.
+A ó pèsè àwọn àǹfààní iṣẹ́ àti ìgbèrú ìbánidòwòpọ̀ ilẹ̀ òkèèrè tí yóò ṣàfihàn ìdánimọ̀ orílẹ̀-èdè wa ti ó dára tí ó sì wà ní àrà ọ̀tọ̀ ní abẹ́lé àti káàkiri àgbáyé, bẹ́ẹ̀ ni a ó ṣe ìgbéga ipò ọrọ̀ ajé orílẹ̀-èdè wa.
+A ní àwọn onírúurú ìwòye & iṣẹ́ àkànṣe tí a ti ṣètò bí àwọn ibùdó àtinúdá, ìpàtẹ àṣà Nigeria, ibùdó ìdánilárayá orílẹ̀-èdè, gbọ̀ngàn ìṣàfihàn iṣẹ́ ọ̀nà orílẹ̀-èdè, àwọn ìbánidòwòpọ̀ ìtẹ̀wéjáde ìṣẹ̀dá ohun ọ̀tun àti iṣẹ́ àkànṣe eré ayo adáwà.
+À ń ṣẹ̀dá ayẹyẹ eré àwòránhùn tí òṣùwọ̀n rẹ̀ báyé mu, ilé ẹ̀kọ́ oúnjẹ tí gbajúmọ̀ alásè Michelin kan sáájú àti ibùdó ìṣaralóge.
+Ní ìparí, èmi kì yóò sinmi nínú àtìlẹ́yìn mi láti kó àwọn iṣẹ́ ọ̀nà ìṣẹ̀ǹbáyé wa wá sílé tí ó fi mọ́ àwọn ère idẹ Benin.
+Ẹ ṣeun, ẹ tẹ̀síwájú nínú ìmísí & àtinúdá kí ẹ sì pín àwọn ìwòye yín pẹ̀lú wa.
+Ṣíṣe ìfilọ́lẹ̀ Loopscribe: Ohun èlò ẹ̀rọ Aṣàyípadà èrò tí wọ́n gbe gbé kalẹ̀ fún Ẹ̀kọ́ àti Ìdánwò.
+Àsìkò Ìdúró ti tán!
+Loopscribe, ohun èlò ẹ̀rọ èrò tuntun tí wọ́n dìídì gbé kalẹ̀ láti mú ìlọsíwájú bá ẹ̀kọ́ àti ìdánwò, ti ṣètò láti ṣe ìkójáde tí àwọn ènìyàn ti ń retí.
+Olùṣẹ̀dá ìdásílẹ̀ àti Olùdarí Àgbà Pátápátá David Ukiwe, Loopscribe fojúsun mímú àyípadà bá bí àwọn ènìyàn ṣe ń ṣàmúlò àwọn èrò, àfojúsùn, àti èrò wọn.
+Loopscribe, ohun èlò ẹ̀rọ aṣàyípadà èrò; ó jẹ́ ìsopọ̀ṣọ̀kan ọlọ́pọ̀ èrò, àwọn àkójọ ohun àtiṣe, jọ́nà, àti ìwé èròǹgbà, gbogbo èyí tí wọ́n kójọ láti set ìrónilágbára fún àwọn aṣàmúlò ní ojú ọ̀nà wọn sí ìdàgbàsókè.
+Ìkànnì ìṣẹ̀dá ohun ọ̀tun yìí ṣe ìfilọ́lẹ̀ ibùdó àgbékalẹ̀ èrò ara ẹni tí yóò fi ààyè gba àwọn aṣàmúlò láti ṣe àgbékalẹ̀ èròǹgbà, àfojúsùn, ìṣe, àti èrò wọn, èyí tí yóò mú ìdàgbàsókè bá òye èròǹgbà wọn.
+"Bóyá o jẹ́ akẹ́kọ̀ọ́, akọ́ṣẹ́mọṣẹ́ tàbí o ń kópa nínú ẹ̀kọ́ ara ẹni, Loopscribe ń pèsè ìlànà àrà ọ̀tọ̀ láti ṣe àkọsílẹ̀ tí ó tayọ ojú lásán," ni ọ̀rọ̀ David Ukiwe, Olùdásílẹ̀ àti Ọ̀gá Àgbà Pátápátá Loopscribe.
+"A ní ìgbàgbọ́ pé ìdánwò ni ọ̀pákùtẹ̀lẹ̀ ìlọsíwájú, bẹ́ẹ̀ ni Loopscribe ń ṣe ìrónilágbára fún àwọn aṣàmúlò láti ṣe àkọsílẹ̀ èrò wọn, ṣíṣe ètò àwọn àfojúsùn tí ó ṣe é ṣe, kí wọ́n sì wá ọ̀nà wọn sí àṣeyọrí.
+Àbùdá Loopscribe kan tí ó dá yàtọ̀ ni ìpín àwọn Ìkànnì rẹ̀, èyí tí ó ń fún àwọn aṣàmúlò ní àǹfààní láti ṣẹ̀dá kí wọ́n sì pín ẹ̀yà àwọn àkóónú gígùn pẹ̀lú gbogbo agbaye.
+Yálà ó jẹ́ àkọsílẹ̀ ìdanilẹ́kọ̀ọ́ ilé ẹ̀kọ́, àkọsílẹ̀ ìgbésáfẹ́fẹ́, àwọn àtẹ̀jáde gidi, tàbí àwọn àrọko tí ó mọ́gbọ́n wá, àwọn àbùdá Ìkànnì náà fi ààyè gba ìṣẹ̀dá àti ìpààrọ̀ ọgbọ́n láàrin àwùjọ Loopscribe.
+Loopscribe ju irinṣẹ́ lásán lọ; ó jẹ́ ìsípòpadà sí ìgbé ayé ọ̀tun.
+Pẹ̀lú àwọn ẹ̀yà Android àti iOS tí ó wà fún ìgbàsórí-ẹ̀rọ lórí àwọn ilé ìtajà ohun èlò ẹ̀rọ, ohun èlò ẹ̀rọ yìí jẹ́ èyí tí a ṣẹ̀dá láti mójú tó àìní àwọn akẹ́kọ̀ọ́, akọ́ṣẹ́mọṣẹ́, àti àwọn akẹ́kọ̀ọ́ títí ayé pẹ̀lú.
+Wádìí ìpinnu Loopscribe láti mú ìtẹ̀síwájú bá ìdàgbàsókè ara ẹni, ó ń mú àyípadà bá ọ̀nà tí à ń gbà kọ́ ẹ̀kọ́, ó ń ṣẹ̀dá ayé tó kún fún ìmúṣẹ èròǹgbà.
+Darapọ̀ mọ́ wa ninu ìrìn-àjò dídára yìí láti mú ìlọsíwájú bá ẹ̀kọ́ Kíkọ́ àti àtúnyẹ̀wò nípasẹ̀ ohun èlò ẹ̀rọ aṣàkọsílẹ̀ tí ó dára èyí tí ó dúró gẹ́gẹ́ bí ẹ̀rí fún àwọn iyì ìwádìí ìmọ̀, ìdàgbàsókè, àti àṣeyọrí.
+Bí ó tilẹ̀ jẹ́ fi hàn pé Agboola sọ pé dandan ni ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ Flutterwave, ó tún sọ pé "ojú ọjà kò dára tó nísinsìnyí báyìí."
+Ṣé Flutterwave yóò tẹ̀síwájú pẹ̀lú àwọn ètò ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀?
+Èyí kì í ṣe ìgbà àkọ́kọ́ tí Flutterwave ti sọ pé àwọn yóò gba àwùjọ láyè.
+Ó kọ́kọ́ ṣàfihàn àwọn ìpinnu ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ ní Oṣù Kẹjọ 2022.
+Gẹ́gẹ́ bí ìròyìn kan, ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ náà yóò forúkọ sílẹ̀ lórí Ọjà ìpín ìdókòwò Nasdaq wọn yóò sì ṣàmúlò rẹ̀ láti mú ìgbòòrò bá iṣẹ́ ìmọ̀ ẹ̀rọ nínú ìṣúná nínú àwọn ọjà tí ó ti wà tẹ́lẹ̀ kí wọ́n sì tàn wọ inú àwọn ọjà Afíríkà.
+Àmọ́ sá, kò tẹ̀síwájú pẹ̀lú ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ náà.
+Nígbà tí Flutterwave ń ṣe àtúnwí àwọn ètò ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ rẹ̀, kò sọ iye tí ó ṣàfihàn ìdàgbàsókè àti ìgbáradì wọn láti bọ́ sí gbangba.
+Ó kọ̀ láti pín ìlọsíwájú àpapọ̀ èrè ọdọọdún pẹ̀lú Bloomberg ṣùgbọ́n ó sọ pé agbọn ìsanwó okòwò náà ti lọ síwájú ní ìlọ́po 23 ní ìdá kìíní 2023.
+Bí ó tilẹ̀ jẹ́ pé Flutterwave kò sọ pàtó nínú ètò rẹ̀ láti bọ́ sí gbangba, àwọn àmì wà pé ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ lè má pẹ́ mọ́.
+Fún àpẹẹrẹ, ìkópa olùdókòwò aládàáni –olùdókòwò aládàáni máa ń sáábà dókòwò sínú àwọn okòwò tí ó ń dàgbà kí wọ́n tó ṣe ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ – bí Whale Rock Capital nínú owó ìrànwọ́ ìdókòwò rẹ̀ tó kẹ́yìn.
+Nígbà tí Flutterwave kò tíì sọ déètì pàtó fún ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀, àsìkò nìkan ni yóò sọ bóyá yóò ṣe é ṣe.
+Ṣé ìpàtẹ ọjà ìpín ìdókòwò Flutterwave sọ Agboola di olówó bílíọ́nù dọ́là?
+Gẹ́gẹ́ bí ọ̀rọ̀ PitchBook, Iye ìpín ìdókòwò Agboola nínú Flutterwave ní wọ́n pajú dé sí pé ó ju mílíọ̀nù $370 gẹ́gẹ́ bí owó ìrànwọ́ ìdókòwò ìpele tí ó gbẹ̀yín ní 2022.
+Àwọn ènìyàn kan gbàgbọ́ pé ìpín ìdókòwò Agboola nínú Flutterwave lè sọ ọ́ di olówó bílíọ́nù bí Flutterwave bá bọ́ sí gbangba.
+Ọ̀gá níbo ni o ti ń rí ìwífun-àlàyé rẹ? Nítorí náà bí ìpàtẹ ọjà ìpín ìdókòwò wọn bá yọrí sí dáadáa...gb lè di olówó bílíọ́nù láìpẹ́... – Blank Name🇮🇱 (@ojiomaaa)22 Oṣù Kẹjọ, 2023.
+Nígbà tí ó ṣòro láti sọ àsọtẹ́lẹ̀ ohun tí yóò ṣẹlẹ̀ bí Flutterwave bá bọ́ sí gbangba, kò fẹ́rẹ̀ẹ́ ṣe é ṣe kí mílíọ̀nù $370 Agboola sọ ọ́ di olówó bílíọ́nù.
+Iye ìpín ìdókòwò rẹ̀ nínú ilé-iṣẹ́ náà lẹ́yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ yóò jẹ́ èyí tí ìdíyelé Flutterwave yóò pinnu lẹ́yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ náà.
+Báwo ni a ṣe lè mọ ìdíyelé Flutterwave ní àsìkò ìpàtẹ ìpín Ìdókòwò ìbẹ̀rẹ̀?
+Iye owó ilé-iṣẹ́ náà lẹ́yìn ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ dá lórí ọ̀pọ̀lọpọ̀ àwọn nǹkan bí ojúsàájú, ìbéèrè àti ìpèsè àwọn ìpín ìdókòwò, àti àwọn ipò ọjà.
+Àmọ́ sá, ọ̀nà kan láti ṣe àsọtẹ́lẹ̀ ni láti ṣàmúlò àgbékalẹ̀ ìdókòwò ọjà, èyí tí ó jẹ́ iye àwọn ìpín ìdókòwò tí wọ́n wà nílẹ̀ ní ìlọ́po iye owó àwọn ìpín ìdókòwò lẹ́yìn ọjà ìpín ìdókòwò ìbẹ̀rẹ̀.
+Àgbékalẹ̀ yìí yóò ṣe ìrànlọ́wọ́ láti mú wa gúnlẹ̀ sí ìdíyelé ẹ̀yìn ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ nípa gbígbà pé iye àwọn ìpín ìdókòwò tí ó wà nílẹ̀ ní Flutterwave wà ní iye kan náà síwájú àti lẹ́yìn ọjà ìpín ìdókòwò ìbẹ̀rẹ̀.
+Níwọ̀n ìgbà tí Flutterwave kò tíì bọ́ sí gbangba, iye àwọn ìpín ìdókòwò tilẹ̀ kò ti ṣetán, ṣùgbọ́n nípa pínpín ìdíyelé wọn báyìí nípa ìpín owó wọn, a lè ní ìmọ̀ nípa iye tí ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ tilẹ̀ jẹ́.
+Gẹ́gẹ́ bí ọ̀rọ̀ Notice.co, ìtakùn ayélujára kan tí ó ń pèsè ìwífun-àlàyé ọjà láti ara ìwé ìlànà àwọn ilé-iṣẹ́, ìròyìn, àti àgbájọ àwọn ilé-iṣẹ́ alárinà okòwò àgbáyé, àwọn olùdókòwò àti àwọn òṣìṣẹ́, iye ìpín ìdókòwò Flutterwave báyìí ni $29.
+Nítorí pé ìdíyelé Flutterwave báyìí jẹ́ bílíọ́nù $3, èyí túmọ̀ sí pé ìpín ìdókòwò tilẹ̀ fún Flutterwave jẹ́ mílíọ̀nù 103.
+Ó ṣe pàtàkì láti ṣe àkíyèsí pé iye ìpín ìdókòwò ilé-iṣẹ́ aládàáni kì í sáábà ṣe déédéé bí kò bá wá láti ọwọ́ ilé-iṣẹ́ náà tààrà.
+Nísinsìnyí tí a ní iye àwọn ìpín ìdókòwò tilẹ̀, a nílò láti sọ àsọtẹ́lẹ̀ mìíràn pé ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ Flutterwave yóò ṣe àṣeyọrí àti pé iye owó ìpín ìdókòwò rẹ̀ yóò lọ sókè pẹ̀lú 31% bí àwọn ilé-iṣẹ́ àdìdelẹ̀ Afíríkà mìíràn, Jumia, lẹ́yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ rẹ̀.
+Èyí túmọ̀ sí pé iye ìpín ìdókòwò Flutterwave yóò lọ láti $29 síwájú ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ sí $38.
+Ìpín ìdókòwò ẹ̀yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀, jẹ́ bílíọ́nù $3.9 nígbà náà.
+Ìpín Agboola lẹ́yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ bílíọ́nù $3.9
+Ìpín ìdókòwò mílíọ̀nù $370 Agboola dúró fún 12.33% Flutterwave.
+Ìpín ìdókòwò rẹ̀ ní ìlọ́po pẹ̀lú ìdíyelé bílíọ́nù $3.9 túmọ̀ sí pé ìpín ìdókòwò ẹ̀yìn ìpàtẹ ọjà ìpín ìdókòwò ìbẹ̀rẹ̀ yóò di mílíọ̀nù $480.8.
+Nígbà tí àwọn ìṣirò wọ̀nyí kún fún onírúurú àhesọ, ó jẹ́ àpẹẹrẹ àgbékalẹ̀ dáadáa.
+Agboola yóò nílò láti ni ìpín Flutterwave tí ó ga láti darapọ̀ mọ́ àwọn olówò bílíọ́nù ìmọ̀-ẹ̀rọ ní Áfíríkà.
+Àkíyèsí atakàhesọ: Àwọn ìṣirò wọ̀nyí dá lórí àwọn iye láti inú PitchBook àti Notice.co, èyí tí Techpoint Afirvat kò kò lè fọwọ́ rẹ̀ sọ̀yà.
+Àwọn ọ̀nà 4 mìíràn bí Tech Nation Visa fún àwọn onímọ̀-ọ́nṣe ìmọ̀ ẹ̀rọ Áfríkà.
+Ìwádìí aláìlétò orí ayélujára kan nípa ohun tí àwọn ènìyàn rò nípa ìròyìn ìwọ́gilé Tech Nation tí kò ní pẹ́ mọ́ tọ́ka sí òtítọ́ pé àwọn ilé-iṣẹ́ ti ṣe àgbékalẹ̀ àwọn onírúurú ètò tí ó ti nípa láyé àwọn ènìyàn káàkiri onírúurú ilẹ̀, pàápàá jùlọ àwọn ètò ìwé ìgbélùú wọn.
+Wọ́n gba ìròyìn náà pẹ̀lú ìbànújẹ́.
+Ètò Global Talent Visa ti UK fi ààyè gba àwọn aṣàtìpó láti ṣiṣẹ́ ní ẹ̀ka èyíkéyìí nínú àwọn ọ̀wọ́ ìfọwọ́sí pàtó ni UK.
+Láti ṣàlàyé dáadáa, àwọn onímọ̀-ọ́nṣe ìmọ̀ ẹ̀rọ lè ní àǹfààní sí ètò yìí nípasẹ̀ àtìlẹ́yìn láti ọwọ́ Tech Nation nìkan, èyí tí ó jẹ́ ọ̀kan lára àwọn àjọ aṣèrànwọ́ rẹ̀ mẹ́fà tí wọ́n dá mọ̀.
+Èyí mẹ́nubà ìṣòro tí ó lè wà bí wọn kò bá rí àwọn aṣàtìlẹ́yìn tuntun títí 31 Oṣù Kẹta, 2023, nígbà tí wọn kò ní gba ìbẹ̀wẹ̀ mọ́.
+Ìwé ìgbélùú yìí wúlò fún ọdún kan sí márùn-ún wọ́n sì lè ṣe ìsọdọ̀tun/ìfàgùn rẹ̀ fún ọjọ́ pípẹ́ (èyí tí yóò yọrí sí dídi olùgbé ayérayé) bí wọ́n bá tẹ̀lé àwọn ìlànà tí ó yẹ, tí ó fi mọ́ àìyọwọ́ àjọ olùfọwọ́sí àti ẹ̀rí èrè owó tí ó ń wọlé lásìkò ìgbélùú.
+Òótọ́ Aládùn: Ní ọdún mẹ́wàá sẹ́yìn, Techt Nation ti ṣe àtìlẹ́yìn fún àwọn ènìyàn tí ó ju 3, 000 lọ láti àwọn orílẹ̀ èdè 94 káàkiri àgbáyé.
+Nigeria jẹ́ ọ̀kan nínú àwọn orílẹ̀ èdè tí wọ́n ní aṣojú jùlọ nínú àwọn ènìyàn tí wọ́n ti jẹ àǹfààní wọn, pẹ̀lú India àti Russia.
+Àwọn oríṣiríṣi orílẹ̀-èdè ní àwọn ọ̀nà tí wọ́n ń gbà mú òṣìṣẹ́ wọlé.
+Púpọ̀ nínú àwọn orílẹ̀ èdè wọ̀nyí máa ń kojú ọ̀wọ́ngógó àwọn òṣìṣẹ́ tí wọ́n ṣetán láti ṣiṣẹ́ nítorí náà wọ́n máa ń gba àwọn aṣàtìpó láàyè láti ṣe àwọn iṣẹ́ wọ̀nyí.
+Àwọn mìíràn ń ṣe é nítorí ọrọ̀ ajé tàbí ìgbépọ̀sọ̀kan àwọn onírúurú ènìyàn.
+Bí ó tilẹ̀ jẹ́ pé àwọn ìwé ìgbélùú tí ó jọ Global Talent Visa wà káàkiri àgbáyé, pàápàá jùlọ nínú àwọn ìsíkiri tí ó gbajúmọ̀, àwọn orílẹ̀ èdè wọ̀nyí ní àwọn ìpèsè fún onímọ̀-ọ́nṣe ìmọ̀ ẹ̀rọ ìgbàlódé, àwọn aṣẹ̀dá ohun ọ̀tun, àti àwọn olùdókòwò.
+Global Talent Stream (Canada)
+Ètò Global Talent Stream ní Canada ni wọ́n ṣẹ̀dá láti fa àwọn òṣìṣẹ́ ilẹ̀ òkèèrè tí wọ́n ní ìmọ̀-ọ́nṣe púpọ̀ wọlé sí orílẹ̀ èdè yìí kí wọ́n sì ṣe ìrànlọ́wọ́ fún àwọn ilé iṣẹ́ Canada láti ṣàmúlò ìmọ̀-ọ́nṣe tí wọ́n nílò.
+Àgbékalẹ̀ náà jẹ́ ara ètò Ìsíwọlé ńlá àwọn Aṣàtìpó ti Canada.
+Ó yọrí sí rere, ó lè yọrí sí ìgbélùú títí ayé lẹ́yìn tí ènìyàn bá tẹ̀lé gbogbo àwọn ìlànà tí wọ́n gbé kalẹ̀.
+Ètò náà fojúsun àwọn iṣẹ́ ìmọ̀ ẹ̀rọ ó sì pèsè àǹfààní fún àwọn ilé iṣẹ́ ìmọ̀ ẹ̀rọ Canada láti ní àǹfààní sí àwọn onímọ̀-ọ́nṣe tí wọ́n dára jùlọ káàkiri àgbáyé, tí ó fi mọ́ àwọn aṣẹ̀dá ohun ọ̀tun, àwọn olùdásílẹ̀, àwọn alámọ̀já ààbò ẹ̀rọ ayélujára, àwọn aṣẹ̀dá ojú òpó ìtakùn, àwọn ayàwòrán ojú òpó ìtakùn, àwọn onímọ̀ sáyẹ́ńsì ìwífun-àlàyé, àwọn onímọ̀ ẹ̀rọ ohun èlò ẹ̀rọ, abbl.
+Bí Global Talent Visa ti UK, Global Talent Stream ní àtòjọ àwọn olùbádòwòpọ̀ tí wọ́n yà sọ́tọ̀, bí TECHNATION àti Council of Canadian Innovators, tí wọ́n máa ń ṣe àtìlẹ́yìn fún àwọn akópa (àwọn ilé iṣẹ́ ni èyí).
+Àmọ́ sá, ó yàtọ̀ sí Global Talent Visa, nítorí àwọn akópa kò lè dá bẹ̀wẹ̀ fún ètò yìí.
+Wọ́n gbọ́dọ̀ kọ́kọ́ gba iṣẹ́ pẹ̀lú ilé-iṣẹ́ Canada tí wọ́n lè fọwọ́ sọ̀yà fún ìlò ìmọ̀-ọ́nṣe wọn, wọ́n sì gbọ́dọ̀ ní àwọn ìwé ẹ̀rí àti ìrírí tí ó yẹ.
+Ilé-iṣẹ́ náà ni yóò ṣe ìwé ìbẹ̀wẹ̀ wọn lábẹ́ èyíkéyìí ẹ̀ka méjì.
+Wo àlàyé sí níhìn-ín.
+US Founder Visa
+Èyí jẹ́ ìwé ìgbélùú àwọn aṣàtìpó fún àwọn ènìyàn tí wọn lè ṣe àfihàn ipá tàbí àṣeyọrí tí ó yà wọn sọ́tọ̀ lẹ́nu iṣẹ́ wọn.
+Òhun náà ni 0-1 Visa ó sì jẹ́ ìwé ìgbélùú ìgbà díẹ̀ ọlọ́dún mẹ́ta, èyí tí ènìyàn lè sọdọ̀tun fún ìtẹ̀síwájú ọlọ́dún kan.
+Bí ó tilẹ̀ jẹ́ pé àlàyé nípa ìwé ìgbélùú náà fi hàn pé ó wà fún àwọn ènìyàn tí wọ́n tayọ ni ẹ̀ka iṣẹ́ sáyẹ́ńsì, iṣẹ́ ọ̀nà, ètò ẹ̀kọ́, okòwò, tàbí àwọn eléré orí pápá, àwọn onímọ̀-ọ́nṣe ìmọ̀ ẹ̀rọ àti àwọn oníṣòwò pẹ̀lú lè jẹ àǹfààní rẹ̀.
+Ní ọ̀pọ̀ ìgbà, yíyẹ láti kópa máa ń dá lórí níní mẹ́ta nínú àwòmọ́ mẹ́jọ, tí ó fi mọ́ jíjẹ ọmọ ẹgbẹ́ nínú àwọn ẹgbẹ́ pàtàkì, àmì ẹ̀yẹ, àti àyẹ́sí orílẹ̀-èdè/àgbáyé, àti àwọn mìíràn.
+Àwọn olùdásílẹ̀ tí wọ́n ti kẹ́kọ̀ọ́gboyè nínú ètò ìdàgbàsókè ilé iṣẹ́ àdìdelẹ̀ tàbí tí wọ́n ní àwọn ilé-iṣẹ́ àdìdelẹ̀ ṣe é ṣe kí wọ́n ní àwòmọ́ tí ó yẹ.
+Ìwé ìgbélùú yìí tún wà fún àwọn onímọ̀-ọ́nṣe tí wọ́n di àwọn ipò pàtàkì àti ipò tí ó súnmọ́ra mú nínú ìmọ̀ ẹ̀rọ, láti orí àwọn onímọ̀ ẹ̀rọ ohun èlò ẹ̀rọ dórí àwọn aṣàgbékalẹ̀ ọjà.
+Fún àlàyé sí i, ẹ lè kàn sí ojut òpó yìí.
+Global Talent Program (Australia)
+Wọ́n ṣe ìfilọ́lẹ̀ Global Talent Program ní Australia láti fa àwọn òṣìṣẹ́ ilẹ̀ òkèèrè tí wọ́n ní ìmọ̀-ọ́nṣe púpọ̀ wọlé sí orílẹ̀ èdè náà láti ṣe ìrànlọ́wọ́ fún àwọn ilé-iṣẹ́ Australia láti rí àwọn ìmọ̀-ọ́nṣe tí wọ́n nílò.
+Ètò yìí fojúsun àwọn ẹ̀ka ìmọ̀-ọ́nṣe tí wọ́n ṣe pàtàkì, tí ó fi mọ́ ìmọ̀ ẹ̀rọ nínú ìṣúná, ìmọ̀ ẹ̀rọ nínú ìlera, àti ìmọ̀ ẹ̀rọ nínú ọ̀gbìn, ó sì pè fún àwọn akópa láti ní àwọn ìmọ̀-ọ́nṣe tí ó ní í ṣe àti agbára láti rí ju AUD 162, 000 gẹ́gẹ́ bí ìpele owó Òfin Iṣẹ́.
+Etoy náà fi ààyè gba àwọn ènìyàn láti ṣe onígbọ̀wọ́ ara wọn tàbí kí ilé-iṣẹ́ Australia kan ṣe onígbọ̀wọ́ wọn.
+Láti jẹ́ ẹni tí wọ́n kà yẹ, ọ̀kan nínú àwọn àjọ tí òfin fọwọ́sí ní Australia gbọ́dọ̀ ṣe ìgbéléwọ̀n àti ìfọwọ́sí wọn.
+Lẹ́yìn tí wọ́n bá lo ó kéré jù ọdún mẹ́ta sí mẹ́rin ní orílẹ̀ èdè náà pẹ̀lú ìwé ìgbélùú yìí, oníkálukú wọn lè bẹ̀wẹ̀ fún ìgbélùú títí ayé àti ìdọmọ-onílùú.
+Àlàyé sí i wà níhìn-ín.
+Global Impact Visa (New Zealand)
+Ìjọba New Zealand ṣètò Global Impact Visa (GIV) láti mú àwọn oníṣòwò àti aṣẹ̀dá ohun ọ̀tun tí wọ́n tayọ wọlé láti mú ìdàgbàsókè bá ẹ̀ka ìmọ̀ ẹ̀rọ wọn.
+Ìwé ìgbélùú ọlọ́dún 3 náà ni wọ́n ṣe àgbékalẹ̀ fún àwọn ènìyàn tí wọ́n ń gbèrò láti wá sí New Zealand láti ṣe ìdásílẹ̀ àti àkóso okòwò tàbí ilé-iṣẹ́ ìmọ̀ ẹ̀rọ.
+Láti yẹ fún ètò yìí, àwọn akópa gbọ́dọ̀ ní ìpele ìmọ̀-ọ́nṣe tí pọ̀ àti àkọsílẹ̀ ipa ìṣẹ̀dá ohun ọ̀tun tí ó dára.
+Ní báyìí, àṣeyọrí àti ipa àkọsílẹ̀ ilé-iṣẹ́ tí wọ́n bẹ̀rẹ̀ ni yóò sọ bóyá wọ́n lè ṣe ìsọdọ̀tun tàbí bẹ̀wẹ̀ fún ìgbélùú títí ayé.
+GIV tún wà fún àwọn olùdókòwò tí wọ́n ṣetán láti ṣe àtìlẹ́yìn rẹ̀.
+Wọ́n ṣe ìfilọ́lẹ̀ GIV ní 2019, ṣùgbọ́n àwọn ikọ̀ tí wọ́n gbà wọlé kẹ́yìn ni 2020.
+Àjọ aṣàtìlẹ́yìn kan ṣoṣo fún GIV ni Edmund Hillary Fellowship (EHF), kò sì sí ààyè fún àwọn ìgbàniwọlé tuntun báyìí.
+Wo àlàyé sí níhìn-ín.
+Atọ́ka Ọjà BLUETTI: Ọ̀nà àbáyọ Agbára yín tí ó dára jùlọ láti ní iná mọ̀nàmọ́ná ọ̀fẹ́ àti èyí tí ó tó.
+Ìdá 86 nínú ọgọ́rùn-ún iye ènìyàn ní Nigeria tí ó ní mílíọ̀nù 200 ènìyàn kò ní àǹfààní sí iná mọ̀nàmọ́ná.
+Kódà mílíọ̀nù 5.6 àwọn tí wọ́n ní iná mọ̀nàmọ́ná ń san àsanlé owó fún àwọn ilé iṣẹ́ iná mọ̀nàmọ́ná orílẹ̀-èdè, gẹ́gẹ́ bí Nigeria Bureau of Statistics ṣe sọ (NBS).
+Nínú ìdojúkọ agbára yìí, BLUETTI, asíwájú ilé-iṣẹ́ agbára aláìdíbàjẹ́ kan, pèsè àwọn ọ̀nà àbáyọ láti ṣe ìrànlọ́wọ́ kojú ìṣòro agbára Nigeria.
+Pẹ̀lú àwọn ibùdó agbára-ọòrùn BLUETTI, àwọn ọmọ Nigeria lè ṣàmúlò agbára-ọòrùn ọ̀fẹ́ kí wọ́n sì ní àwọn àtìlẹ́yìn tí ó ṣe é gbára lé nígbà tí kò bá sí iná mọ̀nàmọ́ná.
+Ẹ jẹ́ kí á wo inú àwọn ọjà wọ̀nyí kí a sì wo bí wọ́n ṣe lè ṣe ìyàtọ̀.
+AC200MAX+B230 - Aṣèrànwọ́ Agbára Ilé Agbàyípàdà-níwọ̀n
+Àwòṣe àkọ́kọ́ BLUETTI, Ac+C200MAX, ṣe àmúlò agbára bátìrì 2,080Wh àti àgbéjáde alágbára 2,200W AC (ìlọsíwájú 4, 800W).
+Ibùdó agbára oníkànnì-16 ń pèsè agbára tí kò ní ìdènà fún púpọ̀ àwọn ohun èlò àti àwọn irinṣẹ́ inú ilé pàtàkì lásìkò tí kò bá sí iná mọ̀nàmọ́ná, tí ó fi mọ́ àwọn ẹ̀rọ amómitutù, amúlétutù, àti ààrò oníná.
+Àbùdá pàtàkì AC200MAX ni ìṣéemúgbòòrò rẹ̀.
+Yóò fún yín láyè láti ṣe ìmúgbòòrò àpapọ̀ agbára sí 6,144Wh nioat ṣíṣe àfikún àwọn ẹyọ bátìrì 2,048Wh B230 méjì.
+Ẹyọ AC200MAX kan lè gbé ẹ̀rọ-amómitutù 150W fún wákàtí 10, gílóòbù 10W fún ó lé ní wákàtí 150, àti Ẹ̀rọ-amúlétutù 5000 BTU fún bí wákàtí 1-4.
+Nípa ṣíṣe àfikún àwọn ẹyọ bátìrì B230, ẹ lè mú ìfàgùn bá ìpèsè agbára fún àwọn ohun èlò wọ̀nyí ní ìlọ́po méjì tàbí mẹ́ta àsìkò náà.
+AC200MAX ń pèsè ìlànà ìgbagbára 7, yálà lọ́tọ̀ọ̀tọ̀ tàbí lápapọ̀, fún ìrọ̀rùn àti ìyára gbagbára.
+Fún àpẹẹrẹ, ó máa ń gba bí wákàtí 5 tàbí 6 láti ṣe ìrólágbára kíkún fún AC200MAX nioat lílo ohun èlò ìrólágbára AC ní 500W, ṣùgbọ́n nípa ṣíṣe àmúlò agbára-òòrùn 900W pẹ̀lú Ìrólágbára AC fún gbèdéke àmúwọlé oníbejì 1, 400W, àsìkò ìrólágbára náà lè dínkù sí kò tó wákàtí 3.
+EP500Pro - Ilé Agbára fún Àìsíná mọ̀nàmọ́ná Ọlọ́jọ́ pípẹ́.
+Wọ́n ṣẹ̀dá EP500Pro pẹ̀lú agbára 5,100Wh àti àgbéjáde 3, 000W tí ó wúnilórí.
+Ó lè pèsè iná mọ̀nàmọ́ná fún gbogbo ilé, láti rí pé ìmọ́lẹ̀ wà, àwọn oúnjẹ tutù síbẹ̀ nínú àwọn ẹ̀rọ-amómitutù, tí gbogbo àwọn irinṣẹ́ pàtàkì yóò sì máa ṣiṣẹ́.
+Ó ń ṣe àmúlò àwọn ojúṣe ìjáfáfá UPS, ó máa ń pààrọ̀ ipò pẹ̀lú ìrọ̀rùn láàárín ìṣẹ́jú-àáyá 20 nígbà tí iná mọ̀nàmọ́ná bá lọ, ó ń pèsè iná mọ̀nàmọ́ná tí kò ní akùdé ní gbogbo ìgbà.
+EP500Pro lè kápá àwọn oríṣiríṣi irinṣẹ́ lẹ́ẹ̀kan náà pẹ̀lú àwọn ìkànnì agbára 15 rẹ̀.
+Ó lè ṣe ìrólágbára fún àwọn onírúurú irinṣẹ́ lẹ́ẹ̀kan náà.
+Fún àpẹẹrẹ, ó lè gbé Tẹlifísàn ajáfáfá 100W fún bí wákàtí 50, ẹ̀rọ-amúlémóoru 500W fún wákàtí 8.6, àti máíkírówéèfù 1, 000W fún wákàtí 4.3.
+Bí ó tilẹ̀ jẹ́ pé ó wúwo, EP500Pro ní àgbá tí ó lágbára mẹ́rin ní ìsàlẹ̀, tí ó mú kí ó rọrùn láti sí nípò kí ẹ sì gbé e síbikíbi tí ẹ bá ti nílò iná mọ̀nàmọ́ná.
+Wọ́n ró EP500Pro lágbára pẹ̀lú àwọn bátìrì onírin fósíféètì lítíọ́mù LifePo4 tí wọ́n lè pèsè ìyípo ìmí 3, 500 ó kéré jù kí wọ́n dé 80% ojúlówó agbára wọn.
+Èyí dọ́gba pẹ̀lú ìlò ọdún mẹ́wàá fún àgbéjáde agbára kan lójúmọ́.
+Àti pé, EP500Pro pẹ̀lú Ìhun Àkóso Bátìrì (BMS) tí ó lọ́gbọ́n èyí tí ó ń rí sí ìlò bátìrì ní ọ̀nà tó péye tí ó sì ń ṣe ààbò fún àpọ̀jù ìrólágbára àti àdínkù àmúlò agbára fún ìbàlẹ̀ ọkàn.
+EB3A/EB70 - INÁ MỌ̀NÀMỌ́NÁ PÀJÁWÌRÌ ALÁKÒÓPỌ̀
+Bí ẹ bá ń wá àwọn ọ̀nà àbáyọ pàjáwìrì fún iná mọ̀nàmọ́ná tí ó ṣe é gbé káàkiri, EB3A àti EB70 ń pèsè àwọn àṣàyàn àkọ́pọ̀ tí ó lágbára.
+Ìwọ̀n 4.6kg péré, EB3A ń pèsè agbára 268Wh pẹ̀lú àgbéjáde iná mọ̀nàmọ́ná 600W láti pèsè agbára fún àwọn ohun èlò oníná àti àwọn ohun èlò kéékèèké.
+Àwọn àbùdá EB3A pèsè ìkànnì ọlọ́pọ̀ ìṣe 9 wọ́n sì lè ṣe ìrónilágbára fún ẹ̀rọ ayára-bí-àsá àgbélétan 100W fún bí wákàtí 3.5, ẹ̀rọ amómitutù kékeré 60W fún wákàtí 3.6, àti gílóòbù 5W fún wákàtí 30.
+Bí ó ṣe kéré tó, EB3A lè ṣiṣẹ́ ìpèsè agbára aláìnídènà pẹ̀lú àbùdá ìyárafèsì UPS, tí yóò sì pèsè agbára fún àwọn ẹrù tí wọ́n ṣe pàtàkì lásìkò akùdé iná mọ̀nàmọ́ná òjìji.
+Ẹ lè ṣe ìrólágbára fún EB3A ní ọ̀nà yòówù, bóyá nípa ohun èlò ìrólágbára, àwọn ọpọ́n agbára-òòrùn, ọkọ̀ tàbí ẹ̀rọ amúnáwá.
+Ó tún fààyè gba ìrólágbára oníbejì 430W, tí yóò gbagbára kún ní wákàtí méjì.
+Ohun ìwúrí ńlá ni agbára EB3A fún àmójútó àti àkóso ọ̀nà jíjìn nípasẹ̀ ohun èlò ẹ̀rọ BLUETTI lórí ẹ̀rọ ìbánisọ̀rọ̀ yín.
+EB70 ní agbára ńlá 716Wh nígbà tí. ìwọ̀n rẹ̀ jẹ́ 9. 7kg péré.
+Pẹ̀lú àwọn ìkànnì 12 àti agbára iná 1,000W, ó lè ṣe ìrólágbára fún àwọn onírúurú ohunt èlò pàtàkì àti àwọn irinṣẹ́ kéékèèké nígbà tí kò bá sí iná mọ̀nàmọ́ná.
+Fìtílà 12W lè wà ní títàn fún wákàtí 50, ẹ̀rọ-ìlọ̀ọ̀so 400W fún wákàtí 1.5 àti olùlànà Ìsàsopọ̀ Aláìlokùn fún wákàtí 65, láì tilẹ̀ dárúkọ àwọn ohun èlò kéékèèké bí ẹ̀rọ-ìbánisọ̀rọ̀, ẹ̀rọ-ayára-bí-àsá, àti ẹ̀rọ agbọ̀rọ̀sọ fún àsìkò ìlò sí i.
+EB70 tún ń gba onírúurú ìlànà ìrólágbára, tí ó fi mọ́ ìkànnì ara ògiri, ọpọ́n agbára-òòrùn, àti ọkọ̀.
+Ìrólágbára pẹ̀lú ohun èlò ìrólágbára tàbí àwọn ọpọ́n agbára-òòrùn fún àgbéwọlé agbára 200W, ó ń yára gbagbára lábẹ́ wákàtí 5 láti ṣe àdínkù àsìkò àìlèlò.
+BLUETTI ṣe àgbékalẹ̀ gbogbo àwọn ibùdó agbára rẹ̀ pẹ̀lú àtẹ agbáwòrán àtinúdá fún àmójútó àti àkóso tí ó dára fún ìpamọ́ bátìrì, bẹ́ẹ̀ sì ni kò yọ EB70 sílẹ̀.
+Ìrólágbára Fún Gbogbo Àwọn tí wọ́n Nílò
+Nígbà tí Ìwúrí láti ṣe ìrónilágbára fún àwọn àwùjọ àti ènìyàn jẹ́ àfojúsùn, BLUETTI farajìn láti pèsè agbára aláìdíbàjẹ́ fún ilé kọ̀ọ̀kan fún ọjọ́ iwájú kánrinkése.
+Láti 2021, BLUETTI ṣe ìfilọ́lẹ̀ ètò LAAF (Light an African Family) ọlọ́dún 5 láti pèsè iná mọ̀nàmọ́ná fún àwọn ilé tí kò lo iná mọ̀nàmọ́ná àwùjọ ní Africa.
+Ìgbésẹ̀ BLUETTI tuntun ni ìbádòwòpọ̀ pẹ̀lú Solar Sister, tí wọ́n fi èròjà agbára-òòrùn tọtẹ fún àwọn obìnrin Nigeria nínú àwọn ìdílé tí kò lo iná mọ̀nàmọ́ná àwùjọ.
+Nígbà tí ó bá yá BLUETTI yóò tẹ̀síwájú láti pèsè iná àti ìrètí fún àwọn tí kò ní.
+Ní ìdáhùn sí ìpèsè àìtó iná mọ̀nàmọ́ná Nigeria, BLUETTI jáde gẹ́gẹ́ bí àgbọ́kànlé, láti pèsè àwọn ọ̀nà àbáyọ tí ó kójúẹ̀ tí wọ́n sì ṣe é gbára lé fún àwọn ẹbí àti okòwò.
+Àfojúsùn láti pèsè agbára aláìdíbàjẹ́ fún gbogbo ènìyàn, BLUETTI ti ṣe àgbékalẹ̀ àwọn ètò ojú ayé ní àwọn àgbègbè mẹ́rin Ìpínlẹ̀ Èkó.
+Àwọn ìṣẹ̀lẹ̀ wọ̀nyí pèsè àǹfààní àrà ọ̀tọ̀ fún àwọn olùgbé láti ní ìrírí àwọn onírúurú ọjà agbára iná BLUETTI lójúkojú wọ́n sì fi ìrọ̀rùn ró àwọn irinṣẹ́ wọn lágbára lójúkojú lọ́fẹ̀ẹ́ lásìkò tí kò sì sí iná mọ̀nàmọ́ná.
+Fún àlàyé sí i, ẹ jọ̀wọ́ ẹ kàn sí BLUETTI lórí ẹ̀rọ ayélujára ní: https://bit.ly/44jND6f
+Ìpè fún Gbogbo àwọn Aṣẹ̀dá ohun ọ̀tun - Ẹ forúkọsílẹ̀ nísinsìnyí fún Ètò Láàbù WIPO Intellectual Property (IP).
+Ṣé oníṣòwò tàbí aṣẹ̀dá ohun ọ̀tun ni yín pẹ̀lú èrò tí ó dára èyí tí ó lè ṣe ìrànlọ́wọ́ láti wá ọ̀nà àbáyọ sí àwọn ìṣòro ojú ayé?
+Ètò Láàbù WIPO Intellectual Property (IP) fẹ́ ṣe ìrànlọ́wọ́ fún yín láti sọ èrò yín di okòwò aláṣeyọrí.
+WIPOT IP LABS jẹ́ iṣẹ́ àkànṣe tí WIPO Nigeria Office (WNO) ṣẹ̀dá ní àjọṣepọ̀ pẹ̀lú ètò WIPolO àti olùbádòwòpọ̀ àmúṣe WNO - The Orbra Company, láti ṣe ìrànlọ́wọ́ fún àwọn ilé-iṣẹ́ àdìdelẹ̀ tí wọ́n wà ní ìpele èrò ní Nigeria láti ṣe àgbékalẹ̀ èrò wọn, ṣe àgbékalẹ̀ wọn bí ọjà tí yóò máa dàgbàsókè, kí wọ́n sì ṣàmúlò IP fún àlùyọ.
+WIPO IP Labs, ń retí àwọn ìwé ìforúkọsílẹ̀ láti ọwọ́ àwọn ilé-iṣẹ́ àdìdelẹ̀ tí wọ́n wà ní ìpele èrò káàkiri Nigeria fún ètò ìgbáradì àti ìyákánkán tí ó fojúsun ṣíṣe àmúlò awomt dúkìá ọgbọ́n orí fún ìdàgbàsókè okòwò.
+Ètò náà ní àfojúsùn láti ṣe ìrànlọ́wọ́ fún àwọn ilé-iṣẹ́ àdìdelẹ̀:
+Sọ àwọn èrò ọ̀tun di àwọn ọjà tí yóò máa dàgbà.
+Ṣètò ìlóye lórí lílo IP fún okòwò
+Ṣẹ̀dá àwọn ọjà ìbẹ̀rẹ̀ kékeré (MVPs)
+Ṣètò àwọn òpọ́n àgbékalẹ̀
+Gba àwọn ètò IP fún àwọn àtinúdá àti ìṣẹ̀dá ohun ọ̀tun.
+So mọ́ àwọn olùbádámọ̀ràn, olùdókòwò àti àwọn alágbára àwùjọ ètò mìíràn.
+Ta ni ó lè Kọ̀wé ìforúkọsílẹ̀?
+WIPO IP Labs yóò gba àwọn ènìyàn tàbí ẹgbẹ́ pẹ̀lú àwọn èrò ìṣẹ̀dá ajẹmọ́ ẹ̀rọ tí wọ́n ń kojú àwọn ìṣòro ní àgbègbè bí ìṣúná, ìṣẹ̀dá iṣẹ́, àyípadà ojú ọjọ́, iṣẹ́ àgbẹ̀ abbl.
+Èrò yín gbọ́dọ̀ ní àwòmọ́ dúkìá Ọgbọ́n àtinúdá tí ó dáàbò bò ó.
+Ohun tí ẹ máa Gbà
+Ètò náà yóò wà láti oṣù Kẹjọ sí oṣù Kejìlá 2023 bẹ́ẹ̀ ni ó ní ìpele méjì::
+Ìpele 1: Igbaninímọ̀ràn gbogbogbò lórí ìdàgbàsókè ilé-iṣẹ́ àdìdelẹ̀, ìrònú ìṣẹ̀dá, àgbékalẹ̀ èrò, àti ìfáárà sí IP.
+Ìpele 2: Ìgbáradì, ìyákánkán àti àwọn Ilé-ìwòsàn Àkóso IP láti ṣe ìrànlọ́wọ́ fún yín láti ṣàmúlò ìdáàbòbò IP fún ìdàgbàsókè okòwò
+Nípasẹ̀ àwọn Ilé-ìwòsàn Àkóso IP ti WIPO, ẹ óò kọ́ bí a ṣe ń lè ṣàmúlò IP gẹ́gẹ́ bí ọgbọ́n okòwò.
+Ẹ óò tún dé ibi:
+Ìṣẹ̀dá ọjà Ìbẹ̀rẹ̀ Kékeré (MVP) àti ọpọ́n àgbékalẹ̀.
+So pọ̀ pẹ̀lú àwọn olùdókòwò àti olùbádámọ̀ràn.
+Ìsàsopọ̀ pekut àwọn ẹgbẹ́
+Kọ́ nípa àwọn irinṣẹ́ àti ọgbọ́n fún àkóso IP
+Bí ẹ ṣe lè forúkọsílẹ̀
+Ìkọ̀wé-forúkọsílẹ̀ wà ní ṣíṣí láti ọjọ́ 16 Oṣù Kẹjọ sí ọjọ́ 4 Oṣù Kẹsàn-án, 2023.
+Forúkọsílẹ̀ nísinsìnyí nípasẹ̀://www.wipo.int/about-wipo/en/offices/nigeria/ip-labs.html
+Ẹ má pàdánù àǹfààní yìí láti sọ èrò ìṣẹ̀dá ohun ọ̀tun yín di okòwò ńlá.
+Ṣàmúlò dúkìá ohnont àtinúdá àti àtìlẹ́yìn IP Labs láti ṣe àtìlẹ́yìn àṣeyọrí ilé-iṣẹ́ àdìdelẹ̀ yín.
+SMEDAN àti Nimbus Media Kéde mílíọ̀nù N40 Àtìlẹ́yìn Ìpolówó fún Okòwò kéékèèké àti alábọ́dé.
+Nimbus Media Mtd, ilé-iṣẹ́ ibit ìpolówó ọjà níta ilé àti Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) ti kéde ìpè fún ìkọ̀wéforúkọsílẹ̀ lónìí fún Nimbus Aid Project àtúnṣe 2023.
+Ètò àyípadà ipa àwùjọ yìí ni Nimbus Media Ltd sáájú yìí yóò pèsè àwọn okòwò tí àwọn obìnrin sáájú 20 káàkiri Nigeria pẹ̀lú ìpolówó tí ó ju mílíọ̀nù N40 ($53, 681) lójú àwọn àtẹ agbáwòrán Nimbus.
+Àwọn olùdíje tí wọ́n ṣe àṣeyọrí yóò jẹ àǹfààní láti ara àwọn onírúurú àtìlẹ́yìn ìtajà àti ìṣẹ̀dá iṣẹ́ láti ọwọ́ àwọn olùbádòwòpọ̀ iṣẹ́ àkànṣe mìíràn.
+Nígbà tí ó ń sọ̀rọ̀ lórí ìbádòwòpọ̀ náà, Ọ̀mọ̀wé Bunmi Kole-Dawodu Alákòóso SMEDAN, Ìpínlẹ̀ Èkó, sọ pé, "Ìbádòwòpọ̀ wa pẹ̀lú Nimbus Aid Project jẹ́ àfikún ńlá fún àwọn ètò SMEDAN ọdún yìí.
+À ń gbèrò láti mú ìlọsíwájú bá ipa wa lórí àwọn okòwò tí àwọn obìnrin ń darí ju àwọn ipa wa tẹ́lẹ̀ lọ.
+Pẹ̀lú àjọṣepọ̀ yìí, at ní igbiha ìgboyà láti ṣe àṣeyọrí lórí àwọn èròǹgbà wọ̀nyí."
+Ní Nigeria, àwọn okòwò kéékèèké àti alábọ́dé (SMEs) jẹ́ òpó ọrọ̀ ajé, wọ́n máa ń ṣe àgbékalẹ̀ ìṣẹ̀dá ọ̀tun, ìṣẹ̀dá àwọn iṣẹ́, àti mímú onírúurú ìlànà wọnú ètò ọrọ̀ ajé.
+Gẹ́gẹ́ bí ọ̀rọ̀ International Labour Organization, wọ́n ń pa 48% Àpapọ̀ Èrè Abẹ́lé (GDP) wọlé, wọ́n pèsè 96% àwọn okòwò àti 84% iṣẹ́.
+Àmọ́ sá, àwọn Okòwò kéékèèké àti alábọ́dé wọ̀nyí, pàápàá jùlọ èyí tí àwọn obìnrin ń darí, máa ń sáábà kojú àwọn ìṣòro tí ó máa ń dènà ìdàgbàsókè wọn.
+Wale Adegoke, Ọ̀gá Àgbà Pátápátá Nimbus Media Ltd, sọ pé, "Nimbus Aid Project jẹ́ àfihàn ìfarajìn wa láti mú àyípadà ọ̀tun wọ inú àwùjọ wa.
+A ní ìgbàgbọ́ nínú agbára ilé-iṣẹ́ ìròyìn láti ṣe àgbéga àwọn okòwò kí wọ́n sì ṣe ìrólágbára fún àwọn ènìyàn tí ohùn wọn nílò láti di gbígbọ́.
+Nípa mímú àwọn okòwò tí àwọn obìnrin ń darí bọ́ sí gbangba nípa ètò èyí, kì í ṣe pé a ń mú ìlọsíwájú bá ìdọ́gba ẹ̀tọ́ láàrin takọtabo nìkan ṣùgbọ́n a tún ń fẹ́ná sí ìdàgbàsókè ọrọ̀ ajé ní Nigeria.
+"Ní ọdún yìí, a dúpẹ́ fún àtìlẹ́yìn àwọn onígbọ̀wọ́ pàtàkì, tí ó fi mọ́ SMEDAN, LSETF, Marketing Edge Magazine, Tech Cabal, Techpoint Africa, News Central TV, Hervest, FBN Quest, Carpe Diem Solutions àti àwọn mìíràn tí wọ́n ṣe alábàápín àfojúsùn wa láti ṣẹ̀dá àwọn àǹfààní ọrọ̀ ajé nípasẹ̀ okòwò àti ìṣedéédé takọtabo.
+Nimbus Aid Project ti ní ìtọ́kasí ìtàn miniy ipa lórí àwọn okòwò.
+Láti 2016, ó ti ṣe àtìlẹ́yìn fún àwọn àjọ 13, tí 11 jẹ́ èyí tí àwọn obìnrin ń darí, pẹ̀lú ìpolówó Ìmọ̀ ìpolówó Ìmọ̀ ẹ̀rọ ìta ilé (DOOH).
+Pẹ̀lú àtìlẹ́yìn yìí, àwọn àwọn olùkópa tí ni àkọsílẹ̀ ìwò àrà ọ̀tọ̀ tí ó ju mílíọ̀nù 2.8 ìpolówó àwọn èròjà ní àwọn ìlú ńlá ńlá káàkiri Nigeria.
+Ẹ̀yà 2023 ni wọ́n gbé kalẹ̀ láti láti mú ìtẹ̀síwájú bá ipa yìí, ṣíṣe ìrónilágbára fún àwọn Okòwò kéékèèké àti alábọ́dé tí àwọn obìnrin ń darí àti ṣíṣe ètò fún àwùjọ okòwò tí ó fi ààyè gba tí ó sì ṣètò ìrónilágbára ọrọ̀ ajé fún un.
+Láti forúkọsílẹ̀ fún Nimbus Aid Project 2023, a rọ àwọn okòwò tí àwọn obìnrin ń darí láti kàn sí https://www.nimbus.com.ng/nimbus-aid-project. Gbèdéke ìparí ìkọ̀wéforúkọsílẹ̀ náà ni Ọjọ́ Ẹtì, ọjọ́ 8 oṣù Kẹ̀sán-án 2023.
+Nípa Nimbus Aid Project
+Láti ìgbà ìfilọ́lẹ̀ rẹ̀ ní 2016, Nimbus Aid Project ti set àtìlẹ́yìn fún àwọn okòwò àti àwọn àjọ onípa àwùjọ tí wọ́n farajìn láti ṣẹ̀dá ọrọ̀ ajé àti àǹfààní àwùjọ niy àwọn àgbègbè Nigeria.
+Ètò náà ni Nimbus Media Ltd sáájú, ilé-iṣẹ́ ìpolówó ìta ilé ní ìpínlẹ̀ Èkó.
+Wọ́n mọ̀ ọ́n sí "Nominate A Charity," Àfojúsùn Nimbus Aid Project ni láti rí i pé àwọn okòwò kéékèèké àti alábọ́dé àti àwọn àjọ onípa àwùjọ jẹ àǹfààní nínú àgbékalẹ̀ náà àti ìgbẹ́kẹ̀lé tí ìpolówó ọjà níta mú wá fún àwọn ilé-iṣẹ́ ńlá.
+Àwọn akópa Nimbus Aid Project àtẹ̀yìnwá ni a ti rí Headforth Foundation, ilé-iṣẹ́ aṣèrànwọ́ kan tí ó pèsè àǹfààní ọ̀fẹ́ àti ìrọ̀rùn sí ìdájọ́ fún àwọn aláìní; My Medicines; ìkànnì kan fún àǹfààní abẹ́lé sí àwọn òògùn gidi tí owó rẹ̀ kò gunpá káàkiri Nigeria; àti Wadi Africa, ìkànnì orí ẹ̀rọ kan tí ó ń ṣàsopọ̀ àwọn aṣèwádìí Afíríkà pẹ̀lú àwọn ohun àmúlò tí wọ́n nílò láti gbé ìwádìí tí ó lààmìlaaka jáde.
+Platnova: Ṣíṣe àtúnṣe Àwùjọ Ìmọ̀ ẹ̀rọ nínú ìṣúná Lágbàáyé
+Nínú àwùjọ ìṣúná tí ó ń yára yí padà, àsìkò yìí gan-an ni ìlò fún àwọn ọ̀nà àbáyọ ìmọ̀ ẹ̀rọ nínú ìṣúná tí ó káríayé ṣe pàtàkì jùlọ.
+Platnova, ọ̀tun ìkànnì ìmọ̀ ẹ̀rọ nínú ìṣúná kan, fojúsun dídí àlàfo yìí nípa pípèsè àwọn ọ̀nà àbáyọ tí ó gbòòrò tí wọ́n gbé kalẹ̀ fún àwọn àìní ayé tí ó so mọ́ra lónìí.
+Ìdásílẹ̀ láti ọwọ́ Benjamin Oyemonla, gbajúmọ̀ kan tí ó gba Global Talent Visa, Platnova ju ohun èlò ẹ̀rọ ìṣúná lásán lọ–ó dúró gẹ́gẹ́ bí àyípadà nínú bí s ṣe ń rí awkmt ìdúnàádúrà ìṣúná lágbàáyé.
+Pẹ̀lú àwọn onírúurú àbùdá tí ó gbòòrò gẹ́gẹ́ bí ìsanwó ayákánkán ọlọ́pọ̀ ẹ̀yà owó, ìrọ̀rùn ìsanwó ọjà, agbára láti ṣẹ̀dá àti láti fi owó sí orí àwọn káàdì orí ẹ̀rọ, àti àwọn ètò ìrọ̀rùn láti ra àwọn káàdì ẹ̀bùn àti sísan owó ilé ẹ̀kọ́ ní orílẹ̀ èdè mìíràn, Platnova gbé ara wọn sí òkè téńté àwọn ọ̀nà àbáyọ fún ìmọ̀ ẹ̀rọ nínú ìṣúná.
+Ní àárín gbùngbùn àfojúsùn Platnova ni ìfarajìn fún títẹ̀lé àwọn òfin ìlànà àti ààbò aṣàmúlò.
+Ìkànnì náà ń ṣiṣẹ́ káàkiri UK, US, Canada, Rwanda, àti Nigeria, agbègbè kọ̀ọ̀kan ń tẹ̀lé àwọn òfin ìlànà tirẹ̀.
+Lára èyí ni àwọn òfin FINCen ní US, ìforúkọsílẹ̀ MSB ní Canada, ìbádòwòpọ̀ pẹ̀lú àjọ alákòóso-FCA kan ní UK, àti ìbádòwòpọ̀ pẹ̀lú alábàáṣiṣẹ́pọ̀ òfin ìlànà-CBN ní Nigeria.
+"Ní ayé tí ó tit lajú púpọ̀, ó ṣe pàtàkì láti ní ìkànnì ìṣúná ìṣọ̀kan tí yóò ṣe ìtọ́jú fún àwọn ọ̀pọ̀lọpọ̀ agbègbè àti ẹ̀yà owó.
+Pẹ̀lú Platnova, a ní àfojúsùn láti dí àlàfo yìí kí á sì pèsè ìrírí ìṣúná tí ó rọrùn fún àwọn aṣàmúlò orílẹ̀ èdè yòówù tí wọ́n bá wà," Benjamin Oyemonla ló soy èyí.
+Ẹ̀ka ìmọ̀ ẹ̀rọ nínú ìṣúná náà ti fẹ́rẹ̀ẹ́ wà ní ipò ìgbà ọ̀tun, pẹ̀lú àwọn ọ̀nà àbáyọ bí Platnova tí wọ́n síwájú ìgbésẹ̀ náà.
+Bí àwọn okòwò àti àwọn ènìyàn ṣe ń wá àwọn ọ̀nà àbáyọ ìṣúná tí ó ní gbèdéke tí ó sì káríayé, awomt ìkànnì bí Platnova ní àbùdá láti ṣe àyípadà sí ọjọ́ iwájú ìṣúná.
+Gbádùn Àǹfààní ìrọ̀rùn sí Àwọn Ẹ̀gbẹẹgbẹ̀rún Ọjà Ẹwà ní Nigeria pẹ̀lú Paxo Beauty Revamped Mobile App.
+Asíwájú ilé-iṣẹ́ ìṣaralóge Nigeria, Paxo Beauty, dunnú láti kéde ìfilọ́lẹ̀ ohun èlò ẹ̀rọ alágbèéká rẹ̀.
+Àtúnṣe ohunt èlò ẹ̀rọ náà ti ṣetán láti ṣe àyípadà sí bí àwọn oníbàárà ṣe ń kàn sí ilé-iṣẹ́ náà, nípa pípèsè ìrírí ìrajà ìrọ̀rùn àti ṣíṣe ìrónilágbára fún àwọn ènìyàn tí ìṣaralóge jẹ lógún káàkiri Nigeria.
+Wọ́n ṣe ìdásílẹ̀ rẹ̀ ní 1996 gẹ́gẹ́ bí okòwò aláràtúntà okòwò sí okòwò, Paxo pharmaceutical limited - ẹ̀ka ilé-iṣẹ́ lábẹ́ Paxo Group - fi ara rẹ̀ kalẹ̀ gẹ́gẹ́ bí olùpèsè fún àwọn ilé ìtajà oògùn, ilé ìtajà ńlá, àti àwọn ilé ìtajà abẹ́lé tí ó ṣe é gbẹ́kẹ̀lé káàkiri orílẹ̀ èdè.
+Àmọ́ sá, bí àwọn ibi ìnájà orí ẹ̀rọ ayélujára bí Jumia, Dealdey, Konga, Kaymu, àti ibi ìnájà GTB ṣe dìde, gbígbé ara lé àwọn ìkànnì wọ̀nyí nìkan lè ní ìdènà.
+Láti fara mọ́ àyípadà ìmọ̀ ẹ̀rọ yìí, Paxo Beauty dìde láti ara Paxo Pharmaceutical ní 2015, ó ń ṣàmúlò ìlànà tààrà sí àwọn oníbàárà (D2C).
+Nínú ṣíṣe ìbádòwòpọ̀ pẹ̀lú àjọ aṣẹ̀dá Cregital, Paxo Beauty ṣe àtúnṣe ọjà àti ojú òpó ìtakùn rẹ̀ láti ṣe déédéé pẹ̀lú àwọn èrò.
+Nípa ṣíṣe àmúlò Instagram àti Facebook fún okòwò ní 2016, Paxo Beauty ní ìrírí ìdàgbàsókè ńlá, wọ́n ta ọjà tí ó tó 150, 000 náírà ní oṣooṣù.
+Ní 2020, Paxo Beauty tẹ̀síwájú láti mú àgbéga bá ìrírí àwọn oníbàárà rẹ̀ nípa ṣíṣe ìfilọ́lẹ̀ ohun èlò ẹ̀rọ alágbèéká tí ó rọrùn láti lò fún iOS àti Android.
+Ìkànnì tí wọ́n ṣàtúnṣe náà pèsè ìrírí ìrajà tí ó rọrùn, ojú òpó tí ó rọrùn láti lò fún àwọn aṣàmúlò, ìtẹ̀síwájú ìyanká, àti àwọn àṣàyàn ọjà onírúurú.
+Wọ́n tún ṣe àgbékalẹ̀ ètò ìfọkàntán kan, èyí tí ó ń fààyè gba àwọn oníbàárà láti rí owó pẹ̀lú ìrajà kọ̀ọ̀kan, èyí tí ó ń nípa lórí mílíọ̀nù 10 owó tó wọlé ní oṣooṣù.
+Àtúnfilọ́lẹ̀ ohun èlò ẹ̀rọ yìí jẹ́ ìfarajìn Paxo Beauty fún ìmọ̀ ẹ̀rọ àti ìṣẹ̀dá ohun ọ̀tun.
+Ikọ̀ àwọn olùṣẹ̀dá ilé iṣẹ́ náà, àwọn aṣẹ̀dá UX, àwọn alákòóso ọjà, àti alámọ̀já àtinúdá ṣẹ̀dá àwùjọ ìmọ̀ ẹ̀rọ láti mú ìgbéga bá ìrìnàjò oníbàárà.
+"Paxo Beauty ní èrò láti ṣe àgbékalẹ̀ àwọn ọjà àti ìrírí tí ó tayọ," ni ọ̀rọ̀ Jumoke Olukoya, Ọ̀gá Àgbà Pátápátá Paxo Beauty.
+"Àtúnṣe ohun èlò ẹ̀rọ wa sẹ ìgbéga fún iriri ìrajà ìṣaralóge, ó ń ṣe ìdàpọ̀ ìyára, ìrọ̀rùn, àti ìmọ̀ ẹ̀rọ láti fìdí ipò wa múlẹ̀ nínú ilé-iṣẹ́ ìṣaralóge Nigeria.
+Ohun èlò ẹ̀rọ Paxo Beauty wà lórí App Store àti Google Play Store báyìí, ó ń pèsè àwọn onírúurú ọjà ìṣaralóge àti ìtọ́jú awọ tí a gbé kalẹ̀ fún àwọn oníbàárà Nigeria.
+Fún àlàyé sí i, ẹ ṣe àbẹ̀wò sí www.paxobeauty.com
+Nípa Paxo Beauty:
+Láti 2015, Paxo Beauty tí ń mójútó oríṣiríṣi àwọn àìní àwọn oníbàárà ní Nigeria.
+Àyípadà láti ilé-iṣẹ́ aláràtúntà Okòwò sí Okòwò sí ìlànà tààrà sí oníbàárà, Paxo Beauty ṣe ìmúgbòòrò fún ìwàláàyè wọn lórí ẹ̀rọ ayélujára nípasẹ̀ àwọn ìkànnì ìbánidọ́rẹ̀ẹ́.
+Pẹ̀lú àtúnfilọ́lẹ̀ ohun èlò ẹ̀rọ wọn 2023, Paxo Beauty ní àfojúsùn láti pèsè ìrajà ìrọ̀rùn nígbà tí wọ́n sì farajìn fún àwọn ohun ìṣaralóge àti ìtọ́jú ara tí ó dára.
+Ingenium Communications ṣe àgbéjáde àwọn ọ̀nà àbáyọ ìpolówó àmọ̀ọ́mọ̀ gbé kalẹ̀ àti ìdàgbàsókè okòwò fún àwọn ilé-iṣẹ́ àdìdelẹ̀.
+Nínú ìgbésẹ̀ láti ṣe ìrónilágbára fún àwọn okòwò àdìdelẹ̀ tí ń gbèrú, Ingenium Communications, asíwájú àjọ ìpolówó ìbáraẹnisọ̀rọ̀ kan ní Nigeria, ti ṣe àgbékalẹ̀ Xcellerate — ibùdó ìpolówó àmọ̀ọ́mọ̀ gbé kalẹ̀ fún àwọn oníbàárà tí wọ́n ṣẹ̀dá fún àwọn ilé-iṣẹ́ àdìdelẹ̀ àti àwọn okòwò ní onírúurú ìwọ̀n.
+Ìmọ̀ ọ̀tun yìí fojúsun ìrólágbára àwọn ilé-iṣẹ́ àdìdelẹ̀ àti àwọn okòwò pínnísín, kéékèèké àti alábọ́dé (MSMEs) pẹ̀lú irinṣẹ́ pàtàkì àti ìmọ̀-ọ́nṣe láti mú ìlọsíwájú bá ìdàgbàsókè wọn.
+Gbígbé ara lé ìwòye ìjìnlẹ̀ wọn lórí àwọn ìṣòro tí àwọn ilé-iṣẹ́ àdìdelẹ̀ ń kojú, Ingenium Communications ti ṣe ibùdó àgbékalẹ̀ iṣẹ́ kan láti kojú àwọn òfin àlàkalẹ̀ àti èrò ìṣúná àwọn ilé-iṣẹ́ àdìdelẹ̀ ní àwọn onírúurú ìpele ìtẹ̀síwájú ìrìn-àjò wọn.
+Ó ní àwọn ìdì Xcellerate márùn-ún tí orúkọ wọn ń jẹ́ Ignition, Gear Up, Accelerate, Turbocharge, àti Hyperdrive, ibùdó yìí ní onírúurú àwọn iṣẹ́ láti mú ìlọsíwájú bá àwọn akitiyan ìpolówó, ṣe àfọ̀mọ́ ìlànà ilé-iṣẹ́, ìyákánkán àwọn akitiyan ìdàgbàsókè, ìgbésíta ìpolówó ọjà, àti líla ọ̀nà fún ìmúṣẹ ipò iye ìdíyelé tí ó tayọ bílíọ́nù dọ́là kan láì ta ìpín ìdókòwò.
+Pẹ̀lú ọ̀wọ́ tí ó kún fún ohun ọ̀fẹ́ tí ó so mọ́ ìpele òkè NGN 1, 000, 00, àwọn ìdì wọ̀nyí ṣe àgbékalẹ̀ àwọn àṣàyàn àmọ̀ọ́mọ̀ gbé kalẹ̀ láti kojú àwọn onírúurú àìní.
+Ìdì Ignition, wà ní ọ̀fẹ́ fún àwọn oṣù mẹ́ta kìíní, ń fún àwọn àṣẹ̀ṣẹ̀bẹ̀rẹ̀ ní àǹfààní ìpè ìmọ̀ràn ìpolówó orí ẹ̀rọ oṣooṣù àti àyẹ̀wò tí ó gbòòrò lórí àwọn ìkànnì ìbánidọ́rẹ̀ẹ́.
+Fún àwọn ilé-iṣẹ́ àdìdelẹ̀ tí ó wà ní ìpele ìbẹ̀rẹ̀, Ìdì Gear Up ní ìdàgbàsókè ìdánimọ̀ ilé-iṣẹ́, ìṣẹ̀dá àwọn àtinúdá orí ìkànnì ìbánidọ́rẹ̀ẹ́, àti ìjàbọ̀ ìyànnàná.
+Gígun ìpele àkàbà yìí sókè, Ìdì Accelerate ni wọ́n gbé kalẹ̀ fún àwọn ilé-iṣẹ́ àfìdíkalẹ̀ tí wọ́n ń wá ìmúgbòòrò.
+Ó ní gbogbo àwọn iṣẹ́ nínú ìdì Gear Up, pẹ̀lú Ìṣẹ̀dá Àtinúdá orí ẹ̀rọ Ìbánidọ́rẹ̀ẹ́ (àtẹ̀jáde 3 ní ọ̀sọ̀ọ̀sẹ̀), ìgbésáfẹ́fẹ́ ní oṣooṣù, àtẹ̀jáde ìròyìn lẹ́ẹ̀kan ní oṣù mẹ́rin mẹ́rin, àti ìyànnàná àti ìròyìn òòrèkóòrè.
+Bákan náà, Ìdì Turbocharge ń pèsè àgbékalẹ̀ tí wọ́n gbé ga, èyí tí ṣe àmúlò ìpè ìwádìí ojú ayé/orí ẹ̀rọ, ìṣẹ̀dá ojú òpó ìtakùn (UI/UX), akosot ìkànnì ìbánidọ́rẹ̀ẹ́ káàkiri àwọn ìkànnì mẹ́rẹ̀ẹ̀rin, ìdàgbàsókè ọgbọ́n gbígbòòrò, àti ọ̀rínkíníwín ìjàbọ̀ àti ìyànnàná – èyí tí ó ye tí fún àwọn tí wọ́n ń pòǹgbẹ̀ fún ìyàtọ̀ ọ̀tun.
+Ó kún fún àgbékalẹ̀ tí ń gbéni dé òkè téńté, Ìdì Hyperdrive ṣe àgbékalẹ̀ ipò adarí ni ilé-iṣẹ́ àti afousjt láti dí ilé-iṣẹ́ tí ó tó bílíọ́nù dọ́là kan láì ta ìpín ìdókòwò.
+Ó kún fún àwọn ìwádìí ìpolówó tí ó lu ojut ọjà pa àti àtúnfisípò bí ó bá nílò, àkóso ìkànnì ìbánidọ́rẹ̀ẹ́ tí ó gbòòrò káàkiri gbogbo àwọn ìkànnì, àwọn ikọ̀ alátinúdá orí ẹ̀rọ tí wọ́n farajìn, àti àwọn iṣẹ́ ìlukoro àrà ọ̀tọ̀ (ìdíyelé ọjà wà nílẹ̀ nígbà tí ẹ bá béèrè).
+Mukhtar Oyewoz Olórí ìdàgbàsókè ní Ingenium Communications, sọ pé, "A ṣe ìdámọ̀ àwọn ìṣòro ara ọ̀tọ̀ tí àwọn ilé-iṣẹ́ àdìdelẹ̀ máa ń kojú, bẹ́ẹ̀ àfojúsùn wa ni láti ró wọn lágbára pẹ̀lú àwọn irinṣẹ́ àti ìtọ́ni tí ó yẹ fún ìrìn-àjò àṣeyọrí.
+Xcellerate ṣe àkóónú ìdáláre wa pé yóò ṣe ìrólágbára ńlá fún akitiyan ìpolówó àwọn ilé-iṣẹ́ àdìdelẹ̀ yóò sì mú wọn tẹ̀síwájú láti mú àwọn àwọn èròǹgbà okòwò wọn sẹ."
+Ọpẹ lọ́wọ́ ikọ̀ alámọ̀já rẹ̀ àti àkọsílẹ̀ àṣeyọrí àtẹ̀yìnwá, Ingenium Communications ti di gbajúmọ̀ olùbádòwòpọ̀ fún ọ̀pọ̀lọpọ̀ àwọn ọmọ Nigeria àti àwọn ilé-iṣẹ́ àdìdelẹ̀ káàkiri àgbáyé.
+Bí ilé-iṣẹ́ àdìdelẹ̀ ìmọ̀ ẹ̀rọ nínú ẹ̀kọ́ ti Áfríkà, Educare wá ọ̀nà wọ àwọn kọ́ńtínẹ́ńtì mẹ́ta.
+Nelson Mandela ni ó sọ pé, "Ẹ̀kọ́ ni irinṣẹ́ tí ó lágbára jùlọ tí ẹ lè fi mú àyípadà bá ayé."
+Nígbà tí ẹ ó máa gbọ́ fànfà òòrèkóòrè nípa ìkójúwọ̀n ètò ẹ̀kọ́ Nigeria nísinsìnyí, ọ̀pọ̀lọpọ̀ yóò gbà pé ètò ẹ̀kọ́ tí ó dára lè nípa lórí ìrìnàjò ìgbésí ayé ènìyàn.
+Ṣùgbọ́n fún àwọn akẹ́kọ̀ọ́ láti rí àǹfààní tí ó pọ̀ nínú àgbékalẹ̀ ẹ̀kọ́ èyíkéyìí, àwọn olùdànilẹ́kọ̀ọ́ gbọ́dọ̀ ní ìdanilẹ́kọ̀ọ́ tí dáradára láti ṣe àwọn ojúṣe wọn.
+Ìdánnkanwò èrò kékeré yóò ràn wá lọ́wọ́ láti ní òye àwọn ìdojúkọ tí àwọn olùdásílẹ̀ àti alákòóso ilé-ẹ̀kọ́ ń kojú.
+Kí a gbà pé Lágbájá ni olùdásílẹ̀ ilé-ẹ̀kọ́ aládàáni kan ní Ikeja, Ìpínlẹ̀ Èkó, Nigeria.
+Ilé-ẹ̀kọ́ yìí ní àwọn 1,000 àwọn akẹ́kọ̀ọ́ àti 700 àwọn òbí/alágbàtọ́.
+Bí ó bà sì fẹ́ wà nínú okòwò, ó gbọ́dọ̀ rí i pé òun ṣàkóso èròǹgbà àwọn ẹgbẹ́ méjèèjì wọ̀nyí.
+Ṣùgbọ́n ó tún ní àwọn òṣìṣẹ́ tí yóò máa ronú nípa wọn nítorí àṣeyọrí ilé-ẹ̀kọ́ rẹ̀ so mọ́ tiwọn.
+Gẹ́gẹ́ bí olùdásílẹ̀ ilé-ẹ̀kọ́, díẹ̀ nínú àwọn iṣẹ́ tí ó ní láti mójútó ni gbígba owó ilé-ẹ̀kọ́ àti àwọn owó mìíràn; ó tún ní láti mójútó ìṣedéédé àwọn akẹ́kọ̀ọ́ àti àṣeyọrí wọn.
+Lọ́nà yìí, ó lè ṣe àkójọpọ̀ àwọn ìròyìn láti jẹ́ kí àwọn òbí mọ nípa ìlọsíwájú ọmọ wọn kí wọ́n sì ṣe ìdámọ̀ àwọn àgbègbè tí ó yẹ láti ṣiṣẹ́ lé lórí.
+Ó tún ní láti mójútó iṣẹ́ àwọn olùkọ́ tí ó gbà.
+Díẹ̀ lára àwọn ojúṣe rẹ̀ nìyí, ṣùgbọ́n àwòrán náà yé ọ.
+Ṣíṣe àkóso tàbí ìdarí ilé-ẹ̀kọ́ pè fún ọ̀pọ̀lọpọ̀ iṣẹ́, bẹ́ẹ̀ sì ni àwọn alákòóso ilé-ẹ̀kọ́ nílò gbogbo ìrànlọ́wọ́ tí wọ́n bá lè rí.
+Ibi tí Educare ti wọlé nìyẹn, ṣùgbọ́n lákọ̀ọ́kọ́, kí a wo bí ilé-iṣẹ́ àdìdelẹ̀ náà ṣe bẹ̀rẹ̀.
+Nígbà tí ó fi ìmọ̀ ẹ̀rọ nínú iṣẹ́ àgbẹ̀ sílẹ̀ láti ṣẹ̀dá àwọn ọ̀nà àbáyọ ohun èlò ẹ̀rọ.
+Alex Onyia ni Ọ̀gá Àgbà Pátápátá Educare.
+Ó tún jẹ́ akẹ́kọ̀ọ́ggboyè University of Nigeria, Nsukka, níbi tí ó ti kẹ́kọ̀ọ́ ìmọ̀ ẹ̀rọ iṣẹ́ àgbẹ̀ àti ìwádìí ẹ̀dá ẹlẹ́mìí.
+Ṣùgbọ́n kò ṣiṣẹ́ ní ìmọ̀ ẹ̀rọ ajẹmọ́ iṣẹ́ àgbẹ̀.
+Nígbà tí ó ń dàgbà, Ìyá Onyia ṣíṣẹ́ gẹ́gẹ́ bí alákòóso ní Nigerian Telecommunications Limited (NITEL).
+Nítorí ipò rẹ̀, ìdílé rẹ̀ ra ẹ̀rọ ayára-bí-àsá fún un, èyí ló sì fa ìrírí láti ìgbà èwe àti ìfẹ́ rẹ̀ sí àwọn ẹ̀rọ-ayára-bí-àsá.
+Lẹ́yìn ìgbà tí ó rí i pé wọ́n ṣẹ̀dá àwọn ètò tí ó gbádùn nípa kíkọ òfin ẹ̀rọ, ó bẹ̀rẹ̀ sí ní kọ́ bí ó ṣe lè ṣẹ̀dá ohun èlò ẹ̀rọ.
+Nígbà tí ó wọ University of Nigeria ní 2007, ó ti bẹ̀rẹ̀ sí ní ṣe ẹ̀dá àti ètò àwọn ojú òpó ìtakùn fún àwọn okòwò.
+Láàárín àwọn kíláàsì àti iṣẹ́ àṣekún-ẹ̀kọ́, ó ṣe ìsọdọ̀tun ìmọ̀-ọ́nṣe ṣíṣẹ̀dá àwọn ọ̀nà àbáyọ ohun èlò ẹ̀rọ fún àwọn okòwò káàkiri àgbáyé.
+Nígbà tí ó nífẹ̀ẹ́ ṣíṣẹ̀dá ohun èlò ẹ̀rọ, ó tún mọ̀ pé òun nílò láti pa owó láti ara àwọn ọjà tí ó ń ṣẹ̀dá, nítorí náà lẹ́yìn ìkẹ́kọ̀ọ́gboyè, ó pinnu láti kọ́ nípa bí ó ṣe lè rówó lára àwọn ọjà ohun èlò ẹ̀rọ.
+Láti ṣe eléyìí, ó bẹ̀rẹ̀ ilé iṣẹ́ ìṣẹ̀dá ohun èlò ẹ̀rọ tí yóò máa ṣe àgbàṣe àwọn iṣẹ́ àkànṣe ọlọ́jọ́ díẹ̀ láti ọwọ́ àwọn àjọ okòwò àti ìjọba bí Ẹ̀ka Ìjọba Nigeria tí ó ń rí sí ọ̀rọ̀ Agbára.
+Kì í ṣe àwọn ìgbaṣẹ́ṣe ni wọ́n ń ṣe atọ́nà Ohun èlò ẹ̀rọ.
+"Mo ti mọ̀ tipẹ́ pé kì í ṣe àwọn ìgbaṣẹ́ṣe ni wọ́n ń ṣe atọ́nà ohun èlò ẹ̀rọ.
+Bí ẹ bá fẹ́ ṣe àṣeyọrí nínú [ṣíṣẹ̀dá] àwọn ọjà ohun èlò ẹ̀rọ, ẹ ní láti wá apá kan kí ẹ sì ṣe é dáadáa, nítorí náà ni a ṣe pinnu láti dojú kọ ètò ẹ̀kọ́."
+Nígbà tí wọ́n bi í nípa ìbẹ̀rẹ̀pẹ̀pẹ̀ Educare, ó dáhùn pẹ̀lú òtítọ́ tí kò wọ́pọ̀ láàrin oníṣòwò ìmọ̀ ẹ̀rọ.
+"Ní Nigeria, kò sí ohun tí ó dàbí èrò tuntun, ṣùgbọ́n ìṣòro tí ó wọ́pọ̀ láàrin àwọn àgbékalẹ̀ Nigeria ni ìṣeégbáralé àwọn ọ̀nà àbáyọ tí wọ́n wà.
+Àwọn ohun èlò ẹ̀rọ ilé ìfowópamọ́ púpọ̀ ló wà, ṣùgbọ́n ẹ mọ bí wọ́n ṣe máa ń já a yín kulẹ̀ nígbà gbogbo nígbà tí ẹ bá fẹ́ fowó ráńṣẹ́.
+Ní àwùjọ ètò ẹ̀kọ́, ọ̀pọ̀lọpọ̀ ènìyàn wà tí wọ́n ń gbìyànjú láti ṣẹ̀dá àwọn ọ̀nà àbáyọ ohun èlò ẹ̀rọ, ṣùgbọ́n ìranù ni wọ́n máa ń jẹ́.
+Kín wá ni Educare wàyí tọpa orírun rẹ̀ lọ sí àdéhùn iṣẹ́ 2014 kan láti ọwọ́ Lekki British School láti ṣẹ̀dá ohun èlò ẹ̀rọ aṣàkóso ilé ẹ̀kọ́.
+Lẹ́yìn tí wọ́n ṣe iṣẹ́ àkànṣe náà tán tí wọ́n sì rí ipa rẹ̀, ikọ̀ náà pinnu láti ṣẹ̀dá okòwò ní agbọn yìí, tí ó yọrí sí àṣetúnṣe Educare nísinsìnyí.
+"Ní Educare, a ń wá ọ̀nà àbáyọ sí àwọn ìdojúkọ ńlá tí ó ń kojú àwọn ibùdó ìkẹ́kọ̀ọ́ láti ṣàkóso àwọn ìṣúná, òṣìṣẹ́, àkọsílẹ̀ akẹ́kọ̀ọ́, àti àpapọ̀ àwọn iṣẹ́ ilé ẹ̀kọ́ wọn.
+Àwọn ìṣòro tí à ń yanjú ni àìkójúwọ̀n, àwọn ètò àfọwọ́ṣe, àti àìsí ìmúwọlé tí ó sáábà máa ń kojú àwọn àgbègbè yìí ní àwọn ilé ẹ̀kọ́. "
+Ohun èlò ẹ̀rọ Educare ń ṣe àkósórí ẹ̀rọ àwọn àkọsílẹ̀, ìdánwò, àti èsì ìdánwò akẹ́kọ̀ọ́.
+Ṣíṣe àmúlò àwọn ìwífun-àlàyé tí ó gbà, àwọn olùkọ́ lè pèsè ẹ̀kọ́ aládàáṣe fún àwọn akẹ́kọ̀ọ́.
+Ohun èlò ẹ̀rọ HR rẹ̀ tún ní àwọn ètò aṣàkóso ìlànà ìsanwó.
+Ó lé ní 1, 400 ilé ẹ̀kọ́ aládàáni ní Nigeria, Tanzania, United Kingdom, àti United States ni wọ́n ń lo ohun èlò ẹ̀rọ Educare láti mú ìrọ̀rùn bá àwọn ètò wọn.
+Nígbà tí àwọn ilé ẹ̀kọ́ ń sanwó fún akẹ́kọ̀ọ́ kọ̀ọ̀kan tí ohun èlò ẹ̀rọ náà ń pèsè fún, ó tún ń pèsè àwọn ètò àmọ̀ọ́nmọ̀-gbékalẹ̀.
+Àwọn ìdojúkọ ìdàgbàsókè
+Bí ó tilẹ̀ jẹ́ pé Onyia ní ìrírí ìṣòwò tí ó dára, ṣíṣẹ̀dá ilé iṣẹ́ àdìdelẹ̀ ìmọ̀ ẹ̀rọ nínú ẹ̀kọ́ láti orílẹ̀-èdè Nigeria jẹ́ èyí tí kò rọrùn.
+Ó ṣàlàyé pé Ilé-iṣẹ́ àdìdelẹ̀ náà tí kò gba owó ìrànwọ́ kankan láti ìta ti kojú àwọn ìdojúkọ díẹ̀, pàápàá jùlọ pẹ̀lú gbígba àwọn ilé ẹ̀kọ́ wọlé.
+"Ìpele ìṣòro mímú kí àwọn olùdásílẹ̀ ilé ẹ̀kọ́ gba ọjà Educare lè yàtọ̀ nítorí àwọn onírúurú ìdí, bí àwọn ètò ilé-ẹ̀kọ́ tí wọ́n wà tẹ́lẹ̀, gbèdéke ìṣúná, àìfẹ́ gba àyípadà, àti ìwòye àwòmọ́ tí ohun èlò ẹ̀rọ náà mú wá.
+"Àwọn olùdásílẹ̀ ilé ẹ̀kọ́ kan lè má fẹ́ gba ìmọ̀ ẹ̀rọ tuntun nítorí iyèméjì nípa ṣíṣe àmúlò rẹ̀, ìdanilẹ́kọ̀ọ́, àti ìdàrú tí ó lè mú bá àwọn ètò wọn báyìí.
+Wọ́n tún lè máa ṣe iyèméjì nípa owó ìdókòwò tí wọ́n nílò fún ohun èlò ẹ̀rọ náà àti àwọn àǹfààní rẹ̀ ọlọ́jọ́ pípẹ́."
+Agbára Educare láti pèsè àwọn ìdáhùn tí ó yẹ sí àwọn ìbéèrè wọn tí mú kí ilé iṣẹ́ àdìdelẹ̀ náà rí àwọn oníbàárà sí i.
+"Bí ó tilẹ̀ jẹ́ pé àtakò lè wà ní ìbẹ̀rẹ̀, nípa ṣíṣe àmójútó àwọn ìṣòro, pípèsè ẹ̀rí àǹfààní, àti pípèsè àtìlẹ́yìn tí ó pọ̀, Educare ń gbìyànjú láti mú kí ètò ṣíṣe àmúlò máa rọrùn ní gbogbo ọ̀nà fún àwọn olùdásílẹ̀ ilé-ẹ̀kọ́ àti láti ṣàfihàn àwọn àǹfààní ọlọ́jọ́ pípẹ́ àwọn ọ̀nà àbáyọ ohun èlò ẹ̀rọ wa."
+Educare fi owó ara rẹ̀ bẹ̀rẹ̀ láti ìgbà tí ó ti bẹ̀rẹ̀, Onyia sì sọ pé ilé-iṣẹ́ àdìdelẹ̀ náà kò ní ṣe ìkówójọ àtòdewá láìpẹ́.
+Pẹ̀lú ìwàláàyè ní orílẹ̀-èdè mẹ́rin, ó sọ pé àfojúsùn ni láti mú ìdàgbàsókè bá ibùdó àwọn oníbàárà ní ìlọ́po méjì.
+"A ó ṣe ìfilọ́lẹ̀ kíkún àwọn ọjà okòwò wa ní Ọjọ́ 30 oṣù Kẹjọ, 2023.
+Èyí yóò mú kí á lè pèsè fún ẹgbẹ̀lẹ́gbẹ̀ àwọn okòwò tí wọ́n nílò ìṣọ̀kan HR àti àwọn ọ̀nà àbáyọ ìṣúná láti ṣàkóso àwọn iṣẹ́ okòwò wọn.
+A ń ṣe ìdánnkanwò ìsáájú báyìí a sì ní àwọn okòwò 3, 000 tí wọ́n darapọ̀ pẹ̀lúu rẹ̀."
+EXolo: Ọjọ́ iwájú okòwò ọjọ́ iwájú aláìlópìn.
+Nínú ọrọ̀ ajé orí ẹ̀rọ, ìṣòwò owó àkósódù ọjọ́ iwájú aláìlópìn ń yára dàgbà, bẹ́ẹ̀ ni àmúlò àwọn owó àkósódù ti di èyí tí kò lè díjú sí.
+Ìdìdelẹ̀ EXolo jẹ́ ìgboyà ńlá nínú ayé ọjà ọjọ́ iwájú aláìlópìn.
+Ìkànnì ìṣòwò tí ó ti lọ síwájú náà ni wọ́n gbé kalẹ̀ láti ṣe àyípadà ayé owó orí ẹ̀rọ nípa pípèsè àkóso tí kò lẹ́gbẹ́, ìrọ̀rùn, àti ètò abo fún àwọn oníṣòwò owó àkósódù.
+Ó ń ṣe ìrónilágbára fún àwọn oníṣòwò nípa pípèsè òmìnira tí wọ́n ń béèrè fún láti ní ìrírí ọjọ́ iwájú aláìlópìn nínú okòwò owó àkósódù.
+UI ọjọ́ iwájú owó àkósódù aláìlópìn rọrùn láti ṣàmúlò tí ó mú kí ó jẹ́ ìkànnì tí ó tọ́ fún àwọn oníṣòwò tí wọ́n ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ àti àwọn tí wọ́n ní ìrírí.
+EXolo ń rí àrídájú àmúṣe àwọn okòwò, àdínkù akùdé àti gbígba àwọn oníṣòwò láyè láti jẹ àǹfààní nínú àyípadà-òjìji okòwò owó àkósódù.
+Pẹ̀lú iyèméjì tí ó ń wà lórí àwọn oníṣòwò ọjà owó àkósódù àti olùdókòwò, EXolo ti ṣe àgbékalẹ̀ ọ̀nà àrà ọ̀tọ̀ àti ajẹmọ́ṣe ìkópamọ́ owó àwọn aṣàmúlò.
+Ìkànnì náà ti ṣẹ̀dá ọgbọ́n aṣàkóso ọrọ̀ aláràbarà tí ó ń pín owó fún àwọn aṣàmúlò lórí àpamọ́ gbígbóná àti tútù fún ìtẹ̀síwájú ètò ààbò.
+Pẹ̀lú ọ̀pọ̀ awont owó àkósódù tí wọ́n ń pèsè ìsànká owó àti ìṣàmúlò ńlá, ojú ìwòye EXolo lórí ìpèsè ìṣúná fojú hàn dáadáa.
+Ìkànnì Okòwò náà gbàgbọ́ pé owó àkósódù kò yẹ láti pèsè àwọn àṣàyàn ìṣẹ̀dá ìpín owó àkósódù nìkan, ṣùgbọ́n ó tún yẹ kó ṣe ìdanilẹ́kọ̀ọ́ fún àwọn aṣàmúlò nípa ìgbésí ayé àìdúrójẹ́ àwọn owó àkósódù nípasẹ̀ àwọn àkóónú ẹ̀kọ́ ajẹmọ́ aṣàmúlò lórí okòwò owó àkósódù àti àkóso ọrọ̀.
+EXolo pèsè ibùdó ohun àmúlò tí ó fẹjú, pẹ̀lú àlàyé nípa onírúurú àwọn ìdì owó àkósódù, ọgbọ́n òwò, àti àwọn ìmúdójú-ìwọ̀n ọjà.
+Àtìlẹ́yìn ètò ẹ̀kọ́ yìí ń pèsè ọgbọ́n tí ó yẹ fún àwọn oníṣòwò láti ṣe àwọn ìpinnu okòwò tí ó bojúmu.
+Ní àfikún, owó àkósódù náà tẹ́lẹ̀ ìlànà, ó pa gbogbo àwọn òfin àti ìlànà àgbáyé àti agbègbè mọ́.
+Ìfarajìn yìí ṣe àfihàn pé àwọn iṣẹ́ ìkànnì náà hànde sáyé, ó báṣà mu, bẹ́ẹ̀ sì ni ó wà láàárín ààlà òfin, tí ó ń pèsè àwọn aṣàmúlò pẹ̀lú agbègbè okòwò tí ó ṣe é gbẹ́kẹ̀lé.
+Ìdúnàádúrà àwọn ọjọ́ ọ̀la owó àkósódù pèsè ìdókòwò àti okòwò owó àkósódù tí ó fi mọ́ okòwò lọ́ọ́lọ́ọ́, okòwò ọjọ́ ọ̀la aláìlópìn àti ẹ̀dà okòwò.
+Okòwò ọjọ́ ọ̀la aláìlópìn jẹ́ irúfẹ́ àdéhùn ìṣẹ̀dá kan nínú ìgbé ayé owó àkósódù tí ó farajọ okòwò ọjọ́ iwájú ìbílẹ̀, pẹ̀lú ìyàtọ̀ kan gbòógì – àwọn àdéhùn ọjọ́ iwájú aláìlópìn kò ní ọjọ́ tí yóò dópin.
+Ọjọ́ iwájú aláìlópìn nínú ọjà owó àkósódù jẹmọ́ àsọtẹ́lẹ̀ lórí iye owó owó àkósódù, bí Bitcoin tàbí Ethereum, ṣùgbọ́n láìsí ọjọ́ àyàsọ́tọ̀ kankan fún ìparí.
+Ṣíṣe okòwò ọjọ́ iwájú aláìlópìn tàbí àdéhùn aláìlópìn ti di gbajúmọ̀ nítorí ìṣeéyípadà rẹ̀, nítorí pé àwọn oníṣòwò lè jèrè láti ara àwọn ọjà tí ó ń lọ sókè àti sílẹ̀.
+Wọ́n tún lè lọ síwájú (títa tẹ́tẹ́ pé iyeó náà yóò pọ̀ sí i) tàbí wíwá sílẹ̀ (títa tẹ́tẹ́ pé iyeó náà yóò wá sílẹ̀), pípèsè àwọn àǹfààní láti jèrè láì fi ti ibi yòówù tí ọjà bá kọrí sí ṣe.
+Àfikún Kíkà: Kọ́ bí o ṣe lè ṣàmúlò àbùdá ọjọ́ Defi pẹ̀lú EXolo
+Ìkànnì náà jẹ́ ẹ̀rí àkọmọ̀nà: Ṣẹ̀dá àwọn ọjà ọ̀tun nígbà tí ọjà owó àkósódù kò tíì wọ ìpele ọjà ọ̀wọ́n tí ó kàn.
+Nípa EXolo
+EXolo -okòwò ọjọ́ ọ̀la owó àkósódù tí ó ń dìde ní àfojúsùn láti sọ àǹfààní sí ọrọ̀ orí ẹ̀rọ di ti tolorí tẹlẹ́mù, kí ó sì sé ìrónilágbára fún àwọn ènìyàn nípa pípèsè àwọn ọ̀rọ̀ owó àkósódù tí ó ní ààbò tí ìṣòwò ọjọ́ ọ̀la aláìlópìn wọn sì ń lọ ní ìrọ̀rùn.
+Pẹ̀lú ikọ̀ àwọn alámọ̀já láti onírúurú ẹ̀ka ìmọ̀ tí ó fi mọ́ ìmọ̀ ẹ̀rọ nínú ìṣúná, ètò ààbò ẹ̀rọ, àti ìmọ̀ ẹ̀rọ ẹ̀wọ́n àkọsílẹ̀ owó àkósódù, àwọn asíwájú ètò ọrọ̀ orí ẹ̀rọ ń làkàkà láti pèsè ìkànnì okòwò owó àkósódù tí ó dára tí ó sì gbọgbọ́n jùlọ.
+Láti kẹ́kọ̀ọ́ sí i nípa EXolo ẹ kàn sí: https//exolo.org/
+roHealth Yípadà sí Motherboard, Ṣe ìlérí Ìgbà ọ̀tun fún àwọn Òṣìṣẹ́ Ṣe Àǹfààní fún àwọn Alákòóso
+roHealth, ìkànnì àwọn àǹfààní ìlera fún òṣìṣẹ́ ti kéde lónìí pé òun ń ṣe àtúnṣe láti dí Motherboard, ìkànnì àǹfààní tí ó fẹjú fún àwọn òṣìṣẹ́ ní Áfríkà.
+Lẹ́yìn àwọn iṣẹ́ ọdún 2, roHealth ń gbòòrò àwọn iṣẹ́ rẹ̀ sí i láti ṣe àfikún àwọn àǹfààní òṣìṣẹ́ sí i tayọ adójútòfo ìlera.
+Pẹ̀lú ìmúgbòòrò yìí ni orúkọ tuntun, ìwò tuntun, àti ọjà tuntun láti ṣojú ibí tí ilé iṣẹ́ náà ń doríkọ dáadáa.
+Ìpinnu láti gbòòrò ẹ̀ka wọn dìde láti ara ìfarajìn roHealth láti mójútó àwọn ìṣòro àwùjọ òṣìṣẹ́ ní Áfríkà tí ó ń yípadà.
+Pẹ̀lú ọ̀wọ́ngógó tí ó ń pọ̀ sí i nínú ètò ìgbé ayé Áfríkà, Motherboard wá gẹ́gẹ́ bí ọ̀nà àbáyọ tí ó bágbàmu, ó ń wá ọ̀nà àbáyọ sí ìṣòro nínú ọjà òde òní.
+Lekan Olude, Ọ̀gá Àgbà Pátápátá Motherboard àti olùdásílẹ̀ Jobber man nígbà kan rí, ṣe àfihàn ìdùnnú rẹ̀ nípa ọjọ́ ọ̀la ilé-iṣẹ́ náà.:
+A ti rí ojúlówó ipa tí roHealth ni lórí àǹfààní ìlera òṣìṣẹ́ fún àwọn oníbàárà wa.
+Àwọn òṣìṣẹ́ tí wọ́n ń ṣàmúlò roHealth ti ṣe alábàápín àwọn ìtàn bí ó ṣe ṣe àdínkù iyeó fún wọn nígbà tí ó ń pèsè ìrírí tí ó dára fún àwọn òṣìṣẹ́.
+Bẹ́ẹ̀ nísinsìnyí, wọ́n ń béèrè àwọn ìbéèrè nípa bí wọ́n ṣe lè ṣàmúlò ipa yìí níta ètò ìlera.
+Àwọn ìbéèrè wọ̀nyí ni a ṣẹ̀dá Motherboard fún gẹ́gẹ́ bí ìdáhùn.
+A ní ìmọ̀-ọ́nṣe lórí ọ̀nà àbáyọ fún ìṣòro yìí fún àǹfààní ìlera – a kàn nílò láti gbé ìmọ̀-ọ́nṣe yẹn wọ inú àwọn onírúurú àǹfààní mìíràn."
+Motherboard ti ṣetán láti di ìkànnì #1 fún àǹfààní òṣìṣẹ́ fún ilé-iṣẹ́ èyíkéyìí tí ó ní àwọn òṣìṣẹ́ Áfríkà.
+Pẹ̀lú àǹfààní káàkiri adójútòfo ìlera, oúnjẹ & èròjà oúnjẹ, ìrìnkèrindò, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ, Motherboard fẹ́ mú ìgbéga bá níní àǹfààní sí àwọn àǹfààní yìí fún àwọn òṣìṣẹ́ kí wọ́n sì ṣe àdínkù bá iyeó ìgbànisíṣẹ́ àwọn òṣìṣẹ́ fún àwọn agbanisíṣẹ́.
+Motherboard ní àwọn oníṣòwò 100 lórí ìkànnì rẹ̀ (tí ó fi mọ́ àwọn akópa bí Shoprite, Ebeano, Filmhouse Cinemas, àti 15+ HMOs), èyí tí ó ń fún àwọn òṣìṣẹ́ láǹfààní láti ṣẹ̀dá àǹfààní tí wọ́n fẹ́ pẹ̀lú ohun tí wọ́n nílò nínú ìṣúná agbanisíṣẹ́ wọn.
+Nípa Motherboard
+Motherboard, tí a mọ sí roHealth tẹ́lẹ̀, jẹ́ ìkànnì àkóso àwọn àǹfààní fún òṣìṣẹ́ tí ó ń ṣe ìrónilágbára fún àwọn agbanisíṣẹ́ àti òṣìṣẹ́ káàkiri Afíríkà.
+Pẹ̀lú àfojúsùn láti mú ìgbéga bá níní àǹfààní sí àti ìpínká ní owó kékeré, Motherboard farajìn fún mímú àyípadà bá ọ̀nà tí wọ́n ń gbà ṣe àgbékalẹ̀ àti bí àwọn àwọn òṣìṣẹ́ ṣe ń ní ìrírí àǹfààní òṣìṣẹ́.
+Ẹ lè kà sí i nípa àtúnṣe náà tàbí kí ẹ kàn sí ìtakùn ayélujára Motherboard fún àlàyé sí i.
+Motherboard tún ń gbàlejò Ìpín Béèrè Ohunkóhun lọ́wọ́ mi ní aago 5 ìrọ̀lẹ́ Ọ̀jọ́rú, ọjọ́ 10 Oṣù Kẹjọ, 2023 níbi tí wọn yóò ti ṣe àfihàn ojúkojú tí wọ́n yóò sì dáhùn àwọn ìbéèrè tí ó kọ àwọn èèyàn lóminú nípa àtúnṣe náà.

@@ -1,0 +1,1982 @@
+Taron IMT 2023: Rajistar shiga ɗaya Daga Cikin Taron Inshora Mafi Girma da Fasahar Harkokin Inshora a Afrika za a fara shia 18 ga watan Agustan 2023.
+Masu jawabai sama da 50; Demos da Masterclasses sama da 20, kuma ana tsammanin halartar kusan mutane 3,000.
+A matsayin taro INSHORA TA HAƊU DA FASAHAR ZAMANI (IMT 2.0) karo na biyu da ake matuƙar tsumayi, an shirya jadawalin yin shi a ranakun 28 da kuma 29 ga Satumban 2023, a Civic Center dake Victoria Island, Legas, yana ƙaratowa, masu shirya taron sun sanarda fara rajista a hukumance ga masu son halarta.
+Kamar yanda Modio Communication ya labarta, taron na kwanaki biyu, da kuma tarukan baje koli, shafin intanet na yin rajista za a buɗe shi a hukumance ga masu son shiga a ranar Juma'a, 18 ga Agustan 2023, a shafin intanet na IMT 2.0 na https://insurancemeetstech.com/.
+Idan an buɗe, wakilai da kuma wakilai na musamman zasu iya yin rajista cikin sauƙi, da biyan kuɗin Wanda zai fara halartar taro kan kuɗi N20,000 da kuma N50,000 bi da bi, a shafin yanar gizon.
+A cewar Pecious Ubah, daraktan taron na IMT Conference and Tradeshow, taron zai haska masu jawabai sama da 50; Demos da Masterclasses sama da 20, kuma ana tsammanin kusan mutane 3,000 zasu iya halartar taron kasuwancin.
+Ya ƙara da cewa IMT 2.0 zai haɗa masu tsara ƙudire-ƙudire, masu sa ido, manyan masu jawabai, da kuma shugabannin sashin a jerin tattaunawa shida masu ƙarfi.
+Za a samar da masaukan manyan baƙi na musamman da kuma wakilai, baje kolin gaɓar ruwa, Babbar Cibiyar Masterclasses and Demo Day, don musayar basira da sabbin mafita don amfani da fasahar zamani a samu shigar inshora da kuma inganta inganci da kyawun masana'antun Inshora.
+Jagororin tunani da masu sa ido a wajen taron zasuyi musayar kyawawan shawarwari akan nazarin bayanai a ƙirƙirarriyar fikirar da zasu ƙarfafi inganta kaya, haɓaka hanyoyin rubutawa da gudanarwa, taimakawa wajen magance matsalar tsaron intanet, da kuma fayyace matsayin masu haɗa shafin intanet a sashin samarwa na masana'antar.
+"Muna farin cikin haɗa mutane masu hazaɓa daga fannonin inshora da fasahar zamani don nemo yanda waɗannan masana'antu zasu haɗu cikin sauƙi don sakamako mai amfani.
+Hanyoyin yin rajista an tsara su yanda zasu zamo masu sauƙi tare da sauƙin amfani, don tabbatar da cewa mutane da ƙungiyoyi masu sha'awar shiga sun samu shigowa wannan taro da zai zo da sauyi.
+"Saboda haka muna kira ga wakilai masu sha'awar shiga da suyi rajista da wuri don samun guraben su, ta hanyar cikakken amfani da wannan dama ta kyautar-farkon-gin gabanin fara taron da yayi alƙawarin alaƙoƙi masu cike da damammaki, a tare da jagororin tunani, masu jan gaba da takwarori a ɓangaren," Precious Ubah ta ƙara dacewa.
+Yayin da yake tofa nasa tsokacin, mai shirya taron na INSHORA TA HAƊU DA FASAHAR ZAMANI, Odion Aleobua ya bayyana cewar " taron Inshora ta Haɗu da fasahar zamani ya wuce kasancewa wurin haɗuwa kawai ga masu ruwa da tsaki a cibiyoyi ko ma'aikatu, ƙwararru a masana'antu da masu ƙirƙira a rayuwa, baki ɗayan inshorar lafiya, fasahar harkokin inshora, da dai sauran ɓangarori masu alaƙa.
+Wata dama ce ta ƙirƙira, inda sabbin mafita na zamani za suyi matuƙar tasiri wajen tabbatar da burin Najeriya na cikakkiyar shiga cikin harkokin kuɗi," ya ƙara da cewa.
+Don ƙarin bayani da kuma bayanan yin rajista, dan Allah ziyarci https://insurancemeetstech.com/.
+Don haɗin gwiwa da ɗaukar nauyi da sauran ƙarin bayani, tuntuɓi inquiries@insurancemeetstech.com.
+GAME DA KAMFANIN SADARWA NA MODION
+INSURANCE MEETS TECH yazo da niyyar zaburar da ɓangaren inshora da fasahar harkokin inshora, ta hanyar samar da wani dandali ga masu ruwa da tsaki don musayar basira, shawarwari, da kuma gogewa ta yanda za ayi amfani da fasahar zamani wajen kutsawa a shiga inshorar a kuma inganta inganci da tasirin masana'antar inshorar.
+An sa basira, an tsara, an kuma ɗabbaƙa shi a shekarar 2021, wanda ɗaya daga cikin kamfanonin Afrika da suka ci lambar yabo a ɓangaren ma'aikatun ƙirƙirar sadarwar kasuwanci, wato Modion Communications, anyi taron ƙaddamar da IMT a cikin shekarar 2022, inda ya tara wasu daga cikin jiga-jigan shahararru da jagororin masana ɓangaren harkokin kuɗi da fasahar yankin, irin su Ecobank Nigeria, Old Mutual Nigeria, Leadway Assurance, aYo Fintech, Curacel, ActiveEdge Technologies, Microsoft Nigeeia, da kuma ɗan gaba -gaban harkar sadarwa a Afrika wato MTN.
+Taron ya kuma samu taka rawar wasu ɓangaren masu tsara manufofin inshora irinsu ƙungiyar Masu Harkokin Inshora t Najeriya (NIA).
+GAME DA KAMFANIN MODION COMMUNICATIONS
+Kamfanin Modion Communications cikakken kamfani ne dake bawa jama'a shawarar yanda zasu yi hulɗa da jama'a, ƙirƙirar samfur, ɗabbaƙa tallace-tallace, shiga harkokin midiya, tattauna matsaloli, harkokin kuɗi na PR, tallafawa hulɗa da mai zuba jari, gudanar da taruka, kasuwanci ta fasahar zamani, da kuma wallafe-wallafe na kafofin yaɗa labarai.
+Kamfanin dake a Legas, Najeriya, kamfanin nada ƙudirin ganin mamayar Afrika tahanyar ƙarfin faɗa aji, sabbin abubuwa, ƙirƙira, hanyoyin zamani da suke mafita ga ɗaiɗaikun mutane, ƙananan kamfanoni, manyan kamfanoni, masana'antu da kuma hukumomin gwamnati.
+Kamfanin Modion Communications na bada shawarwari masu ɗauke da sauyi, ƙirƙira, dabaru, da suka dace da kwastoma, kuma wanda suke bada mafita da sanin yanda za ayi a wajen hulɗa da jama'a, gudanar da samfur, dabarun shigo da kafofin yaɗa labarai, gudanar da taruka, kasuwancin sadarwa da kuma kasuwanci na fasahar zamani.
+A cikin shekara guda da fara ayyuka, kamfanin Modion Communications ya samu yabo daga Marketing Edge a matsayin Sabon Kamfani Mafi Hazaɓa na PR Agency na gwarzon shekara a shekarar 2022.
+A shekarar 2018, an bashi kyautar Marketing World Award Ghana, a matsayin "kamfanin Najeriya na PR Agency Mafi Sabunta na shekara", wata nasara da kamfanin ya sake cimmawa a shekarar 2022.
+Kamfanin na ɗaya daga cikin kamfanonin hulɗa da jama'a mafi ƙarancin shekaru a Afrika fayya karɓi lambar yabo ta Platinum SABRE da kuma ta Diamond SABRE har guda uku, a shekaru shidan farko da kafa shi.
+Alamomi 11 dake nuna kana aiki a sabon kamfani
+Saboda haka ka ka shiga sabon kamfani.
+Kayi bankwana da tsohon kamfani na duniya da suka aminta dakai, yanzu kuma yana tuƙi akan igiyar ruwan sabon kamfani.
+Ga lokacin da kuka san haka.
+Kana tunanin kamfanoni mugaye ne?
+Ɗaya daga cikin dalilan da yasa ka zaɓi sabon kamfani akan kamfanin da ya riga ya kafu, shi ne rashin nutsuwar ka da al'adar kamfanin, dokoki masu tsauri, tabbas da kuma tunanin zama mai ƙarfin faɗa aji a sabon kamfanin.
+Ba komawa baya.
+Yanzu ka tsani waɗannan dai kamfanonin da shirin ɗaukar fansa, zaka iya rantsewa baka ma san ya akayi ka taɓa yin aiki a ɗaya ba.
+Amma a lokaci guda, kana hassada da irin babban cakin biya da walwala.
+Ko a wancan lokaci, ko da sau ɗaya ne a wasu lokuta kishi kan sarƙe ka game da ƙarami da babban albashin abokanka na MNC, duk da kana yin aiki tuƙuru fiye dasu.
+Kana fatan ina ma kanada inshorar lafiya, sufuri kyauta, da kuma wani shagon siyayya a ofishi da bawa tallafi.
+Kana yawan aiki daga gida, naka ko na wani daban .
+Wataƙil kafi yawan aiki a wajen gidan mai kamfanin ko wani wurin aiki na tarayya da wasu, ko ahali daga gida wani lokacin sukan ɗan shigo tare da yin cakuɗeɗeniya da ma'aikata.
+Koma dai yane, kana aiki ne a ƙarami kuma rufaffen wuri, inda kowa ya san kowa, kuma ba ɗan kwanonin aiki, saboda haka baka yi tunani mai kyau ba.
+Abincin rana a ofishi kamar cin abinci tare da iyali ne.
+Ba hargitsin ofishi ko Sodexa Coupons.
+An kawo abinci rana, an kuma rabawa kowa, mai yiyuwa a wani ɗan ƙaramin teburin cin abinci.
+Ankawo abinci rana, kuma kowa yaci, wataƙila a ƙaramin teburin cin abinci.
+Ji ake kamar lokacin da ana makaranta.
+Shugaban ka shi ne abin koyi rana, abokin shayuwa kuma da dare.
+Sabbin kamfanoni kamar kasuwancin haɗaka ne na iyali, inda shugaban ka da abokan aikin ka sun fi kama da abokan ka, inda kuke musayar burika da tuɗin tare.
+Wataƙil sun san komai game da rayuwar ka, budurwar ka, da kuma ɗan ɓeran ka na gida, kuma kayi matuƙar jin ba komai cewa shugaban ka na tattaunawa dakai ta kafar Twitter.
+Ranakun zagayowar ranar haihuwa lokuta ne na yin Shagali a ofishi.
+Zaka iya zuwa ofishi kusan kana sanye da komai.
+Ka jima kana yin komai, kama daga tsara dabarun kafar yaɗa labarai, zuwa gyara injin haɗa kofi.
+Koda yaushe akwai aikin da baka so, ko baka yi ba a kamfanin ka na ƙarshe.
+Kana yawan aiki daga gida, naka ko na wani.
+Akwai bidiyon ya zakayi game da wannan!
+Kafe shi ne ofishin ka.
+Idan ka gaji da ofishin ka, kakan nemi shagunan saida shayin kofi da suke da WiFi a matsayin wurin da wurin yin aikin.
+Haƙiƙa zaka iya yin aiki a ko ina.
+Shugaban ka baida matsala da wannan, matuƙar zaka kammala aikin.
+Wataƙil ka samu aikin sabon kamfani ne ta hanyar wand ya kafa kamfanin.
+Ko ta hannun wani tsohon abokin aiki ko aboki na hirar mashaya, daga kamfani zai ɓalle "ina so in samu aikin da yafi wannan a rayuwata", irin dai waɗannan tambayoyi da suke da akwai.
+Ita ce rana mafi kyau a rayuwa, sanda kamfanin ka ya samu dala $1009 ta farko.
+Ba abu ne mai sauƙi ba, ba abu mai sauri ba.
+Masu kafa kamfanoni na sanya zuciyoyi da ran su akan fara wani abu da suka yarda dashi, kai kuma kayi aiki a kowane mataki na wannan.
+Kana ji kamar wani mafarki daka saba ne ya tabbata a ranar da sabon kamfanin ka ya samu kashin farko na nasarar sa.
+Abu ne na ƙashin kai.
+Ko ya ƙanƙantar kamfani take, a koyaushe kana tare da jin wannan alfaharin cewa kana dosar wani babban abu.
+Saboda haka ka ƙyale walawalar kamfanin ka, kuɗaɗen, nutsuwar, da kuma ƙara aiki tuƙuru fiye da yanda ka taɓa yi.
+Saboda kana da wannan yarda cewa ka samu cikakkiyar damar samun koma baya a duniya.
+An warware matsala ɗaya a lokaci guda.
+Game da mawallafin: Bart Eshwar mai amfani da shafin Google ne, kuma ɓoyayyen ɗan jarida ne.
+Idan ba danna kwamfiyuta yake ba, to yana rubuta labaran sabbin kamfanoni na Indiya a shafin intanet na OfficeChai.com
+Mai aiki daga nesa ko akasin haka, ba ka da wani dalili na rashin motsa jiki.
+Kuma ga dalili kamar haka
+Mahimman abubuwan lura
+Cututttukan da ba a dauka (NCDs), wanda suka haɗa da cutukan zuciya, daji, cututtukan numfashi, da kuma cutar suga, su ne kan gaba wajen haifar da mace-mace a duniya kuma barazana mai tasowa a kiwon lafiya.
+Duk da haka, yawan motsa jiki zai taimakawa lafiyar zuciya, ƙarfin ƙwanji, da kuma lanƙwasa jiki a yayin da yake rage Haɗarin yawan ƙiba, ciwon suga, da kuma wasu cutuka masu tsanani.
+Kama daga abin da ya shafi manhajar motsa jiki zuwa ga samar da abubuwan motsa jiki a yanar gizo da kuma cikin al’umma, fasaha tana sanya motsa jiki ya zama cikin sauƙin samu, da dagewa da inganci fiye da koyaushe.
+Cutututtukan da ba a ɗauka (NCDs), wanda suka haɗa da cutukan zuciya, daji, cutututtukan numfashi, da kuma ciwon suga, su ne kan gaba wajen haifar da mace-mace a duniya kuma barazana mai tasowa a kiwon lafiya.
+A shekara 2010, Ƙungiyar Lafiya ta Duniya WHO) ta yi hasashen cewa za a samu ƙari mai yawan gaske na mace-mace a nahiyar Afiriƙa daga cututtukan da ba a ɗauka a fiye da shekaru goma masu zuwa.
+A cewar 2022 fact sheet, mutane miliyan 17 ne suke mutuwa dalilin NCD kafin su cika shekaru 70 a kowacce shekara.
+Wannan mutuwar wurin tana daukan kaso 86% na mutuwa a ƙasashen masu ƙaramin ƙarfin ko madaidaici sannan kuma kaso 77% na mace-macen da suka danganci Cututtukan da ba a Ɗauka suna faruwa ne a can.
+Abun takaici, a 2023, cututtukan da ba a ɗauka za su kasance kan gaba wajen mace-mace a a Yankin Afirka Kudu da Sahara, har su zarce cututtukan da ake ɗauka, da na haihuwa, na jarirai, da kuma na gina jiki (CMNN).
+Manhajojin waya, EHRs, da kuma sauran kayayyaki na fasaha da suke taimakawa mutanen Afirka wajen kulawa da kuma rigakafin cututtuka
+Me ya sa aka samu ƙaruwar NCDs a Afirka?
+Dalilai da dama, wanda ya haɗa da yawan tsofaffi, rashin wadatar kayan aikin kiwon lafiya, da kuma rashin samuwar hanyar gane cuta da wuri, rigakafi, da kuma magani, su ne suka samar da ƙkaruwar NCDs a Afirka.
+Bayan haka, talauci da rashin daidaito a Afirka mafi yawan lokuta suna haifar da rashin samun zaɓi ga abinci mai ƙara lafiya, wuraren motsa jiki wanda ba su da haɗari, da kuma kiwon lafiya mai inganci, wanda hakan yasa rigakafin NCD da kuma magance shi ya zama abu mai matuƙar wahala.
+Yawaitar zamanantarwa a Afirka ta sanya tsarin rayuwa da sauyin abinci, ta yadda mtane da yawa suke cin kayan da aka sarrafa mai yawan gishiri, suga, da kuma kitse mara amfani.
+Cigaban fasaha ma ya haifar da ƙaruwar yin rayuwar zama waje ɗaya kuma ya haifar da raguwar ayyukan motsa jiki.
+Duk da haka, yawan motsa jiki zai iya ƙara lafiyar zuciya, ƙarfin kwanji, da kuma lanƙwasa jiki ya kuma rage haɗarin ƙiba mai yawa, ciwon suga, da kuma sauran cututtuka masu haɗari.
+Amma kafin mu cigaba, dole ne mu fahimci bambanci tsakanin ayyukan jiki da kuma motsa jiki.
+Mene ne bambanci tsakanin ayyukan jiki da kuma motsa jiki?
+Kamar yadda WHO ta ce, ayyukan jiki sun haɗa da dukkan motsin ƙashi da tsoka wanda yake buƙatar ƙarfi, da ya haɗa har wanda ake yi yayin aiki, wasa, yin ayyukan gida, tafiye-tafiye, da kuma shiga gasar wasanni.
+Wannan yana nuna yadda rayuwar zama waje ɗaya take rage motsa jiki, wanda hakan yake ƙara yawan barazanar samun NCD a tare da kai.
+A ranar mako, a misali, ina shafe kusan sa’o’i takwas a kwamfutata nakan tashi ne kawai idan zan ci abinci ko kuma zan shiga banɗaki.
+Haɗarin kiwon lafiya da ba a kauce masa wanda samar da fasaha ta haifar.
+Saboda ina shafe aƙalla sa’o’i shida a kowacce rana a zaune ko a kwance ba tare da yin wasu ayyuka da zan motsa jiki ba, ina rayuwa ne ta zama waje ɗaya.
+Tsahon wanne lokaci kake ɗauka kana aiki a ofishinka idan ba ka yin aiki daga gida?
+Zama a cikin mota ko bas ba ya daga cikin aikin motsa jiki.
+Sai dai idan kana tafiya da ƙafa ne ko kuma kana tuƙa keke zuwa wajen aiki, ya kamata ka yi aikin motsa jiki sosai.
+Duk mako, WHO tana shawartar manya ‘yan shekaru tsakanin 18 da 64 da su dinga yin aikin motsa jiki matsakaici aƙalla na mintuna 150, aikin motsa jiki mai yawa aƙalla na mintuna 75, ko kuma wanda ya haɗa duka biyun a daidaito.
+Manya kuma su yi aikin motsa jiki madaidaici aƙalla na mintuna 300 duk sati, ko kuma wanda ya kusan haka, domin ƙarin samun lafiya.
+Kuma za su iya ware kwana biyu ko fiye a cikin sati domin motsa jiki wanda ya danganci ƙwanji.
+Sannan kuma, ko da kana yin aiki ne daga gida ko kuma kana aikin ƙarfe 9-5, sanya aikin motsa jiki a ciki zai taimaka maka a ranakun aikinka.
+“Yin ayyukan motsa jiki” da kuma “motsa jiki” ba a cancanza su saboda motsa jiki yana nufin aikin da za ayi da jiki wanda aka tsara, aka shirya, kuma ake yinsa akai-akai tare da cim ma buri, kamar ƙara ƙarfin ƙwanji, ƙara lafiyar zuciya, ko rage ƙiba.
+Me ya sa motsa jiki yake da mahimmanci?
+Bincike ya nuna cewa yawan motsa jiki na sa tsahon rayuwa.
+Wani bincike na Jami’ar Harvard ya nuna cewa mutanen da suke mots jiki wanda aka yarda da shi madaidaici suna rage barazanar mutuwarsu da wuri da kashi 21%.
+Ga kowanne bincike, motsa jiki akai-akai yana ƙara tsahon ran mutum da shekaru uku zuwa biyar.
+Yawan motsa jiki yana ƙara lafiyar zuciya, da ƙarfin ƙashi da tsoka, yana ƙara lanƙwasar jiki sannan ya rage haɗarin kamuwa da cututtuka masu girma.
+Yin gudu ko tuƙa keke, a misali, yana taimakawa wajen ƙara lafiyar zuciya da huhu, wanda zai rage haɗarin ciwon zuciya da sauran cututtukan masu Haɗari.
+Motsa jiki da yake ƙara ƙarfin ƙashi da tsoka, kamar ɗaga kayan nauyi ko danƙo, kan iya rage haɗarin osteoporosis.
+Shin ka taɓa motsa jiki ka ji ka samu nutsuwa ka cire duk gajiya?
+Na taɓa, kuma motsa jiki ya tabbadar da ƙarin lafiyar ƙwaƙwalwa ta hanyar cire gajiya, da muwa, rashin nutsuwa da kuma sauran alamomin ciwon damuwa.
+Kuma yana taimakwa wajen sanya farin ciki da ƙara tunani mai amfani.
+A misali, sanya yoga ko gyaran tunani a cikin ayyukan motsa jiki zai taimaka wajen rage gajiya da kuma damuwa.
+Yawan motsa jiki zai iya rage haɗarin ƙiba ta hanyar rage kitse da kuma ƙara ƙarfin tsoka.
+Ƙananun motsa jiki kamar tafiya ko iyo na iya narkar da kitse sannan kuma ya taimaka wajen ƙara ƙarfin tsoka, wanda hakan zai sa kitse ya narke ko da kana hutawa ne.
+Saboda suna samun barci mafi kyau kuma mafi tsaho, mutanen da suke yawan motsa jiki sun fi samun kuzari da hutu.
+A misali, motsa jiki mara ƙarfi, kamar yoga ko tafiya, zai iya inganta maka barcinka, sannan kuma motsa jiki mai ƙarfi, wanda ya haɗa ɗaga kayan ƙarfi ko gudu, zai iya sanya barcinka ya yi tsaho.
+Duk da waɗannan amfanin, mutane da dama ba sa motsa jiki saboda ayyukansu na da yawa da kuma hidimar iyali, ayyukan yi, da sauran ayyuka.
+Wasu kuma ba su da halin motsa jikin, wasu ba su da damar samun kayan motsa jiki, gurin motsa jiki, da sauran abubuwan amfani da za su iya taimakawa wajen motsa jiki.
+Sannan kuma, wasu suna ƙoƙarin samun ƙwarin guiwa, musamman idan ba sa jin daɗin yi ko kuma ba su ga sakamako da wuri ba.
+Wasu kuma ba sa sanin yadda ya dace su motsa jiki ko susan amfanin motsa jikin.
+Tsananin ciwo da kuma matsalar motsi su ne biyu daga cikin dalilan da suke sanyawa mots jiki ya zama mai wahala ko mara daɗi.
+Bayan kaha, wasu suna samun rashin nutsuwa ko rashin yarda da kai yayin da suke motsa jiki a gaban mutane, wanda yakan hana su farawa ko ƙin cigaba da yin motsa jikin.
+Abun sha’awa, fasaha na taimakawa wajen gyara matsalolin motsa jiki da kuma tallata ingantacciyar rayuwa.
+Don haka yanzu, babu wani dalili da zai hana ka motsa jiki.
+A shekarun yanzu, fasaha ta canja ɗa yawa daga al’amuran rayuwarmu, wanda ya haɗa da yadda muke fuskantar ayyukanmu na motsa jiki da kyautata sura.
+Ƙari a kan haka, an samu ƙaruwar ra’ayoyi a kan motsa jiki da kyautata sura a Afirka saboda mutane da dama sun san amfanin yawan motsa jiki ga lafiyar jikinsu da ƙwaƙwalwarsu.
+Hari la yau, fasaha ta bunƙasa da sauri, wanda hakan ya yi amfani ga yawaitar motsa jiki a Afirka.
+Yana taka muhimmiyar rawa wajen canja tunanin mutane wajen motsa jiki da kyautata sura. Amma ta yaya?
+tsare-tsaren motsa jiki na karan kai
+Mutane za su iya samun tsare-tsaren motsa jiki na karan kansu wanda zai dace da buƙatarsu da manufarsu.
+Manhajojin motsa jiki da kayan sawarsu kan iya nemo awo na kiwon lafiya, wanda ya haɗa da gudun zuciya, tsarin barci, da matakan da aka ɗauka, sannan ya yi amfani da wannan bayanan domin samar da tsarin motsa jiki na karan kai.
+Wasu daga cikin wayoyin zamani, kamar Samsung suna yin haka.
+Ba ka buƙatar sake sauke wata manhajar.
+Kawai ka ziyarci ”Samsung Health” domin fara kula da kiwon lafiyarka.
+Kuma, Apple Fitness+ yana nan a manhajar motsa jiki idan kana da wayar iPhone, iPad, ko Apple TV.
+Na’urorin bibiyar lafiyar jiki kamar fitness bands da kuma smatwatches suna ƙara wadatuwa a Afirka.
+Apple Watch na ɗaya daga cikin misalin.
+Za kuma ka iya sauke wasu manhajojin, kamar Google Fit idan wayarka ta zamani ba ta da su tun farko.
+Za ka iya amfani da wannan domin samun ƙwarin guiwa, ka dinga bibiyar matakin motsa jikinka, ka tsara motsa jiki mai amfani.
+Za ka iya samar da tsarin motsa jikinka daidai da buƙatarka ta wannan tsare-tasren a mabambanta yanayi, wanda ya haɗa da matakin motsa jiki, shekaru, da kuma lafiya.
+Tunƙarar motsa jiki na karan kai zai iya taimaka maka wajen samun sakamako mai kyau kuma ya tabbatar da motsa jiki mara haɗari kuma mai amfani.
+Ajujuwan yanar gizo da kuma bayanai.
+Annobar COVID-19, wanda ta haddasa rufe wararen motsa jiki na dole da wajen bayar da kayan motsa jiki, na ɗaya daga cikin dalilan da suka faɗaɗa azuzuwan motsa jiki na yanar gizo da kuma samar da da kayan buƙata a nahiyar.
+Afirka a yanzu tana samun damar shiga azuzuwan motsa jiki na yanar gizo wanda ƙwararru suke koyarwa a duniya sakamakon dandalin yanar gizo da kuma bidiyo na manhajoji.
+Saboda yanzu mutane da dama za su iya shiga azuzuwan koyar da motsa jiki a wajen mazauninsu, mutane da dama suna samun bayanai na motsa jiki, wanda hakan ya sa aka bar buƙatuwa zuwa ga mai koyar da motsa jiki, wanda zai iya cin kuɗi.
+Mutanen Afirka za su iya samun tsarin motsa jiki, bidiyon motsa jiki, da kuma shawarwarin motsa jiki ta wannan manhajar, yanar gizo, da kuma dandalin sada zumunta, wanda yake ba su damar sanin abunci mai gina jiki, da hanyoyi mabambanta na motsa jiki, da kuma kiwon lafiya na baiɗaya da lafiya.
+A dalilin yawaitar samuwar wayar zamani da kuma yanar gizo a nahiyar, wannan bayanin yana taimaka musu wajen yanke hukunci game da manufarsu ta motsa jiki da kuma dabaru.
+Saboda haka, ba sai ka je gidan motsa jiki ba kafin ka motsa jiki.
+YouTube na da bayanai da dama, wanda ya haɗa dabidiyo na kowanne irin motsa jiki.
+Za ka iya yi kafin ka tafi zuwa aiki ko bayan ka dawo.
+Ka samu kwarin guiwa daga awon lafiyarka.
+Ƙari a kan haka, za ka iya neman kayan aiki ta neman mahimman kalmomi kamar”motsa jiki,”aerobics,” da kuma “workout” a kowanne dandalin sada zumunta.
+Al’umomin yanar gizo
+Fasaha ta taimaka wajen cigaban al’aummar motsa jiki ta yanar gizo a Afirka.
+Masu ƙaunar motsa jiki a yanzu za su iya jonawa, musanyar dabaru, da kuma taimakon juna a tafiyarsu ta motsa jiki a dandalin sada zumunta, al’ummar yanar gizo, da wuraren da aka ware domin motsa jiki.
+Waɗannan al’ummar yanar gizon suna bayar da ƙwarin guiwa, ƙarfafawa, da sakamako, wanda zai iya zama abu mai girma wajen tabbatar da tsarin motsa jiki.
+Al’ummar motsa jiki ta yanar gizo na sanyawa ka ji cewa ka dace a wajen ta hanyar samar da waje mai nutsuwa ta yadda mutane za su iya taimakon juna, musayar cigaba, da kuma aiki cikin wahala.
+Kayan motsa jiki na gida.
+Fasaha ta sauƙaƙawa mutane da dama don samar da wajen motsa jikinsu a cikin gida da kayan motsa jiki masu sauƙin kuɗi.
+A yanzu da akwai zaɓi da dama ga mutane domin su motsa jiki a cikin gidajensu, wanda ya ƙunshi robar atisaye zuwa injinan motsa jiki masu sauƙin mallaka.
+Yana taimakawa wanda ba su da wajen motsa jiki ko guraren koyar da motsa jiki a inda suke.
+Da akwai yawaitar zaɓin kayan motsa jiki da aka ƙera musamman domin bukatar mutanen Afirka da kuma kasafinsu, wanda ya kama daga kayan motsa jiki masu sauƙin siye da kuma kayan sa wa na motsa jiki na cikin gida.
+Ya danganta da irin motsa jikinka, kayan aikinka zai iya kunsar yoga ko taɓarmar motsa jiki, robar atisaye da yake zuwa a awo daban daban, da bal ɗin roba ta atisaye da bencin hawa da sauka na atisaye da wilin atisaye faya-fayan atisaye ko igiyar tsalle.
+Idan kana tunani ko ba ka san ta yadda za ka fara ba, za ka iya kallon kayan amfani na yanar gizo yayin da kake amfani da kayan motsa jikinka.
+Yadda za ka samar da tsarin motsa jiki
+Samar da tsarin motsa jiki da za ka iya tsayawa akai yana da wahala, amma da tsari mai kyau, yana iya kasancewa.
+Ga wasu dabaru nan.
+Ka duba matakin motsa jikinka
+Neman matakin motsa jikinka na lokacin shi ne babban mataki na farko na masar da tsarin motsa jiki domin cim ma manufarka da buƙatarka.
+Za ka iya sanin matsayin motsa jikinka ta waɗannan hanyoyin:
+Lura da yanayin lafiyarka yayin da kake motsa jiki hanya ce ta gane juriyar zuciyarka.
+Sanya na’urar kula da gudun zuciya ko amfani da na’urar bibiyar motsa jiki zai taimake ka wajen sanin gudun zuciyarka.
+Za ka iya yin gudu na minti 12 a ɓangaren yin gwajin gudun minti 12 domin auna juriyar zuciyarka.
+Za ka iya auna matakin ƙarfin ƙwanjinka ta yin motsa jikin push-ups, sit-ups, ko squats da kuma ƙirga maimaici nawa za ka iya yi.
+Domin gwada juriyar ƙwanjinka, ka yi motsa jiki, wanda ya haɗa da, tsayuwa a kan guiwar hannaye da jingina da bango da lanƙwasa ƙafa, sai ka ƙirga har izuwa yaushe ne za ka iya tsayawa.
+Domin auna lanƙwasar jiki, ka zauna a ƙasa tare da ƙafafunka a miƙe a gabanka ka kuma miƙa hannunka gaba domin yin gwajin sit-and-reach.
+Ka yi amfani abubuwa kamar na'urar auna kitse domin auna kason kitsen da yake jikinka don sanin abin da jikinka ya ƙunsa.
+Za ka iya zaƙulo gabaki ɗayan abin da ya danganci lafiyarka da haɗarin kamuwa da cututtuka masu haɗari ta yin amfani da ma’aunai kamar waist circumference ko body mass index (BMI).
+Za ka iya gwada motsa jiki kamar tsayuwa a kan ƙafa ɗaya yayin da idanuwanka suke a rufe ko tafiya da ƙafa a layi miƙaƙƙe domin gwada balas ɗinka da kuma daidaituwa.
+A tsara manufa ta gaske
+Tsara manufar da za a iya cim ma na zuwa ne bayan an duba matsayin motsa jiki na kusa.
+Manufofinka su zama na ƙalubalanta amma kuma wanda za a iya aikatawa a cikin lokacin da ya kamata.
+Ka samar da tsari madaidaici ka kuma fara a sannu.
+Akwai wahala wajen zabar motsa jiki da zai tafi da dabarunka, don haka ka tsara motsa jikinka kuma ka shigar da su cikin ayyukanka na rana ko mako.
+Ka zaɓi lokacin da ya dace da kai.
+Yana da muhimmanci a fara a hankali sannan a bunƙasa zuwa babban mataki mai yawa zuwa wani lokaci.
+Zai sanya ya zamo da sauƙin kasancewa a cikin tsarin motsa jikinka kuma ya kiyaye samun rauni.
+Ka haɗa motsa jikinka kuma ka dinga bibiyar cigabanka.
+Yana da wahala ka banbanta motsa jikinka domin kaucewa kaɗaici da kuma rashin samun sakamako.
+A gwada sabbabin motsa jiki, a ƙara yawansa, ko a ƙara masa wasu ayyukan.
+Za ka iya lura da cigabanka ta hanyar ajiye sakamakon motsa jikinka da kuma lura da matakin motsa jikinka.
+Yin hakan zai sanya kwarin guiwarka ya ƙaru.
+TECNO ta sake bunƙasa fasaha a wayar hannu da ƙayataccen CAMON 20 Doddle Design!
+Don bunƙasa cigaban CAMON 19 Mondrian edition, TECHNO ta sake gabatar da wata wayar mai matuƙar ƙayatarwa da cigaba, CAMON 20 Doodle Edition tare da Android.
+Wannan karon, murfin bayan yana zuwa ne a bayyane tare da ƙayataccen zanen Doodle din, yayin da doodles din ke rawa a cikin inuwa yana barin kyau da inganci duk inda ka je.
+Zane ne na musamman wanda aka yi domin faɗaɗa yadda muke ganin zane a wayoyin hannu.
+Tare da CAMON 20 Doddle Edition ta aka gabatar da Android, doodling ya wuce a kira shi da tsari kawai na bayyanar da halin da ake ciki; ya zama wata babbar ƙwarewa da ta haɗa zane da fasaha.
+Murfin bayan ya ƙawatu da zanen Doodle mai haske a wajen da yake da duhu wanda ya ƙayatu da ɗaukar hankali, wanda yake haska tattaunawa kuma yake jan hankali.
+Kowanne tsari na zanen Doodle ɗin an cika shi da fasaha da ƙirƙira, wanda hakan ya sa CAMON 20 Doodle Edition din ya kasance ba wai na’aura kawai ba amma wata matattarar samun damarmaki.
+Amma dabon bai kare a nan ba.
+Fiye da fasahar zanenta, TECHNO CAMON 20 Doodle Edition yana samar da ilimi mai sauƙi kuma mai ƙarfi ga masu amfani da shi.
+Google Andoid 19 ya ɗauki nauyin shi, TECNO CANON 20 Doodle Edition yana bunƙasa karkon batiri 5000mAh, wanda zai bayar da wuta gaba ɗayan rana, da kuma caja mai saurin 33W wanda zai mayar masa wautar nan da nan.
+Na’ura ce da take cikin shiri domin tafiya da fasaharka da kuma ƙwarin guiwa a rana baki ɗaya.
+Manajan tallatawa TECHNO, Thompson Ani, y ace, “Ita CAMON 20 Doodle Edition ba wai kawai waya bace; dandaline na bayyana abin da yake zuciyar mutum.
+Yana wakiltar dagewarmu ta ƙirƙira da samarwa, wanda yake rufe nisan da ke tsakanin zane da fasaha ta hanya ta musamman.”
+A ƙarƙashin rumfar, an cika CANON 20 Doodle Edition da abubuwan nunawa masu matuƙar burgewa da amfani domin ya tafi daidai da yanayin rayuwarka.
+Yana tabbatar da ƙwarewa mara yankewa ga mai amfani da ita, ta mayar da shi abokin tafiyar da za a dogara da shi domin buɗe ido a kullum.
+Masu ƙaunar ɗaukar hoto za su yi farin ciki da kyakkayawar kyamarar wadda take da abun hana girgiza, tare da tabbatar da cewa kowanne hoto ya yi kyau kuma ya tsaya.
+Ko a lokacin da ake fuskantar barazanar walƙiya, kyamarar mai sauƙin haske tana bayar da hotuna masu kyau wanda za su burge masu fasahar zane.
+Ka tuna, bai sai ka fasa banki ba kafin ka shiga wannan buɗe idon mai ƙayatarwa ba, saboda da biyan 30%, za ka iya mallakar CANON 20 Doodle Edition ko kuma kowanne daga ire-iren CANON 20 din.
+Abin da za ka yi kawai shi ne ka shiga ko wanne irin ofishin TECHNO da aka yarda da shi ka siya wayar ta hanyar amfani da EasyBuy tare da 0% na kuɗin ruwa.
+Kada ka saki jiki, ka je ka siya ka fara zanen.
+Ka dinga dubawa saboda TECNO tana yin tattaki da mu zuwa wajen da zane yake zama gaske tare da CAMON 20 Doodle Edition.
+Ku bibiyi TECHNO a manhajar Facebook, Instagram da kuma Twitter domin cigaba na kusa kuma a zama cikin shiri domin yin tattakin buɗe ido na zane da fasaha irin wanda ba a taɓa gani ba!
+Duke & ICANBOI sun yi taron SME Bootcamp domin bunƙasa masu kasuwanci fiye da 100.
+Legas, cibiyar tattalin arzikin Nijeriya waje ne na masu ƙanana da matsakaicin kasuwanci (SME) a Nijeriya kuma ƙasa ce da take saurin samun canje-canje, yawan dokoki da kuma rashin sanin makamar aiki wani lokacin wajen neman mafita.
+SME Bootcamp 1.0 Initiative ya maida hankali ne wajen gyara matsalolin tafiyar da sabon kasuwanci ko wanda ake yinsa a lokacin a Legas Nijeriya ta hanyar samarwa da masu sabo ko tsohon kasuwanci kayan buƙata da damarmaki domin tabbatar da kasuwancinsu a kasuwar da take cike da abokan gasa na kasuwanci a koda yaushe.
+Duke Sell, tare da haɗin guiwar ICANBOI, da Lagos State Employment Trust Fund (LSETF), Institute of Chartered Accountants of Nigeria (ICAN) da kuma Bank of Industry (BOI), Jobtech Alliance, da Salad Afirka za su tattara sababbin SME na zamani don samarwa da masu sana’ar hannu da kasuwanci ilimi, horo, da kuma damarmaki domin bunƙasa da cigaban kasuwancinsu.
+An yi wa bootcamp ɗin taken “An SME Guide to Starting and Growing Your Business” wanda za a gudanar da shi a dandalin ICANBOI Innovation wanda yake a tsakiyar Yaba, Legas.
+Bootcamp ɗin ya tanadarwa wanda suka shiga tsarin, masu sabo da tsohon kasuwanci damarmaki na samun horo, kayan amfani da damarmaki da ake buƙata domin rage wahalar farawa ko bunƙasa kasuwanci a matsayinka na mai sana’a a Legas.
+Rana: Agusta 26 2023 (Asabar)
+Lokaci: karfe 10 na safe
+Wuri: ICANBOI Innovation Hub 5th Floor, 83 Murtala Mohammed Way, Ebute-Metta, Lagos.
+ME YA SA ZA A HALARTA?
+Samun horo da damarmaki don cigaba
+Samun tallafin kudi da kayan amfani
+Domin samun haɗuwa da mutane da ƙungiyoyi
+Bootcamp ɗin kyauta ne!, Ka je bit./SMEBizClinic domin samun wajen zama.
+Yin rijista dole ne.
+Game da mu
+Dukesell
+Duke wani dandali ne nz siyarwa da yake ba wa kowa damar fara kasuwancin yanar gizo ba tare da jari ko kaya ba.
+Muna yin haka ne ta samar da kayan more rayuwa, kayan siyarwa, da sanin makamar aiki, domin sauƙaƙa wahalar fara shiga kasuwanci a yau.
+ICAN-BOI Innovation Hub
+ICAN-BOI wani dandal ine wanda ake samar da lura da cigaban fasaha da samun ƙwarewa ta hanyar bunƙasa sana’ar hannu.
+Ta ɗauki aniyar zama hanyar haɗa ƙwarewar fasaha da ƙirƙira, wanda ya haɗa har da ɗalibai, harkar ilimi, masu ƙirƙira, masu jari, da masu ilimin cigaban tattalin arziki.
+Lagos State Employment Trust Fund ( LSETF)
+Lagos State Employment Trust Fund Law 2016 ne ya samar da Lagos State Employment Trust Fund (LSETF) domin samar da tallafin kuɗi ga mazauna jihar Legas, domin maganin rashin aikin yi ta hanyar samar da aikin yi da kuma kuɗi.
+Institute of Chartered Accountants of Nigeria(ICAN)
+Institute of Chatered Accountants of Nigeria ita ce ƙwararriyar cibiya ta akawu a Nijeriya.
+Ɗaya ce daga cikin ƙwararrun ƙungiyoyi biyu na akawu da suke da damar bayar da dokoki a Nijeriya.
+Da ilimin fasaharta, dabaru, da kuma ƙwarewa, tana hangen nesa da jagoranci ga ilimin akawu da kuɗi na duniya baki ɗaya.
+Bank of Industry(BOI)
+Bank of Industry shi ne development financial institution (DFI) na farko a Nijeriya wanda yake da tsarin canja hukumar masana’antu ta Nijeriya ta hanayar samar da tallafin kuɗi don tabbatar da ƙanana, matsakaita, da manyan masana’antu; tare da faɗaɗawa, bambantawa, da zamanantarwa.
+Tsarin da ya fuskanci tallafawa ayyuka wanda suke da yiwuwar kawo cigaba.
+Jobtech Alliance
+Jobtech Alliance wani tsari ne na gina yanayin muhalli na ayyukan da ake yi a Afirka wanda yake da ra’ayin haɗa mutane ga damarmakin aiki wanda suke gina rayuwa a kyakkyawan mahalli wanda yake bada damar yin sana’a da gina dandali wanda zai dinga isar da saƙo don inganta rayuwa.
+Salad Afirka
+Salad yana gina mafita domin canja masu aiki a Afirka ta hanyar tallafawa al’umma da mutanen da suke da kuɗi wanda suke rayuwa mai kyau kuma mafi inganci.
+Salad Afirka tana haɗin guiwa ne da masu bada aiki don bawa ma’aikatansu wani sashi na kuɗin aikinsu kafin ranar biya saboda a biya buƙatun gaggawa cikin sauƙi wanda shi ne mataki na farko na samun dukiya da ‘yanci.
+Sanannen ma’aikacin yaɗa labarai “Do2dtun” ya shiga AltSchool Africa a matsayin Daraktan Gudanarwa na Shiri.
+ALtSchool Africa, kamfani ne mai tafiyar da koyarwar fasaha wanda ya bada himma a kan mafitar koyon ƙirƙira da damarmakin sana’a, sun yi sanarwar naɗa ma’aikatan yada labarai mafiya shahara, Oladotun Ojuolape Kayode, wanda kuma aka fi sani da Do2dotun, a matsayin Daraktan Gudanarwa na Shiri.
+A bayanan da aka fitar na kamfanin, Do2dtun zai yi aiki mai matuƙar amfani domin ƙarfafa dangantaka da masu ƙirƙirar shiri, masu koyarwa, da masu fada aji don ƙara Bunƙasa kudurin AItSchool Africa na sauya koyarwa ta yanar gizo a nahiyar baki ɗaya.
+Tare da aiki mai cike da nasara wanda ya kasance tsawon shekaru ashirin a masana’antar labarai da nishaɗantarwa, Do2dtun ya kawo ƙwarewa da dama, ƙirƙira, da kuma buɗaɗɗiyar hanyar zuwa sabon matsayinsa a ALtSchool Afirka.
+A matsayinsa na dadadden mai rahoton gidan radiyo, mai gudanar da biki, kuma mai fada aji, Do2dtun ya dade yana nuna ƙaunarsa ga son kawo canji mai kyau ga al’adun matasa da kuma masana’antar nishaɗi baki ɗaya.
+“Muna farin cikin yin maraba da Do2dtun zuwa cikinmu a matsayin Daraktan Gudanarwa na Shiri,” in ji (Rachel Onoja), Shugaban Aikace-Aikace, ALtSchool Afirka.
+“Dotun ya yi babban ƙoƙari wajen taimakawa ALtSchool Afirka wajen cika alƙawarinta na sanya koyarwa ta zamo mai daɗi, ƙwarewa, da kuma riba.
+Ta hanyar rufe gibin da ke tsakanin ALtSchool Afirka da kuma kwararru a harkar masana’anta, a yanzu za mu iya kawo shekarun ilimi mai matuƙar amfani wanda ba a taɓa ba da hangen nesa na ‘yan Afirka da suke son Bunƙasa aikinsu a masana’antun kasuwanci da mishadi.”
+Muƙamin Do2dtun ya zo ne a lokaci mai matuƙar amfani ga ALtSchool Africa yayin da take cigaba da bunƙasa isarsa da amfani a gurbin edtech.
+Da irin wannan dabi’ar mai kyau da kuma ƙwarewar da aka samu a fannin ilimin sadarwa, Do2dtun ya shirya don shigewa gaba wajen haɗin guiwa mai ma’ana da aiki tare da masua koyarwa, jarumai, da masu fada aji domin Bunƙasa gabatarwar ALtSchool Afirka sannan a samar da muhallin koyarwa wanda zai yi tafiya sosai ga masu koyo.
+“ Ina matuƙar farin cikin kasancewa da ALtShool Afirka da kuma bada gudunmawa wajen hanyar ƙirƙirarsu wajen koyarda,” Oladotun Ojuolape ya fada.
+“ Ilimi wani abu ne mai ƙarfi ga sauyi, kuma na shirya domin bayar da ƙwarewata domin cike gibin da ke tsakanin ƙirƙirar aiki da ƙwarewar koyarwa mai ma’ana.
+A tare, za mu bawa masu koyo da ke tasowa kwarin guiwa.”
+Game da ALtSchool Afirka:
+ALtSchool Afirka wani kamfani ne na basirar fasaha na duniya wanda ya bada himma wajen gyara wajen koyarwa ta hanyar ƙirƙirar fasaha, ƙwarewar koyarwa ta karankai, da kuma hulɗa mai ma’ana.
+Ta fasahar cutting-edge da kuma aikin da aka shirya shi cikin ƙwarewa, ALtSchool Afirka ta dau aniyar samarwa masu koyo kaya da abubuwan amfani wanda suke buka a cikin wannan duniyar mai sauyawa.
+Game da Oladotun “Do2dtun” Ojuolape:
+Oladotun Ojuolape ma’aikacin sadrwa ne a Nijeriya, mai gabatar da bidiyo, mai taka rawa, kuma mai sana’ar yada labarai wanda yake da ƙwarewa ta fiye da shekaru arba’in a masana’antar yada labarai da nishaɗi.
+Kamfanin PATRICIA Technologies Limited sun samu babban hannun jari domin bunƙasa ayyuka.
+Kamfanin Patrichia Technologies Limited sun samu babban hannun jari daga Oluwaseun Dania, babban jami’in Tradefada, ɗaya daga cikin sanannun masu kasuwancin crypto a Nijeriya.
+Hannun jarin wani manuni ne ga tarin yardar da masu sanya hannun jarin ke da shi a kan hangen nesan Patrichia da kuma mafita ga canjin kasuwanci a Afirka.
+Sananne a matsayin ɗaya daga manyan kasuwancin crypto a Afirka, Patrichia na amfani da kasancewarsu a kan gaba a cigaban wajen zaman crypto mai tasowa a Afirka ta hanyar haɗin guiwa mai ƙarfi, hulɗa, da hannun jari daga abokan tarayya a duniya baki ɗaya.
+Oluwaseun Dania sannannen mai sanya hannun jari ne, wanda yake da son tallafawa kasuwancin ƙirƙire-ƙirƙire da ke masana’antu da dama.
+Yana bada ƙarfin guiwa ga ɗaiɗaikun mutane da masana’antu da su hadu da shi wajen tabbatar da tasowar Patrichia Technologies yayin da kamfanin ke cigaba da wakiltar Afirka a wajen zaman crypto na duniya.
+A saƙon da aka tura yanar gizo kwanan nan, Mr Oluwaseun ya ce, “Hannun jari na ba wai na kuɗi ba ne kawai; tabbataccen yarda da kai ne ga ƙungiyar da Hanu Fejiro Agbodie yake wakilta wadda take nuna hazaƙa da ƙirƙira a ko da yaushe kuma ta wakilci Nijeriya da Afirka da kyau a faɗin duniya.”.
+“Tasowar Patrichia zai ƙarfafa masana’antunmu kuma ya ƙara yardar masu amfani da kayanmu.
+Riba ce gare mu baki ɗaya,” ya ƙarasa faɗi.
+Da yake tsokaci game da hannun jarin Mr. Dania na note-worthy, Hanu Fejiro, wanda ya samar kuma Babban Shugaba, ya tabbatar da himmarsa don samar da tarihin juriya na kasuwancin yayin da yake nuni ga yawan damarmakin da suke zuwa.
+“Wannan hannun jarin daga Mr Oluwaseun Dania ya yi alƙawarin ciyar da Patrichia Technologies gaba domin matsar da iyakoki da kuma tabbatar da matsayinsu na masu jagoranci a gurin zaman cypto da ke tasowa a Afirka,” ya bayyana hakan.
+Da tallafi mara yankewa daga masu hannun jari da kuma abokan kasuwanci, Patrichia na ciyar da wajen zaman crypto na Afirka gaba.
+Ku tafi da mu a wannan tafiyar yau domin zama ɓangare na wannan jirgin mai tafiya.
+Patrichia kamfani ne na mafita ga biyan kuɗi da ke kula da ƙarfin fasahar blockchain domin sauƙaƙa amfani da cryptocurrencies a musayar kuɗi da ko da yaushe.
+Tare da ba da himma mai yawa ga masana’antar crypto, a ko da yaushe muna samar da mafitar ƙirƙira da take kula da buƙatun abokan cinikinmu da abin da suke nema daga gare mu.
+Bayan ƙoƙarin samun kuɗin jari daga masu sanya hannun jari, masu farawa na eCommerce ɗin Kenya, Marketforce, yana tara miliyan $1 ga dandalin crowdfunding, Capitalize.
+Sheƙara ɗaya bayan sanarwar rufe zangonta na A na miliyan $40, MarketForce ta sanar cewa tana samar da miyilan $1 ta WeFunder.
+“Yayin da muka fara wannan tafiyar, mun bada himmar gina kamfanin Afirka da babu kamarsa wanda yake tallafawa mutanen Afirka, al’umma, da kuma tattalin arziki, kuma wannan al’ummar ita ce hanya ɗaya da za a tabbatar da wannan tsarin.
+“Muna yin haka ne saboda mun yarda cewa kamfani kamar Marketforce yana bada damar samun tallafin kuɗi, ba ga ‘yankasuwa da kuma abokan hulɗa da mu kewa aiki ba kawai, amma har ga mutanen da suka gane cewa abin da muke ginawa yana da mahimmanci ga nahiyar.
+Masu farawar suna karɓar hannun jari mai ƙanƙanta kamar $1,000 akan sharuɗɗa daidai da wanda tayi amfani da shi a zagayen zangon A ɗinsu.
+Duk da haka, an ce ba dukkan masu hannun jari ne za su karɓi kuɗin hannun jarinsu ba.
+Wanda Tesh Mbaabu da Mesongo Sibuti suka ƙirƙire shi a 2018, MarketForce wajen kasuwanci ne na B2B da yake samar da rarrabawa da aikin kuɗi ga ‘yan kasuwa.
+Farawa da Kenya, masu farawar tuntuni sun faɗaɗa zuwa ga ƙasashen kusa, wanda ya haɗa da Tanzania, Rwanda, da Uganda.
+Kuma tana harkoki a Nijeriya.
+Kamfanin farawa na Y Combinator-backed yana yin aiki ga ‘yan kasuwa fiye da 200,000 a waɗannan ƙasashen biyar kuma sun samu ƙarin kuɗin shiga daga $140,000 a 2021 zuwa miliyan $2.5 a 2022, daidai da jerin Capitalize.
+Sannan kuma suna so su ƙara faɗaɗa aikinsu zuwa ga wasu ƙasashen guda huɗu.
+A yayin da MarketForce ta samar da zangonsu na A a 2022, ta yi burin samun yawan ‘yan kasuwa miliyan akan manhajarta ta super maerchant, RejaReja a ƙarshen 2022.
+Duk da haka, waɗannan shirye-shiryen sun samu matsala bayan wasu daga masu hannun jarin sun kasa cika alƙawarin aika wani ɓangaren jarin da suka yi wa masu farawa.
+Don maida martani, sun kori ma’aikata 250 suka gyara tsarin kasuwancinsu domin haɓaka riba.
+A wata tattaunawa da TechCrunch a watan Mayu 2023, Mbaabu, mamallakin Startup, ya bayyana cewa sun rage yawan hanyoyin da ta kama daga 700 zuwa 400 domin ƙara yawan inganci, sun ce kamfanin na kan hanyar samun kuɗin shigarsu wanda ba su taɓa samun irinsa ba.
+Wanda ya samar da Kobo360, Obi Ozor, ya shiga majalisar Jahar Enugu a matsayin Kwamishinan Sufuri.
+Obi Ozor, wanda ya samar da Kobo360, ya samu muƙamin kwamishinan sufuri a jahar Enugu.
+Ozor wanda ya samar da Kobo360 tare da Ife Oyedele a 2017, an rantsar da shi ne tare da sauran kwamishinoni 19 wanda gwamnan jihar Enugu ne ya rantsar da su, Barr. Peter Mbah, ranar Alhamis, 10 ga Agusta, 2023.
+A yayin bikin rantsuwar, gwamnan ya bayyana cewa an zaɓi kwamishinonin ne daidai da ƙwarewarsu, bayanan aikinsu na baya, da kuma tarihinsu.
+Ya kuma bayyana fatansa na cewa mutanen garin za su ga sauyi daga sababbin kwamishinonin da aka naɗa daga kwanaki 100 na farkon shigarsu ofishi.
+“Muna bayyana babban burinmu wanda zai taimaka mana wajen bunƙasa tattalin arzikinmu da sauri.
+Kuma mun yi wa mutanenmu alƙawarin yaye talauci da kuma maida Jihar Enugu babban masauƙin saka hannun jari.
+Waɗannan tunani ne masu amo kuma masu girma.
+Amma a yayin da muka yi wannan alƙawarin, muna buƙatar ƙungiya da za ta jagoranci mutanenmu daga inda muke a yanzu zuwa wannan wajen da muke son kai su.
+Saboda wannan dalilin, hanyar da ta samar da zaɓin ka tana da tsauri an kuma bi ta daki-daki.
+Ozor shi ne mamba na nan kusa daga cikin masu farar da sana'a a Nijeriya da aka ba wa muƙamin siyasa bayan Boson Tijjani da aka sanya shi cikin jerin sunayen wanda za a ba wa muƙamin minister da shugaban ƙasar Nijeriya Bola Ahmed Tinubu ya aika.
+Babu tabbas idan Ozor zai sauka daga muƙaminsa na Shugaban Kobo360, domin babu wata doka da ta buƙaci masu muƙamin siyasa daga ɓangaren waje da su bar aikinsu na baya.
+Dandalin Kasuwancin Jama'a na Yanke-Edge na Vendorstack ya mamaye Nijeriya, yana Sauƙaƙe Siyarwar kan Intanet
+Kasuwar siye da siyarwa ta dandalin sada zumunta tana ƙara cigaba sosai saboda abokan ciniki suna ƙara yawan siyayya kai tsaye daga dandalin sadar da zumuntar.
+Kamar yadda bincike na nan kusa ya bayyana, kasuwar siye da siyarwa ta yanar gizo ta duniya an yi aikinta ne domin ta kai biliyan $604.5 a 2027, zuwa ga biliyan $492.2 a 2021.
+Wannan yana wakiltar CAGR na 3.7% a lokacin da aka yi hasashen.
+Kasuwancin yanar gizo yana samun ƙarfi a Nijeriya tare da cigaba da yawan amfani da kafar sada zumunta.
+Nijeriya tana da fiye da miliyan 30 na masu amfani da kafar sada zumunta wanda da yawansu suka fi amfani da Facebook, Instagram, Twitter, da kuma WhatsApp.
+Wannan ya bada dama mai ƙarfi ta siyayyar dandalin sada zumunta.
+Kasuwar siye da siyarwa ta Nijeriya an yi ta ne domin kai wa ga samun biliyan $75 zuwa 2025, sama da biliyan $12 a 2018.
+Kasuwar na samun cigaba ne daga yawan shiga yanar gizo, ma’amala da wayoyin hannu na zamani, da kuma al’ummar matasa masu ta’ammali da fasahar zamani.
+Kamar yadda wannan rahoton ya bayyana, jimillar Naira miliyan 357 aka rawaito a matsayin damfara ga mutanen da suka siya kaya daga masu siyarwa a Instagram, Naira miliyan 84 ne aka danganta ga musayar kuɗin da ba a amince da shi ba sannan kuma Naira miliyan 273 aka shigar da su a matsayin cikakkiyar damfara daga 2020 – 2021, Da yawa daga mutanen Nijeriya sun samu ɗaya daga cikin wannan damfarar yayin da suke siyayya daga masu siyarwa na dandalin sada zumunta.
+Vendorstack sun ɗauki aniyar magance babbar matsalar damfara da rashin yarda da yake faruwa a wajen siye da siyarwa na dandalin sada zumunta.
+Vendorstack, mai samar da mafita ga siye da siyarwar dandalin sada zumunta, ya zamanto amsa ga matsalar damfara ta yanar gizo da rashin yarda ta Nijeriya.
+An ƙera ta don ta samar da tsarin doka ta bai ɗaya, manhajar tana bada damar sauƙin siye daga farko zuwa ƙarshe da ƙwarewar sayarwa da sayen kayan ta hanyar bada kariya ga dukka mai siyen da mai siyarwar a gaba ɗaya lokacin siyayyar.
+Manhajar na samar da kulawar kasuwanci ta gaba ɗaya farko zuwa ƙarshe (kula da ƙere-ƙere, jerin kayayyaki, gaban shago, da zaɓin biya mai tsaro) ga masu siyarwar wanda yake cire maimaita hanyar siyarwa ga abokan cinikinsu, yana bayar da tabbacin karɓar kuɗin da aka biya da dama zuwa ga wajen sababbin abokan ciniki. Masu siyayyar a yanar gizo za su iya siya daga masu siyarwar da ƙwarin guiwa a vendorstack ba tare da tsoron damfara ba ko rashin karɓar kuɗinsu ba.
+Vendorstack a shirye suke don kawo sauyi ga mahallin siye da siyarwa ta yanar gizo a Nijeriya.
+Ku yi bankwana da matsalolin siye da siyarwa na yanar gizo sannan ku rungumi ƙwarewar cinikayya mara matsala kuma abar yarda.
+Nijeriya tana da masu amfani da kafafen sada zumunta fiye da miliyan 44, mafi yawa a Afirka.
+Nijeriya ce take da adaɗi mafi yawa ta mintocin da ake amfani da su a kafafen sada zumunta idan aka haɗa da kowanne ɓangare na duniya.
+Duka wannan yana nuni ne ga alama mai kyau ta mahallin siye da siyarwa na yanar gizo a Nijeriya, wanda ɗaya ne daga cikin waɗanda Vendorstack take son ta yi aiki a kai.
+Wanda suka samar da Vendorstack, Ifeoluwa King, da kuma Kazeem Olanipekun sun tabbatarwa da masu kasuwanci cewa za su iya siyar da kaya a yanar gizo ba tare da sun ji tsoron damfara ba da kuma samun kuɗinsu (abin da na siya da abin da na samu).
+Manhajar da maida hankali ga bada kariya ga masu amfani da ita kuma samar da kayan amfani na yanar gizo ya zanyo musu yarda a mahallin siye da siyarwa na yanar gizo.
+Tare da mayar da hankali da suke yi a kan bunƙasa aikinsu, Vendorstack ta zamanto abokiyar hulɗa da abar dogaro kuma mai bada goyon baya ga kasuwanci a fagen yanar gizo na yanzu.
+Vendorstack ta kasance wani aiki mai kawo sauyi a mahallin siye da siyarwa na yanar gizo a Nijeriya, wanda yake magance manyan matsaloli kamar damfara a yanar gizo da rashin yarda.
+Tare da samarwa da masu kasuwanci wajen tattaunawa a tsakaninsu, samun masu sauraro da dama, da kuma manyan kayan amfani daban-daban, Vendorstack na tallafawa kasuwanci domin su bunƙasa kuma su dama a wannan fage na fasahar zamani.
+A yayin da muka fara wannan tafiyar ta kawo sauyi a tare, ya kamata Vendorstack ta zamana mai kawo cigaba, ta samar da zamani na yarda da kuma kasuwancin kafar sada zumunci mai nasara a Nijeriya.
+Ku biyo mu a yau domin buɗe kasuwancinku a yanar gizo mai cikakken amfani tare da Vendorstack!
+Domin ƙarin bayani, ku bibiyi Vendorstack a kan dukkan shafukansu na dandalin sada zumunta;
+Ana gabatar da Roqqu: Hanyarku ta shiga Crypto a Ghana
+Muna farin cikin sanar muku da ƙaddamar da Roqqu, manhajar kawo sauyi wadda za ta kawo duniyar cryptocurrency ga al’aummar Ghana.
+Roqqu ya zarce musayar cryptocurrency kawai; mafitarka ce ta bai ɗaya don saurin siya, siyarwa da kuma kula da kadarorin fasahar zamani.
+Tallafawa masu Ƙaunar Crypto a ƙasar Ghana
+Tare da yawaitar ra’ayin duniya a kan cryptocurrency, Roqqu ta yarda da buƙatar manhaja da za a dogara da ita kuma wanda masu amfani za su ji daɗinta da ta dace da mutanen Ghana.
+Burinmu shi ne mu tallafawa mutanen Ghana domin su dama a cikin ƙayatacciyar duniyar cryptocurrencies yayin da suke samar da manhajar musayar kuɗi mai tsaro kuma mai inganci.
+Game da Roqqu: Roqqu manhaja ce mai jagorancin cryptocurrency wadda take samarwa da masu amfani da ita hanya mara gargada mai tsaro domin siye, siyarwa, da kuma kula da cryptocurrencies.
+Tare da manufar tafiyar da amfani da cryptocurrency a kasuwanni masu tasowa, Roqqu na bayar da fagen tattaunawa a tsakanin juna wanda zai yi wa masu amfani daɗi, cryptocurrencies daban-daban, alamomi na tsaro masu ƙarfi.
+Ka sauke manhajar Roqqu a nan Apple Store da kuma Google Play Store.
+Me ya sa za a zaɓi Roqqu?
+Ƙwarewa Sauƙaƙƙa: An tsara Roqqu ne tare da la'akari da bukatun ka.
+Tattaunawar tunaninmu a tsakanin juna yana sauƙaƙawa masu farawa da wanda suke da ƙwarewa wajen shiga duniyar cryptocurrencies.
+Cryptocurrencies masu yawa: Ka duba rabe-raben cryptocurrencies, daga Bitcoin zuwa Etherium har fiye da haka.
+Roqqu ya bayar da zaɓi daban-daban domin dacewa da zaɓinka na zuba jari.
+Musayar kuɗi mai tsaro: Tsaronku shi ne abin da muka ba wa himma.
+Roqqu sun samar da matakai na tsaro da encryption na zamani domin bada kariya ga musayar kuɗinka da kuma bayanai da suka shafe ka.
+Ajiyar kuɗi da cirewa na nan take: Ka yi bankwana da lokacin jira.
+Tare da Roqqu, za ka ji daɗin ajiyar kuɗi da cirewa nan take, yana ba ka sassauyawar da ka cancanta.
+Tallafar abokin ciniki na 24/7: Kana da tambayoyi ne ko kana buƙatar taimako?
+Ƙungiyarmu mai himma da ke bada tallafi ga abokan ciniki tana nan a kowanne lokaci domin kula da damuwarku da kuma ba ku haske.
+Yadda za ka Fara
+Farawa da Roqqu abu ne mai sauƙi.
+Ka buɗe akawun a manhajarmu mai sauƙin amfani, ka cika tsarin tantancewa, kuma ka shirya don fara kasuwancin cryptocurrencies.
+Ko da ka kasance ɗan kasuwa mai ƙwarewa ne ko kuma a yanzu ka fara tafiyar crypto, Roqqu na samar da dukkan kayan aikin da kake buƙata don samun nasara.
+Hangen nesan Roqqu game da Ghana
+A Roqqu, mun yarda da sauyi mai amfani na cryptocurrencies domin kawo sauyin zamani ga hanyoyin kuɗi da kuma tallafawa mutane.
+Tare da ƙaddamarwarmu a Ghana, mun bada himma wajen tabbatar da tafiya da cryptocurrecies a yankin.
+Ku biyo mu a wannan tafiyar mai ƙayatarwa yayin da muke share hanya ta gaba inda tallafin kuɗi zai samu.
+Ku ziyarci www.roqqu.com domin ƙarin bayani da kuma farawa a yau.
+Roqqu: Tallafawa Ghana; Ka yi abubuwa da yawa da crypto…. Ka duba don ganin wasu abubuwan a nan
+Labari mai ƙayatarwa ga Al’ummar Samar da Kayayyaki a Afirka: Ka ba wa abokan hulɗa na Afirka ƙarfin guiwa da ProductDive!
+Muna matuƙar farin cikin sanar da labari mai ƙayatarwa wanda zai bunƙasa ƙwarewarka ta koyo da shiga yanar gizo.
+Hulɗa tsakanin manyan taruka biyu sun shirya domin sake tsara mahalli na damarmakin tafiyar da kayayyaki.
+Muna farin cikin sanar da Taron haɗin guiwar fasaha tsakanin ProductDive da kuma Inspire Afirka, wanda Silicon Valley Product Group suka shirya.
+Haɗa waɗannan dandali masu ƙarfi guda biyu yana nufin dukkan masu halarta da suke da tikitin The Dive a yanzu ana gayyatarsu da su shiga Taron Inspire AFRICA- a KYAUTA!
+Eh, daidai ka ji.
+Duk a cikin wannan haɗin guiwar na fasaha, muna buɗe kofa ne ga duniyar fahimta, haɗi, da kuma cigaba.
+Da duka Taron The Dive da kuma Inspire Africa da suka haɗu waje ɗaya, ba sai ka yi zaɓi tsakanin manyan taruka biyu ba.
+Duka suna kusa da kai!
+Wannan haɗin guiwa shi muka ba wa himma domin ƙarfafar al’umma masu samar da kayayyaki da take tasowa a Nijeriya da sama da haka.
+Ya ƙunshi cire da ke tsakani, faɗaɗa hangen nesa, da samar da cikakkiyar ƙwarewa da take tallafa maka wajen isa babban mataki a matsayin shugabannin kayayyaki.
+Kuma domin a yi murna, ProductDive tana bayar da ragin 15% daga kuɗin tikitinsu na taron da za a yi ranar Asabar, Agusta 12th.
+Ku danna mahaɗar domin siyan tikitin.
+Ku yi amfani da lambar garaɓasar ta DIVESVPG15
+Ku sanya alama ajikin kalandarku, ku shirya domin shiga cikin kula da kayayyaki ta nan gaba, ku rungumi wannan damar ta musamman domin ba wa Afirka Ƙarfin guiwa da ƙwarewar kayayyakinku.
+OAU, CU su ne suke samar da lamba mafi yawa ta ‘millionaire’ wanda suka samar da West Africa startup a shekarun da suka gabata.
+Ranar Litinin, 5 ga Oktoba, 2020, Techpoint Africa ta ƙaddamar da rahotonta na tsahon shekaru na West Africa Startup.
+Rahoton ya maida hankali ne a kan ayyukan tallafi na kuɗi ga masu farawa a mahallin fasaha daga 2010 da 2019.
+Ya ƙunshi bayanai na ayyukan tallafi daga masana’antun masu farawa, asalin masu sanya hannun jari, da sanannun masana’antu, da sauran su.
+Abin lura ne cewar Millionaire West Africa Startup (MWAS) – su ne kawai Kamfani mai Farawa a Afirka ta Yamma da ta samar da miliyan $1 a haɗe- a cikin lokacin da ake magana aka, aka saka a cikin rahoton.
+Mayar da hankali gaba ɗaya a kan ilimin masu samar da masu sun bayyana cewa Jami’ar Obafemi Awolowo (OAU) da Jami’ar Covenant (CU) sun samar da tsofaffin ɗalibai 12, ɗaya na bin ɗaya, domin zama a bigire na farko da na biyu a sakamakon maƙarantar da digiri na farko.
+Abin sha’awa, wani yayi da ya yawaita cewa wanda suka samar da MWAS daga jami’a ɗaya sun samar da kamfanoni a tare.
+Kuɗi, alal misali, yana da wanda suka samar da MWAS daga Jami’ar Obafemi Awolowo; sauran kamfanoni masu farawa da wanda suka samar da su daga OAU su ne TeamApt, Terragon, Farmcrowdy, 54gene, SlimTrader, da kuma PropertyPro.
+Jami’ar Covenant ma tana da masu samarwa wanda Startup ɗinsu su ne—PiggyVest, MDAAS, da Kora Network—sun fito a cikin rahoton.
+Zai nuna cewa waɗannan maƙarantun ko dai suna da ƙarfin samar da ɗalibai waɗanda suke zuwa suna samar da Startup mai cike da nasara ko kuma waɗannan daliban suna neman hanya ne, bayan gama maƙaranta, wadda take ba su damar haɗuwa a tare domin fara waɗannan kamfanonin.
+Koma menene dalilin, waɗannan maƙarantun su ke samar da mafi yawan masu ƙirƙirar MWAS a shekarun baya masu yawa.
+Domin samun ƙarin bayani, ka nemi rahoton West African Startup Decade.
+Nick Fewings ne ya samar da hoton da aka nuna a kan Unsplash
+Opay na Nijeriya ya zamo na gaba a mahallin Fintech, wanda ya samu shaidar matsayi na CNBC da Statista na duniya a matsayin manhajar zamani kaɗai ta Nijeriya a ɓangaren biyan kuɗi na zamani .
+A wata babbar nasara, Opay ya ɗaga zuwa ga jerin farko na tsarin fintech a Nijeriya, wanda ya samu babban matsayi na cikakkiyar manhajar biyan kuɗi a jerin matsayi na CNBC da Statista.
+Daga dukkan faɗin duniya, wanda ya hada da manhajar hada-hadar kuɗi daban-daban, CNBC; hanyar sadarwa ta talabijin ta duniya wadda take aiki awa 24 kai tsaye, kasuwar duniya ta bayanan kuɗi da shirye-shirye, da kuma sanannen kamfanin bincike game da kasuwa mai zaman kansa Statista sun yi haɗin guiwa domin su samar da jerin sunaye mai faɗi da zai haskaka kamfanoni taron mutane masu fasahar ƙirƙira, kayayyakin kuɗi da suka cika da fasaha da kuma ayyuka.
+Himmar haɗin guiwarsu ya haifar da tattara manyan kamfanonin fintech guda 200, tare da aiki da tsararraun hanyoyi domin duba ƙoƙarin kamfanonin a cikin masu nuna da suke da matuƙar mahimmanci wanda ya shafi ƙarfin mai amfani, ƙarfin musayar kuɗi, da kuma kuɗin shiga.
+Kamfanonin da aka gabatar an raba su ne cikin ƙwarewa zuwa gida tara: bankunan zamani, biya ta yanar gizo, kadara ta yanar gizo, tsarin kuɗi na yanar gizo, da kuma kula da dukiya ta yanar gizo, tallafin kuɗi da ake da shi, bayar da bashi da ake da shi, mafita ga bankuna ta yanar gizo, da kuma mafita ga kasuwanci ta yanar gizo.
+Jerin sunayen ya bayyana kamar su Paypal, Revolut, WISE, da kuma wasu daga cikin manyan masu damawa a mahallin fintech a duniya.
+Opay ya samu shiga a ɓangaren biyan kuɗi a yanar gizo daga wannan jerin sunayen mai matsayi.
+Yawan buƙata ga mafitar biyan kuɗi ta yanar gizo mara tangarɗa a cikin Nijeriya ya haskaka hanyar Opay, wanda ya sanya ya zamanto mai saurin gaske, mai tsaro, kuma manhajar da za a dogara da ita wajen kowanne irin musayar kuɗi.
+Wannan sanin na duniya shi ya ƙara tabbatar da himmarmu wajen sauya mahallin biyan kuɗi na yanar gizo a Nijeriya da wajen ta,”Adekunle Adeyemi ya yi bayani, Shugaban Ɓangaren Tallatawa na Opay.
+“Yana bayyana abin da muka tsara za mu yi a matsayin kamfani, da kuma abin da mutanenmu suke himmatuwa domin cim ma burin.
+Muna matuƙar alfaharin kasancewa masu haskakawa ga ƙirƙira da kuma nutsuwa a cikin masana’antar fintech ta Nijeriya, kuma wannan cigaban ne yake ƙara mana ƙaimin himmarmu, da kuma kasancewarmu ga fuskantar abokn kasuwancinmu da ba sa yankewa,” ya ƙara da hakan.
+A cikin wannan lokacin na babbar matsala a mahallin fintech, ƙarancin tallafi, da kuma zuwa ga matakan yanke farashi, Opay sun yi ƙoƙari wajen samar da kayayyaki na musamman da ayyuka domin taimakawa da tallafawa abokan ciniki yayin da suke samar da yanayin musamman ga abokan ciniki.
+Yadda Bankly yake sake tsarin ajiya ga Jama'a na yau da Kullum
+Ka san yadda suke cewa kishiyar hakan na janyo hankali?
+To, wannan ne daidai yadda za ka kwatanta abotar da ke tsakanina da Susan, ‘daɗaɗɗiyar aminiyta da muke komai tare’.
+Ni da Susan muna da bambanci a ɗabi’a, kuma wannan yanayin ya kasance a haka a gaba ɗaya shekaru ashirin na kawancen mu.
+A yayin da nake ƙoƙarin riƙo da ɗadi’u masu cike da raha, Susan ta kasance mai nutsuwa, mai taka tsantsan.
+Tana da duba abu da dogon nazari da kuma tunanin iya tsari.
+Duk da bambancin dabi’unmu, da ni da Susan muna da tunani iri ɗaya wajen adana kuɗi.
+Muna yawan tattauna hanyoyi mabambanta domin kula da harkokin kuɗinmu, matsalarmu ta nan kusa ita ce tanadi mai amfani wajen tara kuɗi domin gabatowar murnar ranar haihuwar mahaifiyarta na shekaru 50.
+Iyalin sun yanke shawarar tarar wannan cigaban mai mahimmanci da biki na musamman.
+Saboda haka, duk yadda ‘yan’uwanta suke son bada gudunmawarsu domin bikin, ita ke da nauyin kulawa da waɗannan gudunmuwar yadda ya kamata.
+Ta yi tunanin sake komawa ga”Ajo”, wata daɗaɗɗiyar hanyar adana kuɗi ta al’umma.
+Wannan hanyar tara kuɗin ta nuna alamun hanya ce ta nutsuwa ta tara kuɗin don yin bikin.
+Saboda haka, ta sani daga ƙwarewa cewa hanyar na da nata matsalolin, kuma damfara ta zama ruwan dare.
+Gabatar da ‘yan’uwanta ga kungiyar “ Ajo” abu ne mai haɗari.
+Idan wani ya gudu da kuɗinsu, zai iya janyo rigima tsakaninta da ‘yan’uwanta.
+Ya kamata ta nemo wata hanyar.
+Neman mafita ga Susan ya kai ta ga Bankly Microfinance Bank.
+Suna bayar da damar tara kuɗi a ƙungiyance a manhajar ta Bankly wanda ya zamanantar da hanyar al’adar ta “Ajo”.
+Ya zamanto kamar gada ce da ta haɗa son tara kuɗi na al’ada tare da nutsuwar kayan aiki na zamani.
+Da wannan yanayin, Susan za ta iya samun ƙwarin guiwar jan ra’ayin ‘yan’uwanta game da tara kudi don bikin mai gabatowa.
+Yanayin ajiyar kuɗi a Ƙungiyance Bankly na wani mataki ne na ƙirƙira domin ajiyar kuɗi na al’umma wanda yake samar da gaskiya da amana.
+Yana haɗa yanayin samuwa, da kuma mu'amala mai kyau ga masu amfani, da kuma mayar da hankali game da amana domin ba wa mutane kamar Susan dama a lokacin da suke son ajiyar kuɗi domin buƙatu masu mahimmanci.
+Yanayin Ajiyar Kuɗin a Ƙungiyance haka nan yana bada kuɗin ruwa na shekara a kashi 15% na abin da aka samu a rana, domin samar da dama don cigaba mai ɗorewa zuwa wani lokaci. Wannan ba shi ke nan ba.
+Masu amfani za su iya saita tsarin ajiyar kuɗi, da yawan kuɗin, da kuma lokacin da ya isa a ɗiba domin tsarin tara kuɗi na ƙungiyarsu, domin nuna yanayin haɗin kai wajen lamuran kuɗi da kuma rarraba ayyuka.
+Domin samar da amana sosai, yanayin ajiyar kuɗin ƙungiyar an tsara shi ne domin samarwa da ‘yan ƙungiyar alama ta nan take na kuɗin da aka saka da kuma wanda aka cire, domin tabbatar da cewa kowa ya samu bayani, wanda hakan zai taimaka wajen sanya nutsuwa ga masu sanya kuɗinsu da kuma samar da yarda a tsakanin juna a ƙungiyar.
+Daidai da manufarsu, Bankly Microfinance Bank ya dage wajen sake saita mahallin kuɗin da kuma tallafawa mutane ɗaiɗaiku kamar Susan ta hanyar yanayin kayayyakin da suke kula da dukkan ƙalubale na yau da kullum.
+Suna canja tsarin ajiyar kuɗin daga aiki, zuwa ga ɓangaren rayuwa da yake taimakawa mutane su cim ma cigaban kansu , na iyali, da kuma kasuwanci.
+Domin ƙarin bayani game da Yanayin Bankly na Ajiye Kuɗi a Ƙungiyance, ka danna nan domin kallon bidiyon demo, ko ka ziyarci shafin bankly.ng.
+Kwalejin Senior Model Badore ta Jihar Legas ta ci Gasar Babban Project iCommunity STEAM wadda aka shirya domin maƙarantun gwamnati a Jihar Legas
+Chevron Nigeria Limited (CNL) tare da haɗin guiwar Nigerian National Petroleum Limited (NNPC) tare da STEAM Fun Fest suka shirya gasar Project iCommunity STEAM.
+Ɗalibai 500 daga maƙarantun gwamnati da ke ƙarƙashin State Education District III na Jihar Legas ne suka fafata a gasar mai amfani ta STEAM wadda ta himmatu wajen samar da zurfafan tunani da kuma dabarun magance matsala a tsakanin ɗalibai matasa.
+Project iCommunity da STEAM Fun Fest ta shirya tare da haɗin guiwar Education District III ta jihar Legas, STEAM UP Lagos ta fara ne da bayar da horo ga malamai guda 20 da kuma makonni 4 na bayar da horon tunanin zane-zane ga ɗalibai 10 a gaba ɗaya gundumar.
+Matakin ƙarshe na gasar ya kasance ne ranar Asabar, 8 ga Yuli, 2023, wanda a sannan maƙarantun da aka zaɓa suka gabatar da aikinsu na farko ga manyan alƙalai, masana ilimi, da kuma ƙungiyoyi masu bada tallafi.
+Babbar Kwalejin Model ta Jihar Legas, Badore ta cinye gasar ta STEAM dalilin aikinsu na gorar ruwan zafi mai amfani da baturin hasken rana, inda suka samu kyautar Naira 1,000,000.
+Babbar Maƙarantar Kwalejin Kuramo da ke Victoria Island sun zamanto a mataki na biyu dalilin aikinsu na kyamarar CCTV marar waya mai ƙayatarwa, inda suka samu kyautar Naira 500,000.
+Babbar Maƙaranta ta King Ado ce ta zo a mataki na uku inda suka samu kyautar Naira 250,000 dalilin aikinsu na Wooden Walking Way, yayin da Babbar Maƙarantar Mata ta Academy Lagos Island, tare da aikinsu na Manhajar KoyonI, da kuma Babbar Kwalejin Gwamnati Ikoyi da aikinsu na Ƙwan Lantarki mai Amfani da Hasken Rana duka suka ci Naira 100,000, a mataki na 4 da na 5 jere.
+Dukkan ayyukan guda 10 sun yi nuni da haɗin kai da kuma mayar da hankali wajen magance matsalolin zurfin tunani.
+Kamar yadda Jadesola Adedji ya bayyana ɗaya daga cikin masu shiryawa na STEAM Fun Fest, “muna matuƙar alfahari da ƙyayataccen cigaban da dukkan ‘yan takara suka gabatar.
+A wannan gasar ta STEAM ta wannan shekarar, babban abin da muka ba wa mahimmanci shi ne na sanya ra’ayin koyo, magance matsala, da kuma ƙirƙira a tsakanin matasa na jihar Legas.
+Ƙwarin guiwar da muka samu daga ɗaliban farin ciki ya sanya mana ƙwarin guiwar domin cigaba da nema, tare da burin faɗaɗa wannan ƙirƙirar ga maƙarantu da ba a cikin Legas kawai ba hatta gaba ɗaya Nijeriya.”
+Ta godewa Chevron Nigeria Limited, Nigerian National Petroleum Limited (NNPCL), dangane da goyon bayansu da kuma tallafi, wanda ya tabbatar da nasarar gasar ta STEAM.
+“Himmatuwarsu wajen bunƙasa fasahar matasan ɗalibai da kuma kuma ciyar da ilimi gaba a jihar Legas abu ne da aka jinjina masa,” ta ƙara da haka.
+STEAM Fun Fest na da haɗin guiwar kamfanoni masu jagoranci guda 4 na Edtech-9ijakids, STEM-METS, Edufun Technik, da kuma Sabiteach.
+Tallafawa SMEs a Kwara: Trade Lenda SME Fair sun yi haɗin guiwa da gwamnatin Jihar Kwara da kuma DTO Foundation domin tasiri mai daɗewa.
+Trade Lenda SME Fair tana afaharin sanar da cewa ta haɗa guiwa da gwamnatin jihar Kwara da kuma Dr. Toba Oloyede (DTO) Foundation domin taimakawa cigaba da kuma tafiyar da ƙanana da kuma matsakaitan sana’o’i (SME) a cikin jihar ta hanyar tallafawa masu sana’ar hannu guda 7, wanda za su dama a cikin sanannen bikin Trade Lenda SME Fair a jihar Lagos.
+Wanda zai kasance a Agusta 19, Trade Lenda SME Fair shi ne taro mafi girma na SME a Nigeria, shugabannin masana’antu, da kuma jami’an gwamnati.
+Wannan tallafin yana nuna himmar jihar Kwara da kuma DTO Foundations wajen tallafawa kasuwancin cikin gida da kuma kula da cigaban tattalin arziki a yankin.
+Dukkan ɓangarorin sun gane mahimmiyar rawar da SME suke takawa wajen tafiyar da cigaban tattalin arziki da kuma samar da damarmakin aikin yi.
+Ta hanyar tallafawa waɗannan masu sana’ar hannu na musamman guda 7 don su dama a cikin Trade Lenda SME Fair, Jihar Kwara da DTO Foundation sun maida hankali wajen samar musu da manhaja domin bayyana kayan da suka samar da ayyukansu.
+Trade Lenda SME Fair suna bayar da dama ta musamman ga masu sana’ar hannu domin haɗuwa da ƙwararru game da masana’antu, abokan hulɗa na ƙwarai, da kuma ‘yan mabanbanta na abokan ciniki na nan gaba.
+Ta hanyar damawa a Trade Lenda SME Fair, masu sana’o’in hannu da aka ɗauki nauyinsu za su samu bayanai masu amfani, za su haɗa alaƙa mai amfani da kasuwanci, kuma su faɗaɗa kasuwancinsu.
+Masu halarta za su sa ran ganin SME mabanbanta tare da kayan da suke ƙirƙira, tare da ragi na musamman a kan waɗannan kayayyakin.
+Yin rijista domin Trade Lenda Fair 2023 na cigaba har a yanzu, kuma muna shawartar mutane da su mallaki tikitinsu a yanzu.
+Ku samu tikitinku a nan: http://tix.africa/discover/tradelenda
+Game da Trade Lenda
+Trade Lenda banki ne na yanar gido wanda yake a kan gaba da aka yi shi domin tallafawa matsakaita da ƙananan masana’atu (SMEs) a Nijeriya.
+Ta hanyar babban tsarin na ayyukan kuɗi, wanda suka haɗa da bashi, ajiya da kuma inshora, Trade Lenda yana son cim ma bunƙasa tattalin arziki, ‘yancin samun kuɗi da kuma ƙoƙarin samar da yanayin mahalli da take tallafawa nasarar SMSs.
+Gina Gaba: Maƙarantar Kasuwanci ta Legas za ta gabatar da taron Tech Founders na farko.
+Babbar Maƙarantar Kasuwanci ta Legas (LBS) za ta yi taron masu faɗa a ji na Nigerian tech ecosystem a karon farko na tech Founders Summit a cikin ɗakin taron maƙarantarsu da ke Ajah, Legas, a ranar talata, 17 Agusta, 2023.
+Taron wanda yake da taken “Building the Future:Technology, Innovation, and Entrepneurship” wanda yake son tattaro kan masu ƙirƙirar fasaha, masu hannun jari, shugabannin masana’antu da kuma ƙwararru, mahukunta, malamai, da masu sha’awar fasaha waje ɗaya domin tattauna cigaban mahallin fasaha ta Nijeriya.
+Yayin magana da Techpoint Africa game da dalilin da ya sa LBS ta haɗa taron, Segun Thomas, Shugaban Samar da Kaya da kuma ƙirƙira a LBS, ya ce, “Mun ga mutane da yawa suna shiga mahallin fasaha na kamfani mai tasowa, amma maƙasudin har yanzu babu shi.
+Wasu masu samarwar masu fasaha ne, amma fahimtar abin da ya haɗa kula da kasuwanci da kuma fasaha har yanzu yana da wahala ga wasu.
+Burin LBS ga wannan taron shi ne su ba mu damar zuwa da wasu maganin matsala wanda yake tare da buƙatun waɗannan kamfanoni masu farawa ɗin saboda suna da ƙalubale da dama.
+Don LBS ta zo da wasu kayayyaki da kuma maganin matsala a wannan fagen, da farko sai mun fara fahimtar matsalar da suke fuskanta, kuma muna da buƙatar haɗa dukkan masu gudanarwa a cikin tsarin.”
+Ya ƙara da cewa suna ƙoƙarin samun mahalli inda ake ganin buƙatar masu sanya hannun jari, masu samarwa, da kuma mutane da suke ƙoƙarin kawo gyara a mahallin, kuma suna da damar samar da wani abu a kan matsalar wanda yake magance abin da ya damu masu gudanarwar a mahallin fasahar.
+Abin da ya kamata ka yi zato game da taron Tech Founders
+Damarmakin haɗuwa da manyan mutane:Taron zai samar da manhaja ga masu zuwa taron domin haɗuwa da mahukunta da kuma masu samarwa.
+Samar musu damar manyan damarmaki na ƙulla kasuwanci.
+Hange daga shugabannin masana’antu: Masu shiga taron kuma su saurari ji daga masu hannun jari, masu samarwa, mahukunta, da sauran shugabannin masana’antu daga sauransu.
+Za su saurari tattaunawa a kan yadda zasu binciki matakai da dama na cigaba, daga neman jari zuwa ga sanin abin da masu hannun jari suke da buƙata, kula da buriƙa, sannan mafi amfani, yadda zasu bunƙasa a masana’antunsu.
+Gudunmawa game da tattaunawar: Masu shiga tsarin za su samu damar tattaunawa da kuma taimakawa wajen cigaban tsarin mahallin fasahar Nijeriya.
+Cikakkun hanyoyin magance matsaloli daga LBS: Masu tsarawar, Makarantar Kasuwanci ta Legas, ta tsara bunƙasa magance matsala ta masu gudanarwa bisa ga hangen nesa da kuma tattaunawa yayin taron.
+Waɗanda ake tunanin za su yi bayani a taron su ne waɗannan shugabannin masana’antun: Olugbenga Agboola, Shugaba kuma wanda ya samar da Flutterwave; Dr Ola Brown, Shugaba kuma wadda ta samar da HealthCap Afirka; Dr Bosun Tijani, Shugaba kuma wanda ya samar da CcHub; Oswald Guabadia, tsohon Babban Mataimakin Shugaban Ƙasa a kan harkar fasahar zamani;Goke Olubisi, Shugaba kuma wanda ya samar da Helium Health; Professor Olayinka David West, Associate Dean, Maƙarantar Kasuwanci ta Legas, daga cikin manyan mutane sanannu.
+Domin halartar taron Tech Founders, masu sha’awar za su iya yin rijista ta amfani da mahaɗi da aka samar:http:?//bit.ly/tech-founders-summit.
+Da akwai damarmakin tallafi da kuma baje haja domin masu kasuwancin da suke da ra’ayin nuna magancewar matsala a taron.
+Wasu daga cikin abubuwan da aka buɗewa masu kasuwanci sun haɗa da wayewa, Ƙarin damarmakin hanyoyi, da kuma samun abokan ciniki, daga cikinsu.
+Bankin Raven ya tallafawa ɗalibai 400,000 da sabuwar fasahar ‘Intanet mai Fukafuki’- WiFi na Kyauta a Harabar maƙarantar
+Ta dalilin Feather Interpret Initiative, Bankin Raven sun fara tallafawa ɓangaren ilimi ta hanyar samar da wifina kyauta a harabar maƙarantun Nijeriya.
+Kyautar BAFI,2022 Neo Bank ta shekara, ta bayyana tunanin ranar Juma’a yayin ƙaddamar da Raven Feather Internet a Jami’ar Ignatius Ajuru, Rumolumeli, Pot Harcourt, a jihar Rivers.
+Yayin murnar cigaban, Uchennan Nnodim, Babban Daraktan Bankin Raven, ya bayyana cewa wannan ne mataki na farko na manufar bankin don tallafawa ɗalibai fiye da 400,000 a faɗin jami’oin Tarayya da na jaha da ke ƙasar da yanar gizo mai ƙarfi da sauri domin taimakawa ƙwazon ƙaratu.
+Ya bayyana cewa tunanin ya zamanto wata dabara don kawo gyara ga rarrabuwar fasaha da ke zuwa daga ƙarancin damar samun yanar gizo, matsalar da ɗaliban Nijeriya da dama suka fuskanta.
+Bayar da misali daga yadda ya samu nasa ilimin, ya bayyana matsalolin da ya fuskanta wajen samun bayanai a yanar gizo.
+Wannan, tare da yanda Raven ya mayar da hankali wajen samun ilimin kuɗi tsakanin Gen Z da millennials, shi ne ya haifar da wannan hangen nesan mai amfani.
+Ya ce, “mun fahinmci cewa kusan kaso 70 na ɗaliban Nijeriya ba su da damar shiga yanar gizo.
+Wannan adaɗi ne mai girma.
+Sannan kuma muna da cikakken sani cewa a lokutan zamani yawan bayanai da ilimin da yake a yanar gizo ba abin da za a wuce gona da iri ba ne.”
+“Za ka iya samun damar kowanne irin ilimi ko bayanai da yanar gizo, don haka samun damar shiga yanar gizo abu ne mai matuƙar amfani ga cigaban ilimi da kuma ƙaratu.”
+Nnodim ya cigaba da cewa ƙaddamarwar farko a IAUE ita ce matakin farko na cigaban.
+“Ƙaddamarwarmu ta yau (Juma’a) ita ce wajen mu na farko, amma muna da babban shiri domin aikin.
+Na riga na faɗa cewar muna so mu isa ga aƙalla ɗalibai 400,000, kuma ma har mun samo wasu wuraren guda 26 da muke so mu faɗaɗa.”
+“Muna kan tattaunawa da hukumomi sauran waɗannan wuraren, kuma tattaunawar tana tafiya ba wata matsala.
+Shirinmu shi ne mu aiwatar a waɗannan wurare a kwata ta biyu ta 2024,”ya faɗa.
+Ƙaddamar da Raven Feather Internet na gaske ya fara ne da tattaunawa ta tsawon awa ɗaya, wanda Shugaban Raven Chidinma Maduwesi ya gabatar, wanda ya fito da sanya tattaunawa a kan darussa da suka shafi ajiya, sanya hannun jari, sana’ar hannu, da sauransu.
+Shugabannin tattauawar sun haɗa da Uchenna Nnodim, Shugaban Raven, Raven POS aggregator Benjamin Idris, da kuma Kelechi Godfrey, mai koyar da harkokin kuɗi daga The Bedroom.
+Kuma ɗalibai sun nishaɗantu a rabin lokacin taron da abubuwan nishaɗi daga zaɓaɓɓun fasihai.
+Kuma cikin wanda suka halarci ƙaddamarwar akwai Professor Okey Okechukwu, Shugaban Jami’ar Ilimi ta Ignatius Ajuru.
+A bayaninsa, ya yaba wa masu gudunarwar Raven game da nasarar aikinsu wajen aiwatarwa da gabatar da Ƙaddamarwar Intanet mai Fukafuki a harabar jami’oi.
+A lokaci guda, ya kuma ya ba wa bankin wajen zabar maƙarantar domin gabatar da aikin.
+Ya kuma ƙarfafawa ɗaliban guiwa da su yi amfani da yanar gizo ta kyauta a harabar jami’ar, ya ƙara da cewa ita yanar gizon ba ƙarfafa ƙaratu kawai take ba sai dai tana ƙara buɗe idon ɗaliban zuwa ga dabaru da dama, da tallafa musu a gaba ɗayan rayuwar ƙaratunsu da kuma fiye da haka.
+Don tabbatar da amfanin Intanet mai Fukafuki, Nnodim ya bayyana, “wannan shirin an tsara shi ne kawai don ya samar da amfani mai yawa a rayuwar ɗaliban Nijeriya.” An yi shi ne da manufar ba wa ɗalibai 400,000 damar amfani da yanar gizo ta kyauta a kowacce rana; wannan shi ne ƙaddamarwar farko kuma a waje ɗaya kawai, muna da niyyar kai wa wasu jami’o’in.
+Manufar ita ce a tabbatar da cewa ɗalibai sun samu damar shiga yanar gizo domin neman iliminsu, domin bincike sannan kuma ya ba su damar samun kowanne irin ilimi suke da ra’ayi.”
+Yayin bayani game da tunanin da ke da alaƙa da sunan, ya nuna cewa fukafukan hankaka mai girman gaske, sa’ar kamfanin, shi ya haifar da sunan.
+Koyi da saurin fukafukansa, ƙungiyar suka sanyawa hanyar sadarwar ƙetare iyakoki, don sauya hadahadar fasahar zamani tayi sauri la'akari da fukafukansa.
+Domin samun ƙarin bayani game da Shirin Fukafuki na Intanet mai ilmantarwa da kuma zama wani ɓangare na wannan tafiya mai tarihi, ka bibiyi Raven Bank@theravenbank a dukkan manhajoji.
+Game da Bankin Rven:
+Bankin Raven ”Raven” ko “RMFB” banki ne na zamani da yake samar da ayyukan hada-hadar kuɗi cikin sauri, aminci da kuma dogaro ga mutanen Afirka farawa daga Nijeriya.
+“People’s of bank ofa Afirka” – Bankin Raven ya kasance a sahun farko na ƙirƙira, wanda ya dage wajen tabbatar da haɗuwa da kuma ilimantuwa ta hanayar hangensu na Feather Internet Program.
+Tare da cikakken mayar da hankali wajen tallafawa ɗalibai da kuma daidaita rabuwar fasahar zamani, Raven Bank yana hango wata duniya da fasaha ke azurta rayuka da kuma tabbatar da mafarkai.
+Sauke manhajar Bankin Raven.
+Infinix NOTE 30 Smartphone
+Kamfani/Sitidiyo
+Infinix Mobile Limited
+Lead Designers(s)
+Ƙirar Infinix
+Ƙungiyar Ƙira
+Ƙungiyar Ƙirar Infinix (Kunwei Dong, Dong Xie, Yongliang Yao, Chaonian Zhang, Xinling Xiao)
+Farashi
+Wanda Suka yi Nasara a kan Ƙera Kayayyaki/Sadarwa da kuma Kayan Wuta na Gida
+Wayar zamani ta Infinix NOTE 30 wayar hannu ce da aka ƙera ta domin tafiya a kan hanyar sadarwar salula. Ƙirar wayar gaba ɗayanta a shafe take kuma sauƙakaƙƙiya. Kuma tana ƙirar batir mai rufewa mai kayayyaki iri biyu, gilashi da fata mara zane.
+Glovo sun wuce Jumia food, Bolt food, da sauransu domin zama ɗaya daga cikin abokan hulɗar kai saƙon Chicken Republic a Nageriya.
+Glavo a yau ya bayyana hadin guiwa wanda zai sanya ya zamanto ɗaya daga cikin abokan hulɗar kai saƙo na Chicken Republic a Nijeriya.
+Hadin guiwar, wadda ta fara a Agusta, zai tabbatar da aikin Chicken Republic da Glovo, wanda zai kawo karshen hulɗar Jumia Food da kuma Bolt Food.
+Hari la yau, za a iya fadada hulɗar zuwa Ghana, inda dukkan kamfanunuwan suke aiki.
+A Nageriya, Glovo a yanzu tana aiki a Lagos, Ibadan, da Abuja, inda suke aiki da rassan Chicken Republic guda 58.
+A wani ɓangaren, Chicken Republic tana aiki a rassa fiye da 300 a Nijeriya, kuma wani yana zaton cewa wannan hulɗar itace jagoran fadadar Glovo a Nijeriya.
+Duk da haka, shugabannin Glovo sau tari suna nuna ra’ayinsu na maida hankali a Legas, Ibadan, da Abuja.
+Kofi Abunu, shugaban Food Concepts, yayi fatan hulɗar zata inganta kwarewar abokan ciniki da kuma inganta aikawa da saƙo, yayin da Lamide Akinola, sabon babban manajan da aka nada a Glovo Nigeria, shima ya bayyana farin ciki game da hulɗar.
+“Tun hadin guiwar mu ta farko da Chicken Republic a Mayu 2022, mun nuna iyawarmu wajen samar da aiki mafi kyau kuma mai sauri ga abokan cinikin mu.
+Don haka, muna matukar alfahari cewa Chicken Republic, QSR maja gaba a Nijeriya sun fahimci kwarewarmu suka zabe mu,” Akinola ya fada.
+Tun sanda suka shiga kasuwar Nijeriya a 2021, Glovo ta fadada sosai, tare da allaon hotuna a gaba ɗaya birnin da suke aiki.
+Yayin kai ziyara a Mayu 2023, shugaban Glovo, Oscar Pierre yayi bayanin cewa manufar kamfanin shi ne zama masu damawa na dindindin a ɓangaren siye da siyarwa cikin sauri a Nageriya.
+Tuni, Glova Nijeriya ta ɗauki ma’aikatan kai saƙo fiye da 1,000 da kuma ma’aikata kusan 50 a Nijeriya.
+Kari a kan haka, Pierre ya bayyana cewar startsup sun kashe fiye da miliyan $3 a Nijeriya, duk da ya bayyana cewa burin kamfanin na farko shi ne kara mahallin abokan cinikinsu da kuma inganta aikinsu.
+Manajan kasa na Glovo Nigeria yana son buƙatar kai saƙo yayin da aka nema ya cigaba duk da ƙarin kuɗin aiwatarwa.
+X (wadda a da take Twitter) tana son kula da kuɗin shari’arku.
+Yayin da labarin shigar sunan Tijani Bosun cikin wanda za a zaɓa a jerin minisitoci ya bayyana, tsarin mahallin fasaha na Nijeriya ya cika da murna.
+Tijani CcHub, cibiya na fasaha mafi girma a Nijeriya, sun taka mahimmiyar rawa wajen samar da wasu kamfanonin fasaha mafi girma na kasar daga fawararsu a hankali a Yaba, Legas.
+Samun wani kamar Tijani ya jagoranci yanayin mahalli a matsayi na minister yayi ma’ana sosai saboda ya fahimci matsalolin masu madafun iko a mahallin.
+Zaɓarsa da aka yi, duk da haka, ya janyo alamar tambaya ga wanda suke ganinsa a matsayin mara kishin kasa dalilin wani saƙo da ya tura akan Nijeriya a X(wadda aka fi sani da Twitter a da).
+“Nijeriya” banzar alama ce da za ka samu game da sunanka.
+A bar kishin ƙasa na ɗan lokaci – wannan alamar asarar banza ce ta kuzari.
+Fasfon wata kasa na biyu bai isa ya goge “zunubin” ba.
+Ya bada haƙuri lokacin tantanceshi a minister ya kuma yi bayanin abin da ya sa shi tura wadancan saƙonnin.
+Ni da abokan aikina munyi musu.
+“Bai kamata ya bada haƙuri ba saboda bai yi wani abu mara kyau ba.”
+“Zai fi kyau ya sanya aikinsa saman girman kansa.”
+Me za ka yi idan kai ne Tijani?
+Ka fara Litinin dinka da waɗannan labaran:
+X tana shirin kula da kuɗin shari’arka
+Wema + Nijeriya zasu ƙaddamar da tech hubs
+Korar ma'aikata Big Cabal Media
+X za ta kula da kuɗin shari’arka idan aka koreka saboda saƙon da ka wallafa
+Ranar Lahadi, 6 ga Agusta, 2023, shugaban X (wadda ta kasance Twitter a da), Elon Musk, ya wallafa, “ idan wanda kakewa aiki yayi maka rashin kyautawa saboda abin da ka wallafa ko ka so wani abu a wannan manhajar, zamu biya kuɗin shari’arka . Ba kayyadewa.
+Muna son mu sani.”
+Shin X ba tana cikin ɗimbin bashi ba ne?
+Abin da na fara faɗa game da wannan saƙon, ina nufin wallafar, shi ne “lol” kuma ga dalili.
+A hanlin yanzu ana bin X $136,250 na kuɗin haya da ba su biya ba a HQ ɗinsu dake San Francisco, USA.
+Wani rahoto daga jaridar New York Times ma ta nuna cewa X bata biyan kuɗin haya a dukkan ofisoshin sun a duniya a wani mataki na rage kashe kuɗi.
+Ba shikenan ba: X da Musk a halin yanzu suna fuskantar shari’a game da miliyan $14 na kudaden da basu biya ba.
+Ma’aikatan da aka kora ba tare da dalili ba suma sun kai kara suna neman miliyan $500.
+Zukowa waje: Dubawa baya zuwa ga wasu abubuwan da Musk yayi, saƙonnin da yake wallafawa suna zuwa kamar munafurci.
+A watan Numabba 2022, ya kori injiniyan X wanda ya yi masa magana game da wani saƙo mara kyau da ya yi game da X.
+Ma’aikata da yawa sun wallafa saƙo game da korar su da aka yi saboda sun tona sirrin maganganun Musk na ƙarya game da X.
+Dakata: Kafin ka wallafa wannan saƙon da zai iya sawa a kore ka, da tuna Musk da kuma yadda wata rana ya faɗi wani abu sannan kuma ya sauya ra’ayinsa daga baya.
+Big Cabal Media sun rage yawan ma’aikata da kaso 19%
+Big Cabal Media, iyayen kamfanin TechCabal, Zikoko da Citizen, sun rage %19 na ma’aikatansu saboda “tsananin yanayin kasuwa.”
+A wata takarda ta cikin gida da aka turawa ma’aikatan, shugaban Big Cabal Media Tomiwa Aladekomo, yace, “hukuncin yau baiyi daɗi ba, amma wadanda zasu bar aiki da mu zasu iya yin alfahari da nuna isa a aikinsu da kuma amfaninsu.
+Game da wasu daga cikinmu da suka zauna, kusani cewa mun bada himma sosai ga gina ɗaya daga cikin mafi mahimmancin kasuwancin sadarwa a nahiyar.
+Wannan manufar zata ci gaba, kuma za ka yi alfaharin taimaka mata.”
+Jama’a, sabon wallafar kamfanin daya mayarda hankali akan jagoranci da siyasa shi ne korar ma’aikatan zaifi shafa.
+Kamfanin yace, “a wani mahallin kasuwanci na daban, muna zaton jama’a zasu sami watanni 12 zuwa 18 don fahimtar hanyoyin samun kuɗin shiga.”
+Yayin da suke samun 180% akan bunkasar kuɗin shiga na shekara da shekara a karshen H1, gaskiyar tattalin arziki kamar raguwar samun tallafi da kuma rashin cigaban tattalin arziki, ya shafi samuwar kuɗin shiga.
+Big Cabal Medai a yanzu zai mayar da maida hankali ne akan TechCabal da kuma TechCabal Insights da Zikoko.
+Nijeriya tayi hadin guiwa da Wema Bank domin ƙaddamar da digital hubs.
+Gwamnatin tarayyar Nijeriya tayi hadin guiwa da Wema Bank don ƙaddamar da digital hubs a jahohi bakwai.
+Kamar yadda bayanin Olusola Abiola ya bayyana, daraktan yada labarai na mataimakin shugaban kasa , Kashim Shettima, hubs din zasu tallafawa matasa miliyan daya a kasar da dabarun fasaha.
+Ya bayyana cewa wakilan Wema Bank da kuma mataimakin shugaban kasa sun zo da wani tsari bayan haɗuwar kwanannan a Abuja.
+An fara da jihohin Legas da Borno: Kashin farko na hub din zai fara ne a jihohin Legos da Borno Yayin da sauran jihohi kuma, da suka hada da Oyo da Cross River, zasu samu nasu daga baya.
+Dubbed the FGN/ALAT D igital and SkillNnovation Hub, zasu tallafawa “matasan masu kwarewa a fasahar zamani da kuma sha'awa sosai a kirƙirar fasahar zamani da kuma cigaban bunkasar fasaha, ta hanyar samar musu da maganin matsalar kuɗi, horo da kuma samun damar dabarun hulɗa.”
+FG sunyi hadin guiwa da Wema Bank domin samar da hubs na fasaha a gaba ɗayan jihohi.
+Wema Bank, bankin Nijeriya dake kan gaba wajen ƙirƙira, ya yi haɗin guiwa da Gwamnatin Tarayyar Nijeriya don samar da hubs na ƙirƙira da fasaha a jihohin ƙasar, da nufin tallafawa matasa miliyan ɗaya da dabarun fasaha da kuma wasu dabarun daban.
+Tsarin, wanda aka sani da FGN/ALAT Digital da SkillNnovation Hub, an yarda da shi ne lokacin da akai ganawa tsakanin wakilan banki da kuma na Mataimakin Shugaban kasa Kashim Shettima a Abuja, wanda ya hada da himmar mulkin Shugaban Ƙasa Bola Ahmed Tinubu wajen samar da ayyukan fasahar zamani da yawa ga matasan Nijeriya.
+A shekarun da suka gabata, Wema Bank ya kasance babban kusa wajen sauyin fasahar zamani a masana’antar banki, wanda suka dage wajen tabbatar da al’adar ƙirƙira, koyo, da kuma bunkasa.
+Manajan Darakta na Wema Bank kuma babban ofisa, Moruf Oseni, yace anyi tsarin kirƙirar don kawo sauyi ga yadda matasan masu sana’ar hannu da ma’aikata suke hulɗa da fasaha, sana’ar hannu, da kuma bunkasa dabaru.
+“The Digital & SkillNnovation Hub yana nuna himmar mu wajen tabbatar da yanayin mahalli mai aiki wanda zai tallafawa matasa masu sana’ar hannu na Tech-Savvy, matasa masu sana’ar hannu na yanayi, da kuma matasa ma’aikata, da suke tafiyar da bunkasar tattalin arziki da kuma cigaba mai dorewa a kasar.
+Wannan manhajar ta bai daya zata hada kayan aikin fasahar zamani na cutting-edge, fasahohi, da kuma kayan amfani domin haska ayyukan fasahar zamani, hadin guiwa, da kuma raba bayanai,” Oseni ya fada.
+Kamar yadda wani jami’I daga ofishin mataimakin shugaban kasa ya bayyana, The Digital anda SkillNnovation Hub zai fara aiki ne a jihohin Legas da Borno, sai kuma jihohin Katsina, Cross River, Anambra, Oyo, da kuma Kano su biyo baya.
+Tsarin ya maida hankali ne wajen samar da hanyar magance matsalar kuɗi, bada horo, da kuma samun damar hulɗar samar da dabaru, tallafawa matasan ma’aikata domin zama ɓangare na ma’aikatan Nijeriya, musamman wanda aka tura su ta NYSC.
+Bayanin ya bayyana cewa kwararru zasu koyar da SMEs 500,000 a fadin Nijeriya, Yayin da koci zasu bayarda horo da kara dabarun bunkasa kasuwanci.
+A ƙarƙashin tsarin, za a bayar da kuɗi ta hanyar yarjejeniyar hadin guiwa tsakanin gwamnatin tarayya da WEMA Bank, wanda za a bayar da miliyan N500 da za a rabawa SMEs da kuma masu sana’ar hannu.
+The FGN/ALAT Digital Nnovation hubs zai maida hankali ne akan bayar da horon manyan matasa miliyan daya aka software engineering, lura da kayayyaki, nazarin kasuwanci, cloud computing, da kuma tsara kaya, ta hanyar amfani da kayan aiki na musamman.
+ISACA ta haɗa guiwa da Onitsha Business School don tallafawa dalibai da dabarun da ake buƙata a duniya da kuma takardu
+Global technology association ISACA da Onitsha Business School, wanda yake a jihar Anambra a Nijeriya sun bayyana hulɗar karatu don bawa dalibai damar bunkasa kwarewar koyon su da wani shiri na musamman da yake samarda dabaru da ake nema da kuma takardu domin fara aiki da IT audit, cybersecurity, tech masu tasowa, governance da privacy.
+ISACA sun bunkasa shirin hulɗar karatu domin samar da damarmaki na inganta koyo ta hanyar dabaru na hannu da ake buƙata domin fara aiki a IT audit, risk, security, data, cybersecurity, governance, ko privacy.
+Matakanmu suna hade ne da babbar himmar ISACA don sanya hannun jari a shirye-shiryen duniya da huldodi wanda zai kara alfanun al’umma da yawa, da damawa, da equity, a cikin masana’antar da kuma wajenta duka.
+A matsyain ɓangaren wannan hulɗar, ISACA zasu bayar da shaidar zama mamba da kuma kasuwanci da dama da shaidar fasaha mai tasowa wanda ya kunshi Certified Information System Auditor (CISA), Certified in Risk and Information System Control(CRISC), Certified Information Security Manager (CISM), Certified Data Privacy Solutions Engineer(CDPSE), Certified in Emerging Technology (CET), Information Technology Certified Associate (ITCA) da kuma fiye a ragaggen farashi ga daliban Onitsha Business School.
+“ A matsayin ma’aikatar koyo ta duniya, ISACA sun yarda da ƙarfin gina alaƙa da al’umma domin fadada amfanin bayarda ilimin mu ga dalibai da kwararru da muke wa aiki,”Jeff Angle yace, babban daraktan ISACA, Academic da Workforce Development.
+“Muna farin ciki game da hulɗarmu da Onitsha Business School da kuma matakin da zamu iya ɗauka a tare dominbuɗe sababbin hanyoyin koyo da aiki ga dalibai da kuma yin tattaunawa mai ma’ana dangane da amincin fasahar zamani.”
+“Onitsha Business School (OBS) wani shiri ne da aka tsara shi domin samar da kayan amfanin neman ilimi domin horarwa da bunkasa ƙwarewar cinikayya, masana’anta da sana’o’in hannu masu dinbin yawa a ciki da wajen birnin kasuwanci na Onitsha dake jahar Anambra, Nijeriya.
+Fiye da shekaru 50, ISACA sun bunkasa mafi kyawun fasaha, kwarewa da kuma koyo a fasaha tare da takardu, ilimi, da al’umma domin cigaban aikinsu da kuma kawo sauyi a ma’aikatan su.
+Muna matukar farin ciki da hulɗar mu da ISACA da kuma sauyi mai amfani da zasu samu akan kwararrun masu amincin fasahar zamani a yankin kudu maso gabashin Nijeriya,”professor Olusegun Dapo Sogbesan ya fada, babban darakta, na Onitsha Business School.
+Kari akan haka, a ɓangare na wannan hadin guiwa, faculty da mambobi na Onitsha Business School da shiyar ISACA dake Abuja za suyi aiki tare a tattaunawa, taruka da sauran bukukuwa domin bayyana ra’ayi, ilimi da mafi kyawun aiki a bayyane.
+“A ɓangaren tsarin dabarun shiyar Abuja, masu hulɗa na ɓangaren alaƙarmu ta ilimi sun kyautata hoton ISACA a matsayinsu na shugaba a kasuwancin fasaha a tsakanin al’ummar ilimi a Afirka ta yamma kuma sun kara yawan fadakarwas da tattaunawa tsakanin masu karatu da masu aiki.
+Muna farin cikin yin murnar hulɗar karatu na farko daga cikin huldodi masu yawa wanda ya iso sub-saharan Africa,” shugaban shiyar ISACA dake Abuja, Emmanuel Omoke ya faɗa.
+Game da ISACA
+ISACA (www.isaca.org) al’umma ce ta duniya dake inganta mutane da ma’aikatu a wajen neman amincin fasahar zamaninsu.
+Fiye da shekaru 50, ISACA sun wadata mutane da kamfununuwa da kayan aiki da ilimin,takardu, karatu, horo da kuma al’umma domin su ci gaba da aikinsu, su kawo sauyi a ma’aikatunsu, sannan su gina duniyar fasahar zamani mafi aminci gaskiya.
+ISACA ƙwararriyar ƙungiya ce ta duniya kuma ma’aikata ce ta koyo da ke taimakawa ƙwarewar mambobinta fiye da 170,000 da suke aiki a guraren aminci na fasahar zamani kamar information security, governance, assurance, risk, privacy da quality.
+Ta bayyana a kasashe 188, wanda ya hada da shiyoyi 225 a duniya baki ɗaya.
+Ta dalilin ƙungiyarsu ta One In Tech, ISACA ta tallafawa ilimin IT da hanyoyin aiki ga mutanen da ba su da kuɗi kuma ba su da wakilci.
+Game da Onitsha Business School
+Onitsha Business School (OBS) wani tsari ne da aka shirya shi don samar da kayan karatu da suka dace da cigaba da kuma bayar da horo ga masu kwazon cinikayya, masana’o’in hannu masu dinbin yawa a ciki da wajen birnin kasuwanci na Onitsha.
+A yayin da aka ƙaddamar da shi dalilin bukatun birnin na musamman da kuma jahar Anambra, musamman Nijeriya, sun maida hankali ne da burin zama santar da zata samu karbuwa a ko’ina domin bayarda cikakken ilimin shugabanci da akatsara shi cikin dabaru, wajen koyon sana’a da da kuma karatun da ya shafi kasuwanci, kwararre, da kuma shirye shiryen da suka shafi koyon dabaru ga wasu yankin daliabai da aka zaɓa.
+Wannan Makarar tana ɗaukan dalibai fiye da cikin aji domin su fahimta a aikace abinda ke faruwa a duniyar kasuwanci.
+Ana bunkasa iyawar manajoji da shugabannin domin tunkarar kalubale.
+Ana wayar da mutane game da tunani na zamani da wannan kuma ake tabbatar da kasuwanci ya samu dabarun cigaba da nasara.
+Masu yaki da kutse sun bayyana yakin yanar gizo a Nijeriya.
+Apple zasu ƙaddamar da Al chatbot dinsu, kuma za a kira shi da Apple GPT.
+Apple nada hanyar shiga yayin fasaha da kuma gamsar da masu amfani da shi cewar ba a taba samun fadshar a baya ba.
+Ina matukar son naga yadda zasu tabbatar da Apple GPT.
+Abun haushi, ba zai faru ba a nan kusa.
+Kamar abubuwa da dama, Apple na ɗaukan lokacinsu sosai kuma ba zasu bari a takura musu ba wajen samar da fasahar da bata zama dari bisa dari ba.
+Duk da dai rahoton Bloomberg ya gaya mana a watan Juli cewar Apple GPT zai iya zuwa a 2024, mai nazarin Apple, Ming-Chi Kuo yace da akwai sauran shekaru kafinnan.
+Koma dai wani lokaci zata fito, nasan cewa Apple fanboys zasu samu hanyar sanya Apple GPT ya zamo kamar Al chatbots bai taba kasancewa ba sai lokacin da suka ƙaddamar da na su.
+Yayin da muke jiran Apple da su biyo Al bandwagon, ga abin da nazo muku da shi a yau:
+Worldcoin basu karaya da Kenya ba
+Masu kutse sun kusantowa Nijeriya
+Worldcoin suna shirin cigaba da ɗaukar hoton kwayar ido a Kenya
+A ranar Laraba, 2 ga Agusta,2023, mahukuntan Kenya suka sallami aikin Worldcoin, aikin crypto/blockchain da yake son samar da bayanai na alamar shaida ga kowanne mutum a duniya ta hanyar ɗaukar hoton kwayar idonsa.
+Duk da datakatar da su din, Worldcoin basu karaya ba.
+Dakata, menene Worldcoin?
+Idan har yanzu baka gama yarda da abin da dukkan aikin Worldcoin ya kunsa ba, za ka iya duba dan gajeran kwatance a nan.
+Duk da haka, Worldcoin, sun gaya wa TechChrunch suna amfani da wannan “dakatarwar” domin samo wata hanayar tafiayrwa mafi kyau da kuma lura da hanyar magance cunkoso.
+Wannan kari ne akan “aiki da mahukuntan cikin gida domin kara fahimtar matakan sirri da kuma kwazon da Worldcoin take aikatawa.”
+Wanda shugaban OpenAl ya samar, Sam Altman, Wolrdcoin yayi wa fiye da mutanen Kenya fiye da 350,000 rijista.
+Anga taron mutane da dama sunyi layi domin ɗaukan hoton kwayar idonsu a kan ribar shiga ta $50.
+Wannan kuɗi ne mai yawa: Eh, haka yake.
+Kuma Yayin da Worldcoin suka ƙaddamar a hukumance satika kaɗan da suka gabata, sun samu miliyan $500 na tallafi.
+Zuko waje: Bayanan Worldcoin basu bayyana cewa sun amince da dakatar da ayyukansu a Kenya ba.
+Saboda Karin bayani, sun ce, “saboda yawaitar tsawatarwa da kuma ƙoƙarin rage yawan cunkoso, an tsayarda aikin tantancewa na wucin gadi.”
+Abun sha’awa, ministan ICT na Kenya, Eliud Owalo, ya riga yace ayyukan Worldcoin suna kan tsarin shari’a, to me ya kawo dawo da maganar nan da nan?
+Masu kutse sun fuskanci manyan gurare a Nijeriya
+Wata ƙungiyar masu kutse da ake kira da Anonymous Sudan suna tsara kai harin yanar gizo wanda zai sanya manyan guraren fasahar zamani a Haɗari.
+The National Information Technology Development Agency (NITDA), sun bayyana a taron manema labarai cewa sun gano ayyukan masu kutsen sannan suka gaya wa al’umma da su yi shiri domin harin yanar gizon daga ƙungiyar.
+Me yasa suka fuskanto Nijeriya?
+Na shiga tashar Telegram ta ƙungiyar, kuma sun ce suna jin haushin Nijeriya saboda yanke shwarar “sun goyi bayan shugabannin Faransa kuma sun yaki Nijar.”
+Sun bayyana kansu a matsayin masu yin kutse na Afika da suka ƙaddamar da yakin yanar gizo a madaɗin musumin da ake takurawa a duniya baki ɗaya.
+Yaya ya kamata mu damu?
+Da wahala Anonymous Sudan su rasa idan sunkai hari.
+Sun kaiwa Kenya hari kwanannan kuma sunyi kutse a shafin eCitizen, inda mazauna Kenya zasu iya samun ayyuka kamar sabunta lasisin tuki da sabin da biza.
+Sun riga da sun kaiwa MTN hari: A ranar Laraba da safe, 2 ga Agusta, 2022, “Nijeriya ku zama cikin shiri a yau” shi ne abin da aka wallafa a tashar su ta Telegram.
+Zuwa da yammaci, ƙungiyar ta bayyana cewar takaiwa kamfanin sadarwa na MTN dake Nijeriya hari .
+“Za a fahimci daukewar sabis kaɗan da kuma rashin samun mutane a yawa sosai.”
+Me Nijeriya take yi game da hakan?
+Ƙungiyar ɗaukar matakin karta kwana na na’ura mai kwakwalwa daga NITDA sun bawa hukumomin gwamnati shawara game da yadda zasu kiyaye harin daga Anonymous Sudan, amma lokaci ne kawai zai bayyana idan wadannan matakan zasu yi aiki.
+Farfado da matasan Afirka masu ƙirƙira: STEAM Fun Fest 2023 ya samu sabuwar shaida a STREAM Education!
+Kashi na uku na STREAM Fun Fest, wanda aka gabatar da shi a Juli 22nd, 2023, ya tabbatar da kasancewa mai cikakkaciyar nasara, wanda ya shiga ran dubban matasa masu ƙirƙira, masu magance matsala, da kuma shugabanni.
+Wannan taron na musamman, wanda visionary collaboration of Titi Adewusi(9ijakids), Jadesola Adedeji(STEM METS), Uchenna Onwuamaegbu-Ugwu(Edufun Technik), Wale Ogunjobi(Sabitech), Kunmi Adenipebi(Gamr), da kuma Bukola Akingbade (Kucheza), suka shirya da gaske ya kai matsayin sunansa na bikin STREAM mafi girma a nahiyar, wanda ya farfado da kaunar kimiyya, fasaha, Engineering, Arts, da kuma lissafi (STREAM) a tsakanin kananan matasa.
+Babbar manufar STREAM Fun Fest shi ne tallafawa al’umma masu tasowa nan gaba da kwarewar data kamata ko ilimin da ake buƙata domin damawa wajen aikin nan gaba da kuma lakocin fasahar zamani.
+A yayin bikin, fiye da mutum 4000 da suka halarta sun samu damar kutsa kansu a jerin ayyukan STREAM mabanbanta, kama daga robotics, tsara wasanni, virtual reality, da kuma samfurin hotunan hallita na 3D, da kuma gwaje-gwajen kimiyya.
+Burin bikin shi ne samar da tunani mai zurfi, magance matsala, da kuma kafrin hadin guiwa, dukka yayin karfafa guiwar kaunar ilimin STREAM a tsakanin yara ‘yan shekara 7-15.
+An bude taron da bayani mai mahimmanci daga Aboyeji (shugaban Future Africa) wanda yace amfanin ilimin STREAM ga kananun yara da suke da ilimin STREAM a ɓangare daban daban shi ne su hada guiwa don samar da mafita ga matsalolin al’umma da yake damun mutane akan su boye ilimi/ ko kwarewar a wajen su.
+Da akwai wasu ɓangarorin tattaunawa daga kwararru na masana’antu wanda suka hada da Malik Afegbua shugaban Slick City, Bode Abifarin shugaban Flutterwave, Oreoluwa Lesi wanda ya samar da WTEC, Lanre Bamisebi ED, Access Corporation da kuma Jola Aderemi-Makinde, da kuma Google da sauransu.
+Bikin na wannan shekarar ya kunshi sababbin abubuwa da aka kara a shirin kamar STREAM competition Pitch da kuma Career corner inda yara suke tattaunawa gaba da gaba game da aikin fasaha tare da kwararru daga manyan kamfanonin fasaha kamar Interswitch, MainOne, Jumia, Utiva, Flutterwave da kuma AltSchool.
+Game da STREAM Competition Pitch, mutum shida na matakin karshe da suka hada da yara ‘yan shekara 9-15 sun bawa alkalan matakai na magance matsaloli na abin da ya shafi sabuntawa, mahalli, sustainability, da kuma renewable energy.
+Kamdilichukwu Chukwuneta, wani yaro dan shekara 9 daga Grace Saint School, Ikorodu, shi ne ya zamanto zakaran gasar STREAM, wanda ya koma gida da sabuwar na’ura mai kwakwalwa da kuma kuɗi N400,000.
+A ranar baki ɗaya, dakin taron ya cika da abubuwan masu kayatarwa—dakin gwaji na STREAM, ɓangaren Esport, kwallon drone, da kuma masu baza haja fiye 30 na STREAM.
+Dakin gwajin STREAM ya gabatar da yara ga tsara shirin na’aura mai kwakwalwa, aikin fasaha, robotics, gwaje-gwajen kimiyya, zanen aljanu, ƙera Ul/UX, kayan anfanin Al, da kuma bunkasa wasa.
+Masu tsarawar sun mika dimbin godiya ga masu ɗaukar nauyi: Access Bank, Argentil Capital, Lotus Bank, Flutterwave, Kibo, Flour Mills, The Place Restaurant, Hyde Energy, A.G Leventis, Nigerian Communication Commission(NCC), da kuma MTN.
+The STREAM Fun Fest 2023 ya tabbata ne saboda dimbin tallafinku.
+A yayin da STREAM Fun Fest 2023 ya zo karshe, amfaninsa ya wuce ranar taron kwarai.
+Kaunar ilimin STREAM da aka sanya a zuciyar yara kanana, da aka hada da neman ƙirƙira da koyo sosai, ya tabbatar da cewa gaban Nijeriya za tayi kyau, da ƙarfin guiwa, wanda zai cika da damarmaki marasa yankewa.
+Mu cigaba da murna da kuma tallafawa shirye-shirye kamar STREAM Fun Fest, saboda suna koyawa da tallafawa kananan masu ƙirƙira a Afirka wajen gyara gaban al’umma masu zuwa.
+Bosun Tijani na CcHUB ya samu shiga cikin wanda aka zaɓa a minister na gwamnatin shugaban kasa Tinubu.
+Shugaban kasa Bola Tinubu ya sanya Bosun Tijani, shugaba kuma wanda ya samar da babban kamfanin fasaha na Tech hub, Co-Creation Hub (CchHub), a tsari na biyu na jerin ministocinsa.
+Wannan zabin ya nuna sauyi mahimmanci akan yadda aka saba na zabi d ke dauke da ‘yan siyasa, tsofaffin gwamnoni, da sanatoci.
+Wanda aka haifeshi a 20 ga Juli, 1977, rayuwar fasahar Tijani ta fara ne da difiloma a ilimin na’ura mai kwakwalwa da kuma digiri na daya a kimiyyar tattalin arziki daga jami’ar Jos.
+Neman iliminsa ya cigaba ne da digiri na biyu a Information Management daga Warwick Business School da kuma digiri na uku a Innovation and Economic Development a jami’ar Leicester.
+Kwarewar Tijani abun burgewa ce.
+Daga aiki a matsayin mai tafiyar da bunkasar kasuwanci tare da DeliveryKing zuwa kuma aiki a matsayin Deployment Lead(Africa) da Hewlette Packard(HP) Global Micro-enterprises Acceleration Programme(GMEAP), gudunmawar sa ga bangaren fasaha yana da yawa.
+Ya gudanar da wuraren koyo a Afirka baki ɗaya ya kuma kirkiro ayyuka masu amfani, wanda ya hada da ziyarar Mark Zuckerberg ta farko a Nijeriya da kuma sub-saharan Afirka har ma da haɗuwa da Bill Gates, wanda ya samar da Microsoft.
+A ƙarƙashin jagorancin Tijani, CcHUB ta bunkasa daga faraway kaɗan a Yaba zuwa mallamar manyan hubs a Afirka , wanda ya sanya suka zamo masu rainon pan-African tech, wanda suke tallafawa kananan matasa da kayan aiki, al’umma, da kuma jarin da suke buƙata domin ƙaddamar da kamfanoni masu amfani.
+Tare da tallafin bunkasawa na biliyan naira, CcHUB suna sanya hannun jari a kamfanunuwan da aka fara samarwa da suke a matakin farko da suke da kayayyakin ƙirƙira a fannin ilimin Afirka da kuma ɓangaren kula da lafiya.
+Bosun Tijani a matsayin ministan sadarwa da tattalin arziki na zamani?
+Zabin Tijani ya nuna cewa an zabe shi ne a matsayin ministan sadarwa da tattalin arziki na zamani.
+Wannan matakin daga shugaban kasa Tinubu ya maida hankali ne akan tsarin mahallin fasaha na Nijeriya a lokacin yakin neman takararsa, amma ba wannan ne kadai zabin ba.
+Cikakkiyar kwarewar Tijani da kuma tunin ƙirƙira zai iya sanya shi ya zamanto dan takara babba ga sauran hukumomin.
+Iliminsa a fannin tattalin arziki, tare da kwarewarsa a fannin fasaha, ya sanya shi zama dan zabin daya dace wajen kula da hukumomin da suke da dangantaka da bunkasar tattalin arziki ko ilimi.
+Duk da haka, a bayanan da aka bayar na wannan hukumar, bayanan Tijani Bosun ba shi ne kadai zabi ba daga jerin ministocin da za a zaɓa.
+Bayanan Olubunmi Tunji-Ojo ma ya nuna cewar yana ɗaya daga cikin ‘yan takara masu ƙarfi a mukamin ministan ICT.
+Wanda yake da ilimi a fannin fasahar kayan lantarki da sadarwa, aiki mai cike da nasara a matsayin shugaban Matrix IT Solution Limited, ga kuma kwarewar siyasa a matsayin mamba na majalisar wakilai, kwarewar tunji ta dace kwarai da mukamin.
+Zabin shugabannin fasaha kamar Tunji zai iya zama sauyi mai kyau a mahallin siyasar Nijeriya.
+Ba amfanin masana’antar fasaha kawai take kula ba amma kuma tana share hanyar ƙirƙira da kuma tunanin cigaba a gwamnati.
+A Yayin da sanatocin suke cigaba da aikin tantancewa, al’ummar fasaha da kuma kasar baki ɗaya suna jiran sakamakon karshe, cikin zaton rayuwar gaba inda fasaha da ƙirƙira zasu zamo abun dubawa a cigaban Nijeriya.
+A yanzu CcHub suna rike da hawa biyar a ofishin Yaba tare da sabon mahallin Ameriƙa.
+The United States Consul General F.John Bray ya sanar ayau cewar Co-creation Hub zai zama abokin hulɗar su wajen tsara mahallin Ameriƙa a Yaba, Legas.
+Tare da wurare fiye da 700 a kasashe 152 a duniya baki ɗaya, mahallan Ameriƙa suna samar da wurare inda baki zasu iya haɗuwa kuma su samu ilimi game da Ameriƙa.
+#CGBray: Mun gano kyauta ta musamman ga @Cc—HUB a matsayin abokan hulɗarmu wajen samarwa da kuma gudanar da new priority #AmericanSpace a Co-creation Hub a Legas—U.S Mission Nijeriya (@USinNigeria) 28 Oktoba, 2016.
+Ofishin American Sapace yana bunkasawa tare a tallafawa manhajojin zamani masu amfani don hulɗar diflomasiyyar jama’a, tare da ƙoƙarin janyo ra’ayin mutanen waje don bada goyon baya ga manufofin kasar waje ta Ameriƙa.
+Hada fasaha da aesthetics, Spaces din suna samar da mahalli na fili da ke da irin tsarin Ameriƙa a ido da yanayi.
+Kamar yadda American spaces suka bayyana a rahotonsu na shekara a 2015, da akwai wasu gyare gyare da za ayi a Spaces din a wannan shekarar.
+Biyu daga wadannan gyaran sune bunkasa yanar gizo domin ayyukan zamani da fasaha da yake bada damar virtual programming.
+Kuma wani hawan da aka kara a wajenmu na #Yaba da ya maida shi hawa biyar gaba ɗaya.
+Babbar nasara ga #Yaba&#Tech in Nigeria.
+Abu mafi mahimmanci na farko#AmericanSpace in #West Africa.
+Wanna zai taimakawa hadin guiwa & samun dama!
+Da sabuwar hulɗa tare da ofishin jakaɗancin Amurka, CcHub a yanzu suna da hawa biyar gaba ɗaya a Yaba, mahallin Legas.
+BosunTijani da ƙungiyar CcHub suna gab da mallakar gaba ɗayan ginin wanda a dabarance yake a hub din fasaha.
+Kmafanin venture capital na Afirka ta kudu sun samu fiye da miliyan $10 ga proptech fund
+Kamfanin venture capital na Afirka ta kudu, REdimentsion Capital, sun samu fiye da miliyan $10 na kuɗin inaugural, the REdimension Real Estate Technology and Sustainability Fund!.
+Wannan shi ne samun kuɗi na farko, da ya hada da Rand Merchant Bank, Investec Property Fund, da kuma Growthpoint Propertiesa matsayin abokan hulɗa na musamman.
+Sauran masu hannun jarin sun hada da Liberty Two Degrees, Liberty Group, da Sphere Holdings.
+Kamfanin nason su zo karshen rufe kuɗin zuwa Janairu 2025.
+REdimension Real Estate Technology and Sustainability wanda Peter Clark da Matt Marshall suka samar a 2021, zasu sanya hannun jari a startup da suke samar da mafita domin zamanantar da ɓangaren gine ginen gidaje.
+Da duna game da bunkasa cimma buri, kamfanin kuma ya shirya goyon bayan startup da suke inganta ƙarfin kuzari, da kuma lower carbon footprint.
+Africa proptech na son cigaba, amma ya fuskanci cigaban ahankali a shekaru uku.
+A 2022, proptech startup 15 sun samar da miliyan $16.6, amma fiye da kaso 50% na hannun jarin sun tafi ne ga pre-seed startup.
+Gaba dayn kuɗin da aka samar ya zama 13% fiye da shekarar da ta gabata, wanda yake nun Karin cigaban ra’ayin masu sanya hannun jari.
+Egypt da Nijeriya suna da hannu a yawancin yarjejeniyar proptech da aka bayyana.
+Kamfani mai Farowa na Grey, Fintech na Nijeriya, sun Gudanar da Walimar dare ta musamman domin Tallafawa masu samar da kamfani mai tasowa da mahimman nazari daga shugabannin sasana’antu
+Grey, kamfanin fintech na gaba, a kwannan sun gudanar da bikin walimar dare a wajen cin abinci fitacce na gastronomic, lle-Eros, a Legas, Nijeriya, wanda ya haɗo kan masu samar da kamfanoni masu tasowa 16 daga ɓangarori mabanbanta.
+Dalilin wannan haɗuwar shi ne haɗa hanyoyi, da bayyana tunani, da kuma tallafawa masu samar da kamfani mai farowa da za su zo nan gaba da ilimin da ya dace don gina kamfani mai farowa mai cike da nasara.
+Ƙayataccen daɗin da aka samu a lle-Eros na musamman ne, domin an ba wa baki abinci kashi huɗu mai daɗi, wanda aka haɗa shi da abubuwan sha na musamman da kuma giya.
+Don ƙayata wajen, ƙwararren makiɗi ya yi waƙoƙi masu daɗi domin nishaɗantar da baƙin, wanda ya sanya wajen ya zamanto cikin harka da yammaci da za a tuna.
+Madubin taron shi ne kasancewar masu samar da Grey, Idee Obong da Femi Aghedo, labarin nasara mai daɗi a duniyar kamfanoni masu farowa na Afirka.
+Masu samarwar sun ɗauki hankalin masu saurare da tafiyar su mai ma’ana, yadda suka bayar da tunani mai amfani da kuma darussa da kowanne mai samarwa yake da buƙatar sani game da gina kamfani mai farowa.
+Idee, ya bayyana manyan dabarun da suka yi amfani da ita wajen samar da kuɗi cikin nasara, tare da nuni a kan tafiyar Grey wajen zama ɓangare na Y Combinator, ɗaya daga cikin manyan masu habbaka kamfanoni masu tasowa a duniya.
+Ƙari a kan haka, Femi ya bayyana mahimmancin gudanarwa mai kyau da kuma matakan rage kasha kuɗi, musamman ga kamfanoni masu tasowa.
+Cikin ƙwarewa ya nuna ƙarfin hulɗar dabaru wajen tafiyar da kamfani mai tasowa ga cigaba da samun nasara.
+Domin ƙara wa yammacin armashi, Dapo Awobokun, abokin hulɗar kamfani mai farowa na Paystack, ya halarci bikin a matsayin babban baƙo.
+Yawan ilimin Dapo da ƙwarewarsa a masana’antar fintech sun samarwa da masu farawar da tunani mai amfani zuwa ga mahallin da yake tasowa da kuma damarmakin da suke zuwa ga kamfanoni masu farowa.
+Haka kuma, Dapo ya yi wa masu samarwar bayani, yana ƙara bayyana mahimmancin al’ada a cikin kamfani mai farowa.
+“Al’ada ita ce Kai.
+Tana nuni da dokoki da ƙa’idojin da aka ɗaura a kanka.
+A matsayin masu samarwa, dole ne ka riƙe al’adar kamfaninka da da kuma riƙe ƙuɗirinsa da dukkan zuciyarka ya faɗa.
+Taron cin abincin daren ya zamanto wani dandali ne na musamman ga masu samar da kamfani mai farowa da su haɗu da masu irin tunaninsu daga ɓangarori daban-daban, tare da samar da haɗin guiwa tsakanin masana’antu da kuma musayar tunanin ƙirƙira.
+Wajen cike yake da ƙarfin guiwa da kuma bayyana saɗaukarwa wajen tsara makoma mai kyau ta hanyar yin sana’ar hannu.
+“Grey sun yarda ƙwarai da tallafawa kamfanoni masu farowa su cim ma burinsu,” Idee Obong ya faɗa, wanda ya samar da Grey.
+“Wannan walimar daren ta musamman ta samar da cikakkiyar dama a gare mu wajen bayyana ilimi da ƙwarewa wajen gina kamfani mai tasowa mai cike da nasara.
+Mun yi saɗaukarwa wajen kula da tsarin mahallin sana’ar hannu da kuma tallafawa masu samarwa yayin da suke fara tafiyarsu ta kawo sauyi.”
+Bikin ya bar yanayi mai daɗi ga al’ummar kamfanoni masu tasowa, da haɗa masu samarwa da kuma shugabannin masana’antu wajen bayyana nasara da ƙirƙira.
+Game da Grey
+Grey shi ne sauƙaƙa karɓa da tura biyan kuɗin waje ga masu zaman kansu, ma’aikatan kusa da kuma kasuwanci.
+Idorenyin da Obong ne suka samar da shi a tsakiyar 2020 , Grey shi ne hanya mafi sauƙi da za ka tura ko ka karɓi biyan kuɗin daga ƙasashen waje ba tare da an maka iyakoki ba.
+Tare da lasisin aikin kasuwancin kuɗi daga FINTRAC da ke Canada &FinCEN da ke USA, Grey ya ba wa mutane damar tura kuɗi tsakanin ƙasashe cikin sauƙi.
+Prembly Yana Ƙarfafa Biyayya da Tsarin Tsaro ta hanyar Mallakar Tunnel, Faɗaɗa Ƙarfin Bayanan Kuɗi a cikin Kasuwanni masu Tasowa.
+Prembly, wanda yake gaba-gaba wajen bin ƙa’ida da kayan aikin tsaro don kasuwanni masu tasowa ya sanar da siyan Tunnel, wani sabon kamfani mai tukin halaltaccen musayar bayanai a duk kasuwancin.
+Wannan haɗin kai yana haɓaka babban tsaro na Prembly kuma yana faɗaɗa ayyukan kuɗi, yana ba da damar tabbatar da tabbaci ta ainihin bayanan kuɗi.
+Kamfanin samar da bayanai da kamfanin nazari, Tunnel, ya kafa kansa a matsayin amintaccen abokin tarayya a cikin masana'antun bashi da ainihi ta hanyar haɗa masu ba da bashi zuwa bayanai masu inganci da fasaha mai ɗorewa.
+Samfurinsa na fintech na farko, PhoneCash, kuma yana taimaka wa abokan ciniki aika kuɗi da sauri.
+Haɗin ayyukan Tunnel yana ba kasuwancin kayan aiki mai ƙarfi domin daidaitawa, yana ba da damar samun damar yin amfani da bayanan abokin ciniki na ainihin lokaci daga tushe da yawa ta hanyar API guda ɗaya.
+Gane mahimmancin bayanan kuɗi a matsayin muhimmin ɓangaren tabbatarwa na ainihi, Prembly ya zaɓi dabara don haɗa Tunnel cikin hanyoyin tabbatar da ainihinsa.
+"Mun fahimci ƙalubale na musamman da ake fuskanta a faɗin kasuwanni kuma muna farin cikin sanar da samun mallakar Tunnel.
+Wannan ya yi daidai da ainihin manufar Prembly don karewa da bai wa 'yan kasuwa damar bunƙasa ta hanyar samar da ingantacciyar yarda da abubuwan more rayuwa.", in ji Lanre Ogungbe, Shugaban Prembly.
+An samar da Tunnel tare da manufa don sauƙaƙe hanyar shiga bayanai, amfani, da rabawa tsakanin masu samarwa, samar da abokan ciniki damar samun hanyoyi da yawa na hanyoyin kuɗi.
+Tobi Okedeji, wanda ya kafa da kuma Shugaba na Tunnel, ya nuna alfaharinsa ga haɗa karfi da ƙarfe tare da Prembly, yana mai da hankali kan haɗe hanyoyin magance su cikin babban yarda da hanyar sadarwa.
+Wannan dabarar mallaka tana haifar da ƙarfafawa ga kasuwanci, isar da bayanan abokin ciniki mai aiki da fahimta mai mahimmanci.
+Wannan yana haifar da gagarumin bambanci a cikin ayyukan Prembly, ƙirƙirar yanayin da ke shirye don inganta raba bayanai da rage haɗari tare da tantance da abokin ciniki.
+Yana wakiltar wani ci gaba a ci gaban kamfani kuma yana ƙarfafa sadaukarwa mai ƙarfi don haɓaka dabarun haɗin guiwa don faɗaɗa sadaukarwar aiki.
+Game da Prembly:
+Prembly kamfani ne mai yarda da tsaro, yana haɓaka mahimman abubuwan more rayuwa da ake buƙata don haɓaka haɗin kai na dijital a duk faɗin Afirka.
+Yana jagorantar hanyar tantancewa, rigakafin/gano zamba, da bincikar bayanan baya, Prembly yana bai wa 'yan kasuwa a cikin ƙasashen Afirka sama da 40 damar yin mu'amala tare da amincewa da kamfanonin da ke neman shiga kasuwannin Afirka domin yin hakan cikin aminci.
+Game da Tunnel:
+Tunnel (Usetunnel Limited) Tobi Okedeji, Yusuf Badmos, da Lanre Ibraheem ne suka kafa.
+Ƙididdigar bayanai ne da kamfanin samar da abubuwan more rayuwa da aka mayar da hankali kan ƙarfafa halaltaccen musayar bayanai a cikin kasuwanci.
+Tare da ƙwarewarsa wajen haɗa sabis na ba da lamuni da yawa da kuma ƙarfafa bayanan kuɗi, Tunnel ya zama amintaccen abokin tarayya a cikin masana'antar aiki na kuɗi.
+Ƙarin kira ga haɗin guiwar masu ruwa da tsaki yayin da cibiyar canjin dijital take ɗaukar nauyin tattaunawa game da Dokar Farawa ta Nijeriya
+Cibiyar Canjin Dijital ta GIZ/DTC tare da haɗin guiwar Tarayyar Turai da Hukumar Bunƙasa Fasahar Sadarwa ta Ƙasa (NITDA), sun shirya taron tattaunawa kan manufofin dijital tare da Dokar Farawa ta Nijeriya (NSA) da aka mayar da hankali.
+DTC Nigeria na da nufin samar da tattaunawa mai ma'ana tare da tattara bayanai masu mahimmanci daga masu ruwa da tsaki don samar da ingantaccen tsari wanda ke inganta ƙirƙire-ƙirƙire, kasuwanci, da ci gaban tattalin arziki mai ɗorewa a cikin tsarin yanayin Nijeriya na farawa da tattalin arzikin dijital.
+Taron mai albarka wanda aka gudanar a Legas a ranar Alhamis, 27 ga Yuli, 2023, ya tattaro masu ruwa da tsaki daga jama’a da masu zaman kansu a ɗaki ɗaya domin tattauna hanyoyin da za a bi wajen ganin an amince da dokar fara aiki ta Nijeriya a faɗin ƙasar.
+Wanda ya halarta a tattaunawar manufofin shi ne Dr. Thuweba Diwani, shugaban GIZ/Digital Transformation Center (DTC) Nigeria, wanda ya gabatar da jawabin maraba.
+Ta ce fara aikin na Nijeriya ba wai kawai zai samar da yanayi mai kyau ba ne, har ma zai ƙara ƙarfafawa da kuma ƙara haɓaka ci gaba.
+Don haka, yana da kyau masu ruwa da tsaki su haɗa kai don tabbatar da nasarar dokar fara aiki.
+Har ila yau zaman ya samu jawabai daga Markus Wauschkuhn, mai gudanar da Ƙungiyar Bunƙasa Tattalin Arziki mai Ɗorewa (SEDEC), GIZ Nigeria, da Inga Stefanowicz, Shugaban Sashin Tattalin Arziki na Green and Digital, wakilan EU zuwa Nijeriya da ECOWAS.
+Dokta Aminu Lawal Muhammad, mai Bayar da Shawara na Musamman ga Darakta Janar na NITDA a kan canjin dijital, ya yi magana mai zurfi game da dokar fara aikin Nijeriya da tasirinta ga canjin dijital a Nijeriya.
+Ya tattauna a kan ayyukan da aka yi, inda ya ƙara da cewa za a ci gaba da gudanar da ayyuka da tallafi daga NITDA.
+Tracy Okoro-Isaac, Shugabar Tallafawa Jiha don Dokar Farawa ta Nijeriya, ta jagoranci yiwa masu sauraro bayanin yadda ta kasance har aka samu dokar fara masana'anta ta aiki a Nijeriya, tun daga kiran masu aikin sa kai zuwa ci gaba da tura iyakoki da cim ma ci gaban da aka samu tun kafin sanya hannu na aikin.
+Ta taƙaita wasu tanade-tanaden dokar, inda ta ƙara da cewa an tsara shi ne domin amfanar masu sana’o’i sosai kuma gwamnati na ba su goyon baya sosai ganin cewa dokar ta ɗorawa duk masu ruwa da tsaki.
+Wani zaman taron wanda Justina Oha, Wanda ya kafa kuma Shugaban, Digital Equity Africa, ya jagoranta, tare da mambobin ƙungiya Amina Lawal, Injiniya DevOps, Hostspace; Ized Uanikhehi, Wanda ya kafa, Zedi Africa; Injiniya Yakubu Musa, muƙaddashin mai gudanarwa na ƙasa, ONDI NITDA; Amal Hassan, mataimakiyar shugaban kwamitin aiwatarwa; Charles Emembolu, wanda ya kafa kuma darakta, Roar Nigeria Hub; da Amina Lawal, Injiniya na DevOps kuma Abokin-Samarwa, Hostspace, sun yi cikakken bayani game da tasirin Dokar Farawa ta Nijeriya ga tattalin arzikin da ke haifar da ƙirƙire-ƙirƙire.
+Amal ta tattauna a kan wasu alfanun da wannan dokar ke da shi ganin cewa yana kare waɗanda suka kafa sana’o’i da kuma ba su irin tallafin da tsofaffin ‘yan kasuwa za su so su samu a lokacin da suka fara, inda ta yi amfani da sana’arta ta farko a matsayin misali.
+Amina ta iya nuna buƙatar cigaba da samun horo da kuma samar da ayyukan yi ga waɗanda aka horar.
+Ta kuma yi kira da a samar da yanayi mai dacewa da samar da abubuwan more rayuwa da ake buƙata domin sana’o’in da ke amfani da fasahar zamani su bunƙasa.
+Musa, wanda yake magana a kan matsayin NITDA, ya ce suna aiki tare da gwamnatocin jihohi don ganin sun aiwatar da dokar fara aiki ta Nijeriya a cikin tsare-tsarensu na sauya fasalin dijital.
+Ya ce suna bakin ƙoƙarinsu don ganin jihohi su ƙirƙiro nasu ayyukan fara aiki, ta hanyar amfani da tsarin fara aiki na ƙasa a matsayin tsari.
+Ized ya yi kira da a ƙara shiga cikin al'ummomin yankin inda duk masu ruwa da tsaki ke halarta kuma gwamnati ta ƙara yin aiki wajen janyo mutane da ci gaba da samar da yanayi na amana.
+Jagororin taron da mahalarta taron sun amince da cewa duk masu ruwa da tsaki a harkar akwai buƙatar su gana da juna sosai domin kowane ɗan ƙasa yana da ruwa da tsaki a harkar, inda suka ce gwamnati ba za ta iya yin shi ita kaɗai ba.
+Don haka, nasarar aikin za ta dogara ne a kan ci gaba da haɗin guiwar duk masu ruwa da tsaki.
+Charles ya yi kira da a ƙara saka hannun jari a cikin gida da samar da yanayi mai dacewa don zaburar da masu zuba jari na cikin gida su saka hannun jari a cikin kamfanoni masu farowa na gida.
+Ized ya kuma yi kira ga gwamnati da ta tabbatar da cewa an kare masu farawa daga sababbin tsare-tsare da ka iya cin karo da dokar fara aikin Nijeriya.
+Oswald Guobadia, Shugaban Kwamitin Fara Aiwatarwa a Nijeriya, ya ba da gudummawa ga tattaunawar, yana mai cewa alhakin ya rataya ne a wuyan Hukumar NITDA na ƙara daukar matakin aiwatar da Dokar Farawa a jihohi ganin cewa alhakinsu ne bisa tanadin dokar.
+A yayin da taron ke ƙara kusantowa, an gudanar da taron tattaunawa na rukuni.
+An raba mahalarta gida huɗu da nufin tattara bayanai don bunƙasa tsarin aiwatar da manufofin shiga.
+Kowace ƙungiya ta mayar da hankali ne a kan hanyoyin ci gaba, masu ruwa da tsaki, haɓaka iya aiki, aiwatar da manufofi, fasaha a matsayin mai ba da izini, da saka idanu da kimanta aikin farawa, bi da bi.
+Kowace ƙungiya ta gabatar da hanyoyin magance su, wanda aka tattauna a yayin tattaunawar, tare da NITDA tana lura da ra'ayoyin.
+Tattaunawar ta zo ƙarshe ne tare da ƙarin kiraye-kirayen inganta iya aiki, ingantattun hanyoyin mayar da martani, da ƙara cuɗanya tsakanin masu ruwa da tsaki na gwamnati da masu zaman kansu, da ƙara wayar da kan jama'a da ilmantar da su kan tanade-tanaden Dokar farawa ta Nijeriya.
+Game da GIZ/DTC Nigeria:
+GIZ/Digital Transformation Center (DTC) Nigeria na samun tallafin haɗin guiwa ne daga Tarayyar Turai da Ma'aikatar Haɗin Kan Tattalin Arziƙi da Raya Ƙasa ta Jamus (BMZ), kuma Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH ce ke aiwatar da ita.
+DTC Nigeria tana da niyyar inganta iyawar tsarin yanayin na zamani—aiwatar da manufofi, aiwatar da ƙungiyoyi, da hanyoyin sadarwa a matsayin masu ba da sabis don tattalin arzikin dijital, suna ba da mafita da ƙwarewa na dijital—don haɓaka yanayin ƙirƙira na dijital.
+Aikin yana aiki kafaɗa da kafaɗa da fitattun ’yan Nijeriya a cikin tsarin ƙirƙire-ƙirƙire, kamar Hukumar Bunƙasa Fasahar Sadarwa ta Ƙasa (NITDA), cibiyoyin bincike, cibiyoyin ƙirƙire-ƙirƙire, cibiyoyin sadarwa, masu farawa, MSMEs, da kuma mata.
+Waiwaye ga nasarorin Quidax Yayin da Yake Bikin Shekaru 5
+Kamfanin Quidax, na musayar cryptocurrency na Afirka, ya sami babban ci gaba yayin da kamfanin ke cika shekaru biyar na aiki a hukumance.
+Domin murnar nasarar da aka samu, Quidax yana bayar da ajiya na Naira kyauta da kuma cirewa ga abokan cinikinsa daga ranar 1 ga Agusta zuwa 7 ga Agusta.
+A tsakanin wannan lokacin, duk abokan ciniki - tsoho ko sabo - za su iya yin ajiya da cire Naira kyauta a duk tashoshin kamfanin.
+Abin da aka cim mawa ba ƙarami ba ne.
+Bayanai na hukuma daga Ofishin Ƙididdiga na Ma'aikata na Amurka sun nuna cewa kashi 65% na kasuwancin sun gaza a cikin shekaru biyar na farko.
+Kuma, kamfanin Quidax ya sami damar yin yaƙi ta hanyar ƙalubale da yawa na kansa a cikin ‘yan shekarun da suka gabata.
+Bari mu yi tafiya cikin wasu fitattun lokutan kamfanin.
+Ƙaddamar da Hukuma
+An ƙaddamar da Quidax a cikin 2018 ta Buchi Okoro (Co-Founder/CEO), Uzo Awili (Co-Founder/CTO), da Morris Ebieroma (Co-Founder/CIO).
+Okoro, wanda tsohon ɗalibi ne na Jami’ar Covenant, Ota, ya bayyana cewa ya bunƙasa hangen nesa na Quidax ne biyo bayan wani rashin jin daɗi da ya samu yayin cinikin cryptocurrencies.
+“Na fara cinikin cryptocurrencies lokacin da nake maƙaranta, kuma an yi min zamba a kan wata mu’amala ta musamman.
+Yayin da na ji rashin daɗi da zambar, na kuma gane cewa dubban mutane sun faɗa cikin zamba a cikin duniyar crypto.
+Burina tare da Quidax shi ne ƙirƙirar dandamali inda mutane za su iya kasuwanci da mu'amala ta amfani da crypto lafiya."
+Tare da Awili da Ebieroma – su ma ɗalibai a Jami'ar Covenant - Okoro sun tashi don ƙirƙirar Quidax.
+Kuma, bayan samun kuɗin farawa da shigar da Techstars Accelerator Program a cikin 2018, kamfanin ya tashi daga ƙasa.
+Faɗaɗawar Farko
+Shekaru biyu na farko na kamfanin Quidax sun cika da gagarumin haɓakawa.
+A lokacin, kasuwar crypto ta kasance tana fama ta ɗayan mafi munin lokutansa, tare da faɗuwar farashin tsabar kuɗi bayan da ya kai babban matsayi a cikin 2016 da 2017.
+Ko ta yaya, wannan lokacin kuma ya ga mutane da yawa suna koyo game da cryptocurrencies - musamman a Afirka.
+Kuma, wannan sha'awar ya sa su ks ƙara shiga cikin sararin.
+Ba da daɗewa ba, kamfanin Quidax ya sami tushen abokin ciniki mai kishi kuma yana girma sosai.
+Kewaya Dakatarwar CBN
+Wannan kamfani mai girma ya gamu da babban ƙalubalensa na farko a watan Fabrairun 2021 yayin da Babban Bankin Nijeriya (CBN) ya sanar da dakatar da hulɗar banki-crypto.
+A lokacin, babban bankin ya sanya takunkumi ga bankunan da ke da alaƙa da cryptocurrencies kowane iri.
+Wannan yana nufin cewa kamfanonin crypto, 'yan kasuwa, da kasuwancin da ke karɓar cryptocurrencies an rufe asusun ajiyarsu na banki nan-da-nan.
+Bisa la'akari da cewa crypto har yanzu sarari ne mai girma, wannan hukuncin ya shafi yawancin abokan cinikin Quidax.
+Duk da haka, Quidax ya samu hanyar fita daga wannan.
+Kamfanin ya ƙaddamar da sabis na tsara-zuwa-tsara, wanda ya ba wa abokan ciniki damar yin ajiya da kuma cire kuɗaɗe cikin aminci.
+Aikin, wanda ake kira Qdirect, yana ba da ƙarin fa'idar amana - maimakon yin mu'amala da wanda ba a sani ba, kai tsaye kuna yin mu'amala tare da Quidax.
+Ta wannan hanyar, abokan ciniki suna da tabbacin samun sauƙi, amintaccen mu'amala.
+Kaddamar da token din QDX
+A cikin Mayu 2021, Quidax shi ma ya sami babban ci gaba bayan kamfanin ya ƙaddamar da alamar crypto na cikin gida, QDX.
+Kadara ta yi alama ta farko ga duniyar crypto na Afirka, yana ba da fa'idoji kamar lada da tarawa ga abokan cinikin musayar.
+Duk da raguwar kasuwa, ƙaddamar da QDX ya gamu da gagarumin farin ciki, kuma Quidax ya haɓaka dala miliyan 3 a cikin ƙarin kuɗaɗe daga wannan ƙaddamarwa a cikin rana guda.
+Har ila yau ƙaddamar da token din yana tare da ƙaddamar da QDX Vault - Quidax's staking service.
+Tare da QDX Vault, masu amfani da Quidax za su iya yin amfani da QDX ɗinsu kuma su sami lada daga airdrops da sauran talla daga manhajar musayar.
+Bayyanawar Don Jazzy da kuma Kamfen BBN
+Ci gaban Quidax ya shiga cikin 2022, tare da kamfanin ya ƙaddamar da yunƙurin tallace-tallace masu ban sha'awa don haɓaka isar sa da tasirinsa.
+Wani ɓangare na hakan shi ne bayyanawar Michael Collins - wanda aka fi sani da Don Jazzy - a matsayin jakadan tambarin kamfanin.
+Jazzy, wanda shi ne ɗaya daga cikin manyan masu samar da kiɗa na Nijeriya da shuwagabannin masana'antu, ya taimaka wajen fitar da ƙoƙarin tallata alamar Quidax, yana shiga cikin kamfe da yawa yayin da kamfanin ya girma ya zama ɗaya daga cikin amintattun sunaye a cikin crypto.
+Quidax ya kasance abokin tarayya a hukumance don fitowar Big Brother Naija na 2022 - mafi shuhurar wasan kwaikwayo na gaskiya a Afirka.
+Wurin ajiye Dollar
+Wani abin tarihi ga kamfanin Quidax shi ne ƙaddamar da kayan aikin Adana Dala.
+An sanar da shi a cikin Satumba 2022, samfurin yana ba da hanya ga abokan ciniki don canza kuɗinsu zuwa Dalar Amurka, adana shi, kuma su sami kusan 10% cikin ribar kowace shekara.
+Ba za a iya ƙaddamar da kayan aikin a mafi kyawun lokaci ba.
+Nairar Nijeriya ta yi hasarar sama da kashi 20% na darajarta idan aka kwatanta da Dala a shekarar 2022, kuma tana kan hanyar samun ƙarin asarar a bana.
+Tare da faduwar darajar kudi da ya kai ƙololuwa a wannan lokaci, kayan aikin Adana Dala na Quidax yana ba da cikakkiyar hanya ga kowa don kare kuɗinsa - kuma yana samun fa'ida mai kyau yayin da suke ciki.
+Hakazalika, yana ba da wata hanya ga Quidax don kula da abokan cinikinta waɗanda za su iya zama da ‘yar damuwa game da kasuwar crypto.
+Kamar yadda masana'antu ke aiki domin dawowa daga wata kasuwar bearish, yawancin abokan ciniki waɗanda za su so su jira haɗari amma har yanzu suna neman hanyar da za su samu suna da cikakkiyar dama tare da kayan aiki na Adana Dola.
+A wannan shekarar, kamfanin ya ƙara inganta aikin, wanda hakan ya sa abokan ciniki su iya cire kuɗi daga tsare-tsaren Adana Dala da kuma walat ɗin Dalar Amurka cikin asusunsu na Kuɗaɗen Ƙasar Waje.
+Abubuwan da Quidax ya samu yayin da kamfanin ke cika shekaru biyar yana da ban sha'awa, a faɗi kaɗan.
+Kuma, kamar yadda kasuwar crypto ke kallon an saita don farfaɗowa, kamfanin ya tabbatar da kansa a matsayin abin dogara, wuri mai aminci ga duk wanda ke neman shiga duniyar.
+Darussa daga Littafin Diary of a Nigerian eCommerce Startupper
+"Ci gaba da nunawa kowace rana kuma ku yi ƙoƙarin samun lafiya.
+Kar ka lissafa kanka a waje."
+Kowane lokaci darasi ne a gare mu a matsayinmu na 'yan kasuwa, kuma a cikin duniyar farawa inda abubuwa ke tafiya da sauri, zai zama abin baƙin ciki a bar shi a baya.
+Ni da ƙungiyata mun sha wahala sosai wajen kafa tamu sna'ar ta yanar gizo-gizo da ake kira eCommerce, musamman kasancewa kasuwar kayan gini ta yanar gizo-gizo.
+Ya zuwa yanzu yana da kyau, amma har yanzu muna fatan samun mafi kyau.
+Ga wasu darussan da na koya daga gudanar da kasuwancin eCommerce.
+Zaɓi alkukinka
+Duk lokacin da na ambatawa mutane cewa Cribpark dandamali ne na eCommerce, suna ba da kamannin, “kuma?
+Wani dandalin eCommerce?"
+Amma lokacin da na ƙara da cewa mu kasuwar eCommerce ce don kayan gini, sai su tafi, “hh, yana da kyau.
+Wani sabon juyi zuwa eCommerce".
+Kasancewar Jumia da Konga sun tara kusan ɗaruruwan miliyoyin daloli a tsakaninsu, ya fi kyau ka zaɓi wani abin alkukii ko kuma kawai ka zama Konga.com na talaƙa.
+Lokacin da ka zaɓi alkuki, zaɓi wanda ka fahimta sosai kuma ka kasance mafi kyau a ciki.
+Ko Amazon ya fara ne a matsayin kantin sayar da littattafai na kan layi.
+A lokacin da muka fara eCommerce din kayan gini mun fahimci yawancin abokan cinikinmu na farko mutanen da suke gini a karon farko ne.
+Kaɗan suka sani game da gine-gine kuma ba sa son shawarar ɗan kwangilarsu kama su.
+Tun da yake ƙungiyarmu ta mamaye injiniyoyin al’umma, ya yi mana sauƙi mu ba su bayanai game da kayan da suke siya waɗanda masu kawo musu kaya da ‘yan kwangilar ba su sani ba.
+Ba wai kawai biyan kuɗin samfurin ba ne, suna kuma samun bayanai masu mahimmanci kyauta.
+Ɗaukar alkuki yana taimaka maka wajen mai da hankali kan ƙoƙarinka mafi kyau, kuma da gaske ba kwa son a yaɗa ku sosai.
+Ka tuna kwanakin da aka fara cin kasuwa da ƙarewa a kasuwar Yaba; da a ce kawai kana siyayyar wandon jins ne, za ka siya daga wanda ya ke/ ta ke siyar da jins a shagonsa kawai, fiye da wanda ya siyar da kowane irin kaya ciki har da jins.
+Ƙirƙiri alama
+Alamarka ita ce alƙawarinka ga abokin cinikinku, shi ne abin da suke tsammani daga kamfaninku lokacin da suke tunaninku.
+Wataƙila ya yi wuri yin magana a kan alama, amma za ku sami fa'idojin da wuri kuma.
+Kuna son fahimtar mene ne alamarku?
+To, tambayi abokan cinikinku su bar bayanin da ba a san sunansa ba.
+A bara na yi taro da ɗaya daga cikin abokan cinikinmu na B2B, Injiniya Ken.
+Wani abokin ciniki B2B ne ya aiko mana da shi kuma ya yi cinikin sama da miliyan ₦1.
+A ƙarshen shekara ya ji daɗin ayyukanmu kuma ya buƙaci mu yi taro.
+Mun shafe kusan sa’a ɗaya muna tattaunawa kuma za ku yi tunanin haɗuwar abokantaka ce duk da cewa haɗuwarmu ce ta farko.
+Mun tattauna akan masana'antar gini, halayen masu kaya kuma mun yi dariya game da bayarwarmu ta farko.
+Mene ne ya faru a farkon bayarwa?
+Mai siyarwar ya yashi kawo yashi marar inganci amma Injiniya Ken ba ya wurin lokacin da aka kawo.
+Bisa al'ada, muna biyan masu kaya ne kawai lokacin da abokan ciniki suka nuna gamsuwa, amma tunda ya yi daidai da bayarwa, mun biya mai kaya.
+Lokacin da ya isa wurin don ganin ingancin yashi bai burge shi sosai ba.
+Ya kira mu ne domin ya bayyana rashin jin daɗinsa da kuma yadda kayan zai yi tasiri a matsayinsa na ɗan kwangila.
+Mun damu kuma mun umurci mai kawo kaya ya koma wurin.
+Mai siyarwar ya yarda cewa ingancin bai cika ƙa'idojin da ya yi alƙawari ba.
+Dole sai dai ayi wani amfanin da yashin, amma ba abinda aka ni niyyar yi da shi ba.
+Nan take mun biya Injiniya Ken 50% na abin da ya biya.
+Daga baya za mu cire kuɗin daga hannun mai kawo kaya daga sauran kayan da ya kawo.
+Kuɗin ba zai iya canza yanayin ba, amma aƙalla ya nuna mun damu da aikinsa fiye da ribarmu.
+Wannan kuma shi ne lokaci na ƙarshe da muke samun irin waɗannan batutuwa kamar yadda dole ne mu ƙara matsawa ƙarshenmu.
+A yayin taron, Injiniya Ken ya yi magana game da yadda ya ji daɗin yadda muka tafiyar da lamarin kuma a ko da yaushe muna tabbatar da cewa masu samar da kayayyaki sun yi abin da ya dace.
+Ta hanyar kalmominsa da sauran abokan ciniki', muna iya ganin suna ganin mu a matsayin kamfani mai dogara wanda ke sanya abokin ciniki a gaba da kowane ciniki.
+Abokan ciniki ba bebaye ba ne, sun san lokacin da kuka sanya su farko, kuma suna dawowa saboda kun ba su muhimmanci ta hanyar nuna ƙwarewa ba samfuri ba.
+Irin waɗannan kurakuran na iya faruwa sau ɗaya, amma a irin waɗannan lokuta ana tabbatar da alƙawuran alama.
+Nuna mene ne alamarku, kar a faɗa.
+Eh mun yi asarar kusan ₦20,000, amma ba komai ba ne idan aka kwatanta da abin da muka samu daga gare shi a sama da siyayya 8 da aka maimaita.
+Yi ƙoƙari iya iyawarka
+Kira Cribpark a kowane lokaci kuma mun shirya.
+Mun karɓi kira da ƙarfe 6 na safe, 10 na dare, 11 na dare kuma sau ɗaya da 1 na safe.
+Da suka nemi afuwarsu da suka kira mu a makare, muka yi gaggawar sanar da su cewa ba shi da wata matsala a gare mu.
+Na tuna a ƙarshen mako ina da lambar kula da abokin ciniki a tare da ni, lokacin karfe daya da ‘yan mintuna kaɗan na dare ranar Lahadi da safe kuma na sami kira.
+Na duba lokacin, na ɗauki kiran, kuma ban yi kamar ba sabon abu ba.
+Abokin ciniki yana kan rukunin yanar gizonmu yana duba duk abubuwan da yake so ya saya kuma na ji daɗin tafiyar da shi ta hanyar bayar da ƙimarmu.
+Sai ya zama yana neman wuri guda da zai sayo masa kayan tsafta da sauran kayan aikin sabon gidansa.
+Mun yi magana kusan rabin sa'a kuma muka ƙulla yarjejeniya ta miliyoyin kuɗi ta hanyarta.
+A matsayin kamfani mai farawa, babu ma'anar samar da lokutan ofis sai dai kuna da wani garantin albashi a ƙarshen wata.
+Sa'o'in ofis ɗinmu kowane lokaci ne abokin ciniki zai iya isa gare mu, ta hanyar kira, aika emel, ko ma a cikin mafarkinmu.
+Idan dai za a iya isa gare mu, a buɗe muke.
+Ƙoƙari iyawarmu shi ne babban abin bambanci don kamfani masu farawa kuma yana iya zuwa ta hanyoyi daban-daban.
+Muna da wani abokin ciniki wanda yashi ya ƙare masa a ranar da yake gina kasan gidan sa na Jamus.
+Ya kira mu da ƙarfe 12 na rana ya ce yana buƙatar ta da ƙarfe 2 na rana.
+Mun taɓa kai masa kaya na yini guda, amma kuwa wannan ƙalubale ne.
+Mun kira mai sayar da kayayyaki mafi kusa da shi kuma mun sami damar shawo kan shi don yin jigilar kaya daga tsarin da yake da shi.
+Mun sake kiran abokin cinikinmu don mu ce ba za mu iya kawo kayan da ƙarfe 2 na rana ba amma za mu iya 3 na yamma.
+Ya yi farin ciki da cewa za mu iya ma yin alƙawarin kawowa saboda ba ku saba samun sauƙin samun irin waɗannan abubuwan da rana ba sai dai kun yi oda kwana ɗaya da ya gabata.
+Mun kawo da ƙarfe 2.55 na yamma kuma har yau ya kasance ɗaya daga cikin manyan abokan cinikinmu.
+Maganar da ke kewayawa ta ce mu ne mafi amintattun masu samar masa da kaya.
+Maimaita sayayya daga gare shi sun wuce 17 a cikin watanni 9.
+Yi abin da ya dace da ku
+Idan ba ku san hanyar ba, ku bi waɗanda suka kasance a can, bayan lokaci za ku gano hanyar da za ku bi.
+Lokacin da muka ƙaddamar da cikakkiyar ƙaddamarwa a watan Yunin bara, mun ɓullo da ingantaccen kayan aiki don mutane su ziyarci shafin yanar gizon, bincika cikin sauƙi da yin oda.
+Ɗaya daga cikin mashawartanmu shi ne jagoran UI/UX a cikin Oracle wanda ya ba mu haske na musamman; yanayinmu ya kasance mai ban mamaki.
+Abin mamaki mun fahimci cewa yawancin mutane za su ziyarci dandalin, su bincika samfuran kayanmu kuma maimakon danna "Ƙara zuwa kwando" sun fi son kiran sashen kulawar abokin ciniki.
+Bayan ciniki na farko, mafi yawan odoji na gaba daga waɗannan abokan ciniki za su ci gaba a kan Whatsapp.
+Haƙiƙa yawancin masu amfani sun tambayi ko za su iya tattaunawa da mu a kan Whatsapp.
+Gaba ɗaya sun kewaye tsarin odarmu da muka tsara.
+Taɗi na iya zama hanya kawai a nan gaba ta dangantakar abokan ciniki ta eCommerce saboda mutane suna son ƙarin gogewa na kai.
+Bayan lokaci, da muka fahimci mutane suna son samun lambobin waya fiye da "ƙara zuwa kwando" kawai mun sanya lambobin wayarmu su zama mafi bayyana a kan shafin yanar gizon kuma abu ɗaya ya shafi ƙoƙarin tallanmu.
+Talla
+Mun fara amfani da Facebook da Twitter da SEOs. Manyan kayan aiki.
+Facebook ya taimaka mana wajen isa ga mutane da yawa kuma yana da kyakkyawar mu'amala yayin da Twitter ya sami ƙarin alƙawari amma tare da hira ɗan kaɗan.
+Ƙarin lokaci muna ta fama da rashin kuɗi kuma dole ne mu nemi wasu hanyoyin samun sababbin masu sauraro ba tare da biyan kuɗi ba.
+Mun gwada Nairaland saboda posts ɗin kyauta ne, mun sami haɗin guiwa tare da babban rukunin tallace-tallacen da aka keɓance, kuma mun yi wasu tallace-tallace a ƙasa. Ya yi aiki!
+Muna da sababbin abokan ciniki da ƙarin ciniki.
+Wani lokaci rashin samun abin da kuke so yana sa ku ƙara haɓaka.
+Yanzu muna bincika ƙarin tallace-tallacen abun ciki kamar yadda muka gane cewa yana haifar da haɗin guiwa tare da abokin ciniki da aka yi niyya kuma yana taimakawa rushe shingayen aminci.
+Idan kuna gudana a kan ƙaramin kasafin kuɗi kuma kuna da ƙirƙire-ƙirƙire, ya kamata ku gwada haɗar dandamali da dabaru daban-daban.
+Duniya ba fili ba ce; kar ka dage kan halin da ake ciki, domin aikinka ne ka ƙirƙiri masu sauraronka.
+Kasance kasuwar!
+A watan Fabrairun bara ne lokacin da muka yanke shawarar shigar da kayan gini kuma mu zama kasuwa.
+A mako mai zuwa Cristina Stenbeck, shugabar Kinnevik ta kasance a Rwanda.
+Kinnevik ya mallaki Millicom wanda ya mallaki incubator a Ruwanda a lokacin, don haka Ms. Stenbeck ta yanke shawarar shiga tare da tattaunawa da masu ƙirƙira.
+Wata dama ce don koyo daga wani wanda ya saka hannun jari sama da dala biliyan 2 a cikin eCommerce.
+Mun gaya mata game da farkon farawar da muka yi a cikin kayan ɗaki da sabis na gida da shawararmu ta mayar da hankali kan kasancewa kasuwar kayan gini.
+Ta yi murnar jin za mu zama kasuwa kuma ta bayyana daga ƙwarewarta cewa kasuwannin eCommerce sun fi sauƙi ga farawa fiye da tsarin eCommerce na gargajiya saboda akwai kadan ko babu kaya da kayan aiki don damuwa.
+Ga wanda ke da gogewa da yawa a cikin eCommerce, tabbatar da kasuwa da tsarin kasuwanci yana da ma'ana da yawa a gare mu kuma a zahiri ya zama hanyar da ta dace don bi.
+Mayar da hankali kan ma'auni masu dacewa
+Akwai ma'aunai da yawa waɗanda ke da mahimmanci ga farawa, amma mai da hankali kan mafi mahimmanci.
+A gare ni, na yi imani fiye da GMVs, LTVs, da CACs, nasarar abokin ciniki shi ne mafi mahimmanci. Me ya sa?
+Domin muna iya yin kasuwanci don mu sami kuɗi, amma da yake ba mu yi wa mutane fashi ba, dole ne mu sami kuɗi ta wajen faranta wa abokan cinikinmu rai.
+Babu ma'ana ka samu abokan ciniki 100 a cikin Janairu kuma 99 ba su damu da sake siye daga gare ka ba.
+Abokan ciniki nawa kuka samu?
+Nawa ne suka dawo saya?
+Nawa ne daga cikin waɗanda suka dawo suka tura ku ga wasu abokan ciniki?
+Riƙewar abokin ciniki yana da mahimmanci kuma don cim ma shi, kar kawai ku mai da hankali kan siyarwa amma ku ba abokan cinikinku ƙwarewar da ba za su iya samu a kan wasu dandamali ba.
+Ka ba su dalilin dawowa.
+Kada abokan cinikinka su ji sun sake danna hanyar haɗin da ba daidai ba.
+Yawancin lokuta mutane suna dawowa ne kawai lokacin da aka yi musu hidima mai kyau ko kuma kuna magance ƙarin matsalolinsu.
+Gudu jingina
+A cikin farkon watanni 6 na ayyukan eCommerce, mun mai da hankali kan kayan ɗaki, kayan adon cikin gida da sabis na gida.
+Mun sami $1,000 kawai a cikin kuɗaɗen shiga sannan mun sami jarin iri na $15,000 daga incubator ɗinmu.
+Mun himmatu ga kayan gini kuma yanzu da muke cikin watanmu na 9 a matsayin kasuwar eCommerce don kayan gini, mun sami cinikin tallace-tallace na kusan $150,000, kuma mun kashe kusan $5,000 don gudanar da kasuwancin.
+A halin yanzu muna ƙungiyar 3 masu aiki na cikakken lokaci kuma mun kashe ƙasa da $500 akan tallace-tallace.
+Samun membobin ƙungiya masu ƙwarewa daban-daban ya kasance babbar fa'ida yayin da ya rage farashin ma'aikata.
+Gudun jingina yana da mahimmanci saboda kuɗaɗe ba za su zo kamar yadda ake tsammani ba, buƙatar kasuwa na iya canzawa kuma wasu zato na iya zama mai raɗaɗi ba gaskiya ba, amma gaskiyar ita ce idan kun yi gudu za ku sami ƙananan ƙonawa da kuma babbar hanyar gudu.
+Wannan yana ba ku isasshen lokaci don gwada ƙirarku, yin maimaici da yawa kuma ku kasance cikin shiri don haɓakawa.
+Gudun jingina kawai yana nufin neman mafi yawa, ta hanyar da ba ta da tsada amma mai inganci don gudanar da kasuwancinku ta yadda kuɗinku ba za su yi saurin ƙarewa ba.
+Akwai ƙayyadaddun adaɗin lokuta da za ku iya dogara ga abokai da dangi don tallafin kuɗi, don haka idan ba ku yi dogaro ba kuma ku haɓaka adaɗin da suka dace ba, za ku rushe tun kafin ku kai ga abinda kuke son cin mawa.
+Gargaɗi: A lokacin da kuka gama yin gudun jingina, ƙila za ku iya zama kamar masu tallan samfuri, amma aƙalla kuna da ingantaccen tsarin kasuwanci.
+FADUWA DA SAURI, MA’AUNI
+Ban fahimci ma'anar faduwa da sauri ba duk da cewa ina amfani da kalmar.
+Wannan abu ne mai sauƙi: A matsayinmu na 'yan kasuwa muna tunanin mun san masana'antarmu sosai kuma mun fahimci masu tsanani, don haka muna tsara mafita.
+A hankali-a hankali mun gane cewa a mafi yawan lokuta ko da yake akwai buƙatar akwai, amma abokan ciniki ba sa saya a cikinmu.
+Sannan kuma mu zauna don fahimtar abokin ciniki da kyau kuma mu tsara tsarin da ke bin sawun abokin ciniki.
+Wannan sau da yawa yana nufin gwada abubuwa daban-daban waɗanda yawancinsu ba za su yi nasara ba, amma dole ne kawai ku sami daidai ‘yan lokuta.
+Tun da za ku gaza a yawancin fasalullukan ta wata hanya, me zai hana ku yi saurin gazawa don ku san abin da ba ya aiki da sauri sannan ku mayar da hankali kan abin da ke aiki.
+A farko yana da mahimmanci a yi abin da ke aiki ko da bai yi girma ba, saboda hakan yana iya bambanta ku da wasu da sauri kuma ya sa ku zama na musamman.
+Waɗannan ƙananan abubuwa kamar ƙarin kulawa da kuke ba abokin ciniki na iya zama ba za a iya yin su ba lokacin da kuka fadada, amma aƙalla za ku sami adaɗin da ke nuna maku amfanin afadadawar a mataki na gaba.
+Kalmomin Ƙarshe
+Shin ina faɗar waɗannan gogewar kasuwanci da shawarwari kamar wanda ya zo ƙarshe? Babbar A’A!.
+A wannan yanki na duniya, muna yawan tunanin cewa rubuta littafi, ba da shawarwari da yin magana a taron ƙarawa juna sani ga masu sha'awar sauraro wani abu ne kawai ga waɗanda sukai 'nasara babba a rayuwa' kuma sun same shi cikakke.
+To, ni ba na cikin wannan mazahabar.
+Akwai buƙatar haɗin gwaninta.
+Abubuwan da na samu har zuwa yau a matsayin Shugaba da wanda ya kafa wannan keɓaɓɓen kasuwancin eCommerce an cika su da kusan daidaitaccen rabo na sama da ƙasa.
+Gaskiya mai sauƙi ita ce nasara ba ta da harsashi na azurfa.
+Abin da ya yi aiki a gare ni da ƙungiyara shi ne gaskiyar cewa muna da hangen nesa don haifar da babban canji a cikin masana'antar kasuwanci mai mahimmanci kuma mai dacewa kuma mun himmatu da shi.
+Don haka, muna dagewa kuma mu ci gaba da murnar nasarorin da muka samu tare da koyo daga gazawarmu.
+Idan kuna kasuwancin eCommerce a Nijeriya a yau, na ce, ina fatan abubuwa su far yadda kuke so.
+Godiya ga ƙarin nasarori a gaba!
+Cribpark yana gina Uber na kayan gini a Nijeriya
+Shin kun taɓa siyan kayan gini daga mai siyar da kayayyaki maƙwabci kuma kuna jin an yaudare ku?
+Ko kun taɓa jin kunya lokacin da za ku tsara wani ciniki na daban don isarwa?
+Wataƙila an tilasta muku barin ɗaukacin siyan lokacin da ba a cim ma yarjejeniya don bayarwa ba?
+Wataƙila ya fi muni lokacin da kake ma'amala da yawan siyan irin waɗannan abubuwa, musamman ma a matsayin mai siye, kuna ziyartar kasuwar a karon farko.
+Tabbas zai iya yin ban haushi.
+Ko da yake, kamfanin farawa ɗaya tana ba da hanyar da za ta kawo cikas don ƙulla duk waɗannan rikice-rikice masu damuwa a cikin toho.
+Gabatar da Cribpark
+Oludare Pius ne ya kafa shi, Cribpark.com.ng ita ce kasuwar zamani ta farko a Nijeriya wacce ke haɗa masu saye da masu siyar da kayayyakin gidaje, kamar kayan gini, a farashi mai rahusa tare da isar da su kyauta aƙalla cikin sa'o'i 24.
+Dandalin da Cribpark ya samar ba wai kawai yana ba wa masu gida da yiwuwar magina damar siyan kayan gini masu mahimmanci iri-iri ba, har ma yana ba su damar yin lissafin farashi ta dillalai daban-daban daga wurare daban-daban, kuma don haka kawar da wuce gona da iri na manyan wakilai/dillalai.
+Kasuwancin wani yanki ne na samfura masu kamanni da aka karɓa a baya.
+Bayan gwajin kasuwa da nazari kan haɗarin ta, an mayar da shi mai muhimmanci a watan Yunin 2015 ya zama kasuwar samar da kayan gidaje (Kayan gini) wanda ake ganin yana da tsarin layi da kuma ƙarfin da za a iya samu, musamman a kasuwar da ta riga ta cika kamar Nijeriya inda ake samun kayan gini kusan a kullum don buƙatun gini daban-daban.
+Kasuwa da daraja
+Yayin da ya yi nazari akai-akai kan kasuwar, Cribpark ya lura cewa kasuwar gidaje a Nijeriya na gudana ne ta hanyar ƙaruwar buƙatar masu matsakaicin hali- galibi masu kwarewar fasahar zamani kuma galibi ta yanar gizo ta na'urorin wayar hannu - mafi yawansu ko dai ba su da alatu. don ziyartar kasuwar ginin gargajiya ko kuma ziyartar kasuwa a karon farko.
+Masu samar da kayayyaki -- waɗanda tsofaffi da/ko masu ilimi suka mamaye -- a ɗaya ɓangaren suna ganin tsarin yin amfani da fasaha don biyan buƙatu tare da wadatawa yana da wahala.
+Ko ta yaya, hanya ta musamman ta Cribpark don tunƙarar wannan ƙalubalen shi ne ta hanyar isarwa cikin sa'o'i 24, aiki a zaman kasuwa mai ƙaƙƙarfan yanki wanda ke ba da damar kwatanta farashin samfuran wuraren daban-daban daga tushe guda ɗaya (daidaitaccen tsarin adana farashi) da kuma tabbatar da ingancin samfuran.
+Wannan yana kiran ƙuntatawa uku.
+Algorizim mai aiki
+Tsarin yana farawa tare da siyan dillalai, wanda ke da mahimmanci wajen ɗaukar sha'awarsu da ƙirƙirar alaƙa mai fa'ida da ake buƙata tsakanin dukkan ɓangarori.
+Daga nan Cribpark ya ci gaba don ƙirƙirar ƙungiyar goyon bayan dangantakar dillali don yin aiki tare da waɗannan dillalan.
+Ƙungiyar goyon bayan ta ci gaba don saduwa da mai sayarwa, ƙirƙirar bayanin martaɓa a gare su da kuma ɗora shi ta hanyar da masu siye waɗanda ke da masaniyar intanet za su iya fahimta.
+Sakamakon haka, masu kwarewar saye ta intanet suna iya sadarwa ta kan layi tare da dillalai marasa ilimi na intanet ta hanyar tallafin da aka bayar wanda ke daidaita rarrabuwar dijital.
+"Da farko abin da muka tsara shi ne cewa za su yi rajista da kansu, amma mun fahimci cewa yawancin dillalan kayan gini ba su da ilimin Fasahar Zamani ta IT da gaske, don haka muna tallafa musu wajen samar da bayanan da ke sadarwa da irin kwastomomin da muke da su," Oludare ya bayyana. .
+Kuma saboda wurin kasuwa ne, dillalai da yawa za su iya siyar da abu iri ɗaya, ta haka ne za su haifar da gasa ta cikin gida tsakanin masu siyarwa don haka farashi ya daidaitu.
+Dangantakar juna tana tabbatar da rangwamen farashi ga masu siye da shirye-shiryen kasuwa a kan layi don masu siyarwa.
+Kuɗaɗe
+An haɗa Cribpark Systems Ltd a cikin Nijeriya (Maris 2014) kuma kamar yawancin kamfanoni masu farawa, sun fara yin amfani da abunda suke da shi da dogaro da ƙwarewar hannu don rage farashin gudanar da kasuwancin a matakin farko.
+Reshen Ruwanda --Cribpark Rwanda -- an ƙirƙira shi ne bayan an zaɓi Cribpark a cikin kamfanoni masu farawar Afirka guda 4 zuwa Millicom's Tech Incubator.
+Millicom ya ba da jarin iri na $15,000 na tsawon watanni 6 a Ruwanda (Nuwamba, 2014 - Afrilu, 2015).
+Wani al'amari mai ban sha'awa game da kanfanin farawa shi ne yadda ya tara $5000 da kansa bayan saka hannun jari na farko ya ƙare kuma yana ci gaba da kiyaye kasafin kuɗinsa.
+Yayin da kasuwancin ke ci gaba da neman ci gaba da haɓakawa da haɓaka cinikayya har sai sun shirya don saka hannun jari na gaba, yana da ban sha'awa a lura cewa kamfanin ya sami babban adaɗin dala $70,000 daga kasafin tallace-tallace na $350 kawai a cikin watanni bakwai na farko.
+Siminti, yashi da dutsen granite sun yawan adaɗin sama da 70% na tallace-tallace.
+Ƙalubaloli
+A wannan yanki na duniya, ba za mu daina magana game da batun amana ba, kuma ba shi da bambanci ga Cribpark.
+A ɓangaren dillalin kuma, Oludare ya yi bayanin, “Yana da wuya a gamsar da masu sayarwa da kayayyaki musamman saboda suna tambaya game da fa'idojin nan-take."
+Kamfanin ya warware wannan ta hanyar shiga manyan masu rarrabawa maimakon amfani da kamfanoni.
+Abokan ciniki a gefe guda suna son ganin iri-iri a kan dandamali, musamman dangane da hulɗar masu amfani.
+Dole ne kamfani ya karɓi biyan kuɗi yayin bayarwa don ƙirƙirar amana ga abokin ciniki.
+Cribpark ya ci gaba da gabatar da manufar kariyar mai siye wanda ke ba da sabis na ɓoye ga abokan ciniki; za a biya kuɗi kaso 100% ga mai sayarwa da kayan ne bayan an tabbatar da cewa abokin ciniki ya gamsu da kayan.
+Mai nasara
+Cribpark ya mayar da hankali sosai kan yankuna kamar Ikorodu, Aja, Festac, Ibafo da Mowe, saboda waɗannan yankuna ne masu tsananin buƙatar kayan gini.
+Amma ana duban kame ɗaukacin Legas nan da watanni 6 masu zuwa, sannan Abuja da Fatakwal a haɗe cikin sauran watanni 6.
+"Waɗannan kasuwanni suna wakiltar tsakanin kashi 55-60% na masana'antar gine-gine a Nijeriya," in ji Oludare.
+Bibiyar hakan zai kasance samun sha'awa a wurare kamar Ruwanda; Inda aka raine ta, da kuma yin amfani da haɗin guiwarta da Millicom don haɓaka a can, kafin ta ƙara zuwa sauran ƙasashen gabashin Afirka.
+Har ila yau, kamfanin yana da niyyar ƙarawa a cikin jerin dillalansa, ta hanyar gudanar da wani zagaye na saye da sayarwa.
+Ƙaranta saƙon baƙo na Oludare Pius: Darussa daga Ma’ajiyar Bayanai na mai fara kasuwancin eCommerce ta Nijeriya
+Kamfanin DataTech, Melon Ya Ƙaddamar da Sigar Beta na Maganin Gudanar da Bayanai na Zamani, Ƙarfafa Bayanan Bayanai na Afirka
+Melon, kamfanin fasahar bayanai da ke da manufar zama jagorar samar da bayanai a Afirka, yayi farin cikin sanar da sakin beta na sabuwar hanyar ba da rahoton bayanai, MELON 1.0.
+Tare da mai da hankali kan inganta sakamako da tasirin tuki, dandalin flagship na Melon yana da nufin cike gibin da ke tsakanin tattara bayanai, amfani, da yaɗawa, samar da masu yanke shawara da kayan aikin da suke buƙata don yin zaɓin da aka sani da cim ma manufofinsu.
+Wani rahoton bincike da KPMG ya fitar ya nuna cewa, ana hasashen cewa kasuwar da Nijeriya za ta kashe kan bayanai da nazari zai kai Naira miliyan 500 nan da shekaru uku masu zuwa.
+Wannan yana nuna haɓakar mahimmancin yanke shawara kan bayanai a yankin kuma yana ƙarfafa buƙatar ƙaddamar da sababbin abubuwan da suka mai da hankali kan bayanai kamar MELON 1.0.
+Kasuwar duniya don manyan bayanai da nazarin harkokin kasuwanci suma suna samun ci gaba mai girma, wanda aka kimanta dala biliyan 198.08 a shekarar 2020 kuma ana sa ran ya kai dala biliyan 684.12 nan da shekarar 2030.
+Tare da matsananciyar buƙatu don fahimtar bayanan da aka sarrafa, ƙaƙƙarfan rukunin kayan aiki da sabis na Melon yana zuwa a lokaci mai mahimmanci ga kasuwanci da ƙungiyoyi waɗanda suke neman yin amfani da bayanai yadda ya kamata.
+Ayokunle Omoniyi, wanda ya kafa Melon ya ce "A Melon, mun himmatu wajen baiwa masu yanke shawara damar yin zaɓi na gaskiya da kuma inganta tasiri.".
+"An tsara MELON 1.0 da kyau don samar da cikakken bayani na ma'auni da sakamakon aiki, yana ba wa masu amfani damar bin diddigin mahimman ayyukan aiki da kuma auna nasarar ayyukansu cikin sauƙi."
+MELON 1.0 yana alfahari da kewayon fasalulluka waɗanda ke keɓance shi a kasuwa, gami da kayan aiki mai sassaucin ra'ayi wanda ke ba masu amfani damar yin cikakken bayani game da ci gaba da tasirin saka hannun jari ko shirye-shirye.
+Dashboard ɗin dandalin da za a iya canzawa yana bada bayanai kai tsaye, yayin da ci gaban fasahar kimiyyar bayanansa ke haifar da fahimtar aiki don sanarwa da yanke shawara da ci gaban manufofi masu ma'ana.
+Tsarin rahoto na duniya na Melon da ingantaccen bincike yana tabbatar da cewa abokan ciniki za su iya tattara bayanan lokaci-lokaci ta amfani da hanyoyi daban-daban na tabbatarwa da kayan aikin wurin da aka yi wa alama, tabbatar da ingantaccen tattara bayanai masu inganci da aminci.
+Ayokunle Omoniyi ya ƙara da cewa "Tawagar ƙwararrun da suka kafa mu daban-daban suna taka muhimmiyar rawa wajen kai wa ga cim ma burinmu na zama manyan masu samar da bayanai a Afirka," in ji Ayokunle Omoniyi.
+"Tare da ƙwarewa da a mabambantan ɓangarori da dama, tawagarmu tana kawo ilimi da ra'ayi mai yawa a kan teburin, yana ba mu damar magance ƙalubale na musamman da ƙungiyoyin da ke aiki a Afirka ke fuskanta yadda ya kamata."
+Jajircewar Melon wajen kasancewa gaba a cikin fasaha da yanayin masana'antu ya sanya kamfanin a matsayin jagora a kasuwa.
+Ci gaba da saka hannun jari a cikin bincike da haɓakawa yana ba Melon damar ci gaba da tafiya tare da fasahohi masu tasowa da mafi kyawun ayyuka, tabbatar da cewa abokan ciniki sun amfana da mafi kyawun mafita da ake samu.
+Bugu da ƙari, karramawar Melon da goyon baya daga tsare-tsare kamar lambar yabo ta Tony Elumelu Foundation Entrepreneurship Award a 2022, inda aka zaɓe shi a cikin ‘kamfanoni masu farawar da za su sami jarin farawa, ya nuna yiwuwar kamfanin da sadaukar da kai don haifar da ingantaccen canji a cikin yanayin bayanan Afirka.
+Yayin da Afirka ke gabatowa shekarar da aka yi niyya don cim ma muradun ci gaba mai ɗorewa (SDGs), sa-ido kan bayanai da kuma ba da lissafi na taka muhimmiyar rawa wajen tantance ci gaba da cim ma waɗannan manufofin duniya.
+Tare da MELON 1.0, Melon yana da niyya don kawo sauyi ga yanke shawara kan bayanai, ba da damar kasuwanci, ƙungiyoyi, da masu tsara manufofi don amfani da ƙarfin bayanai da fitar da sakamako masu tasiri a sassa daban-daban.
+Game da Melon:
+Melon Data Services LTD kamfani ne na fasahar bayanai da aka sadaukar don zama jagorar bayanan Afirka.
+Tare da dandalin flagship, MELON 1.0, Melon yana ƙarfafa masu yanke shawara tare da sababbin kayan aiki da ayyuka don cike giɓin da ke tsakanin tattara bayanai, amfani, da kuma yaɗawa.
+Ta hanyar yin amfani da dabarun kimiyyar bayanai masu mahimmanci da ingantaccen tsarin bayar da rahoto, Melon yana da niyyar haɓaka sakamako da haifar da tasiri a duk faɗin Afirka.
+Don ƙarin bayani game da Melon da sakin gwaji na MELON 1.0, da fatan za a ziyarci https://melon.ng/ ko tuntube mu: mafita@melon.ng a kuma bi ayyukanmu a kan LinkedIn da Twitter
+Fararren kamfanin healthtech na Nijeriya, Remedial Health, ya tara dala miliyan $12 a cikin jerin kuɗaɗe na Series A don faɗaɗa ayyukansa.
+Kamfanin fasahar kiwon lafiya ta Nijeriya mai farowa, Remedial Health, ya tara dala miliyan $12 a cikin jerin kuɗaɗe na Series A — dala miliyan $8 a cikin daidaito da kuma dala miliyan $4 na bashi — don faɗaɗa isar da ayyukanta a cikin ƙasar.
+Kazalika, kamfanin zai yi amfani da kuɗaɗen ne wajen tallafawa isar da hidimomin kuɗi da aka yi niyya domin bunƙasa harkokin kasuwanci a sassan harhaɗa magunguna na Nijeriya.
+Masu saka hannun jari na QED da Platform Ventures ne suka jagoranci zagayen samar da kuɗaɗe na gaskiya.
+Duk da yake wannan shi ne karo na biyu na hannun jari na farko a cikin kamfanoni masu farowa na Afirka, na ƙarshe ya saka hannun jari a cikin Remedial Health tun farkon matakin farawarsa kanfanin.
+Haka nan shi ne jarin farko na Series A na Ventures Platform.
+Gaingels, Tencent, da Ycombinator sun shiga an dama da su bayan shiga cikin zagayen da suka gabata.
+Gamayyar cibiyoyin hada-hadar kuɗi na cikin gida da na ƙasa da ƙasa sun jagoranci bayar da bashin dala miliyan $4.
+An ƙaddamar da shi a cikin 2022 da Samuel Okwuada (Shugaba) da Victor Benjamin (COO), Remedial Health fararren kamfani ne na fasaha da yake mayar harkar samar da magunguna ta zama ta dijital.
+Kamfanin B2B yana ba da manhaja don kantin magunguna da asibitoci don sarrafa kaya da tallace-tallace.
+Kamfanin yana taimaka wa kantinan magani samo samfuran magunguna don shagunansu daga manyan masana'anta da masu rarrabawa, da suka haɗa da GSK, Pfizer, AstraZeneca, Emzor, da kuma Fidson Healthcare.
+Haka nan yana ba da kuɗaɗen ƙira ga kantinan magani ko asibitoci waɗanda ba su da kuɗin da ake buƙata don siyan magungunan da ake buƙata.
+Ga masu ƙera magunguna, Remedial Health yana ba da ingantacciyar hanya-zuwa-kasuwa don samfuransu da kuma bayanan da aka yi amfani da su a kasuwannin cikin gida waɗanda za su iya yin amfani da su don ingantaccen tsari da yanke shawara.
+Kamfanin fasahar kiwon lafiya ta Nijeriya mai farowa, Remedial Health, yana mayar da sarƙar samar da magunguna dijital tare da ba da kuɗaɗen ƙira ga kantinan magani.
+Remedial kuma yana da shago kan intanet wanda ke ba masu kantin magani waɗanda ba sa amfani da manhaja ɗinsa yin oda ta hanyar wayar hannu.
+Masu shagunan na iya amfani da manhajar wayar hannu don samun dama ga samfuran kayan da aka tantance sama da 8,000, tare da kawowa a rana guda da kuma ba da kuɗaɗen kaya don rage wahalar shiga da fitar kudi na oda da aka saba kuma ya linka damarmakin siyayya.
+Lokacin da Remedial ya sanar da tallafin iri na dala miliyan $4.4 a watan Satumba na 2022, Okwuada ya bayyana cewa kamfanin mai farfaɗowa ya riga ya fara aiki a jihohi 16 na Nijeriya kuma yana da shirin yaɗuwa zuwa sauran sassan ƙasar.
+Yanzu, kamfanin ya ce yana aiki da masana'antu sama da 300 kuma yana hidimtawa sama da asibitoci 5,000, kantinan magani, da kuma masu sayar da magunguna na mallaka (PPMVs) a cikin jihohi 34 na 36 na Nijeriya.
+Da aka tambaye shi yadda kamfanin ya faɗaɗa zuwa mafi yawan jihohin Nijeriya cikin ƙasa da shekara guda, shugaban ya ce ya lura da ƙasar kuma yanzu ya fahimci yadda kasuwancin yake gudana.
+Ya ƙara da cewa kamfanin yana son kai wa ga mutane da yawa gwargwadon iko.
+Bugu da ƙari, ya ce yayin da kamfanin ke rarrabawa a duk jihohi 36, bai ɗauki ma’aikata aiki a wurare biyu ba.
+A halin da ake ciki, cim ma hakan ya zo da ƙalubale, kuma Okwuada ya bayyana shi a matsayin "mafarkin dabara."
+“Yawo da kaya a kan titi babban abun damuwa ne, tun daga samun abokin tarayya na uku — idan kuna buƙatar guda ɗaya — zuwa rashin kyawun hanyoyin zuwa cire tallafin mai, wanda ke haifar da haɓakar mai ga masu amfani da ba za ku iya wuce 100% ba, ga jami’an tsaro a kan hanya waɗanda suke can suna neman karbar kuɗi”.
+Sai dai ya yi iƙirarin cewa kamfanin ya fahimci ƙalubalen kuma ya san yadda ƙasar ke aiki, duk da cewa ba gaba ɗaya ba, amma a matakin da ya dace da zai iya samun nasarar rarrabawa a duk jihohin.
+Tun lokacin da kamfanin ya samu tallafin farawa, ya ƙara yawan kididdigarsa da ninki biyu, kuɗaɗen shigarsa sau biyar, sannan kuma abokan hulɗarsa da sau uku.
+Mene ne ƙari, Remedial yana shirin faɗaɗa abubuwan da yake bayarwa tare da sababbin ayyuka, gami da biyan kuɗi da sabis na kiwon lafiya na farko kamar ziyarar likita ko bincika lafiya daga nesa.
+Healthlane ya tara dala miliyan $2.4, sannan ya tashi daga babban wurin aiki zuwa albashin da ake bin shi, kora, da karkatar da kuɗaɗe.
+Yanzu an bayar da rahoton cewa yana samar da Series A
+Lokacin da kamfanin kiwon lafiya mai farowa na Kamaru, HEALTHLANE BY GIFTEDMOM LIMITED (Healthlane), wanda aka ƙaddamar a hukumance a Nijeriya a ranar 9 ga Nuwamba, 2021, Manajan Editanmu, Emmanuel Paul, ya halarci taron a ofishin Healthlane da ke Lekki, Legas, Nijeriya.
+A wajen ƙaddamar da taron, an bayyana cewa, Alain Nteff (Shugaba) da Agbor Ashumanyi Ako (Co-founder and Medical Director) sun fara Healthlane a Kamaru a shekarar 2019 don taimakawa 'yan Afirka su sami ingantaccen sabis na kiwon lafiya mai araha.
+Ɗaya daga cikin likitocin cikin gida na Healthlane ya bayyana cewa kamfanin ya samar da gwaje-gwaje daban-daban har guda 78, tare da sakamako yawanci a cikin mintuna 45.
+Kamfanin ya ba da tsarin ciyarwa, ƙari, ko motsa jiki daga sakamakon gwaje-gwajen.
+Don haka, a cikin 2022, wasu ma'aikatan Techpoint Africa - Chimgozirim Nwokoma, Yinka Awosanya, Emmanuel Paul, da Precious Mogoli— sun yi amfani da dandalin.
+A yayin da Mogoli, Nwokoma, da Paul suka rattaɓa hannu kan shirin duba lafiyar jiki gaba daya, Awosanya ya sanya hannu don samun rigakafin cutar Hepatitis B.
+Amma lokacin da, a cikin Satumba, Awosanya ya so ya ɗauki kashi na ƙarshe na maganin, ya lura da alamun damuwa da ke nuna cewa mai yiwuwa Healthlane ba ya aiki.
+“Amsar farko ita ce likitan ba ya nan,” Awosanya ya tuna, “Daga baya, an gaya mini cewa ana gyara ofishinsu kuma za su zo gidana ko ofishina don gudanar da shi. Amma ba su taɓa yi ba.
+Kuma bayan haka, app ɗin su ya daina aiki."
+A tsakanin Agusta da Satumba, na sami nau'ikan cututtukan guda biyu daban-daban daga likitoci biyu ta hanyar sabis na HMO na Techpoint Africa.
+Ina mamakin yadda ingancin bincikensu ya kasance.
+Bayan haka, an ba ni wasu magunguna, waɗanda na dakatar da su saboda bambancin a yadda aka rubata min.
+Neman ra'ayi na biyu, ina so in gudanar da wasu gwaje-gwaje don tabbatar da cutar, don haka na sauke manhajar Healthlane daga Google Play Store amma sai na gane cewa ba ya aiki.
+Har ila yau, babu a kan Apple App Store.
+Na fara tuntuɓar ma’aikatan kamfanin na yanzu da na dā, kuma abin da na gano ya fi abin da nake tsoro.
+Amma, kafin in kai ku cikin wannan fallasa, bari mu koma farkon.
+A farkon
+Labarin hukuma shi ne an ƙaddamar da Healthlane a cikin 2019.
+Duk da haka, a cewar majiyoyi da yawa, ba a ƙaddamar da shi a cikin Kamaru ko Nijeriya ba har sai 2021, shekara guda bayan tara jarin iri na dala miliyan $2.4 a cikin 2020.
+A halin da ake ciki, Alain Nteff ya ce shi ne ya kafa dandalin kiwon lafiya ta wayar hannu, GiftedMom Limited (GiftedMom), a cikin 2012, wanda daga baya ya koma Healthlane a cikin Maris 2019.
+Amma bisa ga ɗaya daga cikin majiyoyinmu, an haɗa Healthlane a zaman GiftedMom a cikin 2015, ba 2012 ba.
+Labarin GSMA, wanda ke lissafin GiftedMom a matsayin kamfani mai farowa na kadaral, ya bayyana yana tabbatar da wannan da'awar.
+A cewar majiyar, kamfanin ya canza masu hannun jarinsa tare da rufe reshensa na Yaoundé a wani kwanan wata da ba a sani ba.
+A cikin 2021, ya ɗauki wasu ma'aikata aiki a Douala.
+Sakamakon haka, ayyukan Douala sun fara tsakanin Yuli da Agusta na wannan shekarar.
+Majiyoyi da yawa sun tabbatar da cewa Healthlane yana da kyakkyawar al'adar aiki lokacin da aka fara ƙaddamar da shi a cikin 2021 a Nijeriya da Kamaru.
+Ta yadda mutane da yawa sun yarda su yi aiki da su wuce lokutan da aka tsara su don tabbatar da cewa ayyukan kamfanin sun gudana cikin tsari.
+“Muna da wannan kyakkyawan yanayin aiki inda muka kasance abokai a tsakaninmu.
+Mun yi ta fata, yayin da kowa ya ci gaba da fitar da samfurin saboda mun san cewa za mu amfana da shi idan muka yi tallace-tallace da yawa," in ji wata majiya da ta san batun.
+Ma'aikata a Najeriya sun taɓa samun damar zuwa wuraren motsa jiki na kamfanin.
+Akwai kuma ƙari na kayan marmari da salak da abincin rana, yayin da kamfanin ke biyan rabin farashin abincin rana.
+Kamfanin ya kuma yi wa ma’aikatan alƙawarin ja da baya daga baya a shekarar 2022.
+Amma duk da haka babu wata fa’ida daga cikin waɗannan fa'idojin da ta basu shiri kan abin da zai biyo baya na "kora" da "yanayin aiki maras kyau".
+Sannan kuma ja da bayan bai faru ba.
+A cewar wata majiya, a ƙasar Kamaru, burin kamfanin na farko shi ne kare lafiya ta hanyar amfani da ayyukan likitanci ta nesa, wato telemedicine, don taimakawa mutane wajen samun rayuwa mai tsawo kuma mai inganci.
+Amma, tsarin kasuwancin su "ba shi da dabarun tallace-tallace da na sayar da kaya; ya dogara ne kawai kan imani."
+Canji game da yanayin gudanar da aiki.
+Wata majiya ta yi iƙirarin cewa, "a halin yanzu, yanayin gudanar da aiki ba komai bane illa rashin sadarwa (yin shiru), yin ƙarya, aiwatarwa ba tare da tuntuɓar ra'ayoyin da suka dace ba, da tarurrukan da ba a buƙata, da shiririta."
+Amma ta yaya kamfani mai kyakkyawan yanayin gudanar da aiki ya canza lokaci ɗaya?
+Haka kuma majiyoyi da yawa sun ambata cewa kamfanin ba shi da tsari ko alƙibla dangane da salo da manufofi da dabarun kamfanin Healthlane.
+Alal misali, a cewar wata majiya, “Kamfanin da ke Kamaru ya shiga ruɗani ta yadda har ya fara kwaikwayon abin da ake yi a ƙasashe masu ƙarfin masana’antu, suka kasa gane cewa yadda muke gudanar da kasuwancinmu ya sha bamban da nasu.
+Lokacin da suka fahimci cewa kaya basa sayuwa, har sun yi tunanin mayar da wurin ƙaramin asibiti."
+Amma wancan zargin na rashin tsari da rashin alƙibla farko ne kawai tukuna.
+Ta hanyar asusu da yawa, ana biyan albashi kafin ƙarshen wata, har sai watan Disamba na shekarar 2021, lokacin da masu gudanarwa suka sanar da ma’aikatan cewa za su rufe aiki da wuri don hutun Kirsimeti.
+An kuma buƙaci dukan ma’aikatan da su ɗauki hutun aiki na tilas na kwanaki biyar a lokacin hutun.
+"Kamfanin ya tilasta wa kowa hutun aiki na kwanaki biyar", in ji wani tsohon ma'aikacin kamfanin Techpoint Africa.
+A ranar 16 ga watan Disamba, 2021, kamfanin Healthlane ya gudanar da bikin ƙarshen shekara ga ma'aikatansa da dillalanta a harabarsa.
+Majiyoyi da dama sun bayyana cewa, biyo bayan haka, ya zuwa ƙarshen watan Disamba babu wani daga cikin ma’aikatan da ya karɓi albashi.
+Ana jinkirtawa da bin bashin biyan albashi.
+Wata majiya ta ce, "Ga kamfanin da ya fara aiki a watan Agustan 2021, an sami nasarori da rashinsu sosai.".
+An ruwaito cewa Nteff ya tabbatar wa tawagar cewa kamfanin yana da kuɗin gudanar da ayyukansa har zuwa farko-farkon watan Janairun 2022.
+Don haka, suna ta mamakin ko me "bayani na haƙiƙa" yake nufi ga gazawar kamfanin na biyan ma'aikata da dillalai da kuma bayar da haraji da fansho da aka cire daga albashin ma'aikata.
+Majiyoyi da dama sun tabbatar da cewa, a farkon watan Janairun 2022, babu wani bayani daga hukumar gudanarwa game da dalilin da ya sa aka jinkirta albashi.
+Daga baya, a cikin watan, ma'aikata sun fara nuna rashin jin daɗinsu.
+Wata majiya ta ce, "har sai cikin watan Janairu aka gaya mana cewa kamfanin yana da 'ƙananan batutuwan tsabar kuɗi".
+Yayin da wasu ma’aikata suka karɓi albashin watan Disamba daga baya, a watan Janairun 2022, wasu sun karɓi nasu a watan Fabrairu.
+An ruwaito cewa, kamfanin Healthlane ya wanke kuma ya maimaita tsarin a biyan albashin watan Janairu; ya zuwa watan Mayu kuma, ɓangaren kamfanin na Najeriya ya fara jinkirta biyan albashi kuma du.
+Ya zuwa lokacin da ake wallafawa, rahotanni sun ce kamfanin na bin ma’aikatansa da ke Najeriya bashin albashin watanni hudu tun watan Yuli.
+A cewar wata majiya, ɗaya daga cikin ma'aikatan kamfanin a Kamaru ya sanar da "hukumar gudanarwa" cewa, za su dakatar da ayyukansu, har sai sun karɓi albashin a-ƙalla watanni biyu daga albashin na watanni biyar.
+Duk da haka, “hukumar gudanarwa” ta mayar da martani ta hanyar "umartar jami’an tsaro da cewa kada su bari su shiga ofishin" yayin da ta cire su daga guraben aiki.
+Ya kuma sanar da ofishin ƙwadago na ƙasar Kamaru cewa ma’aikatan sun “bar ayyukansu ba tare da sanarwa ba.”
+A cewar wata majiya ta Najeriya, “A wani lokaci cikin shekarar 2022, mun daina jin ta bakin ofishin.
+Tunda dai da alama mambobin hukumar gudanarwar na yanke waɗannan hukunce-hukuncen da raɗin kansu, mun daina jin ta bakinsu.
+Ba sa tafiya da kowa.
+Ba sa ba da amsa.
+Ba sa bibiyar al’amura”.
+A cewar wata majiya kuma, ma'aikata sun ci gaba da kokawa game da yadda ba a samun bayanai yayin babban taron.
+Sun yi mamakin cewa me ya sa sanar da ma'aikata game da abin da ke faruwa yake da wahala.
+Su kawai suna so ne su san dalilin da ya sa sabon kamfanin ba ya aiki kamar yadda ake tsammani, amma "waɗanda suka kafa kamfanin sun ƙi faɗa musu gaskiya ba."
+Majiyoyi da yawa sun koka game da rashin samun martani daga “hukumar gudanarwa” a duk lokacin da suka tuntuɓe su.
+Ta bayyana cewa Ashu, ɗaya daga cikin waɗanda suka kafa kamfanin, ya kan tura su ga Shugaban kamfani, wato CEO, Nteff, a duk lokacin da suka tuntuɓe shi, wanda hakan ke nuna cewa ba shi da wani iko a kan lamarin.
+Sallama daga aiki da ajiye aiki.
+Yayin da kamfanin ke da kyakkyawan yanayin gudanar da aiki kafin watan Disamban 2021, majiyoyi sun ce akwai wasu alamomin faruwar abin waɗanda suka yi watsi da su.
+Misali, a watan Satumbar 2021, an ruwaito cewa Shugaban kamfani, wato CEO, ya kori wani ma’aikaci, wanda daga baya aka mayar da shi bakin aiki tare da rage masa albashi da rage masa muƙami, yayin da aka koreshi daga aiki wata ɗaya bayan haka.
+"Rashin zaman lafiya a wurin aiki ya kasance ɗaya daga cikin manyan makaman kamfanin," a cewar wata majiya, "Lamarin ya ƙara girma tun farkon shekarar saboda wasu dalilai da suka haɗa da jinkirin biya da kuma rashin biyan albashi tun Disamban 2021."
+Ya zuwa shekarar 2021, kamfanin Healthlane yana da ƙarfi na ma’aikata 12 a Najeriya da ma’aikata 10 a Kamaru.
+Har ila yau, yana da ma'aikata masu aikin lokaci-lokaci guda takwas a faɗin ƙasashen biyu.
+Sai dai majiyoyi a Najeriya da Kamaru sun ce sallamar ma’aikata ya zama ruwan dare a Healthlane a farkon shekarar 2022.
+A Kamaru, an kori wani ma'aikaci, wasu ma’aikata biyu kuma sun ajiye aiki saboda "mummunan yanayin aiki."
+Ta bayyana cewa irin wannan sharaɗin ya sanya mutane bakwai ajie aiki a Najeriya bayan an sallami uku daga aiki.
+Ya zuwa lokacin haɗa wannan rahoto, majiyoyi sun nuna cewa, a halin yanzu, in aka haɗa har da waɗanda suka kafa kamfanin, kamfanin na da ma’aikata uku ne kawai a Najeriya da ma’aikata huɗu a Kamaru.
+“Waɗanda suka ajiye aiki kuma an tilasta musu yin hakan ne.
+Dabarar hukumar gudanarwar ita ce, mayar da ku marasa amfani, ta yadda har sai kun ajiye aiki, su kuma su kuɓuta daga duk wani zargi,” in ji wani ma’aikaci.
+Wata takarda da Techpoint Africa ta gani ta nuna cewa, kamfanin ya kori dukan ma'aikata takwas masu aikin lokaci-lokaci.
+Gyare-gyaren gine-gine da sabunta manhaja
+A baya na ambaci yadda manhajar Healthlane bata aiki akan manhajar Android, sannan kuma ta ɓace daga kan dandalin App Store.
+Lokacin da na tambayi wasu daga cikin ma'aikatan kamfanin na yanzu da tsofi kan dalilin da yasa manhajar ba ta aiki, yawancinsu sun ce ba su da masaniya.
+Ɗaya daga cikinsu yace, "akwai yiwuwar cewa Apple yana bin Alain bashi."
+Ko da yake Healthlane ya yi iƙirarin cewa "a halin yanzu suna yin wasu canje-canje ga manhajar," majiyoyi da yawa sun tabbatar da cewa manhajar ba ta aiki tun Satumban 2022.
+A ranar 9 ga Nuwamba, shekarar 2022, a ƙoƙarin ganin cewa komai ya fito fili, na yanke shawarar tuntuɓar wasu daga cikin masu hannun jari a Healthlane.
+Wani abin sha'awa shi ne, zuwa washegari, kwatsam manhajar ta ci gaba da aiki kan na'urori masu amfani da manhajar Android.
+Hakanan ta fara samuwa a dandalin App Store.
+Saidai amma ikon tsara alƙawura baya aiki.
+“Alain ba maƙerin manhajojin wayar hannu ba ne.
+Dole ma ya zama cewa bayar da kwangilar yayi ga masu ƙirar manhajojin wayar hannu daga wajen kamfanin suka yi aiki kan manhajar," in ji wani tsohon ma'aikaci, "A halin yanzu kuma, injiniyoyinsa da ma'aikatansa na ci gaba da binsa bashi."
+Har ila yau, suna da'awar cewa Healthlane kamfani ne a kan takarda kaɗai, saboda babu wani abin da yake samarwa, "tarin ƙarairayi ne kawai."
+Ofishin Healthlane na Najeriya yana nan a 16 Adewale Kolawole Crescent, Lekki, Jihar Legas, Najeriya “har sai watan Agustan 2022 da kamfanin ya bar wurin.
+Kuɗin haya ya ƙare ranar 30 ga watan Yuni, 2022."
+Biyo haka ne wani tsohon ma'aikaci ya tabbatar da cewa "babu wani gyare-gyaren da kamfanin ke yi a halin yanzu.
+A hukumance, Healthlane Nigeria ba shi da ofishi.
+Kayayyakin da kamfanin ke da su na ajiye a gidan wani ma'aikacin kamfanin, yayin da ma'aikata kuma suke aiki daga gida yayin da suke jiran abu na gaba."
+Wani ya ƙara da cewa, "Rabonsu da harƙalla da abokin ciniki tun watan Yuli, don haka duk wani abu bayan wannan lokacin burga ce kawai."
+Na ziyarci kamfanin a Lekki a safiyar ranar Talata don tabbatar da hakan.
+Rashin wata alama ta Healthlane shi ne abu na farko da na lura da shi da isata wurin.
+Kallo ɗaya na yiwa ginin na gane cewa babu komai a cikinsa.
+Bayan gudanar da ƙarin bincike game da ginin, majiyoyi biyu sun tabbatar da cewa a halin yanzu babu wanda ke zaune a ginin.
+Sun kuma ce kamfanin ya bar wurin watanni biyu da suka gabata.
+A cewar ɗaya daga cikinsu, yanzu asalin mai wurin ne ke da mallakin ginin.
+Na tuntuɓi Ƙungiyar Kula da Lafiya, wato HMO, don jin ko sun san abin da ke faruwa, kuma shin har yanzu suna da haɗin gwiwa da Healthlane.
+Yayin da suka tabbatar da haɗin gwiwar su, sun bayyana cewa ba su da tabbacin wurin da Healthlane yake a yanzu.
+Wata majiya ta tabbatar da cewa, “Babu wani gyare-gyare da ake yi yanzu haka a Kamaru.
+Ban ga abin gyarawa game da ayyukan da ba yi ake ba.
+Dillalai da yawa ma na bin kamfanin bashi, kuma kamfanin na shan wahalar biyan kuɗin wutar lantarki.”
+Wani ma’aikaci ya ƙara da cewa a watan Yuli ne aka rufe ginin kamfanin na Najeriya saboda yawan kuɗin da ake kashewa wajen kula da ginin, wanda ya haɗa da haya, wutar lantarki, gyare-gyare, janareto da kula da wurin wanka.
+Bayan an rufe, an sanar da ma'aikatan cewa za a karɓi hayar wani wuri wanda bai kai wannan girma ba na wucin gadi.
+Amma bayan ɗan wani lokaci aka faɗa musu cewa ba za a karɓi hayar kowane ofishi ba; a maimakon haka, Healthlane zai mai da hankali kan nemo masu ayyukan ɗakin gwaje-gwaje daga waje, yana mai gudanar da dabarun kula da lafiya kan jinyoyin da suka daɗe a jikin mutane.
+Amma ba haka lamarin yake ba a Kamaru.
+Baya ga cewa ba a rufe ofishin ba, "dabarar ta canza daga duba lafiya da tsarin kula da lafiya zuwa fasa aiwatar da shirye-shirye, yanzu kuma zuwa rashin yin komai."
+Sakamakon haka, babu wani ma’aikaci na kwanturagi da aka ɗauka a matsayin ma’aikaci tun watan Oktoba, saboda ba a biya albashi ba tun watan Afrilun 2022 a Kamaru.
+Tambaya kan dala miliyan 1.4.
+Ganin yadda Healthlane, wanda a da yana da kyakkyawan yanayin gudanar aiki, ya zama shiririta ta hanyar kasa samar da alaƙa mai kyau tsakaninsa da ma'aikatanta, da jinkirta biyan albashi, da saka ma’aikata su bi shi bashin albashi, da korar ma'aikata cikin kuskure, mutum zai iya hasashen tushen dalilin.
+Kamfanin na Healthlane ya tara kuɗin fara aiki na dala miliyan 2.4 a shekarar 2020, kuma ya fara aiki a watan Agusta na shekarar 2021.
+Amma ya zuwa watan Mayu na shekarar 2021, bayan tsarin ɗaukar ma’aikata da aka fara a watan Maris, ƙasa da dala miliyan ɗaya ne yayi saura.
+Tambayar ta dala miliyan 1.4 ita ce, "Me ya faru da dala miliyan 1.4 kafin Healthlane ta fara aiki?"
+A cewar wata majiya da ke kusa da lamarin, Healthlane ba ta da kwamitin gudanarwa.
+Shugaban kamfani Nteff ne "hukumar gudanarwa", kuma shi kaɗai ne mai sanya hannu kan asusun kamfanin.
+“Kafin kamfanin ya fara aiki, Nteff yayi ta cire maƙudan kuɗaɗe.
+Akwai mu’amaloli na kuɗi ababen zargi da ke nuna cewa kamfanin na ta karkatar da kuɗaɗe.”
+Haka kuma majiyoyi da dama sun tabbatar da cewa Shugaban kamfani ya sayi kayan aiki ba tare da tuntuɓar ma’aikata ba.
+Hakan ya sa aka kashe kuɗaɗe kan kayan aikin da ba na dole ba ko kuma kamfanin baya buƙata.
+Misali, ya sayi na’urorin nazarin jini guda huɗu alhali kamfanin na da guda biyu masu aiki.
+"Ko da yake ba wai waɗannan abubuwan da aka sayo ba su da amfani ba ne, amma an sayosu ne ba tare da tuntuɓar ma’aikatan kamfanin da suka dace ba, wanda hakan ya sa ba a amfani da su tun da aka sayosu," in ji wata majiya.
+Sun kuma bayyana yadda Nteff "ya ɓuya na tsawon watanni uku a otal ɗin Eko Hotel and Suites a Legas yayin da masu binsa bashi suke nemansa a Kamaru da Najeriya."
+Ko da yake mun kasa samun ƙwararan hujjoji, wasu majiyoyi sun ce "A lokuta da yawa jami'an dawo da basussuka na Payhippo sun yi ƙoƙarin samunsa a ofishi cikin rashin nasara."
+Takardu da dama sun nuna cewa Nteff ya yi amfani da kuɗaɗen kamfani wajen sayan abubuwan kansa, inda hakan ya sa dillalai da yawa ke binsa bashi, ciki har da manhajojin hada-hadar kuɗi da ke ba da lamuni.
+In ba ku manta ba, kamfanin Healthlane yana ɗaya daga cikin sabin kamfanoni na Afirka guda 60 da aka zaɓa a zubi na biyu na shirin Google for Startups Black Founders Fund (BFF) a watan Satumban 2022.
+To yanzu me ya faru da kuɗaɗen? Me ya faru da su?
+A cewar wata majiya, Nteff ya daina zuwa ofishin a Kamaru cikin mako na biyu na watan Nuwamban 2022.
+Hakan ya zo ne makonni da yawa bayan Agbor ya daina zuwa ofishin.
+“Alain ya kwashe komai daga ofishinsa.
+Ya umurci wanda ke kula da ofishin da ya kai wa Reevy mabuɗin ofishinsa.”
+Don ƙarin bayani, Reevy, wani kamfani a Kamaru, shi ne abokin aikin harkokin abinci na kamfanin Healthlane a ƙasar.
+A cewar wata majiya, "akwai jita-jita cewa Alain na shirin sayar da ofishin ga Reevy."
+Wannan yana nufin, "a halin yanzu Reevy ya karɓi ofishin, kuma yana ƙoƙarin sake dawo da yin aiki." Amma "har yanzu Alain na da mallakin fannin fasaha na kamfanin."
+Majiyar ta ƙara da cewa Reevy zai yi aiki a matsayin Healthlane a ƙasar Kamaru na tsawon watanni shida masu zuwa kafin ya canza sunan gaba ɗaya.
+A cewar su, "watanni shida sun ishi Alain yayi ta yaudarar masu zuba jari cewa kamfanin yana aiki don ya samu jerin Series A."
+Majiyoyi da yawa sun yi iƙirarin cewa Nteff yana neman samun jerin Series A a shekarar 2023.
+"Yana yin haka, musamman ma don biyan tarin basukansa," in ji wata majiya, "Shi ya sa zai musanta rufe Healthlane."
+Wata majiya kuma ta yi iƙirarin cewa sun ji cewa Alain yana neman abokin tarayya don sayan sashen asibiti na Healthlane, yayin da ya ci gaba da kafewa tare da ra'ayin telemedicine da ya sanya wa masu saka hannun jari.
+Bugu da ƙari, ya zuwa lokacin haɗa wannan rahoto, wata majiya ta bayyana cewa Shugaban kamfanin ya aike da hotunan fuskar na’ura ga ma’aikata sama da biyu a Najeriya cewa ya “yi tura musu albashin kusan watanni 3, su tabbatar da hakan.”
+Sun kuma bayyana cewa Nteff ya ce zai rufe aikin ma’aikatan Najeriya.
+Biyo bayan haka, "kamfanin ya sallami ma'aikata biyu a Najeriya nan take bayan sun tabbatar da biyansu."
+Har zuwa lokacin haɗa wannan rahoto, babu wani ma’aikaci a Kamaru da ya karɓi albashin da yake bi bashi.
+Kamfanin Techpoint Africa ya tuntuɓi Shugaba Nteff don tabbatar da haka da kuma neman sauran cikakkun bayanai.
+Nteff ya mayar da martanin cewa “Yawancin maganganun ba daidai ba ne.
+Saidai saboda bincike na shari'a da ake gudanarwa a halin yanzu kan wasu takardun kamfanin Healthlane da ‘yan jarida suka samu ba bisa ƙa'ida ba, ba za mu iya ba da wata amsa ba kafin wa’adinku ya cika.
+Za mu yi farin cikin yin cikakken bayani bayan an kammala wannan bincike."
+Gabatar da Circue: Wata sabuwar manhajar tafiye-tafiye da aka tsara cewa za ta sauya yadda muke ji da ganin duniya
+Tun lokacin da aka kafa ta, Circue na da manufa ɗaya tilo – domin sauƙaƙe tafiye-tafiye, ta hanyar gwama fasaha da harkokin ɗan adam don samar da damar shige da fice da bayanai masu inganci da fahimtar al'umma ga matafiya.
+Manhajar Circue ta tafiye-tafiye wadda Founder Taiwo Gbadegesin ya bayyana a matsayin "wani babban canji kuma babban ci gaba wajen cimma manufar kamfanin" wadda aka sake ƙaddamarwa ta hanyoyin sadarwa na zamani a watan Afrilu, wanda ƙwararre kan tafiye-tafiye - wakawaka doctor - ya karɓi baƙuncinsa, Eneh Dominica kuma ya jagoranta.
+Babban taro ne mai cike da abubuwa masu muhimmanci, wanda ya samu halartar baƙi da masu gabatarwa irin su Dr Chinonso Egbemba, wanda aka fi sani da Aproko doctor, da Faith Olaniyi, wanda ya kafa Cyclebreeze, da Omolabake Ogundero, wanda ya kafa Labby Media, waɗanda suka ba da gudunmawa wurin tattauna batutuwan ƙananan tafiye-tafiye na yau da kullum da ƙaura.
+Masu tasiri a kafafen sada zumunta Asiwaju Lerry da Maleek ma sun halarci taron.
+A wajen taron, kusan mahalarta talatin ne suka samu kyautuka masu gwaɓi a wani yunƙurin da wanda ya kafa ya kira da bai wa ‘waɗanda suka fara karɓa’.
+Kyautukan sun haɗa da:
+Ɗaukar nauyin tafiya zuwa wurin shaƙatawa na tsaunin Obudu (saka hotuna daga Obudu) Inda waɗanda suka yi sa’ar samu kyautar za su sami damar zuwa tsaunukan masu ƙayatarwa waɗanda ke Boye a garin Obudu mai tsananin sanyi, a jihar Cross River Najeriya.
+Akwai kuma kwamfutocin tafi-da-gidanka don ɗalibai da masu kasuwanci da masu shirin shiga fannonin fasaha.
+Akwai kuma biyan kuɗin biza ga mutanen da ke neman ƙaura zuwa ƙasashen waje.
+Akwai kuma biyan kuɗin cuku-cukun fara karatun gaba da sakandire da digiri na biyu ko na uku da sauran abubuwa.
+Idan hakan birgeku, to sai yadda aka tsara manhajar ta tafiye-tafiye ya fi birge ku ma.
+Ƙiyasta wannan a ranku; wani dandali ne na yanar gizo inda za ku iya turawa da karɓan abubuwan da kuke so, kuma ku iya samun haɗuwa da wasu, kuma ku iya bincika miliyoyin bayanai game da yankuna daban-daban na duniya, kuna gane hanyoyi ta hanyar amfani da taswirar dandalin, kuma ku iya fassara yarenku na asali zuwa yaren da kuka ga dama, ku kuma iya canza kuɗi da lissafin lokaci - da dai sauransu.
+Ba shakka wannan shi ne burin kowane matafiyi.
+“Mun ƙirƙiri Circue ne saboda muna son kawo sauyi kan yadda mutane ke tafiye-tafiye da kuma gano sabbin al’adu.
+Mun fahimci cewa gane hanyoyin sabbin wurare da al'adu na da wahala, kuma muna son ƙirƙirar dandalin da zai sauƙaƙawa mutane samun damar samun bayanai masu inganci, da damar haɗuwa ‘yan gari da sauran matafiya, da haɓaka fahimtar al'umma," in ji wanda ya kafa.
+Burinmu game da Circue shi ne ƙirƙirar wata al'umma ta matafiya na duk duniya da baƙi da mazauna wurare, ta yadda zasu iya haɗuwa da juna, kuma su samar ko su samu bayanai kan abubuwan da suka sani, kuma su tallafawa juna kan tafiye-tafiyensu.
+Manhajar Circue ta fara samuwa dandalin Apple da dandalin Google Play, ana kuma iya samunta a ko'ina cikin duniya don a sauƙeta.
+Tunda ta fara aiki a ranar 14 ga watan Yuli na shekarar 2023, ta samu tsananin karɓuwa musamman a wajen matafiya, inda ake samun dubban gomman masu sauƙewa da masu rajista a kullum.
+"Manhajar Circue ce dausayin masu yawace-yawace a duniya," in ji ɗaya daga cikin masu amfani da ita.
+"Mungo Park zai yi matuƙar kishi da mu a yanzu" – a cewar wani nazari mai ban sha'awa.
+Ana iya danganta nasarar wannan ƙaddamarwa ga ƙungiyar Circue mai ƙarfi da basira wadda wanda ya kafata, wanda ya himmatu wajen cimma manufar samar da abubuwan tafiye-tafiye masu kyau da inganci, ke jagoranta.
+A taƙaice dai manhajar Circue ta himmatu wajen sake fasalin yadda muke tafiye-tafiye.
+Kyawawan tsare-tsarenta da salonta na gudanarwa wanda ya dogara kan al'umma da ba wa matafiya mahimmanci sun sa ta yi fice cikin tsarekunta.
+Ku yi maraba da abubuwan da ba za a manta da su ba, da kuma duniya mai cike da abubuwa masu yiwuwa.
+Sauƙe manhajar Circue a yau ta hanyar danna nan don sauƙewa daga dandalin Playstore, ko ku danna nan don sauƙewa daga dandalin Appstore, sai ku shirya don tafiye-tafiye masu matuƙar ƙayatarwa.
+Don neman labarai da ƙarin bayani, tuntuɓe mu a hello@circue.app
+Wadanda Suka Kafa guda 22 sun yi nasarar lashe Techmybiz Pitch-a-thon 2023
+Bugun Techmybiz Pitch-a-thon na 2023 da ake jira sosai ya bayyana ƙirƙire-ƙirƙire da baiwa masu ban-sha’awa, ta yadda kamfanoni 22 na musamman suka lashe kyautuka.
+Techmybiz wata ƙungiya ce ta GIZ/Digital Transformation Center Nigeria (DTC Nigeria), wanda Ƙungiyar Tarayyar Turai (EU) da Ma'aikatar Haɗin Tattalin Arziƙi da Raya Ƙasa ta Jamus (BMZ) ke ɗaukar nauyi tare, yayin da Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH kuma ke aiwatarwa.
+Bayan nazari mai tsauri ga dubban masu neman shiga cikin 'yan kasuwa daga faɗin Najeriya, ta hanyar gangamin "Call for Digital Solutions" wanda ya ba da damar rijista ga masu ƙirƙira da 'yan kasuwa da sabin kamfanoni da dama a Najeriya, an zaɓi fitattun masana’antu 50 don gabatar da fikirorinsu a taron na kwana 3 mai ƙunshe da ɓangarori daban-daban.
+’Yan kasuwar sun baje kolin fasaharsu, inda suka burge masu sauraro tare da baje kolin alamun bunƙasar fasahohinsu a masana’antu daban-daban.
+Kwamitin alƙalai, wanda ya ƙunshi masana masana'antu da 'yan kasuwa da masu zuba jari da masu sha'awar fasaha da ƙwararrun masana, ya tantance waɗanda suka gabatar da fasahohinsu, kuma ya zaɓi waɗanda suka yi nasara.
+Ga waɗanda suka yi nasara:
+Asoro Automotive
+Asoro Automotive wani dandalin yanar gizo ne mai tarin ayyuka da ke matsayin ɗaya daga cikin manhajojin da ke yin ayyukan fasaha ga duk buƙatun ababen hawa na Nigeria.
+Ta hanyar amfani da tsari mai daɗin aiki da ƙira mai kyau, dandalin yana samar da ayyuka masu kyau ga masu motoci da masu fasahar ƙera motoci.
+Yana aiwatar da ayyuka iri-iri, kama daga gyare-gyare da bincike-bincike zuwa sayayyar sassa da shirye-shiryen horarwa da shawarwarin masana.
+Ta hanyar amfani da tsarinsa mai daɗin aiki da tarin fasaloli, shafin na yanar gizo ya zama wata hanya mai mahimmanci kuma amintaccen abokin tarayya ga kowa.
+Blualpha Nigeria Limited
+An ƙera manhajar EvriSale App ne don magance ƙalubalen ƙanana da matsakaitan masana’antu waɗanda ke siyar da abubuwa ko yin ayyuka.
+An tsara wannan kamfani kuma an haɓaka shi don taimakawa masana’antu wajen kula da ayyukan tallace-tallacen kayayyaki na zahiri da kayayyakin da suka dogara kan yin ayyuka (banda hajojin da ba a bin diddigin su, kamar Kantin Gyaran Gashi da Kantunan Gyaran Jiki da Kamfanonin ba da Shawarwari) ta hanyar da mai shi ke da ikon sarrafa kasuwancin ta wayarsa/wayarta ta hannu, kuma masu Masana’antu su miƙa aikin kula da shiga da fitar kaya da kula da manhaja ga mai kula da shi.
+Manhajar na ba wa masana’antu rahotanni kamar rahotannin tallace-tallace da rahotannin shiga da fitar kaya.
+myStash
+Manhajar Profit ta myStash wani kayan aiki ne na kula da kuɗin masana’antu.
+Manhajar na ba wa masu masana’antu damar samar da kasafin kuɗi ga masana’antun su, kuma su bi diddigin abin da suke kashewacikin sauƙi, kuma su sa ido kan shigowar kuɗi.
+Ta hanyar amfani da manhajar Profit, mai masana’anta zai iya tsra kason da za a keɓance duk lokacin da abokan cinikin ku suka biya kuɗin sayan kayanku ko kuɗin aikin da kuka yi musu.
+Wannan wani babban ƙarin fa’ida ne, musamman ga ‘yan kasuwa mata, waɗanda wasunsu ba sa iya samun basuka, saboda ba su da kadarar da za su iya bayarwa a matsayin jingina, kamar fili ko wasu kadarori masu tsada.
+Ya zuwa yanzu, myStash ya tallafawa masu masana’antu sama da 5,000.
+Echovon Technologies Limited
+Wannan masana’anta wani dandalin yanar gizo na SaaS ne kuma manhaja ne na wayar hannu wanda ke nazarin bayanai, kuma ya ke matsayin kasuwa ga masu ƙanana da matsakaitan masana’antu masu sayar da kaka ɗai-ɗaya don gano kayan da aka fi sayarwa a yanki nan take.
+Babu sauran jira don adana kayan da aka fi buƙatu waɗanda za su haɓaka kuɗaɗen shiga, kuma su samu damar tanadin kashi 90% na kuɗin aiki kan masana’antun su.
+A matsayinka na mai amfani da kaya a kasuwar Vevet, za ka iya yin odar abinci da kayan abinci da sauran kayayyaki daga manyan kantuna da gidajen cin abinci na kusa.
+Karɓi jerin samfuran kayan da kuka fi so, waɗanda za su ja hankalin ku wajen ƙara yin oda, wanda hakan zai haɓaka kuɗaɗen shiga gare mu da dillalan mu.
+Metro e-Corporate Services Ltd
+Metro e-Corporate Services ltd kamfani ne wanda ke ba da fasaha da manhaja mai girma, yana mai don gyara salon bin ƙa'idodin kamfanoni ga ƙanana da matsakaitan masana’antu ta hanyar amfani da fasahar mai kyau don sauƙaƙe bin doka da kula da lokaci da ƙoƙari da albarkatu.
+Loyalty Alliance Systems Limited
+Loystar dandali ne na kasuwanci mai hanyoyi da yawa wanda ke kula da ƙanana da matsakaitan masana'antu (MSMEs) ta hanyar smar da cikakkun kayan aiki da manhaja.
+Dandalin ya ƙunshi tsarin Point-of-Sale (POS) da manhajar sarrafa shiga da fitar kaya, wanda ke ba wa 'yan kasuwa damar sarrafa abubuwan da suka sayar da bayanan abokin ciniki da shiga da fitar kaya a wurare daban-daban, wand aya haɗa da tashoshin yana gizo.
+Da manhajar Loystar, 'yan kasuwa za su iya bin diddigin sayar da kaya da suka yi su kuma kula da cikakkun bayanan abokan ciniki.
+Dandalin yana tallafawa hanyoyin biyan kuɗi daban-daban, yana ba da dama ga masu masana’antu su riƙa karɓar kuɗi ta hanyoyi da yawa don cika abubuwan abokan ciniki
+Gidauniyar Big Family 360 Foundation
+Manhajar Northwave ita ce manhajar wayar hannu ta fintech wanda ke ba wa MSMEs damar shiga cikin hada-hadar kuɗi (ajiya ta jimlace) ta hanya mai aminci.
+An tsara manhajar don sauƙaƙe dawo da saka hannun jari a tsakanin mambobin ƙungiyar da ke da hannu cikin hada-hadar kuɗi ba tare da keta dokokin kwangila ba.
+Manhajar Northwave na taimakawa wajen tattarawa da kuma dawo da ajiyar kuɗi daga mambobin rukuni (abokan ciniki) ta hanyar amfani da katin kuɗi da asusun banki kamar yadda ya kamata, suna masu kuɓutar da mambobin ƙungiyar daga asarar kuɗinsu da saka hannun jari.
+Gudunmawar kuɗi ta ƙungiyar ta dogara ne kan wadatar kuɗi da ƙarfi.
+Xchange Box Solutions Ltd
+Wannan manhaja na ba da damar samun kuɗi da biyan kuɗi/tarawa galibi daga shagunan da mata ke jagoranta, inda mata ke sayar da kayan masarufi da ƙananan abubuwa ta hanyar ba su kima mai ƙaɗan kamar dalar Amurka 100 na mako-mako don ci gaba da kasuwancin su don haɓaka wa dangane da bayanan sake biyan kuɗi ta hanyar dandalinsa na biyan kuɗi ta na'urorin da ke gane bayanai da aka ba su don karɓar biyan kuɗi, da bayanan ƙididdiga (wanda ya dogara kan biyan kuɗi da adadin ma'amaloli) don ƙananan shagunan al'ummomin karkara.
+CDIAL AI
+Samfurin sa na IndiGenius babban maɓallin madannai ne mai ɗauke da harsuna da yawa wanda ke fito da ƙarfin fasahar AI don kawo sauyi na intanet da buga rubutu na fikira a na’ura da fassara tsakanin harsuna 160 a faɗin duniya.
+Wannan sabon maɓallin madannan ya wuce hanyoyin buga rubutu na al'ada ta hanyar mai da magana zuwa rubutu, wanda ya sa ya zama abin aiki mai kima ga ɗaiɗaikun mutane masu ƙalubale na buga rubutu ko gajiya.
+An samar da shi bayan watanni 11 da aka shafe ana bincike mai zurfi kan haruffa na musamman da kuma haruffan da ba sa cikin maɓallan madannai na al'ada da kuma fahimta mai zurfi kan harkokin kasuwancin Afirka, an yi amfani da haɗin gwiwar fasaha da aka samu yayin wannan binciken wajen ƙerawa da tsara IndiGenius.
+Agrovesto Enterprise Ltd
+Agrovesto wani dandali ne na gudanar da ciniki da biyan kuɗi kan kasuwancin kayayyakin da suka shafi noma ga ƙananan manoma da masu sayan amfanin gona.
+An gina dandalin ne don tsara gudanar abinci daga gonaki zuwa masu saye da kuma samar da bayanan kasuwanci a lokacin da suke faruwa don gudanar da cinikayya cikin sauƙi.
+Masu amfani za kuma su iya samun damar amfani da daidaitattun wuraren ajiya da ake buƙata sosai da hanyoyin samarwa da kula da kayan aiki masu araha cikin sauƙi.
+Dandalin ya kuma gina manhajar kayawa manoma aiki, wadda ke ba da damar tsara manoma da bayar da kayan noma masu inganci ta hanyar amintattun masu samar da kayayyakin mu, kuma yana aikin bayar da shawara don ayyukan samar da abinci masu ɗorewa.
+Greenera Technologies Ltd
+Greenera Technologies ya ƙware wajen ƙerawa da samar da tsarin makamashin hasken rana mai amfani shi kaɗai don amfanin gida da na masana’antu.
+Sabbin samfuran sa suna fito da amfanin hasken rana don samar da makamashi mai ɗorewa da aminci.
+Ta hanyar amfani da makamashin hasken rana, tsarin Greenera Technologies yana taimakawa wajen rage hayaƙin carbonmai guba da rage tsdar amfani da makamashi da ba da gudummawa ga kyakkyawar makomar yanayi.
+Topcity Enterprises Ltd
+Kamfanin Topcity wani sabon kamfani ne da ke Najeriya wanda ke amfani da fasahar zamani wajen sarrafa albasa, da hanyoyin ajiyar Albasa na zamani, da sadar da manoma zuwa kasuwa, da horar da mata kan sana’ar albasa don rage asarar bayan girbi zuwa Naira biliyan 300 ($650m), da inganta samar da abinci, da rage yunwa, da bunƙasa abin da ake samarwa da kuma ribar da Manoma/mata ke samu, da inganta tattalin arziƙin ƙasa, da kuma samar da ayyukan yi.
+Advanced Engineering Centre
+Abubuwan gyare-gyaren kayan aiki waɗansu kayan aiki ne da ake amfani da su wajen samar da kayan roba, wanda suka haɗa da ruwan kwalba da sol-sol na takalma da ababen rataye tufafi da farantai da galan-galan da sauransu.
+Ana amfani da abubuwan gyare-gyare wajen ƙera surorida bayanai da samfurori duk na roba.
+Ƙirƙirar abubuwan gyare-gyaren na buƙatar babbar ƙwarewa ta injiniya, wanda ake da matuƙar ƙarancinsu a Najeriya da Afirka.
+Ƙirƙirar abubuwan gyare-gyaren na zamani na buƙatar fasahar zane na kwamfuta, wato CAD, da fasahar ƙrere-ƙere ta kwamfuta, wato CAM, wanda dukansu fasahohin zamani ce.
+Crox Technologies Ltd
+Croxapp wani dandalin isar da saƙo na peer-to-peer (P2P) ne wanda aka ƙirƙira don magance ƙalubalen isar da saƙo da aka saba da su a Najeriya.
+Dandalin yana haɗa ɗaiɗaikun mutane waɗanda ke buƙatar aika fakiti ta hanyar amfani da amintattu kuma tabbatattun ma’aikata waɗanda suke tafiya suna yin wurin da fakitin zai nufa.
+Wannan dandalin mai sabon tsari yana ba wa masu amfani damar aika fakiti akan farashi mai rahusa kuma a ƙaramin lokaci, yayin da kuma ya ke ba da dama ga ɗaiɗaikun mutane su samu kuɗi ta hanyar karɓa da isar da fakiti a kan hanyarsu ta zuwa inda suka nufa.
+Veritas Imperial Investments Limited
+GIFTY - Digital Shop Maker wani dandali ne na SaaS wanda ke ba wa MSMEs damar ƙera shafukan yanar gizon na kasuwancin yanar gizo a ƙasa da mintuna biyar ta hanyar amfani da wayoyinsu na hannu.
+Dandalin yana bayar da fa'idodi da yawa, wanda ya haɗa da tattaunawar ciniki da masu saye ta yanar gizo cikin ƙanƙanin lokaci kuma cikin sauƙi, da ingantattun bayanan sayar da kaya, da bayanan sayar da kaya ta hanyar amfani da fasahar AI.
+An ƙirƙiri GIFTY don magance ƙalubalen da MSMEs ke fuskanta yayin tattaunawakan sayar da kaya da masu yiwuwar sayen kaya ta yanar gizo.
+Sau da yawa waɗannan tattaunawar sun ƙunshi jaddadawa da maimaitawa, wanda yake jawo sayar da kaya na tsawon wa’adi tare da sayar da abubuwa kaɗan ko kuma rashin sayar da komai.
+Kamel, Inc
+Kamel wata hanya ce ta komai don baiwa kowa damar faraway da sarrafawa da haɓaka kasuwancin dillalan na kowane mataki - ko da ba su da jari.
+Da samfurin sa, dillalai za su iya samun damar amfani da shafin yanar gizo da ke haɗe da WhatsApp, ban da kayan aikin kula da bayanan shiga da fitar kaya da odar kaya da adana bayanan kuɗi da kuma alaƙa da abokan ciniki.
+Gamayyar Kamel ta masu sayar da kaya tana tallata hajojin dillalai, inda suke samun kuɗi kan duk sayar da kayan da suka shiga tsakani.
+Retailloop Solution Technologies
+Retailoop wata na’urar dillalai ce mai haɗaka wadda ke taimaka wa masu sayar da kaya aunannu su gina ingantattun hanyoyin kasuwanci ta hanyar amfani da kayan haɓaka wa masu ƙayatarwa.
+Adashi
+Adashi na taimakawa abokan cinikin da ba sa amfani da banki da masu ƙarancin amfani da banki, musamman MSMEs waɗanda ke fuskantar matsaloli wajen samun ayyukan kuɗin da ke aiki a hukumance don adanawa da samun bashi.
+Dandalin ba wai yana taimakawa waɗanda ba sa amfani da banki ba ne don kawai su samu damar ajiye kuɗi ba ne, yana kuma ba da damar kawar da matsalolin manyan ayyukan takardu waɗanda wakilai/masu tattara kuɗi ke fuskanta a kullum.
+Adashi ya kawar da batun gudanar da abubuwa a fili da kuma riƙon amana waɗanda ke daga cikin dalilan da yasa masu amfani ba sa amincewa da tsare-tsaren hada-hadar kuɗi.
+BIME
+BIME manhaja ce mai sarrafa kanta da aka ƙera don sauƙaƙe adana bayana kuɗi ga ƙananan masana’antu.
+Ta haɗa da fasaloli kamar shigar da mu'amalolin banki masu sarrafa kansu, da karkasa kuɗaɗen da aka kashe, da tsara takardar kuɗi, da kuma rahoton harkokin kuɗi don taimakawa masana’antu su kula da kuɗaɗensu yadda ya kamata.
+Ɗaya daga cikin mahimman fa'idodin BIME shi ne ikonta na shigo da mu'amalolin banki kai tsaye.
+Wannan ya kawar da buƙatar shigar da bayanan hannu, kuma ya rage yiwuwar samun kurakurai.
+Hakanan manhajar tana karkasa kuɗaɗen da aka kashe da kanta, kuma tana adana lokacin da aka yi kasuwanci, tana kuma tabbatar da cewa bayanan kuɗin su daidai ne.
+Kamfanin CreamsonTechnology Company
+Wannan kamfani yana taimakawa wajen ɗorewar yanayi mai daɗin sha’ani kuma mai tsabta da lafiya ta hanyar sake yin amfani da sharar robobin P.E.T daga yankunan gida zuwa kayan abincin dabbobi ta hanyar amfani da manyan layukan tacewa na NANO SENSOR na zamani masu sarrafa kansu don tsarawa da murƙushewa da wankewa da sake sarrafa su da ingancin da ya kai 99.7% na matakin tacewa don haɗa kafet-kafet da zaruruwa da tufafin roba da sabbin kwalabe.
+Ana yin wannan tare da tabbatar da lafiyar muhalli da gangamin wayar da kan jama'a na SDGs a cikin al'ummomi da cibiyoyin ilimi da na addini, tare da mai da hankali kan R guda uku, wato 3Rs: Sake amfani, Sake sarrafawa da Rage.
+Bitcoops
+BitCoop wata manhaja ce mai daɗin amfani da sauƙin fahimta wadda aka ƙera don kula da masana’antu masu kowane irin girma.
+Ko kuna gudanar da ƙarama ko babbar masana’anta ta al'umma, ko masana’anta mai aiki a wurare da yawa, BitCoop yana da duk abin da kuke buƙata don daidaita ayyukanku da kiyaye abubuwa su gudana daidai.
+Da BitCoop, za ku iya sauƙaƙe bin diddigin mambobinku da gudummawar su, da kuma harkokinku na kuɗi da na yau da kullum.
+Fasalolin manhajar na gudanar da mambobin suna ba ku damar adana cikakkun bayanai game da mambobin ku, wanda ya haɗa da bayanan tuntuɓar su da gudummawa da kuma bayanin biyan kuɗi.
+Moon Innovations
+Wannan wani tsarin inverter mai sauƙin mu’amala kuma mai amfani da hasken rana, wani dunƙulallen fakiti mai samar da makamashin hasken rana ga gidaje da wuraren sana’a, da damar amfani da yanar gizo ta fasahar wifi, da kuma sa ido na tsaro mai amfani da fasahar AI, tare da manhajar wayar hannu don saka ido da kula da wannan tsarin ta nesa daga ko'ina.
+Ya kuma ƙunshi tsarin ƙararrawar fallasa mai kutse wadda zata kunna kanta idan aka gano mai kutse ta hanyar manhajar ta wayar hannu.
+MSMEs a Najeriya sun yi sa'a sosai don samun duka waɗannan hanyoyin na na’urorin zamani da za su iya amfani da su a ƙungiyoyin su, don ingantawa da gyara kasuwancinsu.
+Don Bayyana Cikar Shekaru 5, OPay Ya Buɗe Sabon Tambari
+Babban kamfanin hada-hadar kuɗi, OPay Nigeria, ya canza tambarinsa a hukumance, tare da ƙaddamar da wani sabon tambari don bikin cika shekaru 5 a kasuwannin Najeriya.
+Wannan sauyi ba wai yana nuna gagarumin ci gabansa da tasirinsa cikin shekaru ba ne kawai, yana kuma nuna kyakkyawan fatansa zuwa shiga wani sabon zamani da ingantattun ayyuka da ci gaba a fannin fasaha da kuma manufar tabbatar da matsayinsa a matsayin dandalin kuɗi mafi aminci a Najeriya.
+An kafa OPay Nigeria a shekarar 2018, inda yayi matuƙar girma har 'yan Najeriya suka sanshi sosai, inda ya sami masu amfani sama da miliyan 40, da wakilai 500,000, da 'yan kasuwa 300,000 waɗanda suka amince da amfani da OPay don biyan kuɗaɗe da tarawa yau da kullum.
+A cikin tsawon shekaru 5, OPay ya faɗaɗa kayayyakin da yake sayarwa da ayyukan da yake bayarwa don samar da ayyukan kuɗi da na zamantakewa masu sauƙi ga ɗaiɗaikun mutane da wakilai da kowane nau'in masana'antu a faɗin Najeriya.
+Kamfanin ya tabbatar wa abokan cinikinsa shirinsa na haɓaka kayayyakin da yake sayarwa da ayyukansa da yake bayarwa don tabbatar da cewa abokan ciniki na jin daɗin amfani da OPay.
+Wannan yayi dai-dai da manufar OPay ta sanya harkokin hada-hadar kuɗi su zama gamammu ta hanyar amfani da fasaha.
+Abin da Tambarin OPay da aka Sabunta ke Nunawa
+Harafin na "O" yana nuni ga rashin yankewa na sadaukarwar OPay kan gudanar da ayyuka masu inganci ba ƙaƙƙautawa da kuma jajircewarsa kan ci gaba da kasancewa a sahun gaba cikin kamfanonin harkokin kuɗi.
+Bugu da ƙari, ya ƙunshi wani murabb'i wanda ke nuni ga sabon katin cire kuɗi na OPay da aka ƙaddamar, wanda zai ba wa masu amfani sama da miliyan 40 damar haɗa katunan cire kuɗinsu da lalitarsu, don biyan kuɗi cikin sauƙi.
+Sabon tambarin ba wai yana nuni kan salon kasuwancin kamfanin ba ne kaɗai, ya kuma ƙunshi jajircewar kamfanin ga ƙoƙarinsa maras yankewa wajen ayyuka masu inganci da samar da siffa kasuwanci gamammiya.
+A nan gaba, OPay yana da niyyar ci gaba da yin amfani da fasaha wajen samar da ingantattun hanyoyin hada-hadar kuɗi ga abokan ciniki.
+Kamfanin yana kuma faɗaɗa abubuwan da yake bayarwa, yana mai haɓaka fasalolinsa, tare da faɗaɗa ayyukansa.
+Ana sa ran wannan sabuwar alamar ta OPay za ta ƙarfafa matsayinsa a matsayin fitaccen mai samar da ayyukan biyan kuɗi a Najeriya ga masu saye da masana'antu.
+A yunƙurin ƙarfafa gwiwar jagororin fasaha na gobe, HM Community sun haɗa hannu da NewDev.io
+A wani gagarumin yunƙuri na tallafawa ilimin fasaha da za a dama da kowa, da kuma gina tsarin fasaha mai armashi, muna farin cikin sanar da ƙwaƙƙaran haɗin gwiwa tsakanin HM Community da NewDev.io.
+A tare da juna, waɗannan shafukan intanet ɗin sun shirya tsaf don sabunta hanyoyin da masu sha'awar fasaha zasu koya, haɓakawa da kuma samun nasara a duniyar fasaha mai cike da sauyi.
+Idan aka nutsa cikin yarjejeniyar haɗin gwiwar:
+HM Community, shafin intanet daya duƙufa wajen ilmantar da mutane akan fasahar software engineering, fasahar DevOps, fasahar product design da kuma kimiyyar nazarin bayanai, sun haɗa hannu da NewDev.io, wani kamfani dake gaba-gaba wajen yaɗa ilimin fasaha.
+Wannan kyakkyawan haɗin gwiwa yazo ne da burin cike giɓin dake tsakanin buri da damammaki, da kuma buɗe ƙofa ga masu yunƙurin zama ƙwararru a harkokin fasaha daga kawane ɓangare.
+Manufar HM Community itace:
+A kodayaushe, HM ba kawai shafin intanet bane kaɗai: wata ƙusa ce dake ƙulla alaƙar ahali tsakanin masu sha'awa, masu jan gora, da kuma ƙwararru a fannin fasaha.
+Cike ƙwaƙƙaran maida hankali wajen gina al'umma, HM Community suna bada kyakkyawan tallafi, shawarwari, da kuma jan gora ga mutane a kowanne mataki na zangon tafiyar fasaha.
+Koda ka kasance sabon shiga, sanya ƙafarka na farko Kenan a duniyar fasaha, ko kuma ƙwararre ne kake son ƙara samun gogewa, HM Community shine gidan da zai taimaka maka ka samu cigaba da kuma zimma.
+Don shiga HM Community, danna wannan lin ɗin https://hm.community/
+Tinƙahon NewDev.io sune :
+NewDev.io, shine kamfani irinsa na farko a duniyar fasaha da yayi imanin cewa, koyon ilimin fasahar intanet ya kamata ya zamo mai sauƙin samu ga kowa da kowa.
+Bisa dogaro da wannan ƙudiri, NewDev.io na koyar da jerin kwasa-kwasan ilimin kwamfiyuta, da kuma tarin bayanai da zasu tallafawa masu sha'awar harkokin fasaha da dabaru da kuma ilimin da suke buƙata don suyi cara a duniyar fasaha.
+A NewDev.io, zaku samu kayan karatu na zamani, da kuma ɗan jagora na ƙashin kai daga ƙwararru a harkokin fasaha.
+Dangane da Haɗin Gwiwar:
+Wannan haɗin gwiwar zai taimaka wajen bada kyakkyawan sakamako ga ɓangarorin biyu.
+Yunƙurin HM Community na bada ƙarfi wajen yin jagora da kuma tallafawa al'umma; yazo daidai da ƙudurin NewDev.io na ganin sun wadata al'umma da ilimin fasaha.
+A tare da juna, su biyun zasu samar da wani ƙwaƙƙwaran yanayi da zai tallafawa mutane, da kuma share musu hanya su fito da baiwawwakinsu don samun cimma nasara a duniyar fasaha.
+Abinda zasu gabatar:
+A matsayin wani ɓangare na wannan haɗakar, muna masu farin cikin gabatar da wata kyakkyawar dama, -wani shirin bada horo kyauta na tsawon wata biyu.!
+Ko sabon shiga ne kai a harkar fasaha, ko wanda zai canza sana'a zuwa harkar fasaha, ko wanda ke neman sabbin damammaki don cigaba, wannan horon an tsara shi yanda zai dace da buƙatun ka.
+A tsawon lokacin bada wannan horaswa na wata biyu, zaku natsa izuwa cikin ƙayatacciyar duniyar tsare-tsare, naƙaltar muhimman dabaru da kuma ilimai da zasu ɗora ku a gwadaben kaiwa ga nasara.
+Ta hanyar gudanar da bincike na ƙashin kanku, fuskantar ƙalubalen duniya, da kuma shawarwari daga ƙwararru a harkokin fasaha, zaku samu ƙwarara gwiwar da kuke buƙata don yin zarra a harkar fasaha.
+Ba kuma shikenan ba!
+Bayan kammala karɓar horaswa, zaku samu damar neman tallafin karatu guda 30 da suka kai na ₦50,000 ga kowane mutum.
+Waɗannan tallafin karatun an tsara su ne don a ƙara tallafawa mutanen da ke da burin cimma muradunsu a duniyar fasaha, da kuma ƙwararawa ƙwazonsu na ƙirƙira gwiwa.
+Shiga nan don yin rajista: https://hm.community/courses/introduction-to-web-developmenthttps://hm.community/courses/introduction-to-web-development
+Ku shigo a dama daku a tafiyar:
+Ƙofofin shiga wannan haɗakar kawo sauyin a buɗe suke sosai, suna jiranku ku shigo a rankaya daku wannan muhimmiyar tafiya.
+Kar ku rasa wannan kyakkyawar dama da zaku koya, ku haɓaka, da kuma gina sana'a mai cike da nasara a duniyar fasaha.
+Rajistar shiga tsarin bada horaswar watanni biyun a buɗe take, amma guraben basu da yawa.
+Kuyi rajista don kama gurbinku, ku bawa HM Community da NewDev.io damar su zamo hasken da zai muku jagora izuwa gobe mai haske a duniyar fasaha.
+Kammalawa:
+A wannan haɗin gwiwa tsakanin HM Community da NewDev.io, muna so mu share muku hanya, mun ƙuduri aniyar kawar da tsohuwar hanya, da kuma samar muku da shimfiɗar da zata tafi da kowa bai ɗaya.
+A tare, zamu zaburar mu kuma tallafawa masu tasowa na goben duniyar fasaha don su cimma nasara, su kuma bar abin tarihi a duniya.
+Haɗe damu a wannan ƙayatacciyar tafiya ta koyo, jan gora da kuma ƙirƙira.
+A tare zamu gina gobe mai haske ga masu sha'awar harkar fasaha a Najeriya dama gaba da Najeriya.
+Kuzo mu buɗe cikakkiyar baiwar ilimin fasaha, mu kuma samar da wata duniya da kowane mutum zai yi cara ya kuma kai ga nasara a duniyar fasaha a cikinta.
+Take: Buɗe Tasirin Fasaha: HM Community da NewDev.io Sun Haɗa ƙarfi.
+Sannu ku dai, masoya harkokin fasaha a Najeriya.!
+Munzo muku da daɗaɗan labarai da zasu farantawa zukatan ku masu son harkar fasaha.
+HM Community da NewDev.io, manyan giwaye biyu a duniyar ilimin fasaha, sun haɗa ƙarfi a wani haɗin gwiwa da zai tallafa muku.!
+Hasaso wannan: cikin sauri kun shige duniyar zubin na'ura, da kuma samun dabarun da zasu maidaku ƙwararrun da koyaushe kuke mafarkin zama a harkokin fasaha.
+Abin da burgewa ko?
+To, ku riƙe keyboard ɗinku, don abun yazo.!
+Muna gabatar da gamayyar haɗin gwiwar HM Community da NewDev.io, inda za a gwama koyarwa tare da jan gora, da kuma damammaki marasa iyaka.
+Manufar mu sassauƙa ce, amma kuma mai ƙarfi. Zamo kawo sauyi a fagen fasahar Najeriya ta hanyar bada horon watanni biyu kyauta, za a baku kayan aiki da kuma ƙwarin gwiwar cimma nasara a duniyar fasaha.
+To, me suka tanadar muku ne?
+Tikiti ne na shiga duniyar ilimi, cigaba, da kuma damar samun sana'o'i da ba a taɓa yi ba a baya.!
+Sabo ne kai a duniyar fasaha, ka ƙagu ka nutsa, amma ka rasa ta ina zaka fara?
+Wataƙil kana neman ƙayataccen canjin sana'a da zai angiza sha'awarka ga harkar fasaha?
+Wataƙil kai mai karatun fasaha ne na ɗan lokaci, daka shirya karɓar sabon ƙalubale da kuma haɓaka ƙwarewar ka.
+To, koma dai a wane rukuni kake , wannan haɗakar anyita ne domin ka.
+A HM Community, mun shirya samarda wata tafiya mai kama data ahali, inda tallafi da jan gora zasu taka rawa.
+Hasaso kanka zagaye da masu ƙaunar harkar fasaha, waɗanda zasu ƙara maka himma, su gina tare dakai, su kuma ɗoraka a hanyar kaiwa ga nasara a duniyar fasaha.
+Muna da sakin jikin rungumar kowa a tafi tare a cikin mu.!
+Kai, ba iya nan muka tsaya ba.
+NewDev.io shine shafin da yafi dacewa daku don baje baiwar fasahar ilimin kwamfiyuta.
+Tare da tulin kayan karatu masu inganci, da nusarwar ƙwararru, zaku ƙware a ilimin kwamfiyuta kamar mayu.
+Kuyi bankwana da matsalolin fasaha da suka jima suna ruɗar daku, ku kuma yi maraba da duniyar ilimin kwamfiyuta mai cike da armashi.!
+Yanzu bari mu tattauna akan wannan horaswa ta watanni biyun da zata canza muku wasan.
+Zat kasance mai ɗan tsawo, amma mai nishaɗantarwa.!
+Mun cika ta da tarin ilimin fasaha daga tushe da kuke buƙata, kama daga tsarin zubin na'ura da kuma ƙa'idojin samar da manhajoji.
+Mun muku alƙawarin horaswar ba zata zama shiririta ba, zata zamo horaswar da za'ace madalla da ita.!
+Kuma kun san me?
+Armashin bai tsaya a iya horaswar ba.
+A a. Ba iya nan zai tsaya ba.!
+A ƙarshen wannan ƙayatacciyar tafiya, zaku samu damar rabauta da ɗaya daga cikin tallafin karatu guda 30. Wanda kowanne yakai ƙimar ₦100,000 ga kowane mutum. Yauwa!
+Ku ƙaddara irin ƙofofin da wannan tallafin karatun zai iya buɗe muku a duniyar fasaha.
+Damammakin basuda iyaka!
+Yanzu mun san kun tafi tunani - wannan abu da ban mamaki, irin wannan garaɓasa haka?
+To, gaskiyar itace, ba garaɓasa bace.
+Mun ƙulla wannan haɗaka tsakanin HM Community da NewDev.io ne don mu kawar da ƙalubale da kuma share hanya don samar da gobe mai haske, kuma mai cike da ilimin fasaha ga Najeriya.
+Saboda haka, imma dai kai mai baiwar tsara zubin na'ura ne, ko kuma sabo ne a harkar fasaha, zamu dafa maka.
+Mun yarda da baiwar ka, kuma munzo ne don mu rene ta a kowane taku na tafiyar.
+Bari mu fuskance ta, duniya na buƙatar masu baiwar fasaha irin ku, mu kuma mun shirya tsumaku da dabarun da zakuyi cara a duniyar.
+Ga damar nan, kuma samun shiga wannan horaswar watanni biyu na kyauta ba tada yawa, saboda haka karku tsaya sanya.!
+Ku garzaya nan: https://hm.community/courses/introduction-to-web-development yanzu, don samun gurbin shiga wannan bita da zata sauya muku rayuwa.
+Kuna ji kuma! Ku tabbata kun bibiye mu a shafukan sada zumunta a [@HMCommunity] da kuma [@NewDev.io] don samun bayanai da ɗimi-ɗiminsu, dabarun fasaha da kuma labarun nishaɗi.
+Karku manta, koyo yakamata yazama mai sa nishaɗi, hakane ko?
+Ba zamuyi sanya ba wajen fara wannan tafiya tare daku.
+A tare da juna, zamu farke sirrin ilimin fasaha, tare da samar da tsarin fasahar da bashida tamka a Najeriya.
+Kun shirya shiga a dama daku?
+Mu haɗu a wajen horaswar!
+Ku dai iya sarrafa fasaha, ku zamo masu zumuɗi, mu kuma ɗau hanyar cimma nasara .!
+Naku:
+Ayarin kamfanin HM Community da kuma NewDev.io.
+Za a ƙaddamar da samfurin wayar CAMON 20 Doodle Edition da take da tsarukan "Anti-Shake", nan bada jimawa ba.
+A duniyar dake ta amon fasaha, inda tunani ya haɗu da ƙirƙira, samfurin wayar TECNO CAMON 20 Doodle ta fara ƙwace dandalin.
+Tushen wannan al'ajabin fasaha ya dogara ne da wani ɓoyayyen sirri, kyakkyawan murfin baya wanda aka ƙawata da tambarin doodle a jikinta, a wani haɗin gwiwa da Mr. Doodle.
+Bari mu natsa cikin abubuwan mamakin wannan gagarumar na'ura, yayinda muke jira a ƙaddamar da ita.
+Zanen Doodle a cikin duhu .:
+Ku shirya karɓar adon dake bayan murfin samfurin wayar CAMON 20 Doodle, wanda ke ɗauke da ƙayataccen zanen Doodle dake ƙyalli acikin duhu.
+Ku ƙaddara hoton kanku a cikin wurare masu duhu, ku kalla yayinda ɗan ƙaramin zanen zai riƙa ƙyalli, tare da ƙarawa wayarku abin burgewa.
+Da wannan zubi mara tamka, wayarku ta CAMON 20 zata zamo abar da za a riƙa hirarta a duk inda kuka je.!
+Kyamara mai kwaleti, mai ɗauke da fasahar Anti-Shake, da kuma fasahar Low- light Magic :
+Sabon samfurin wayar CAMON 20 Doodle ta dawo da kyamara mai kwaletin ɗaukar hoto da baida tamaka wajen washewa da kyau.
+Yi bankwana da bidiyoyi masu dishi-dishi da ɗaukar bidiyon dake cike da fasahar Anti-Shake, ɗauka mai tabbatar da kowane majigi/hoto a yanda yake.
+Hatta a yanayi mai ƙarancin haske, kyamararta mai fasahar low-light zata tallafa, zata baka ƙayataccen sakamako da zai baka mamaki.
+Abin gani na jin daɗi tare da aiki cikin sauri.!
+Samfurin wayar TECNO CAMON 20 Doodle, a gaskiya an gwama zane haɗe da takanolaji.
+Santsin jiki na zamani dake fidda sheƙi, yayinda keɓantaccen sikirin mai tsawon inci 6.9 ke bada abin kallo mai armashi, sai kuma kyakkyawan saurin aiki na 120Hz dake kore gajiyar masu sha'awar kalle-kalle, wasanni da kuma shiga shafukan intanet.
+Wayar, wadda kamfanin MediaTek Dimensity 8050 SoC ya samar, samfurin wayar CAMON 20 Doodle tana aiki cikin sauri na ban mamaki, tare da tallafawar RAM da yakai 16GB, da kuma memory da yakai giga bayit 256/512.
+Amore haɗakar kyau da ƙarfi a wannan waya mai jan hankali, aikin ƙirƙira da ya zarce tinani, da kuma ya dace da tsarin rayuwarku ta zamani.
+Ta Wuni da caji; ga kuma saurin yin caji:
+Kun damu da ƙarkon batirin waya?
+Da wayar CAMON 20 Doodle mai ɗauke da babban batir mai ƙarfin 5000mAh, zaku more yininku cikin sauƙi, da kuma amfani mai yawa.
+Kuma duk lokacin da aka tashi yin caji, caja mai saurin cajin da yakai ƙarfin 45W zata cika maka ita cikin sauri, kai dai tabbatar da kana haɗe kuma ana samun ka.
+Samfurin wayar TECNO CAMON 20 Doodle an tsarata ne don ta sake fasalin yanda kuke more ƙirƙira da fasaha.
+Saboda haka ku shirya yin tafiya data haɗa ƙirƙira da sabunta a wayar da aka tsara don ta burge.
+Kuci gaba da jiran ranar da za a sake ta a kasuwa, ku kuma kasance a shirye don zurfafa tunaninku tare da abokiyar tsarin rayuwa.!
+Zaku samu ƙarin bayanai yayinda kuka bibiyi shafin TECNO a Facebook, Instagram, da kuma Twitter.
+Sabbin kamfanonin fasahar kiwon lafiya lafiya, Jumia sunzo muku da tallafin kuɗaɗe da kuke buƙata.!
+A ranar Talatar 17 ga watan Mayun 2022, babban kamfanin nan dake Najeriya na cinikayya ta intanet, wato Jumia, ya saki rahoton rubu'in farko na hada-hadar shekarar 2022.
+Shugabannin kamfanin biyu; Jeremy Hodara da Sacha Poignonnec sun bayyana cewa siyayya, rabanu, da kuma babbar darajar ciniki, sun samu gagarumar haɓaka idan aka kwatanta da rubu'ai tara da suka gabata.
+Idan aka kwatanta rubu'in farko na shekarar 2021 da na 2022, siyayya ta ƙaru daga miliyan 6.6 izuwa miliyan 9.3, babbar darajar ciniki kuma ta ƙaru daga dala miliyan $198.9 izuwa dala miliyan $252.7, yayinda rabanu ya tashi daga dala miliyan $33 izuwa dala miliyan $47.6.
+Duk da wannan cigaban, abun baiwa kamfanin yanda yake so ba, inda asarar da aka samu daga ribar kuɗin ruwa, haraji, raguwa daraja, da kuma biyan bashi wato(EBITDA) takai dala miliyan $53.
+A wata ziyara ga TechCrunch, Poignonnec ta bayyana cewar kamfanin na shirye-shiryen rage asarar EBITDA izuwa ƙasa da dala miliyan $70 da suka gamu da ita a rubu'in farko na shekarar 2021.
+Yanzu mu koma ɓangaren daddɗan labarin cigaba.
+JumiaPay, kamfanin su na kayan fasaha, ya fito musu wata hanyar biyan kuɗi mai lasisi ta (PSSP), wanda zai basu damar sarrafa biyan kuɗi izuwa sauran kamfanoni a Najeriya.
+Wannan cigaban ya sanya shi gasa kai tsaye da kamfanonin Paystack, Flutterwave, eTranzact da kuma Remita.
+Sun kuma samu wata hanyar ƙara samun rabanu, a lokacin da suke tsananin buƙatar ƙara yawansa.
+PSSP sun samun kuɗaɗensu ne ta hanyar karɓar ladan hidima daga kowanne hada-hadar kuɗi da suka asassa, waɗannan kuɗaɗen suna dogara ne da girman hada-hada.
+Bisa ga rahoton, kashi 34 na siyayyar da akayi a Jumia, an kammalasu ne ta hanyar amfani da hanyar biyan kuɗi ta JumiaPay, da kuma lasisinsu, JumiaPay zasu ƙara samun yawan adadin a rubu'o'i masu zuwa.
+Fasahar kiwon lafiya cikin gaggawa
+Wataƙil, abu mafi daɗi game da wannan cigaban da aka yaɗa a rahoton shine, hukuncin da Jumia suka yanke na shiga harkokin kiwon lafiya.
+Ta hanyar haɗa gwiwa da Consultative Group to Assist the Poor, kamfanin na gwajin wata manhaja da zata baiwa masu amfani da ita damar ganawa da likitoci ta hanyar yin rajista duk wata a dala ɗaya.
+Idan aka dubashi shi kaɗai, wannan wani babban yunƙuri ne da zai baiwa Jumia damar shiga cikin Kwastomominsu da kuma abubuwan more rayuwa.
+Zai kuma wakilci ƙarin ƙaƙƙarfan abokin gasa da tsoffin kamfanonin kiwon lafiya.
+Hukumar Lafiya ta Duniya, ta bada shawarar kowane likita ya kamata ya riƙa duba marasa lafiya 600 ne a ƙasa, amma a Najeriya, kowane likita yana duba mutane 5,000 ne.
+Daɗin daɗawa, ƙungiyar likitoci ta ƙasa ta Najeriya, ta fidda wani rahoto daya nuna cewa likitoci 35,000 ne kaɗai daga cikin 72,000 da suke da rajista ke aiki a Najeriya. Yayinda sashin fasahar kiwon lafiya na Afrika ake masa shirin da zai kai dala biliyan $259 nan da shekara ta 2030.
+Koda yake ba ayi wani bayani mai faɗi ba dangane da yunƙurin, ƙoƙarinsu na ganin sun shiga fagen da yayi ƙaurin suna da wahala a Afrika, ba kuma shida alaƙa da kasuwancin su na nesa, ya janyo alamomin tambaya.
+Kafaffun kamfanonin sadar da ayyukan likitanci daga nesa da ake dasu a ƙasar sun haɗa da CribMD, iWello, da kuma WellaHealth.
+A matsayinsu na kamfanoni masu zaman kansu, babu bayanansu a ma'aikatun gwamnati. Amma a wata hira da Techpoint Africa a shekara ta 2021, iWell sun bada bayanin cewa sunada abokan hulɗa har guda 140. Yayinda wani rahoton ya nuna CribMD sunada marasa lafiya mutum 2,800 a shekarar ta 2021.
+Shugaban kamfanin WellaHealth shima ya bayyana cewar masu hulɗa da kamfanin na musamman sun kai mutum 10,000 , a shekarar 2017. Tare da wasu dubunnan a layin jira.
+Waɗannan kamfanonin a bayyane yake cewa ƙarfin jarinsu bai kai na Jumia ba. Yayinda sashen kiwon lafiya na Afrika ya tara dala miliyan $392 a shekarar 2021.
+Duk da haka,waɗannan kamfanonin dole susha fama da ƙarancin shiga yanar gizo, raguwar kuɗaɗen shiga na gidaje, da kuma ƙalubalen al'adu wajen samun abokan hulɗa da zasu biya.
+Daɗin daɗawa, Jumia basu da gogewa a harkar gudanarda kula da kiwon lafiya, da yiyuwar dole sai sun shiga matakin koyo idan suna son nasarar wannan yunƙuri.
+Duk da akwai damar da zasu iya ɗaukar ƙwararrun ma'aikata, abubuwa ba zasu gudanar musu yanda suke so ba cikin sauri.
+Gajeren yanayin da sashen harkar lafiya keda shi, shima wani ƙalubale ne da masu taka rawa a fagen ke fuskanta.
+A misali, ƴan asibitoci ƙalilan ne suke da bayanai a kwamfiyuta, kuma kaɗan ne acikinsu suma ke iya yaɗa waɗannan bayanan.
+Wannan yasa yake da matuƙar muhimmanci ga sabbin kamfanonin kiwon lafiya ta hanyar fasaha su samo mafita ga wannan sana'a tasu.
+Kafa haɗin gwiwa don samar da ingantaccen sashen kula da lafiya.
+Duk da cewa waɗannan abubuwan zasu iya kawo tarnaƙi ga yunƙurin Jumia na tsarin fasahar kiwon lafiya,Yomi Kazeem, wani ƙwararren masani a Salient Advisory, ya ce yayi imani cewa Jumia suna da abubuwa da ake buƙata don cimma nasara, musamman ma idan sun bi ta hanyar haɗin gwiwa.
+A wata ganawa da Techpoint Africa, ya bayyana cewar "Jumia zasu iya kafa tsarin fasahar kiwon lafiya daga nesa nasu, ta hanyar ƙarin haɗin gwiwa don sauƙaƙa bincike.
+Zasu kuma iya haɗa hannu da shagunan saida magunguna, suyi amfani da kayan aikin sadarwar su, ta hanyar haɗa kai magani da kuma gabatar da ayyukan likitanci ta nesa, Ta yanda bazai zamana marasa lafiya zasu gana da likita ne kawai daga nesa ba, a a, ya zamana ma zasu iya samun maganin da suke buƙata ba tare da wata matsala ba.
+Wannan sigar tana da muhimmanci, saboda gaba ɗaya idan muka ɗauka, bada damar gani da likita wani ɓangare ne guda ɗaya na harkar kiwon lafiya.
+Idan aka samu irin waɗannan kamfanonin suka kafu, samun masu amfani dasu zai haifar da gasa.
+Muhimmi dai, haɗin gwiwa da wani ɓangare zai sauƙaƙa haɗuwa da marasa lafiya masu yawa yanada matuƙar muhimmanci.
+Ba kamar kamfanonin fasahar kiwon lafiya da ake dasu ba, Jumia suna da rantsatstsun dabarun aiki da zasu taimaka musu gudanar da harkokin kiwon lafiya cikin sauri fiye da sabbin kamfanonin da sun dogara ne da tallafawar wani.
+A yayinda hakan ke nufin Jumia nada ƙwanjin kurdawa cikin kasuwa, zai kuma basu wata dama ta faɗaɗa ayyukansu na fasahar kiwon lafiya afaɗin ƙasa, alokaci guda kuma an ƙara samun wata hanyar tara rabanu ga Jumia.
+Sabbin kamfanonin kiwon lafiya, a misali, zasu fi samar da gamsashshen tsari kuma mai sauri idan suka haɗa gwiwa da Jumia.
+Irin waɗannan haɗin gwiwar zasu basu damar haɗuwa da abokan hulɗar Jumia masu ɗimbin yawa.
+Misali irin wannan haɗin gwiwar shine, haɗin gwiwar kamfanin sadarwa na Airtel Kenya da kamfanin MyDawa, wani shagon saida magunguna ta intanet, wanda ya baiwa Kwastomomin Airtel damar shiga shafin intanet na MyDawa ba tare da data ba, yayinda shi kuma MyDawa ya basu damar biyan kayansa da kuɗin layin Airtel.
+Duk da samun cigaba da annobar Covid-19 ta haifar, sabbin kamfanonin kiwon lafiya ta hanyar fasaha har yanzu sunada jan aiki a gabansu wajen cimma muradun Afrika.
+Duk da haka, haɗaka irin wannan zata zamo mabuɗin cigaba.
+Kamfanin SeamlessHR da Gidauniyar Bill Gates sunzo da tsarin hanyoyin samun albashi ga ma'aikata a Najeriya.
+Kamfanin dake gaba-gaba wajen tsara hanyar biyan albashi da harkar fasahar HR, SeamlessHR, tare da haɗin gwiwar Gidauniyar Bill and Melinda Gates, a baya-bayan nan sun shirya wani taron ƙasa na leburori a wani gagarumin taro don tattauna yanda za a kyautata walwalar leburori, da kuma gudanarda aiki ta hanyar sabuwar manhaja mai laƙabin Breeze Payer.
+Masu gudanarwa daga Kamfanonin 7up Bottling Company, Guinness Nigeria, Lafarge Cement, Julius Berger,Bua Cement, UACN da sauransu ne suka shiga zaman tattaunawar, haka kuma sun sake shiga hirar jin ɗimi da wakilai daga Gidauniyar Bill Gates suka jagoranta, da kuma shugabanci a SeamlessHR, don samo hanyoyin warware matsalolin da ma'aikata ke fuskanta a Afrika, musamman kyautata walwala da jin daɗin ma'aikaci, da kuma inganta tsarin gudanarda aiki ta hanyar amfani da hanyoyin fasaha.
+A wajen tattaunawar, SeamlessHR sun gabatar da manhajar Breeze Payer, wata sabuwar manhajar masu kamfanoni, wacce zata basu damar ganowa da riƙe masu baiwa acikin ma'aikatan su, ta hanyar mafita kamar irin ta Earned Wage Access.
+Wannan manhaja zata baiwa masu ɗaukar leburori damar su gudanar da tsarin biyan kuɗinsu yanda ya kamata, zata sauƙaƙe biyan albashi, za kuma ta haɗa ma'aikatansu da kasuwar hidimar ƙarin darajar kuɗaɗe.
+Wannan kyakkyawar mafita zata baiwa ma'aikatan damar taɓa albashin su kafin ranar biya, da kuma basu damar shawo kan matsalolin kuɗi na gaggawa ba tare da cike-ciken takardu ba, a kuma farashi ƙanƙani.
+Daɗin daɗawa kuma, manhajar na taimakawa masu karɓar albashi damar ɗora tarihin bashi, wanda zai basu damar samun manyan basussuka masu dogon lokaci, da kuma inganta musu baki ɗaya walwalarsu ta harkokin kuɗi.
+Lynn Eisenhart, mataimakin Daraktan Gidauniyar Bill and Melinda, wanda yayi jawabi akan yanda jindaɗi da walwalar ma'aikata keda tasiri wajen gudanar aiki, yace, "Ma'aikata sune kadarar mu mafi muhimmanci.
+Mutane kan zauna ne bisa ga yanda ma'aikatu suke ta'ammali dasu, da kuma irin tagomashin da suka samu lokacin zamansu.
+Leburori sun cancanci a tallafa musu a sha'anin kuɗi, kuma ma'aikatunsu su tallafa musu don su ƙara hazaƙa wajen gudanar da aiki.
+Muna so a basu damar samun tallafin kuɗaɗe a hannunsu ta hanyar Earned Wage Access.
+Wannan ne yasa muka haɗa hannu da SeamlessHR da masu ɗaukar aiki, don lura da bayanan ma'aikata da kuma samar musu mafita mai ɗorewa.
+Anasa jawabin, shugaban SeamlessHR, Emmanuel Okeleji, yayi bayani akan mafitar fasaha da kamfanin ya gina don inganta gudanar da aikin ma'aikatu, ga masu ɗaukar aiki da ma'aikatan.
+A manhajar Earned Wage Access da muka ƙirƙiro, manhajar tsarin biyan albashi, wacce ta taimakawa mahukuntan Seamless wajen tafiyar da tsarin biyan albashin masu ɗaukar aiki da ma'aikata, ta kuma sauƙaƙa musu samun basuka masu ƙarancin ruwa. Haka kuma mun gina fasahar bai ɗaya ta bibiyar lokaci da kuma halartar zuwa aiki.
+Wannan mafita ta bai ɗaya ta sanya karsashi bisa nasarar da ta bayar a faɗin duniya, wajen tabbatar da leburori sunyi cara a wajen aiki mai mara musu baya da kuma rungumar su.
+Da haɗin gwiwar Gidauniyar Bill Gates da kuma manayan leburori, zamu iya yin tasiri mai ɗorewa a ɓangaren baiwar aiki a Afrika .
+Ƙwararren masanin fannin kimar ma'aikata Farfesa Dapo Adeleye, Daraktan Tsangayar Ilimin Ma'aikata ta Jami'ar Georgetown, babban mai maƙala a taron ya gabatar da maƙala mai kyau akan muhimmancin jin daɗin ma'aikaci, da kuma amfanin sauyawa izuwa fasaha a fagen aiki a yau.
+"Da buƙatar mu matsarda tunaninmu mu sake ƙimanta mas'alar ma'aikaci.
+A maimakon maida hankali kawai akan muhimmiyar baiwa, dolene mu gane cewa akwai kaso mai yawa na ma'aikata, wanda ya ƙunshi leburori na ƙasa-ƙasa.
+Zuzzurfan bincike ya nuna irin tasirin da Earned Wage Access da kuma tallafin kuɗaɗe sukayi akan ƙwazon ma'aikata .
+Ta hanyar fifita walwala da samar musu da kayan aiki da suka dace, zamu fito da baiwar ma'aikatanmu, da kuma jawo cigaba mai ɗorewa ga masana'antun mu.", inji shi.
+Sashe na biyu na taron an shirya gudanar dashi a ƙasar Kenya, yayinda SeamlessHR ke cigaba da yaɗa tasirinsu, sunyi tsayin daka da jajircewa wajen ƙarfafar kamfanoni a Afrika ta hanyar sauye-sauyen fasahar zamani.
+Dangane da SeamlessHR
+SeamlessHR wani kamfani ne da yake gaba-gaba wajen tsara hanyar biyan albashi tare da kamfanin fasahar zamani na HR, Wanda suka duƙufa wajen tallafawa kamfanoni wajen gudanar da tsarikansu na biyan albashi da HR, tun daga ɗaukar aiki har zuwa ritaya, ta hanyar sabbin hanyoyin fasahar zamani.
+Tare da manya da matsakaitan kamfanoni kusan 1,000 a cikin ƙasashe sama da 20, kamfanin nada ofisoshi a Najeriya, Ghana, Kenya, sai kuma ba jimawa ya fara ayyuka a Botswana.
+Kamfanin ba a jima ba ya tara dala miliyan $10 a Zangon A na zagayen tara kuɗaɗe don riɓanya faɗaɗa ayyukansu a Afrika, da kuma zuba sabbin kayan kuɗi, waɗanda wasunsu za a nunasu a wannan taron.
+SeamlessHR kamfanin fasahar zamani ne daya haɗa hannu da Gidauniyar Bill and Melinda Gates don ayyuka da suka shafi ƙananan leburori a Afrika.
+Fito da baiwarka ta yin wasanni tare da wayar Infinix NOTE 30, ta hanyar amfani da fasahar Bypass Charging.
+Ga mayun gem a waya, don haɗuwa a shirya zagayen wasanni sanannu kamar su "Free Fire" ko "Arena of Valor", wasannin kan taimaka wajen samar da nutsuwa da kaucewa damuwa ta yau da kullum.
+Duk da haka, wani ƙalubale kan bijiro lokacin da cajin wayoyinsu ya ƙare yayinda suke tsaka da wasan gem, zasu buƙaci caji don cigaba da wasan.
+A mafi yawan lokuta hakan kan jawo ɗaukar zafi ga gama garin batiran wayoyi, wanda hakan kesa baturan suna shan wahala, saboda toshewar faifan SoC.
+Anyi sa a, wayar Infinix NOTE 30 tazo da maganin wannan damuwar ta hanyar fasahar bypass charging, inda take ba masu wasan gem ɗin damar yin caji yayinda suke wasansu ba tare da ɗaukar zafi ba.
+Da wayar NOTE 30, masu gem zasu more dogon lokacin wasa mara katsewa kuma cikin kwanciyar hankali.
+Wayar Infinix 30 tazo da ƙayatacciyar fasahar caji cikin sauri, inda take bada cajin yin wasanni na tsawon awa 1.95 da cajin minti biyar kacal.
+Daɗin daɗawa, tana caja batiri mai ƙarfin 5000mAh izuwa kaso 75% cikin mintuna 30 kacal.
+Wani abu da wayar tayi zarra dashi shine fasaharta ta bypass charging, wacce ke baiwa wayar wuta kai tsaye, a lokaci guda kuma tana caja batiri ana kuma wasan gem da ita.
+Wannan zai sa batirin ya daɗe, hana batiri tsufa da wuri, da kuma ƙarin kariya yayin da ake caji ana kuma gem.
+A fasahance, fasahar bypass charging wata siffa ce da wayar NOTE 30 ta keɓanta da ita.
+A lokacin da cajin batiri yakai ko ya wuce matsayin fara bypass charging (kaso 30% na caji), cajin zai riƙa haura batiri da tura wuta kai tsaye izuwa waya.
+Ta hanyar dasa mata fasahar bypass charging, wayar an rabata matsalolin ɗaukar zafi dake samun wayoyi yayinda ake caji da gem dasu lokaci ɗaya.
+A wani gwaji da aka gudanar a ɗakin bincike na Infinix, fasahar bypass charging ta rage matsalar ɗaukar zafi ga wayar NOTE 30 da digiri 2-7°, idan aka kwatanta da hanyoyin caji da aka saba dasu.
+Wannan zai yi matuƙar inganta nutsuwar mai amfani da wayar, musamman ma yayin ɗaukar dogon lokaci ana gem, ko kuma lokacin yanayin zafi.
+Kunna fasahar bypass charging baida wahala, za a iya samunsa ta hanyar X-Arena game interface.
+Masu amfani da wayar zasu iya janyo ɓangaren dama ko hagu na saman sikirin ɗin ta, sai su zaɓi kunna fasahar bypass charging.
+Kamfanin Infinix sun duƙufa wajen samarwa masu amfani da wayarsu ƙarin ƴanci da kuma sabbin ƙirƙira.
+Da wannan sabon samfurin, masu wasannin gem na iya canja matsayin bypass charging ta cikin saitin X-Arena izuwa matakai uku: matakin 20%, ko 30% ko 40%.
+Wanna zai ƙarfafi masu amfani da wayar su zaɓi ko wutar caji da ake kanyi, kai tsaye ta baiwa waya wuta a maimakon bi ta cikin batiri, a lokacin da batiri yakai matakin da suke so.
+Don morewa lokacin wasa mai armashi, jerin wayoyin NOTE 30 sunzo da keɓantacciyar manhajar wasanni ta X-Arena.
+Wacce ke ƙarƙashin gudanarwar ƙaƙƙarfan injin Dar-Link 2.0, cikin hazaƙa take inganta gudun CPU da GPU na injin Helio G99, don tabbatar da gudanar wasa da kuma ƙayataccen hoton kowane sashen wasa.
+XArena na matso da wasu alamomin kusa, kamar alamar kira da kuma tura saƙo, akwai kuma fasahar Raspawn Countdown, wacce ke baiwa masu gem damar sanin ƙirgen lokacin su na wasa, wanda zai basu damar matse ayyukan su.
+Wani ƙarin kuma, wayar NOTE 30 Pro takai harkokin gem izuwa wani mataki da fasahar ta VC liquid cooling, sautin flagship JBL da kuma sikirin mai ƙarfin nutsewar 120Hz, garantin babban sauti, garantin taɓi, da kuma kyakkyawan gani ga masu sha'awar gem.
+A yayinda zafi ya tsananta, wayar Infinix NOTE 30 na zamowa aboki mara yankewa ga masu gem, Inda take basu damar yin wasanni ba ƙaƙƙautawa ba tare da ta riƙa ɗaukar zafi ba.
+Ku nutse cikin duniyar wasanni mai armashi tare da abokan wasanku tsawon rana , ku kuma shige cikin annashuwar more wasanni masu ɗebe kewa tsawon lokacin zafi.!
+Za a iya sayen jerin wayoyin Infinix Note 30 a shagunan dillalai masu lasisi a duk faɗin Najeriya.
+Ku bibiyi shafin Infinix Nigeria a kafofin sadarwa na zamani don samun ƙarin bayanai akan jerin wayoyin Note 30 da kuma fasalin su mai ban ƙaye.
+Fito da Ƙarfin Matasa da Al'adu da Tattalin Arziƙi na Ƙirƙire-ƙirkire: Hanya Zuwa Ga Goben Afirka - Ƙarfin Afirka
+The Wheatbaker, wani mashahurin otel dake zaune a Vitoria Island a garin Legas ya shaida wani gagarumin taron na manyan 'yan kasuwa, makirkira masu tasiri a Afirka, masu tsare-tsare, da zakarun fasahar dijital da kuma manyan ‘yan kasuwa daga masana’antu daba-daban ranar juma’ar da ta gabata.
+Waɗannan ƙwararrun mutane masu kyawawan tunani da manufa guda sun taru ne don gano yadda Afirka za ta iya tabbatar da makomarta ta hanyar fito da ƙarfin matasanta da al'adunta da tattalin arziƙinta na ƙirƙire-ƙirƙire fili.
+Africa Soft Power ne suka shirya tare da haɗin gwiwar gidauniyar Ford Foundation, da Open Society Foundations, tare da African Women on Board, taron ya mayar da hankali kan ƙaƙƙarfan alaƙar da ke tsakanin dandamali na dijital, ɗaukar fasahar taknoloji, ƙarfafa matasa, da ƙirƙirar kasuwanci.
+A matsayinta na kasa sannan kuma nahiya, yana da matukar muhimmanci a sanya mata da matasa cikin kowane rukunin shugabanci.
+Daga #endsars, zuwa #Congoisbleeding da sauran ƙungiyoyin zamantakewa da dama waɗanda nahiyar ta shaida a cikin 'yan shekarun nan, mun ga abin da ke faruwa idan ba mu samar da haɗin kai da tsaro da ake buƙata ga mata da matasa ba '' in ji Nkiru Balonwu, Daraktan ƙirƙire-ƙirƙire kuma wanda ya kafa Africa Soft Power.
+"Za mu ci gaba da yin wannan tattaunawa, tare da ba da haske kan dimbin damammakin da Africa’s Soft Power, wadanda ke da tushe mai asali a cikin al'adunta da yawan matasa, ke bayarwa don haɓaka.
+Nkiru ya kara da cewa “Yayin da bullowar kafafen sadarwa na zamani da ci gaban fasahar kere-kere ke samar wa matasan Afirka hanyoyin bayyana baiwarsu, da seta alkiblarsu, da gina sana’o’i masu inganci a masana’antu daban-daban, muna jajircewa wajen ci gaba da tattaunawa da za ta taimaka wa nahiyar Afirka wajen yin amfani da wannan damar ta bunkasa.”
+Ko da yake masana'antun ilimi da ƙirƙire-ƙirƙire suna ba da damammaki ga matasan Afirka, har yanzu akwai sauran rina a kaba ta fuskar barazanar da suke cigaba da fuskanta – wanda rashin tsaro ya kasance gaba-gaba a wannan jerin.
+Tsaro wani al'amari ne na tsaka-tsaki wanda ya shafi komai tun daga ainihin 'yancin ɗan adam, matsayin rayuwa, kasuwanci, cigaba, 'yancin zirga-zirga, samun damar ilimi, daidaiton jinsi, da dai sauransu.
+Rashin tsaro na daya daga cikin abubuwan da sukan kawo tasgaro ga cigaban ƙirƙire-ƙirƙire da bunkasar tattalin arziki a yankuna da dama na nahiyar.
+Taron ya ƙunshi wani zaman tattaunawa, wanda Folashade Anozie, shugaba kuma wanda ya kafa kamfanin Nonconform Productions ya jagoranta.
+Wakilai da kwararru kan zaman sun hada da; Njideka Agbo, Wanda ya kafa kuma Shugaban kamfanin Glann Media Consult kuma tsohon editan Mujallar Guardian Life; Hon. Akintunde Oyebode, kwamishinan kuɗi da bunkasa tattalin arzikin jihar Ekiti; Dr Seun Fakorede, Kwamishinan Matasa da Wasanni na Jihar Oyo da Adaora Ikenze, Darakta mai kula da manufofin jama'a, Anglophone West Africa a Meta.
+"Ba za a iya magance matsalar tsaro ba inda babu adalci" Inji Hon Akintunde Oyebode, Kwamishinan kuɗi da Ci gaban Tattalin Arziki na Jihar Ekiti."
+“Babban abinda ke haddasa aikata laifuka shine rashin hukunci, wannan shine dalilin da ya sa za ka ga cewa a cikin al’ummar da ba a samu hukunci ba, sau da yawa mutane sukan raja’a zuwa ga aikata laifuka.
+Akintunde Ya cigaba da cewa “matsalar tsaro a Najeriya matsala ce da ake fama da ita, a wasu sassan kasar nan, ana ci gaba da yin garkuwa da mutane, a wasu sassan kuma akwai matsalar shan miyagun kwayoyi, amma babban abin da ya dace shine mu yarda cewa karfin jihohi ya dade da tabarbarewa, har an kai wani matsayi da ba za a iya magance matsalolin zamantakewa ba.”.
+Da kusan kashi 60 na al'ummar Afirka 'yan kasa da shekaru 25, nahiyar tana alfahari da matsayinta na wadda tafi kowacce kuruciya a duniya.
+Nan da shekara ta 2050, hasashe ya nuna yawan jama'arta zai rubanya, inda za a sanya wannan kididdigar yawan matasa a matsayin babbar dama ta Afirka na ci gaba, ƙirƙire-ƙirƙire, da ci gaba mai dorewa.
+Njideka Agbo, wanda ya kafa kuma Shugaban Glann Media Consult, kuma tsohon editan Mujallar Guardian Life, ya ci gaba da cewa, rashin tsaro da rashin shigar da kowa ne ke haifar da rasa ƙwararru a Najeriya da sassan Afirka.
+“A baya mutane sukan yi zumudin dawowa Najeriya, amma duk abin ya canza.
+A shekarar 2018, mune rukuni na 4 mafi girma na masu neman mafaka a Tarayyar Turai, saboda mutane na ta ci gaba da ƙara ƙaura don neman wurare masu daɗin rayuwa da ƙarin samun damarmaki da tsaro mafi kyau.
+Ta kara da cewa matakin kishin kasa da matasa ke nunawa kasarsu ya dogara ne da irin kulawar da suke samu daga Gwamnati, tare da samar da tsaro da hada kai da kasar ke yi musu.
+Tabbatar da makoma: Ƙarfin Matasa, Al'adu da Tattalin Arzikin ƙirƙire-ƙirƙire ya kasance muhimmin dandali ga masu ruwa da tsaki na gwamnati da matasa masu murya a duk masana'antu da yawa don yin hulɗa da juna.
+Yayin da masu ruwa da tsaki a duniya ke nuna goyon baya ga burin Afirka, ya zama wajibi a amince da muhimmiyar rawar da karfin matasa da tattalin arzikin ƙirƙire-ƙirƙire ke takawa wajen gina nahiya mai cigaba.
+Cloudax Ya Kaddamar da dandalin P2P don buƙatun Kasuwancin Cryptocurrencies a Najeriya.
+Yayin da Najeriya take fama da kuɗin ruwa wanda ke ƙaruwa kullum tare da ƙoƙarin karɓar kuɗin crypto a afirka, Cloudax, wani fage mai sabin salo na fasaha wanda aka samar don masu tsara bayanai a shafukan sada zumunta da al'ummomi, zai ƙaddamar da manhajarsa ta P2P App da shafinsa na yanar gizon don koyawa 'yan Afirka crypto, ta yadda za a cike giɓin buƙatar crypto ga waɗanda suke amfani da shi sau ɗaya da kuma waɗanda suke amfani da shi ko da yaushe.
+Da yake magana game da ra’ayin 'yan Najeriya a sararin tattaunawa kan crypto, Shugaba na Cloudax, Olumuyiwa A, ya ce "Ina ganin saurin karɓuwar cryptocurrency a Afirka ya fi jawo matsalolin da matasan Afirka ke fuskanta wajen gudanar da ayyukan kuɗi marasa iyaka yayin rayuwa da aiki. a ƙauyen duniya da duniya ta zama.
+Kuɗaɗen dijital sun zama hanya mafi sauƙi don gudanar da hada-hadar kuɗi kuma abin farin ciki ne ganin cewa gwamnatocin Afirka da yawa suna kokarin ko kuma suna kan hanyarsu ta samar da dokoki waɗanda zasu haɓaka amfani da cryptocurrencies a yankunansu.”
+A wani rahoto na 2022, Chainalysis ya nuna cewa musayar P2P tana da kashi 6% na duk adadin ma'amalar cryptocurrency a Afirka, fiye da ninki biyu na yanki mafi kusa wato Tsakiya & Kudancin Asiya da Oceania.
+Wannan yana nuna buƙatar ‘yan kwangila da su daidaita muhallin kasuwancin web3 da na fiat a Afirka.
+Ya ci gaba da cewa “Muna farin cikin gabatar da dandalinmu na P2P, wanda zai cike gibin da ke tsakanin masu sha’awar crypto da ainihin masu amfani da su a Najeriya.
+Manufarmu ita ce samar wa mutane mafita mara kyau kuma mai araha don ma'amalar crypto.
+Yayin da tsaron dukiya ya zama mafi girman abin damuwa ga yawancin masu amfani, CloudP2P ya kasance mafi kyawun wuri ga masu amfani kuma wuri mai aminci da daɗin amfani don saye da sayarwa masu sauri da sauƙi da kuma musanyawa ta crypto."
+Dandalin Cloud2p yana ɗauke da wasu tsare-tsare daban-daban waɗanda suka bambantashi da dandalin P2P wanda ake amfani da shi a halin yanzu.
+Abu na farko dai ya samar da wani yanayi mai aminci inda masu amfani zasu na saye da sayarwa da musayar kuɗaɗen crypto kai-tsaye a tsakaninsu, ba tare da buƙatar masu shiga tsakani ba.
+Wannan ba wai iya wahalar hada-hadar ya rage ba hattta bata lokaci wajen daidaitawa.
+Cloudax yana da wasu samfura wadanda ake aiki akansu, gami da kantin sauki da rangwame, da lalitar bayar da tallafi.
+Danna wannan link din https://app.cloudp2p.io/auth/signup?referralCode=HARRD55E don fara amfani da crypto tare da CloudP2P.
+Kamfanin PATRICIA Technologies Limited ya kulla alakar haɗin gwiwa da DEIMOS Security domin kare dukiyoyin Abokan Ciniki.
+Patricia Technologies Limited ya shiga haɗin gwiwa tare da Deimos Cloud Security.
+Wannan haɗin gwiwar yana nufin kawo sauyi kan yadda kamfanin cryptocurrency ke kare dukiyoyin abokin ciniki da kyautata matakan tsaro.
+Ganin karuwar barazana ta yanar gizo da satar bayanai a duk duniya, kiyaye kimar abokan ciniki ya zama abu mafi mahimmanci ga kasuwanci.
+Patricia ta himmatu kwarai don ganin ta cimma wannan burin ta hanyar haɗin gwiwarta da Deimos Cloud Security.
+Ta hanyar haɗa ƙarfi, Patricia tana ɗaukar muhimmin mataki don ganin ta samar da tsaro cikakke ga abokan cinikinta.
+Deimos na amfani da ƙwarewa da fasaha mai girma wanda ke ƙarfafa tsarin tsaron da muke amfani da shi a halin yanzu, da kuma samar da katangar ƙarfe daga duk wani abin da ake tunanin zai iya zama barazana...
+Abokan cinikinmu yanzu za su iya samun kwanciyar hankali, sanin cewa dukiyoyinsu suna hannun amintattu.
+Wannan haɗin gwiwar yana nuna sadaukarwar Patricia ga ƙirƙira da isar da ayyuka na musamman ga abokan cinikinmu masu kima.
+Da yake tsokaci game da haɗin gwiwar, wanda ya kafa Patricia kuma babban jami'in gudanarwa, Hanu Fejiro, ya bayyana cewa, "Mun gane, kuma mun himmatu da kare mahimman bayanai kuma muna ci gaba da ƙoƙari wajen ganin mun yiwa ‘yan ta’addan yanar gizo fintikau.
+Tare da Deimos a matsayin abokin hulɗa mai mahimmanci, muna da tabbacin cewa za mu iya cimma, har ma mu dara mafi girman matakan tsaro. ".
+Babban Jami'in Gudanarwa na Deimos, Andrew Mori ya bayyana ra'ayinsa game da haɗin gwiwar, "A matsayinmu na abokan haɗin gwiwa na Patricia, mun himmatu wajen aiwatar da daidaitattun ayyuka na masana'antu don tsaro na girgije da kayayyakin more rayuwa.
+Deimos na amfani da tsare-tsaren tsaro da aka inganta da kuma ƙwarewar aiki a kan kayan Patricia na amfani da fasaha kan yanar gizo da manhaja.
+Tare, za mu inganta matakan tsaro, tare da tabbatar da cewa dukiyoyin abokan cinikin Patricia sun kasance cikin kariya daga duk wani lahani mai yuwuwa”.
+Wannan haɗin gwiwar ya nuna lokacin farin ciki ga kamfanonin biyu yayin da muke tsammanin haɗin gwiwa mai nasara wanda zai sake fasalin tsaro a zamanin na fasahar kwamfuta.
+Waɗannan katunan dala na kama-da-wane za su iya taimaka muku wajen yin hada-hadar kasuwanci na duniya daga gida Najeriya.
+A lokacin hutu, sai da na sami sabon katin ATM da yake saura kwanaki kadan wanda ya gabata ya kare.
+Amma canzawar ya zo da wasu ƴan ƙalubale.
+Inda a baya na biya biyan kuɗade kamar na su YouTube da shi, yanzu kam ina fama.
+A ranar Alhamis, 5 ga watan Janairu, 2023, bankin Zenith ya sanar da abokan huldarsa cewa zai dakatar da cirar kuɗi na ATM na kasa da kasa, da hada-hadar kasuwanci ta yanar gizo, da kuma PoS da ake gudanarwa da katin naira daga ranar Litinin 9 ga watan Junairu, 2023.
+Ta yin hakan ne ta shiga cikin jerin bankunan Najeriya da suka rufe hada-hadar kasuwanci a kasashen duniya ta hanyar amfani da katunan naira.
+Tun daga shekarar 2022, da yawan bankunan Najeriya ko dai sun rage ka’idojin hada-hadar kasuwanci a ƙasashen duniya ko kuma sun rufe su gaba daya saboda yadda CBN ke ƙoƙarin dakile hauhawar farashin kayayyaki a kasar.
+Sai dai an samu bullowar wasu hanyoyi, musamman katunan dala, inda ‘yan Najeriya da dama ke bukatar hanyoyin biyan kuɗaɗen hada-hadar kasuwanci a kasashen duniya.
+Ga kaɗan daga cikin waɗannan zaɓuɓɓuka.
+Kula: Duka zaɓukanda aka lissafo shawarwari ne kawai, ba amincewa ba.
+Tabbatar cewa ka yi bincikenka kafin amfani da ɗaya daga cikin su.
+Payday
+A cikin 2021, sabuwar kamfanin fintech wato Payday, ta sanar da cewa ta rufe zagayen farko na dala miliyan 1 'yan watanni bayan ta fara aiki.
+Sabon kamfanin mai kishin Africa da ke amfani da salon kansa yana ba da dama ga 'yan Afirka da ke ciki da wajen nahiyar su tura kuma su karɓi kuɗi.
+Ta hanyar samar da asusun ajiyar kuɗi a cikin ƙasashe kamar Burtaniya da Amurka, masu amfani da ita za su iya karɓar kuɗi kamar na gida, ba tare da la'akari da inda suke ba.
+Masu amfani kuma za su iya ƙirƙirar katin dala wanda zai ba su damar yin sayayya har zuwa $25,000 kowane wata.
+Samun katin kyauta ne, amma dole ne a tantance masu amfani.
+Changera
+Kamar yadda Babban Bankin Najeriya (CBN) ya sanya iyaka kan adadin kuɗin da ‘yan Najeriya za su iya mu’amala da su, da yawa sun koma amfani da kuɗin crypto don samun damar tsallake waɗannan takunkumin.
+Farawar Crypto, Bitmama ya gina Changera a cikin 2021 don wannan dalili.
+Ta hanyar samar da katin dala mai kama-da-wane, masu amfani da Changera na iya biyan kuɗi ta kan layi tare da katin.
+Sauran fasalulluka sun haɗa da tura kuɗi, canjin kuɗi, da asusun banki na kama-da-wane.
+saɓanin sauran zaɓuɓɓukan da ke wannan jeri, Changera tana aiki da tsarin kyauta da katuttukanta.
+Masu amfani za su iya zaɓar tsarin kyauta, mai zaman kansa akan $50 kowace shekara, da kuma babban tsari a kan $100 kowace shekara.
+Masu amfani da tsarin kyauta na iya ƙirƙirar katunan kama-da-wane, amma ƙirƙirar asusun kama-da-wane na USD, GBP, CAD, ko EUR ana samar da su ne kawai ga masu amfani da tsarin mai zaman kansa ko ƙima.
+Chipper Cash
+Chipper Cash yana ɗaya daga cikin abubuwa mafiya daraja a Afirka kuma Ham Serunjogi da Maijid Moujaled suka kafa a cikin 2014.
+Chipper Cash yana ba da katin dala mai kama-da-wane wanda masu amfani za su iya amfani da su yayin sayayya a kan dandamali irinsu Amazon ko lokacin biyan kuɗin shiga.
+Samun katin kama-da-wane yana buƙatar a fara buɗe asusun Chipper Cash.
+Hakanan kuna buƙatar samar da hanyoyin tantancewa, kamar fasfo na ƙasa da ƙasa ko katin shaidar ɗan ƙasa.
+Geegpay
+A cikin shekaru biyar da suka gabata an samu bullowar 'yan Najeriya mazauna Najeriya da ke aiki da kamfanoni a wajen nahiyar.
+Amma a yayin da ya ake daɗa samun sauƙin samun waɗannan ayyukan, karɓar kuɗin aikin ba lallai ba ne ya zo da sauƙi ba.
+Duk da ƙarin wasu hanyoyin na karɓar kuɗi daga wajen nahiyar, hakan ya kasance ƙalubale.
+Geegpay samfur ne na Raenest wanda aka yi domin ma'aikatan masu zaman kansu a Afirka.
+Ta hanyar Geegpay, ma'aikata masu zaman kansu na iya karɓar kuɗinsu su kuma samar da takardar shaidar biyan kuɗi.
+Haka nan zasu samu asusun dalar Amurka da katin dala na kama-da-wane.
+Samun katin dala na kama-da-wane na cin $2 kuma hakan na iya yiwuwa ne kawai bayan mai amfani ya kammala duk hanyoyin yin rajista da tabbatarwa.
+Za a buƙaci ku bayar da cikakkun bayanai kamar aikin ku, bayanan ma'aikata, shaidar adreshi, da katin shaida, don haka tabbatar da cewa kuna da su a hannu.
+Wani sabon kamfanin Najeriya, Raenest, yana son taimaka wa 'yan Afirka a ɗauke su aiki a kuma biyan su a ko'ina
+ALAT
+. Wanda mafi yawan lokatu ake kiranta da cikakken bankin dijital na farko a Najeriya, ALAT shine reshen fintech na bankin Wema.
+An kafa shi a cikin 2017, ALAT yana ba da cikakkiyar ƙwarewar banki ta dijital don abokan cinikinta sama da 700,000.
+Masu amfani da ALAT na iya ƙirƙirar sabon asusu a ƙasa da mintuna biyar, wanda zai ba su damar samun lamuni da dandamalin tanadi na atomatik.
+Hakanan yana ba da jerin katuna waɗanda ke sauƙaƙa biyan kuɗi gida da waje.
+Katin kiredit ɗin dalar sa da katunan dala na kama-da-wane suna taimaka wa masu amfani da shi don biyan kuɗi, gami da YouTube yayin biyan sabis a kan gidajen yanar gizo na duniya.
+Eversend
+Eversend ya samar da katunan kama-da-wane ga masu amfani tun 2020, wanda ke ba su damar biyan sabis a kan dandamali kamar Aliexpress, Amazon Prime, Spotify, Skillshare, da Namecheap.
+Bude katin kama-da-wane a kan Eversend kyauta ne, amma masu amfani suna biyan kuɗin kulawa na $1 kowane wata.
+Haka nan dole ne su saka kuɗi $1 a katin, yayin da ana iya buɗe katunan da yawa.
+Za a iya saka kuɗi a katin yanar gizo na Eversend ta hanyar tura kuɗi daga asusun banki ko ta kuɗin wayar hannu ko ta hanyar amfani da katin hada-hadar kuɗi.
+Shin kuna mu'amalar kuɗi ta ƙasa-da-ƙasa a wasu lokutan?
+Da wace hanyar biyan kuɗi kuke amfani?
+Yi bayani a sashen tsokaci.
+An ƙaddamar da Global Tech Africa tare da haɗin guiwar NITDA da U.S. Consulate General, Lagos
+Abuja – Global Tech Africa (GTA), wani yunƙuri na Gidauniyar Future Map Foundation wanda Ascend Studios Foundation ta tsara kuma ta aiwatar; tare da haɗin gwiwar Hukumar Bunkasa Fasahar Sadarwa ta Kasa (NITDA) da Ofishin Jakadancin Amurka da ke Legas sun kaddamar a Najeriya.
+An tsara taron ne don tara masu ruwa da tsaki na Afirka da na ƙasa da ƙasa a fannin Tech, buɗe damar samun bunƙasuwa, da gina fasahar ƙere-ƙere a Afirka.
+Sauran abokan haɗin gwiwa sun haɗa da Business Sweden, Garden Group, RivExcel Health da sauran katafarun kamfanonin Fasaha a duk faɗin duniya.
+Ana sa ran Afirka za ta taka muhimmiyar rawa a duniyar fasaha ta hanyar samar da ƙirƙire-ƙirƙire da baiwa da sabin damarmakin kasuwanci a fannoni irinsu fasahar wayar hannu da kasuwanci ta yanar gizo da fasahar hada-hadar kuɗi da fasahar harkokin noma da tattalin arziƙi na na'ura da yanar gizo.
+Darakta Janar na NITDA, Inuwa Kashifu Abdullahi ya jaddada damar da GTA za ta iya kawowa Afirka inda Najeriya zata taka muhimmiyar rawa wajen bunkasa ci gaban fasahar ƙere-ƙere ta Afirka “Kwarewar fasahar Najeriya zata kunna fitilar da zata haska fasahar ƙirƙire-ƙirƙire a Afirka ta hanyar samun ci gaba mai inganci na dijital a nan gaba, inganta samar da ayyukan yi da bunƙasar tattalin arziki a faɗin nahiyar.
+Ƙasar ta hau kan hanyar zama babban fagen fasahar na'ura da yanar gizo a Afirka ta hanyar amfani da matasan ƙasar masu sha'awar fasaha da dokoki masu kyau.
+Ƙasar Amirka ta kasance babbar abokiyar haɗin guiwa ga Nijeriya wajen samar da kyakkyawan yanayi ga fasahar ƙere-ƙere.
+“Tawagar Amurka ta Najeriya za ta ci gaba da inganta kawancen da zai haɓaka fasahar ƙere-ƙere da samar da sabbin kyakkyawan muhallai ga sabbin kamfanoni a Najeriya, don ci gaban fasaha da inganta dangantakar kasuwanci da saka hannun jari tsakanin Amurka da Najeriya.
+Najeriya tana samun karbuwa cikin hanzari ga Kamfanonin fasaha na duniya a matsayin cibiyar kwarewa da fasaha da ƙirƙire-ƙirƙire, kuma Ofishin Jakadancin Amurka ya kuduri aniyar yin aiki tare da kamfanonin fasahar Amurka da na Najeriya don amfana da wannan babbar dama." - Jakadan Amurka Will Stevens.
+Za a gudanar da taron GTA a Legas ranar 25 ga Yuli 2023 tare da masu ruwa da tsaki 300 daga kamfanonin fasaha masu zaman kansu, na gwamnati, da sassan ci gaba.
+Taron zai biyo bayan taron GTA a birnin Lagos na Najeriya tsakanin ranakun 17 zuwa 20 ga watan Nuwamba 2023.
+Yayin bayani game da irin damarmakin da GTA zai bai wa mahalarta, Dr. Inya Lawal, shugaban Ascend Studios Foundation kuma mai aiwatar da ayyukan GTA, da Abdulsalam Umar, shugaban Future Map sun tabbatar da cewa GTA zai samu tallafi daga fannoni masu zaman kansu da na gwamnati da na ayyukan kawo ci gaba don samar da damarmaki kan masu harkokin fasaha da tallafa wa sabbin kamfanoni da zuba kuɗin buɗe kamfani, kamar dai yadda yake kuma tabbatar da ƙarin samun damar shiga da haɓaka Duniyar Mata Masu Fasaha.
+Taron na GTA zai samar da wani dandali ga masu ruwa da tsaki da suka haɗa da masu saka jari, masu kula da harkokin kasuwanci, masu sayen kayayyaki, malaman jami’a, da sauran jama’a, don shiga tattaunawa da kuma lalubo damarmaki na haɗin guiwa don tsara makomar fasahar Afirka.
+Taron ya ƙunshi sassa kamar haka, sashen farawa, karkasa mahalarta, gasa, bayyana ababe, alaƙa ta gefe, da cin abinci.
+Bayyana damar da ke cikin Dokar Kafa Sabbin kamfanoni ta Najeriya da kuma abubuwan da ta bayar, da GTA a matsayin taron ƙungiyar taron koli da sauran tarurruka zasu ba da dama ga masu zuba jari, masu mulki, da 'yan kasuwa don gano zuba jari da damar haɗin guiwar duniya.
+GTA za ta samar da wani dandali ga masu amfani, masu sha'awa, da jama'a baki daya don yin hulɗa tare da koyo daga masana fasaha da kwararru- baje kolin sabbin fasahohi a Afirka da kuma ba da haske game da sabbin abubuwa da zasu so a gaba.
+Gamic da Scalex suna Ƙarfafa Masu Amfani na Afirka da damar siye da siyar da Crypto cikin Sauƙi akan manhaja.
+A duniyar crypto mai ban ƙaye da hanyoyin hada-hadar kuɗin da bata da mai tsari guda ɗaya, wani abu mai ban sha'awa ya faru.
+Gamic da Scalex sun haɗa ƙarfi don samar da kyakkyawar mafita ga 'yan Afirka waɗanda ke son siye da siyar da crypto a kuɗinsu na gida.
+Wannan haɗakar ta jawo wasu damarmaki a duniyar Web3, tana mai sauƙaƙawa mutane shiga duniyar crypto.
+Menene wannan sabon fasalin na musamman?
+A kan manhajan hira na Gamic, yanzu zaku iya ba da kuɗin walat ɗin ku na Web3 kai tsaye tare da fiat kuma ku janye kai tsaye zuwa asusun bankin ku cikin sauƙi.
+Gamic da Scalex sun taru don samar da wani fasali na musamman wanda ke ba ka damar saka kuɗi cikin sauƙi a cikin walat ɗin crypto (ajiya), ko cire kuɗi daga ciki (cire) a cikin kuɗin gida, kamar Naira.
+Me yasa wannan fasalin yake da matukar mahimmanci?
+Ga mutane da yawa a Afirka, samun damar amfani da cryptocurrencies na iya zama da wahala.
+Amma Gamic da Scalex suna canza wannan ta hanyar gina kayan aiki da ayyukan da zasu taimaka muku wajen samun kwarin gwiwa da ƙima a duniyar Web3.
+Da wannan haɗin gwiwar, yanzu an ƙara samun sauƙi wajen amfani da kuɗin crypto da kuma gano abubuwa masu ban sha'awa da za su iya yi don masu ƙirƙira da al'ummomi da 'yan kasuwa.
+Bincika GameFi, NFTs, Metaverse, da DeFi
+Abu mafi kyawu a wannan haɗin gwiwar shine yana buɗe ƙofafin abubuwa masu ban mamaki kamar GameFi, NFTs, Metaverse, da DeFi.
+Waɗannan na iya zama masu rikitarwa amma kada ku damu, Gamic yana sauƙaƙa muku siye, riƙewa da siyar da kadarorin dijital kamar katin kuɗin crypto da NFTs, da kuma cire kuɗin da kuka samu na crypto daga wasanni, tambayoyin da iska mai saukar ungulu na al'umma ba tare da damuwa ba.
+Canza Crypto din ku cikin Sauƙi
+Wani Babban abin lura shine cewa zaku iya musanya kuɗin crypto cikin sauƙi.
+Wannan yana nufin zaku iya canza su daga wannan nau'in zuwa wancan cikin sauri.
+Wannan yana buɗe kyawawan damammaki masu yawa a gare ku don haɓaka crypto ku kuma gwada kudaden dijital daban-daban.
+Mayar da abin da ake samu na Crypto zuwa kuɗin gaske
+Idan kuna son yin wasanni akan Gamic ko samun silallan crypto airdrops, za ku yi farin ciki da sanin cewa yanzu zaku iya juya kuɗin da kuke samu na crypto zuwa kuɗin gaske!
+Wannan yana nufin zaku iya amfani da shi domin siyan abubuwa, biyan kuɗi, ko tallafawa al'ummar ku.
+Kamar maida abinda ake yi don nishaɗi ne zuwa abu mai daraja!
+Watau;
+Wannan haɗewar babban ci gaba ne, musamman ga 'yan Afirka waɗanda ke son bincika cryptocurrencies.
+Da fasalin siye da sayar da crypto/cinikayya, zaku iya sakawa ku kuma cire kuɗi cikin sauƙi a cikin kuɗin gida.
+Wannan yana nufin yanzu zaku iya shiga wurare masu kayatarwa kamar su GameFi, NFTs, Metaverse, da DeFi ba tare da matsala ba.
+Bugu da ƙari, za ku iya canza crypto ɗinku cikin sauri, har ma ku iya canza kuɗin da kuke samu a wasa zuwa kuɗin gaske.!
+Wannan dama ce mai kyau ta ci gaba da ƙarfafawa kan harkokin kuɗi.
+Da Gamic da Scalex suna kan gaba, yi shirin shiga kyakkyawar makomar Web3 a Afirka!
+Fara a nan: https://gamic.app/s/000m000Y
+Ranar Cin Kasuwar Crypto: Fa'idoji da Dabarun Samun Riba Cikin Ƙanƙanin lokaci.
+Idan ana maganar kuɗin crypto ne, samun riba, da kuma dabarun kasuwanci, to saka ni a tafiyar cikin sauri!
+Idan kaima irina ne, zan saka ne a cikin kasuwar ranar crypto.
+Wannan yana ɗaya daga cikin sanannun dabarun kasuwanci, kuma in anbi hanyar da ta dace, zaka iya yin kasuwanci don samun riba cikin sauri.
+Ko kai farin shiga ne ko ɗan kasuwa mai cin kasuwar kaka, zaka samu ɗan abin kamawa a waɗannan bayanan.
+Ka shirya samun ƙaruwa a ranar cin kasuwar crypto?
+Bari mu faro daga tushe.
+Mecece ranar cin kasuwar crypto?
+Idan Muka Koma Daga Tushe
+Ranar cin kasuwa bai taƙaita ga iya crypto ba.
+Ma'ana ce da take sananniya tun a tsarin kasuwancin gargajiya na da, kamar hannayen jari, canjin kuɗaɗe, da kuma sauran kayayyaki.
+Cin kasuwar yini guda na nufin shiga da kuma fita daga kasuwa a rana ɗaya.
+Cin kasuwar yini guda tazo ne daga kasuwar hannayen jari, saboda ana iya gudanar da kasuwanci ne a lokacin cin kasuwa, saboda haka duk hada-hadar da aka ƙulla za'a kammalata ne a wannan ranar.
+Zaka iya jin "kasuwancin yini guda" a cikin waɗannan jawabai , amma karka damu, duk ɗaya ne da kasuwar yini guda.
+Abinda ake magana akai shine, cin kasuwar crypto ta rana ɗaya na nufin saye da sayar da hajar crypto a yini guda, tare da samun riba, saboda armashin kasuwa.
+Ɗaya ne daga cikin hanyoyin musayar crypto masu tsoka.
+Ranar cin kasuwar crypto ɗayace daga cikin ranakun da ake amfani da armashin kasuwar crypto don samun ƙaruwa.
+Ana ribatar saurin tashin farashin kasuwar don samun riba ga ƴan kasuwa, amma kuma ba ƴar canke bace; caca ce kawai.
+A kasuwar crypto ta yini ɗaya, yanada muhimmanci ka shiga da dabarun cin nasara, wanda zamu ɗan kalla.
+Matakan da Za a Bi Don Cin Kasuwar Crypto: Shiryarwa Ga Farin Shiga
+Kasan Kasuwar
+Bai kamata ka shiga kasuwa ba tare da samun cikakken wayar da kai ba.
+Saboda haka, ka faro daga tushe ta hanyar ilmantar da kanka game da crypto, dabarun fasahar tara su, da kuma abubuwan da suke shafar farashi da canjawar kasuwa.
+Misali, samfurin utility crypto yafi haɗarin gamuwa da asara akan samfurin crypton dake tafiya a rarrabe da manhaja, wato (DApp).
+Ka bi ƙwararrun harkar, shiga cikin ayarin ƴan crypto, ka kuma riƙa zurfafa karatu akan fannin kafin ka aikata.
+Zaɓi sahar yin Musaya
+Da buƙatar ka zaɓi shafin yin musaya, inda zaka riƙa shiga da fita daga kasuwar cikin sauri.
+Muhimman abubuwan la'akari yayin zaɓin shafin yin musaya sun haɗa da cajin kuɗin hada-hada, motsin kadara, (shine...
+cikin wane irin ƙanƙanin lokaci zaka sauya kadarar ka izuwa kuɗi), da kuma lokacin gudanar da hada-hada.
+Idan kai ɗan kasuwa ne a Najeriya ko Ghana, zaka iya amfani da sanannun shafukan musaya kamar irinsu Binance da Coinbase don ka siya.
+Duk da haka, don ficewa daga cikin kasuwa cikin sauri da kuma riƙe darajar kuɗin crypto, shafin Breet shine mafi kyawun shafin da zaka saida crypton ka.
+Ka yanke shawarar akan dabarun kasuwanci.
+Ranar cin kasuwar crypto ba kawai akan nishaɗi da murna ba.
+Harka ce mai cike da lissafi da dabarun samun riba.
+Ƴan kasuwan dake yin nasara sunada gajerun dabarun kasuwanci, wanda suka haɗa da sanin lokutan shiga da ficewa daga kasuwa, dabarun tsaida asara, da kuma tsarin kaucewa haɗari.
+Suna kuma amfani da wasu dabarun sanin makama dake taimaka musu wajen yanke hukunci da faɗaɗa ayyukansu.
+Ga wasu kyawawan dabaru da zaka iya amfani dasu don cin kasuwar yini mai cike da riba
+Dabaru Mafiya Kyau Na Cin Kasuwar Crypto Ta Rana
+Ta farko itace High-Frequency Trading (HFT)
+High-Frequency Trading wata hanya ce ta amfani da manhajar bots don cin kasuwar crypto cikin sauri kamar walƙiya.
+Manhajar ta ƙunshi hanyoyin ƙiyasta kasuwa, gane alƙiblar kasuwa, da kuma yin cinikayyar ka yanda ya kamata don samun riba cikin ƙanƙanin lokaci.
+Kasuwar tana gudana da sauri matuƙa, amma ƙaƙƙafar manhajar bots zata iya bin saurin nata, ta kuma gane alƙiblar da tasa gaba da kuma wadda ta bari cikin ƴan sakanni.
+Saboda cigaban ƙere-ƙeren fasaha, manhajar HFT ta zamo sananniyar dabarar kasuwanci.
+Manhajar HFT tana gudanar da kasuwanci da karan kanta, inda take kammala ciniki da zarar taga hajar da ta cika sharuɗɗan da mai saye ya shimfiɗa.
+Manhajar HFT kan siyi haja ya siyar da ita cikin sauri don samun riba.
+Arbitrage hanya ce ta siyen crypto a wani shafi a kuma saida shi a wani, duk da ɗan bamabancin farashi don samun ƴar riba.
+Kasuwancin crypto ta manhajar High-Frequency Trading yafi, saboda yana sa kuɗi yaci gaba da mazayawa yana kuma haɗa masu siye da masu siyarwa cikin sauri, don tabbatar da dattaku.
+Na'urar da ake dasa HFT tana baiwa ƴan kasuwa damar ƙara ninka rabarsu, saboda ana gudanar da hada-hadar ne akan ƙa'idojin da ƴan kasuwar suka sanya.
+Gajeriyar Cinikayya
+Ana gajeriyar cinikayya ne lokacin da ƴan kasuwa suka ƙyale kadarori masu yawa a kasuwa, amma suka ribaci motsin ƙaramin farashi a kasuwar maimakon babban farashi.
+Manufar itace a tara ƙaramar riba mai yawa a kasuwancin rana ɗaya, don samun gwaggaɓar riba a ƙarshen kasuwar.
+A gajeriyar cinikayya, coin ɗin da yake armashi anfi sayen sa da zuba masa kuɗi da yawa, kamar Bitcoin, saboda caccanjawar motsin farashi.
+Don faɗaɗa riba, masu yin gajeriyar cinikayya kan ƙirƙiro buƙatunsu, da kuma samar da kayan ta hanyar siyansu a farashin da aka musu.
+A gajeriyar cinikayya amfi kallon dabarun ƙididdiga akan dabarun shimfiɗa, saboda haka ƴan kasuwa da suka dogara da wannan hanyar sun san sirrin yanda sahar crypto ke aiki, sun kuma san yanda zata juya tayi armashi a kowane irin hali.
+Gajeriyar cinikayya ana iya yinta kai tsaye ta amfani da manhajar kasuwanci ta bots, don samo ciniki mai armashi da kuma riba.
+Daɗin daɗawa, saboda muhimmancin motsin kuɗi, cikin gaggawa ake tsaida abinda zai janyo asara.
+A saboda haka bata kamaci sabon shiga ba.
+Cinikin Da'ira
+Kamar yanda muka sani, farashin crypto yana ƙunshe ne a cikin wata da'ira.
+Farashin kan iya hawa, yakan kuma iya saukowa, akan nuna hakan a layin mara baya, da layin jajircewa .
+A duk sanda ya haura ko ya sauka daga wannan da'irar, hakan manuni ne na sauyin da ba a saba gani ba.
+Masu cinikin da'ira na amfani da wannan hanyar wajen yanke lokacin da yafi dacewa su saya ko su sayar da kadarar su.
+Idan suna matakin mara baya, farashin crypto bai cika yin armashin da zai yo ƙasa ba.
+A kuma sanda yake kan matakin jajircewa, farashin crypto kan iya haɗuwa da tarnaƙin da zai iya hana shi hauhawa.
+Saboda haka, idan farashin na kusa da matakin mara baya, wannan shine mafi kyawun lokacin da ya dace mutum ya shiga kasuwa ya kuma fice, lokacin da farashin ke dab da matakin jajircewa.
+Kasadar Cikin Cin Kasuwar Crypto Ta Rana Guda
+Kasuwar crypto na iya yin armashi.
+Duk da haka, takan zo da abubuwan yin taka tsantsan, kuma sakamakon kan iya zama mummuna idan mutum bai lura da waɗannan kasadar dake cikin kasuwar crypto ba.
+Rashin Daidaito
+Kasuwar crypto tayi ƙaurin suna wajen rashin tabbas da ƙin ɗaukar hasashen yanayin farashi.
+Coin ɗaya na iya yin daraja yau, gobe kuma ya karye.
+Saboda haka idan kai sabon shiga ne a kasuwar crypto, zaka sha wahala wajen fama da yanayin ta.
+Amma ƙwararrun ƴan kasuwa sun san ya take, sukan ma yi amfani mabambantan dabaru su juya ta yanda zasu mora.
+Ƙiyasi Mai Cike Da Ƙura
+Ba ayi gamsashshen bayanin tsawon lokacin da kasuwar crypto zata ɗauka tana ci ba.
+Ba kamar kasuwar hannun jari ba, wacce take tana da tsarin kasuwanci da kuma bayanannen tsarin cigaban kuɗi da aka gina shi akan ƙoƙarinsu na kasuwa, kasuwar crypto batada wannan.
+Hatta coins ɗin da suke da muhimmanci a duniyar fasaha sukan zo da ƙalubalen kasa nazartar dogon lokacin da zasu iya ɗauka a kasuwar — abinda yasa yake da matuƙar wahala a iya hasashen farashin su.
+A kasuwar crypto, kawai abinda ka gani, shi ka samu.
+Ba Wasu Shimfiɗaɗɗun Ƙa'idoji
+Wasu zasu yabi kasuwar crypto saboda wannan, yayinda wasu kuma za suyi ɗari-ɗari da ita saboda haka.
+A zahiri, wannan sha'ani ne na fahimta.
+Rashin dokokin bai ɗaya ya baiwa mutane ƴancin ƙashin kai akan kuɗaɗen su, ya kuma basu damar su gudanar da kasuwanci duk ta yanda suka ga dama.
+A lokaci guda kuma, ta kan iya zama wani sarari ga mugayen mutane da baza su fuskanci hukunci ba, saboda babu wata doka data bada damar a hukunta su.
+Sai dai munga cigaba mabambanta a mabambantan ƙasashe dake ƙoƙarin ganin sun shimfaɗawa crypto dokoki.
+Ƙasar Amurka misali, a yanzu tana kan wannan ƙoƙari da ƙudirori masu dama, yayinda ƙasashe irinsu El Salvador su gaba ɗaya ma sun karɓi Bitcoin a matsayin halastaccen kuɗi.
+Saboda haka mabambantan labarai ne ga mabambantan mutane.
+Duk da muna cigaba da ganin ƙa'idoji a sahar crypto, Kai ne dai kake da cikakken ikon tsaron kanka da kuma gudanar da dukiyar ka.
+Kammalawa.
+Kasuwar Crypto ta rana guda nada matuƙar riba mai maiƙo da kuma kusanci, tare da kyakkyawar ilmantarwa akan waɗannan dabarun na: High-Frequency Trading, Scalping ko Range Trading, zaka iya samun nasarar cin riba a kasuwar.
+Kasa a ranka acewq kasuwar crypto na tafiya ne cikin sauri matuƙa, saboda haka dole kaima kayi sauri kamar yadda take yi.
+Kuma idan lokacin da zaka amshi ribarka yayi, zaka iya damƙa yardar ka ga shafin Breet don musaya mai kyau ba tare da asarar ƙima ko ɗaya ba a cikin kuɗin.
+Canja crypto izuwa tsabar kuɗi baida wahala a shafin Breet, da wuya ka motsa yatsanka da saitin Automatic Settlement, zasu sanya maka tsabar kuɗinka a asusun ka na banki a Najeriya ko a Ghana.!
+Fatan nasara, yayinda kuke kutsawa cikin waɗannan sirrikan cinikayyar crypton don samun riba a rana ɗaya.
+Ayi kasuwancin lafiya.!
+Ƙungyar Grooming Endowment Trust tare Ƙungiyar Kickoff Africa sun Fara Kashi Na Biyu na shirin GETAccelerated, Wani Shiri ne da ke Bawa Kamfanoni Masu Tasowa Damar Samun Tallafin N10,000,000 Kyauta.
+Ƙungiyar Grooming Endowment Trust (GET) - tare da haɗin gwiwar Ƙungiyar Kickoff Africa, sanannun masu tallafawa ƙananun kasuwanci masu tasowa na 'yan kasuwa a Afirka - na ƙira ga masu son samun kashi na biyu na shirin GETAccelerated; yunƙurin kawo sauyi da aka tsara don ƙarfafa masu ƙirƙira a matakin farko a Najeriya.
+Shirin GETaccelerated yana bawa zaɓaɓɓun sabbin kamfanoni damar samun N10,000,000 a kyauta, tare da samun ƙwararrun masu ba da shawara da damar kasuwa masu ƙima.
+Ƙungiyar Grooming Endowment Trust (GET) ƙungiya ce mai zaman kanta da aka kafa don inganta ci gaban zamantakewa mai dorewa ta hanyar ilimi, lafiya, kasuwanci, da ci gaban al'umma.
+Tare da mayar da hankali kan bayar da tallafi da saka hannun jari a kyauta ga kamfanonin al'umma, ƙungiyar GET na da nufin haifar da tasiri mai kyau da kuma ƙarfafa mutane da al'ummomi a Najeriya.
+Ƙungiyar GET tare da haɗin gwiwar KickOff Africa sun aiwatar da bugu na farko na shirin GETAccelerated a shekarar 2022 tare da tallafawa masu ƙirƙira a matakin farko guda 10 ta hanyar sanya hannun jari na N10,000,000 kyauta, sannan sun fara kashi na biyu na shirin na 2023.
+Ƙungiyar GETAccelerated ta shirya tallafawa sabbin kamfanoni da ke aiki a muhimman ɓangarori kamar hidimar kuɗaɗe, kiwon lafiya, ilimi, aikin noma, abubuwan more rayuwa na dijital (tattalin arziki), tasirin zamantakewa, kafofin watsa labarai, sufuri/safara kayayyaki, da kasuwanci (kasuwanci ta yanar gizo ko kasuwancin al'umma).
+Bayan zazzafan aikin tantancewa da tsarin zaɓe, sabbin kamfanoni goma ne za su sami jimillar kuɗi ₦55 miliyan kyauta, da samun dama ga ƙwararrun masu ba da shawara, da damammaki na kasuwa don inganta kasuwancinsu.
+Domin cancanta, dole ne ya zama an yiwa sabbin kamfanoni rajista kuma a haɗa su da Hukumar Kula da Kamfanoni (CAC), suna da mafi ƙarancin samfuri (MVP) tare da wasu masu amfani ko masu biyan kuɗi, kuma sun kasance suna aiki na tsawon watanni 6 zuwa shekaru 2.
+Bugu da ƙari, ya kamata tsarin kasuwancinsu na musamman ya haifar kai tsaye ko a kaikaice da wani nau'i na tasiri kan ( zamantakewa, tattalin arziki, tattalin arzikin al'umma, siyasa) a cikin al'ummomi.
+Sabbin kamfanoni da wannan matakin, matakin farko, ko mataki na biyu duk ana ƙarfafa musu gwiwa su nema.
+“Mun yi farin cikin gudanar da kashi na biyu na shirin GETAccelerated da kuma samar wa waɗanda suka yi ƙirƙira a matakin farko kayyakin da suke buƙata don bunƙasa kasuwancinsu.
+Gami da bayar da kuɗi kyauta, jagoranci, da damar kasuwanci, mun yi imanin cewa wannan shirin zai kasance mai kawo sauyi na haɓakawa da ƙirƙire-ƙirƙire ga sabbin kamfanoni masu tasowa na 'yan Najeriya." - Michael Adoghe; Manajan Ayyuka, ƙungiyar Grooming Endowment Trust.
+Mun fara sanin yadda tallafawa 'yan kasuwa ke haifar da ƙarin dama da tasiri a cikin al'ummomin da ke fuskantar wariyar launi, ta hanyar kashi na farko na shirin GETAccelerated.
+Muna sa ran tallafawa ƙirƙire-ƙirƙire da dama a Najeriya, ta hanyar ba wa sabbin kamfanoni damar samun jari, jagoranci da kayayyaki da ake buƙata don gudanar da aiki mai wahala na warware matsalolin da ke ci gaba da ɗorewa a Najeriya” - Fola Olatunji-David; Ɗaya daga cikin masu Ƙirƙira, KickOff Africa
+Haɗin gwiwar ƙungiyar Kickoff Afirka da ƙungiyar GET tun lokacin da aka fara shirin GETAccelerated ya kasance mai amfani yayin da ƙungiyar Kickoff Afirka ta shahara saboda tallafinta ga ƙirƙire-ƙirƙire a duk faɗin Afirka da kuma saka hannun jarinta ga sabbin kamfanoni a matakin farkon, kuma yana da kyakkyawan matsayi don ba da jagora mai muhimmanci da ƙwarewa ga 'yan kasuwa masu shiga.
+Shirin GETAccelerated ya kuma ƙara gayyatar masu ƙirƙira a mataki na biyu don zaman tattaunawa kai tsaye yanar gizon a ranar Juma'a, 21 ga watan Yuli, 4pm-5:30pm, wanda zai samu halartar ƙwararrun kan masana'antu Toyin Bamidele (Manajan shirye-shirye, Ƙungiyar Kickoff Africa) da Adaeze Sokan (Jagoran Shirin - Tattalin Arziki na Dijital; Gidauniyar Mastercard).
+An yi alƙawarin tattaunawar ta yanar gizon zata zama taron faɗakarwa ga masu ƙirƙira da masu neman shiga don fahimtar yadda za su sanya ƙudirinsu suyi fice, su tsara kamfanoninsu ta yadda zasu samu kuɗaɗe na kyauta, da kuma samun fahimtar dabaru da hikimomi don shawo kan ƙalubalen da masu sabbin kamfanoni a matakin farko ke fuskanta a Najeriya.
+Domin yin rijista a wannan taron yanar gizon, visit http://bit.ly/GET2023Webinar
+Ƙudirin nema don shiga shirin GETAccelerated zai kasance a buɗe har zuwa Asabar, 29 ga watan Yuli, 2023, sannan masu sabbin kamfanoni da ke sha'awa suna iya tura buƙatarsut a bit.ly/GETAccelerated2+C138 ko www.groomingendowment.org.
+Domin ƙarin bayani game da shirin GETaccelerated, ku bibiyi www.groomingendowment.org.
+Katin RightCard ya samu Lasisin IMTO daga Babban Bankin Ƙasa na Najeriya.
+Kamfanin RightCard Payment Services Limited, wani reshe ne na kamfanin Lemonade Technology Inc., na alfaharin sanar da cewa ya samu lasisin gudanarwa na Hukumar Kula da Masu Aikin Tura Kuɗaɗe ta Duniya daga Babban Banki Ƙasa na Najeriya.
+Wannan gagarumin ci gaban na nuni da jajircewar kamfanin Lemonade Technology Inc wajen gudanar da amintantu kuma wadatattun ayyuka ta hanyar bin ƙa'idojin da Babban Bankin Ƙasa na Najeriya ya gindaya.
+A matsayin ma'aikaci da ke da lasisin IMTO a Najeriya, yanzu kamfanin RightCard Payment Services zai iya haɗaka kai tsaye da bankuna, ba tare da 'yan tsakiya ba wanda hakan zai samar da mafi kyawun tsari ga abokan ciniki da ke tura kuɗaɗe zuwa Najeriya.
+Kamfanin LemFi ya riga ya samu a matsayin Cibiyar Kuɗi ta Na'ura tare da Ikon Samar da Kuɗaɗe a Burtaniya.
+Yana mai ƙari kan nasararsa da gwanintarsa a duniya , kamfanin RightCard yana kawo sabbin canje-canje na dijital zuwa abokan ciniki a kasuwanni daban-daban ta hanyar manhajar LemFi.
+LemFi manhaja ce mai sauƙin amfani, gami da ragi mai rahusa da ma'amaloli masu sauri, ya sanya shi abin da aka fi so ga miliyoyin abokan ciniki a cikin Ingila, Kanada da Amurka.
+Yayin da yake bayani kan neman lasisi, Manajan manhajar LemFi na Ƙasa, Dalapo Omaroso, ya ce, "Muna farin cikin cewa RightCard ya samu karɓar lasisinsa na CBN, hakan kuma shaida ne game da jajircewarmu da dogewa wajen hidimtawa kasuwannin Najeriya.
+Wannan babban ci gaba yana ƙarfafa matsayinmu na masu jagorantar Aikin Musayar Kuɗi na Ƙasa da Ƙasa kuma yana nuna burinmu na ƙarfafa mutane ta hanyar samar da ayyuka masu tsari, amintattu, da araha na musayar kuɗi."
+Idan kuna buƙatar ƙarin bayani da sabbin bayanai, kuyi ƙoƙari ku ziyarci adireshinmu na yanar gizon a www.lemfi.com ko kuyi mana aike ta "compliance@lemfi.com"
+Kasance tare da mu a wannan tafiya mai ban sha'awa kuma ku kasance tare da sabbin labarai da ci gaba ta hanyar bin mu akan kafofin watsa labaru da tuntuɓar ƙungiyar tallafin mu.
+Mun gode da ci gaba da goyon bayanku.
+Manhajar Tech1M Yayi Kaddamarwa a Kamfanin Founders Connect, Yana mai Ƙarfafa Tsarin Ɗaunkan Ma'aikata don Kasuwanci a Duniya
+Tech1M, manhajar AI ne na kasuwanci don tantance masu hazaƙa a duniya kuma ɗaya daga cikin masu tallafawa kanun labarai a babban shirin Founders Connect na kai tsaye, ya ƙaddamar da samfurin tsarin ɗaukan ma'aikata a duniya mai ciki da sauyi.
+Tare da fitowar sabon samfurinsa, manhajar Tech1M an saitata don sake fasalta ma'auni na ɗaukar ma'aikata, yana baiwa kasuwanci mafita mara misaltuwa don tantancewa, ɗaukar ma'aikata, da biyan masu hazaƙa a duniya.
+A kwanakinnan manhajar Tech1M tare da goyon bayan manhajar Techstars ta J.P. Morgan, ya ba da damar taron yayin da yake ba da ingantaccen dandali don gabatar da sabbin samfuransa ga kasuwannin Afirka.
+Samfurin AI na manhajar Tech1M yana magance matsalolin game da tantancewa da kuma ɗaukan ma'aikata da fiye SMEs miliyan 400 ke fuskanta a duniya.
+Ta hanyar tantancewa da ɗaukan masu hazaƙa daga ko'ina a duniya, manhajar Tech1M yana bawa 'yan kasuwa damar ɗaukan ma'aikata da sauri ninki shida, da sauƙaƙaƙƙen farashi mai inganci, kuma a yalwacei, duk a cikin dandali ɗaya.
+A cikin abubuwan da ta gabatar a lokacin taron, wacce ta ƙirƙiri manhajar Tech1M, Tommie Edwards, ta faɗakar da masu ƙirƙira da masu hazaƙa kan ikon manhajar Tech1M na tantancewa da kulawa yadda ya kamata wajen biyan masu hazaƙa a duniya.
+A cewar Tommie Edwards, "manhajar Tech1M ba kawai yana aiki ne game da haɗa kasuwanci da masu hazaƙa ba ne; yana nufin ba wa waɗannan kasuwancin damar ƙimanta basirar da gaske, yana mai tabbatar da dacewa da takamaiman buƙatunsu."
+Tushen manufar Tech1M ita ce jajircewa don samar da cikakkiyar ƙimanta hazaƙa wanda ya zarce son zuciya kuma yanayi cikin sauri da inganci da kuma gaskiya.
+Tommie Edwards ta ce "A matsayinmu na kan gaba wajen gina ƙungiyoyin da ake rarrabawa cikin sauri, mai rahusa da inganci, muna da niyyar daidaita wurin aiki, tare da tabbatar da cewa kowane gwani, ba tare da la'akari da wurin da yake ba na da cikakkiyar don isa ga damammakin da suka dace da shi," in ji Tommie Edwards.
+Duk da kasancewarta sabuwa a kasuwa, manhajar Tech1M ta riga ta samu babban ci gaba na 30% na mako-mako tun lokacin da ta shiga kamfanin Techstars, tare da masu amfani sama da 12,000 da ke kan dandali da kuma fiye da masu haɗaka 28 tare da kasuwanci.
+Ƙari kan ƙaddamar da samfurinsa mai ban sha'awa, masu hazaƙa sana'a an ba su dama don samun kyaututtuka na tsabar kuɗi da na'urori masu muhimmanci, wanda yake ƙara bayyana jin daɗi a taron.
+Gidan labarai na Founders Connect Live sun gabatar da batutuwa daban-daban da kuma darussa masu muhimmanci daga fitattun masu ƙirƙira a Najeriya, suna haɓaka yanayi mai dacewa don koyo, haɗin gwiwa, da ƙarfafawa.
+Abin da ya kamata ku sani game da Manhajar Tech1M
+Tech1M babbar manhaja ce ta kasuwanci wacce ke ba wa manajoji masu ɗaukan ma'aikata damar tantancewa da ɗaukan masu aiki da biyan ƙwararru a duniya.
+Ta hanyar daidaito na AI, da ɗauka na neman ma'aikata, da sauran sabbin fasahohi, tana sauƙaƙa tantance ƙimar basira kuma tana ba da damar biyan kuɗin daga kowace a cikin ƙasashe 120.
+Manhajar Tech1M ta kawo sauyi ga ɗaukar ma'aikata ta hanyar ƙirƙirar yanayi mai sauƙi wanda ke sauƙaƙe ɗaukar ma'aikata, da sake fasalin, da sake horarwa, da riƙe ƙungiyoyin da aka rarraba.
+Domin samun ƙarin bayanai game da manhajar Tech1M, zaku iya ziyartar www.tech1m.com
+Ayyukan da Babu Kamar sa a Farashinta - Jerin Wayoyin Infinix NOTE 30 na Samun Yabo Tsakanin Kafafen Watsa Labarun Kan Fasaha a Duniya
+Abubuwan ban mamaki kayan kamfanin Infinix madaidaita sun sami kulawa sosai fiye da yadda aka saba a kasuwa.
+A kwanakinnan ya fitar da jerin abubuwan da ake tsammani a jerin wayoyin NOTE 30, yana ba matasa masu amfani wani zaɓi na musamman na aiki.
+Shahararrun kafofin watsa labaru na fasaha sun gudanar da cikakkiyar tantancewa game da jerin, suna mai yaba cajin sauri na 68W mai ban sha'awa, zane mai ban sha'awa, manyan fasalulluka, da kuma farashi mai araha.
+Bari yanzu mu bincika fahimtar waɗannan ƙwararrun kafofin watsa labarai kuma mu shiga cikin duniyar da ke jan hankalin sabbin jerin wayoyin NOTE 30.
+Yabon Madalla
+Shahararren mai tantance fasaha a Burtaniya a SuperSaf yayi nazari sosai akan samfuran uku na jerin wayoyin NOTE 30: NOTE 30 da NOTE 30 5G da kuma NOTE 30 Pro.
+Lokacin da yake tantance wayar NOTE 30 Pro, wanda ke alfahari da saurin cajin na 68W da kuma damar cajin ba waya ta 15W, dole SuperSaf ya bayyana sha'awar sa.
+Ya ce, "Ita wayar NOTE 30 Pro wata abu cee mai wuyar gaske a kasuwannin wayoyin hannu na yau, yana ba da caji cikin sauri a farashi madaidaici."
+Yana da kyau a lura cewa wayar NOTE 30 Pro ita ce wayar farko mai farashinta da ke da fasalin cajin marar waya cikin sauri.
+Ita kanta wacce tafi sauƙin kuɗi wayar NOTE 30 ta ɗauki hankalin SuperSaf don fa'idodinta na musamman.
+Ya ƙara da cewa, "Wayar NOTE 30 ta fito fili a ɓangaren waya mai sauƙin kuɗi."
+Wannan jerin yana ba da fasali na ban mamaki kamar 45W na caji mai sauri, allon na'ura 120Hz mai ƙarfi, da ƙarfin ajiya mai yalwa har zuwa 16GB + 256GB, duk akan farashi mai ban sha'awa.
+Bugu da ƙari, wayar NOTE 30 5G tana faɗaɗa jerin tare da damar 5G da babbar kyamarar 108MP.
+SuperSaf ya bayyana ra'ayinsa, yana mai cewa, "Wayar NOTE 30 5G tana ba da mafi kyawun aikin kowace wayar 5G a cikin kewayon farashinta."
+Kafafen Yaɗa Labarai Na Musamman Suka Bayyana
+Jerin wayar NOTE 30 yana ba da zaɓi tsakanin gilashin da aka yi sanyi ko kuma ƙarshen fata na faux, ga ƙarin taɓawa mai kyau.
+Kafofin watsa labarai masu daraja kamar GSMArena sun yaba da burin kamfanin Infinix, yana mai cewa, "A bayyane yake kamfanin Infinix yana da buri kuma yana son wucewa sama da ajinsa, wanda muke godiya."
+Idan aka zo batun ƙarfin batir, wayar NOTE 30 ta wuce abin da ake tsammani, tana samun sa'o'i 119 a lokacin gwaje-gwajen juriya.
+GSMArena ta lura, "Hakan ma ya fi abin da muke tsammani daga wannan ƙwaƙwalwar kwamfuta da ƙarfin batiri.
+Bayanin wayar Note 30 ya yi fice a cikin juriyar ta musamman. ”
+Ba wai kawai wayar NOTE 30 tana burgewa da rayuwar batir ɗinta ba ne, amma ƙarfin cajinta mai sauri na 45W shima yana sanya ra'ayi mai ɗorewa.
+Wayar tana da sabbin hanyoyin caji mai sauri ta wane salo ta baya, da tdawowa, da ayyuka masu wayo.
+Wannan yana haɓaka ƙwarewar caji a yanayi daban-daban.
+Cajin kewayawa, alal misali, yana ba da caji kai tsaye ga mahaifar wayar, yana rage nauyin batiri da haɓaka aikin wasanni—wani muhimmin fasali ga ƙwararrun yan wasan hannu.
+GSMArena ta yi tsokaci, "Wannan babban fasali ne, musamman don wasanni sannan yana iya haɓaka tsawon rayuwar batiri."
+Shahararren marubucin yanar gizo na Amurka SomeGadgetGuy ya gudanar da gwajin ƙwaƙwaf kan ingancin sauti na wayar NOTE 30 Pro tare da kunna JBL a cikin ƙaramin ɗakin kwana.
+Sakamakon ya kasance mai ban sha'awa, tare da bayyanannen sauti da ƙarancin hayaniya.
+SomeGadgetGuy ya kammala da cewa, "Ina nufin, wannan kyakkyawan sauti ne."
+Mai rubutun ra'ayi na yanar gizon ya kuma bayyana gamsuwa da allon wayar, wanda ke ba da gyare-gyaren daidaitawa tsakanin 60Hz, 90Hz, da 120Hz, yana mai imani cewa wayar na sadar da ƙwarewa mai kyau ga masu amfani.
+Ta samu karɓuwa a wurin masu tasiri
+Shafukan yanar gizo masu tasiri na fasaha na duniya, 9to5Google da GizChina, sun yaba da ingancin farashi na jerin wayoyin NOTE 30.
+9to5Google ya bayyana cewa wayar NOTE 30 5G ta zarce sauran zaɓuɓɓuka a cikin kewayon farashinta, tana ba da ingantaccen ƙwarewar mai amfani a Amurka.
+GizChina ya bawa wayar NOTE 30 Pro babban maki na 4.4, yana mai bayyana ta a matsayin "WAYAR DA TA LASHE VFM BA HAMAYYA."
+Dukan tantancewar sun yaba da keɓaɓɓen ƙirar, aiki mai ƙarfi, ingancin allo mai ban sha'awa, da cikakkiyar fasahar caji mai sauri na wayar NOTE 30 Pro.
+Gabaɗaya, kafofin watsa labaru na fasaha sun ba da babbar lambar yabo a kan jerin wayoyin Infinix NOTE 30, tare da amincewa da ƙwarewar aikinta da gogewa a farashi mai araha.
+An yaba wa jerin wayoyin don ƙimarsa na musamman.
+Wannan yana ƙarfafa imaninmu cewa sabon-sabon jerin wayoyin NOTE 30 zai mamaye kasuwar waya mai rahusa a ƙarshen rabin shekara.
+Kamfanin Infinix yana nufin kawo farin cikin fasaha ga mutane da yawa a duk duniya tare da wayar NOTE 30 da na'urorin Infinix na gaba a shirye don ƙara ƙarfafa matasa na yau da gobe.
+Makarantar i-Academy tana ba da Hazaƙar Fasaha kuma tana Bukin Nasarar Hackathon
+Makarantar i-Academy, babban shirin koyar da ilimin fasaha wanda Africa Prudential Plc ke tallafawa, yana ci gaba da samun gagarumar nasara wajen samar da damammaki na ci gaba da wayewa a masana'antar fasaha.
+Tare da jajircewarta na rage tasirin hazaƙar fasaha, makarantar i-Academy tana ba da cikakkiyar horo na watanni tara da aka tsara don bawa matasa masu sha'awar fannin fasaha da ƙwarewa da ilimin da suka dace don kasancewa a shirye don aiki, tare da yin fice a fanni fasaha da koyaushe ke ƙara faɗaɗa.
+Shirin horo na i-Academy ya ƙunshi ƙirƙirar manhaja ta gaba da ta baya, wanda aka tsara tare da muhimman horon fasaha mai sauƙi.
+Ta hanyar tsarin ilmantarwa a gauraye, ɗalibai suna samun ƙwarewa ta hannu da kuma wayewa da ayyukan rayuwa na zahiri, suna tabbatar da cewa sun shirya sosai don buƙatun masana'antu bayan kammala karatun.
+A wani ɓangare ƙoƙarinta na haɓaka sabbin abubuwa da haɗin gwiwa, kwanannan i-Academy ta karɓi gagarumin gasar hackathon cikin nasara, wanda ke bayyana jimlar ƙungiyoyi tara.
+Taron ya samar da dandali ga ƙungiyoyi don nuna aikace-aikacen ilimin da suka samu, da nuna gwanintarsu, da kuma baje kolin ƙwarewar warware matsalolinsu na musamman.
+A cikin rukunonin da suka halarci gasar, rukuni na 3 ne wanda ya ƙunshi ƙwararrun mutane huɗu ne suka bayyana a matsayin ƙungiyar da ta yi nasara, inda suka samu kyautar kuɗi na NGN 150,000.
+Ma'aunin shari'a don gasar sun ƙunshi nau'o'i daban-daban, ciki har da ƙirƙira da dabaru, da ƙwarewar fasaha, da iya warware matsaloli, da haɗin gwiwa da haɗin gwiwar aiki, ingancin lambar, ƙwarewar mai amfani da tsari, da tasiri da salon karɓar canji, da gabatarwa da iya sadarwa, da kuma la'akari da ɗabi'a.
+Ana buƙatar kowane rukuni ya gabatar da cikakken bayani game da aikinsu, yana nuna bayanin matsalar, da mafita da aka samar, da muhimman fasali da ayyuka, da fasaha da kuma kayan aikin da aka yi amfani da su.
+Kwamitin alƙalai masu daraja, wanda ya ƙunshi Antoinette Edodo; Shugaban canjin kasuwanci na Africa Prudential Plc, Osahon Elaiho; Shugaban Kamfanin Injiniya na Afirka Prudential Plc, Olusegun Adesina; shi Audit Analyst Africa Prudential Plc, Roy Anaedobe; Jagoran Manazarcin Kasuwancin Afirka Prudential Plc, da Phillip Nkwam Analytics & ML Leader The Bulb Africa, sun gamsu da yadda dukkan rukunin da suka halarci taron suka nuna sha'awarsu sosai.
+Sun ba da ra'ayi mai ƙima ga kowane rukuni, suna ba da haske da shawarwari don haɓaka Mafi ƙarancin Muhimman Kayayyakin (MVPs) da ƙara haɓaka ayyukansu.
+Kalli wannan fili don ƙarin bayani game da samfuransu, waɗanda za mu raba tare da zaɓin rukuni.
+Ivy Ikpeme-Mbakwem, Daraktan Tsare-tsare na i-Academy ya ce "Muna matuƙar alfahari da nasarorin Rukuni na 3 da kuma dukkan mahalarta taron gasar.".
+“Sadaukarwarsu da ƙirƙira, da ruhin haɗin kai suna misalta halayen da muke ƙoƙarin ɗora wa ɗalibanmu.
+Makarantar i-Academy ta ci gaba da jajircewa wajen rayawa da ƙarfafawa yara da zasu zama manyan gobe ta hanhyar samun ilimimummuka ta ɓangarori da dama na fasaha masu inganci, da samar da tasiri mai kyau a cikin tsarin fasahar Najeriya."
+Ta hanyar manya-manyan shirye-shiryenta na horarwa da himma kamar gasar nan, i-Academy na ci gaba da tsara kyakkyawar makoma ga masana'antar fasaha, tana mai ba da ƙwarewa da ake buƙata da tallafi ga masu sha'awar fasaha.
+Domin samun ƙarin bayani game da i-Academy da shirye-shiryenta, da fatan zaku ziyarci https://t.me/iacademy23
+Game da i-Academy:
+i-Academy, wanda Africa Prudential Plc ke tallafawa, shiri ne na ilimi da zamantakewa da tattalin arziki da aka sadaukar don magance ƙarancin ƙwararru a fannin fasaha a Najeriya da sauran su.
+Ta hanyar manya-manyan shirinta na horarwa na watanni tara, i-Academy tana bawa matasa masu sha'awar fasaha tare da muhimman ƙwarewa da ilimin da ake buƙata don bunƙasa a cikin masana'antar fasaha.
+Shirin na nufin samar da damammaki don haɓakawa da ci gaba yayin da ake haɓaka al'adun ƙirƙira da haɗin gwiwa.
+InDrive ta sanar da tsawaita SamfurinFaɗi-abin da-zaka biya zuwa ƙarin biranen Najeriya 15 tare da ƙaddamar da sabbin ayyukan jigilar kayayyaki.
+Ƙarfafa Ayyuka ba tare bawa Hukuma Sisi ba don Direbobi a cikin Sabbin Birane 15
+A ranar Juma’a, 14 ga watan Yuli, inDrive, dandalin zirga-zirgar jama'a da sabis na birane a duniya, ya bayyana shirye-shiryen tsawaita sabis ɗin yawo tsakanin abokan tafiya zuwa sabbin biranen Najeriya 15 da kuma ƙaddamar da samfurin jigilar kaya mai suna, inDrive.Freight.
+An sanar da hakan ne a makon Sabbin kamfanoni na Legas 2023, wanda ke bikin kasuwanci da ƙirƙire-ƙirƙire a Afirka.
+Timothy Oladimeji, Wakilin Ci Gaban Kasuwanci, inDrive Nigeria, ya bayyana hada-hada a matsayin ainihin buƙatun da kowane ɗan adam dole ne ya kasance kuma ya jaddada haɓakar birni 15 ta hanyar inDrive ya sa wannan ya zama mai sauƙi ga kowa da kowa a cikin al'ummomin gida ta hanyar daidaitattun sauƙin samfurin abin hawa.
+Da yake magana game da ƙaddamar da samfurin tallafi na kayan aiki ga ƙananan, da matsakaita, da kuma manyan masana'antu, Oladimeji ya ce, "Daga bayanan da aka bincika, mun gane cewa mutane suna son sabis na jigilar kaya wanda zai iya taimaka musu wajen jigilar mai nauyi fiye da 20kg.
+Don haka, mun gabatar da ingantaccen tsarin sabis ɗinmu - inDrive.Freight - sabis na isar da buƙatu na yau da kullun wanda ke bawa abokan cinikinmu da sauran masu kasuwanci damar jigilar kayayyaki masu nauyi 20kg zuwa 20tn, ba tare da matsala ba.”
+Wakilin Ci gaban Kasuwancin ya ci gaba da bayyana cewa samfurin inDrive.Freight yana nuna manhajar abubuwa masu sauƙi, wanda zai bawa abokan ciniki damar saita farashin da aka fi so, zaɓar motoci, da zaɓar direbobi.
+Har ila yau, yana nuna wani nau'i na musamman wanda ke bawa abokan ciniki damar sanin kayan da suke son aikawa.
+Ga masu kasuwanci, wannan yana da tasiri mai canjawa kamar yadda masu kasuwancin ba za su ƙara saka jari ba don kafa sabis na jigilar kayayyaki ko haɗin gwiwar kasuwancin dabaru kai kaya, tare da hanyoyin rage kuɗi da aka bayar ta hanyar amfani da inDrive.Freight.
+A ci gaba da ƙaddamar da shirin a fadin Najeriya, a ranar Litinin, 18 ga watan Yuli, an fara faɗaɗa aikin inDrive zuwa sabbin garuruwa 15 a Najeriya a hukumance.
